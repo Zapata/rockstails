@@ -1,7 +1,7 @@
 ActionController::Routing::Routes.draw do |map|
   map.resources :ingredients
 
-  map.resources :cocktails
+  map.resources :cocktails, :member => {:selectingredient => :get, :addingredient => :put}
 
   # The priority is based upon order of creation: first created -> highest priority.
 

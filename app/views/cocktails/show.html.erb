@@ -3,10 +3,5 @@
   <%=h @cocktail.name %>
 </p>
 
-<table>
-  <%= render @ingredients %>
-</table>
-
-
 <%= link_to 'Edit', edit_cocktail_path(@cocktail) %> |
 <%= link_to 'Back', cocktails_path %>
