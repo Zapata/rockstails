@@ -1,0 +1,9 @@
+# Read about fixtures at http://ar.rubyonrails.org/classes/Fixtures.html
+
+one:
+  cocktail_id: 1
+  ingredient_id: 1
+
+two:
+  cocktail_id: 1
+  ingredient_id: 1
