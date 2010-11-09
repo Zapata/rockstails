@@ -1,0 +1,23 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Float cucumber slice
+glass: Martini
+infos: 
+  Comment: A veritable English shrubbery with flowers, fruit and vegetables flourishing in harmony.
+  Origin: Adapted from a drink that Daniel Warner at Zander and Tobias Blazquez Garcia at Steam collaborated on in London, England, in 2001.
+  source: www.diffordsguide.com (841)
+ingredients: 
+- - "1"
+  - inch
+  - Cucumber (chopped & peeled)
+- - "2"
+  - shot
+  - Bombay London dry gin
+- - "1"
+  - shot
+  - St-Germain elderflower liqueur
+- - "1"
+  - shot
+  - Pressed apple juice
+method: MUDDLE cucumber in base of shaker. Add other ingredients, SHAKE with ice and fine strain into chilled glass.
+name: Gin Garden
+rate: 4.0

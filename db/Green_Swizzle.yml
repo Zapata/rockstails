@@ -1,0 +1,27 @@
+--- !ruby/object:DirtyCocktail 
+garnish: 
+glass: Old-fashioned
+infos: 
+  Comment: A Daiquiri-like drink with a hint of peppermint.
+  Origin: This 1940's classic features in 'The Rummy Affair of Old Biffy' by P.G. Wodehouse. Bertie Wooster sings its praises after enjoying a few at the Panter's Bar of the West Indian stand at the 1924 Empire Exhibition.
+  Variant: With gin in place of rum
+  source: www.diffordsguide.com (915)
+ingredients: 
+- - "2"
+  - shot
+  - Bacardi Superior rum
+- - " 1/4 "
+  - shot
+  - Giffard Menthe Pastille liqueur
+- - " 1/2 "
+  - shot
+  - Freshly squeezed lime juice
+- - " 1/4 "
+  - shot
+  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- - "1"
+  - dash
+  - Angostura aromatic bitters
+method: POUR all ingredients into glass. Fill glass with crushed ice and SWIZZLE (stir) with bar spoon or swizzle stick to mix. Serve with straws.
+name: Green Swizzle
+rate: 4.0

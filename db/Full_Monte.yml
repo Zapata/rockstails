@@ -1,0 +1,39 @@
+--- !ruby/object:DirtyCocktail 
+garnish: <p>Lemon slice</p>
+glass: Sling
+infos: 
+  Comment: <p>Champagne replaces cola and maraschino liqueur replaces triple sec in this sophisticated adaptation of a Long Island Iced Tea.</p><br />
+  Origin: <p>Created by Audrey Saunders at Pegu Club, New York City, USA.</p><br />
+  Variant: <p>Beverly Hills Iced Tea</p>
+  source: www.diffordsguide.com (2418)
+ingredients: 
+- - " 1/2 "
+  - shot
+  - Bacardi Superior rum
+- - " 1/2 "
+  - shot
+  - Bombay London dry gin
+- - " 1/2 "
+  - shot
+  - Ketel One vodka
+- - " 1/2 "
+  - shot
+  - Herradura 100% agave tequila
+- - " 1/2 "
+  - shot
+  - Luxardo maraschino liqueur
+- - "1"
+  - shot
+  - Freshly squeezed lemon juice
+- - " 1/4 "
+  - shot
+  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- - "2"
+  - dash
+  - Angostura aromatic bitters
+- - "1"
+  - top up with
+  - Perrier Jouet brut champagne
+method: <p>SHAKE first 8 ingredients with ice and strain into ice-filled glass. TOP with champagne, lightly stir and serve with straws.</p><br />
+name: Full Monte
+rate: 4.0

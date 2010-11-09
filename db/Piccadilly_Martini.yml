@@ -1,0 +1,23 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Lemon zest twist
+glass: Martini
+infos: 
+  Comment: A classic Martini tempered by a hint of pomegranate and absinthe.
+  Origin: Adapted from a recipe in the 1930 edition of the Savoy Cocktail Book by Harry Craddock.
+  source: www.diffordsguide.com (1518)
+ingredients: 
+- - "2"
+  - shot
+  - Bombay London dry gin
+- - "1"
+  - shot
+  - Noilly Prat dry vermouth
+- - " 1/8 "
+  - shot
+  - "La F\xE9e Parisienne (68%) absinthe"
+- - " 1/8 "
+  - shot
+  - Pomegranate (grenadine) syrup
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+name: Piccadilly Martini
+rate: 4.5

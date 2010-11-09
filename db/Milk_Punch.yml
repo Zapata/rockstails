@@ -1,0 +1,25 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Dust with freshly grated nutmeg
+glass: Collins
+infos: 
+  Comment: The cream, vanilla and sugar tame the cognac and rum.
+  source: www.diffordsguide.com (1317)
+ingredients: 
+- - "1"
+  - shot
+  - Courvoisier V.S.O.P cognac
+- - " 1/2 "
+  - shot
+  - Gosling's Black Seal rum
+- - " 1/2 "
+  - shot
+  - Monin Vanilla sugar syrup
+- - "2"
+  - shot
+  - Milk
+- - "1"
+  - shot
+  - Double (heavy) cream
+method: SHAKE all ingredients with ice and strain into glass filled with crushed ice.
+name: Milk Punch
+rate: 4.0

@@ -1,0 +1,16 @@
+--- !ruby/object:DirtyCocktail 
+garnish: 
+glass: Shot
+infos: 
+  Comment: The initial heat of bandy is chased and extinguished by sweet orange liqueur.
+  source: www.diffordsguide.com (2327)
+ingredients: 
+- - " 3/4 "
+  - shot
+  - Cointreau triple sec
+- - " 3/4 "
+  - shot
+  - Courvoisier V.S.O.P cognac
+method: LAYER by carefully pouring ingredients in the following order.
+name: The C&C
+rate: 3.0

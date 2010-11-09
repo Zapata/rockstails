@@ -1,0 +1,20 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Orange zest twist<br />
+glass: Old-fashioned
+infos: 
+  Comment: Tequila replaces gin in this Negroni variation. Not an easy option.<br /><br />
+  Origin: Created by Teddy Joseph, UK.
+  source: www.diffordsguide.com (2538)
+ingredients: 
+- - "1 1/2 "
+  - shot
+  - Herradura 100% agave tequila
+- - "1 1/2 "
+  - shot
+  - Campari Bitter
+- - "1 1/2 "
+  - shot
+  - Carpano Punt E Mes
+method: POUR ingredients into ice-filled glass and stir.
+name: El Pedroni
+rate: 3.5

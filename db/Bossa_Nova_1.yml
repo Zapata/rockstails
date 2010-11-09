@@ -1,0 +1,26 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Lime wheel
+glass: Collins
+infos: 
+  Comment: Apple with the added zing of rum, Galliano, apricot and lime juice.
+  Origin: Named after the Brazilian dance which in turn comes from the Portuguese 'bossa', meaning 'tendency', and 'nova', meaning 'new'.
+  source: www.diffordsguide.com (293)
+ingredients: 
+- - "2"
+  - shot
+  - Bacardi Superior rum
+- - " 3/4 "
+  - shot
+  - Bols apricot brandy liqueur
+- - " 3/4 "
+  - shot
+  - Galliano L'Autentico liqueur
+- - "2"
+  - shot
+  - Pressed apple juice
+- - " 3/4 "
+  - shot
+  - Freshly squeezed lime juice
+method: SHAKE all ingredients with ice and strain into ice-filled glass.
+name: "Bossa Nova #1"
+rate: 4.0

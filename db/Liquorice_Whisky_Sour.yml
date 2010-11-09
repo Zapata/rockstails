@@ -1,0 +1,26 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Dust with grated liquorice
+glass: Old-fashioned
+infos: 
+  Comment: Liquorice (or licorice for our American readers) dramatically changes the classic Sour, working harmoniously with the Scotch. I have also tried with bourbon and the result is not nearly so pleasing. <br /><br />
+  Origin: Created in 2006 by Tony Conigliaro at Shochu Lounge, London, England.<br /><br />
+  source: www.diffordsguide.com (1177)
+ingredients: 
+- - "2"
+  - shot
+  - Johnnie Walker Scotch Whisky
+- - "1"
+  - shot
+  - Homemade liquorice syrup
+- - " 1/2 "
+  - shot
+  - Freshly squeezed lemon juice
+- - "1"
+  - dash
+  - Angostura aromatic bitters
+- - " 1/2 "
+  - fresh
+  - Egg white
+method: SHAKE all ingredients with ice and strain into ice-filled glass.
+name: Liquorice Whisky Sour
+rate: 4.5

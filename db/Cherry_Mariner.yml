@@ -1,0 +1,23 @@
+--- !ruby/object:DirtyCocktail 
+garnish: " Morello or maraschino cherry"
+glass: Martini
+infos: 
+  Comment: "Rich cherry liqueurs fortified by gin and bittered with a hint of orange. "
+  Origin: Adapted from a drink created by Mickael Perron from Bar Now On.
+  source: www.diffordsguide.com (2337)
+ingredients: 
+- - "2"
+  - shot
+  - Bombay London dry gin
+- - "1"
+  - shot
+  - Heering cherry brandy liqueur
+- - " 1/4 "
+  - shot
+  - Luxardo maraschino liqueur
+- - "2"
+  - dash
+  - Angostura orange bitters
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+name: Cherry Mariner
+rate: 4.0

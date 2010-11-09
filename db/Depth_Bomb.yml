@@ -1,0 +1,25 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Lime wedge
+glass: Old-fashioned
+infos: 
+  Comment: Brandy and apple brandy benefit from a sour hint of lemon, balanced by grenadine.
+  source: www.diffordsguide.com (630)
+ingredients: 
+- - "1"
+  - shot
+  - Boulard Grand Solage calvados
+- - "1"
+  - shot
+  - Courvoisier V.S.O.P cognac
+- - " 1/4 "
+  - shot
+  - Pomegranate (grenadine) syrup
+- - " 3/4 "
+  - shot
+  - Freshly squeezed lime juice
+- - " 1/2 "
+  - shot
+  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+method: SHAKE all ingredients with ice and strain into glass filled with crushed ice.
+name: Depth Bomb
+rate: 3.5

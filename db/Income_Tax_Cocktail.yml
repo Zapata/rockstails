@@ -1,0 +1,26 @@
+--- !ruby/object:DirtyCocktail 
+garnish: "<div style=\"text-align: justify;\">Orange zest twist</div>"
+glass: Martini
+infos: 
+  Comment: A Bronx with the addition of two dashes of Angostura.
+  Origin: A vintage cocktail adapted from the classic Bronx Cocktail, created in 1906 by Johnny Solon, a bartender at New York's Waldorf-Astoria Hotel, and named after the newly opened Bronx Zoo.<br /><br />
+  source: www.diffordsguide.com (1010)
+ingredients: 
+- - "2"
+  - shot
+  - Bombay London dry gin
+- - " 1/4 "
+  - shot
+  - Noilly Prat dry vermouth
+- - " 1/4 "
+  - shot
+  - Martini Rosso sweet vermouth
+- - "1"
+  - shot
+  - Freshly squeezed orange juice
+- - "1"
+  - dash
+  - Angostura aromatic bitters
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+name: Income Tax Cocktail
+rate: 4.0

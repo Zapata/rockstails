@@ -1,0 +1,23 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Float 3 cucumber slices
+glass: Martini
+infos: 
+  Comment: Subtle and dry. Cucumber and sake are made for each other.
+  Origin: Created in 2004 by Lisa Ball, London, England.
+  source: www.diffordsguide.com (501)
+ingredients: 
+- - "1 1/2 "
+  - inch
+  - Cucumber (chopped & peeled)
+- - "1 1/2 "
+  - shot
+  - Ketel One vodka
+- - "1 1/2 "
+  - shot
+  - Sake
+- - " 1/4 "
+  - shot
+  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+method: MUDDLE cucumber in base of shaker. Add other ingredients, SHAKE with ice and fine strain into chilled glass.
+name: Cucumber Sake-Tini
+rate: 4.0

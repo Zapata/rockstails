@@ -1,0 +1,26 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Orange zest twist
+glass: Martini
+infos: 
+  Comment: A creamy orange number with a surprisingly pleasant taste.
+  Origin: <br />
+  source: www.diffordsguide.com (483)
+ingredients: 
+- - "1"
+  - shot
+  - Orange-infused Ketel One vodka
+- - "1"
+  - shot
+  - Grand Marnier liqueur
+- - " 1/2 "
+  - shot
+  - Double (heavy) cream
+- - " 1/2 "
+  - shot
+  - Milk
+- - " 1/4 "
+  - shot
+  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+name: Creamsicle
+rate: 3.5

@@ -1,0 +1,22 @@
+--- !ruby/object:DirtyCocktail 
+garnish: None
+glass: Martini
+infos: 
+  Comment: A citrus bite and a smooth Tennessee draw enhanced with rich mandarin liqueur.
+  source: www.diffordsguide.com (1041)
+ingredients: 
+- - "1"
+  - shot
+  - Jack Daniels Tennessee whiskey
+- - "1"
+  - shot
+  - Mandarine Napolon liqueur
+- - "1 3/4 "
+  - shot
+  - Freshly squeezed lemon juice
+- - " 1/2 "
+  - shot
+  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+method: SHAKE all ingredients and fine strain into chilled glass.
+name: Jacktini
+rate: 3.5

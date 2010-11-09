@@ -1,0 +1,23 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Lemon zest twist<br />
+glass: Martini
+infos: 
+  Comment: Dry and reminiscent of an Aviation but with genever personality.
+  Origin: A forgotten classic which is rightly being championed by the House of Bols, Amsterdam, The Netherlands.
+  source: www.diffordsguide.com (2686)
+ingredients: 
+- - "1 3/4 "
+  - shot
+  - Bokma oude genever
+- - " 3/4 "
+  - shot
+  - Noilly Prat dry vermouth
+- - " 1/2 "
+  - shot
+  - Freshly squeezed lemon juice
+- - " 1/4 "
+  - shot
+  - Luxardo maraschino liqueur
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+name: The Holland House Cocktail
+rate: 4.0

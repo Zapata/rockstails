@@ -1,0 +1,28 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Pineapple wedge on rim
+glass: Collins
+infos: 
+  Comment: Long, fruity, slightly sweet and laced with vodka.
+  source: www.diffordsguide.com (1737)
+ingredients: 
+- - "2"
+  - shot
+  - Ketel One vodka
+- - " 1/2 "
+  - shot
+  - Cointreau triple sec
+- - " 1/2 "
+  - shot
+  - "Cr\xE8me de banane liqueur"
+- - "1 1/2 "
+  - shot
+  - Freshly squeezed orange juice
+- - "1 1/2 "
+  - shot
+  - Fresh pressed pineapple juice
+- - " 1/4 "
+  - shot
+  - Pomegranate (grenadine) syrup
+method: SHAKE all ingredients with ice and strain into ice-filled glass.
+name: San Francisco
+rate: 3.5

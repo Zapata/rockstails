@@ -1,0 +1,19 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Quarter slice of orange on rim
+glass: Flute
+infos: 
+  Comment: Fruity champagne.
+  source: www.diffordsguide.com (1578)
+ingredients: 
+- - " 1/2 "
+  - shot
+  - Cointreau triple sec
+- - "1"
+  - shot
+  - Ocean Spray cranberry juice
+- - "1"
+  - top up with
+  - Perrier Jouet brut champagne
+method: POUR first 2 ingredients into chilled glass. TOP with champagne.
+name: Poinsettia
+rate: 3.5

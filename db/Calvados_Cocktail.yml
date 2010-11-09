@@ -1,0 +1,23 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Orange zest twist
+glass: Martini
+infos: 
+  Comment: Tangy orange with an alcoholic apple bite.
+  Origin: Adapted from Harry Craddock's 1930 'The Savoy Cocktail Book'.
+  source: www.diffordsguide.com (361)
+ingredients: 
+- - "1 1/2 "
+  - shot
+  - Boulard Grand Solage calvados
+- - " 3/4 "
+  - shot
+  - Cointreau triple sec
+- - "1 1/2 "
+  - shot
+  - Freshly squeezed orange juice
+- - "2"
+  - dash
+  - Angostura orange bitters
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+name: Calvados Cocktail
+rate: 4.5

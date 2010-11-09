@@ -1,0 +1,20 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Lime wedge
+glass: Margarita
+infos: 
+  Comment: The flavour of agave is king in this simple Margarita, made without the traditional orange liqueur.
+  Origin: Created by Julio Bermejo and named after his family's Mexican restaurant and bar in San Francisco. Julio is legendary for his Margaritas and his knowledge of tequila.
+  source: www.diffordsguide.com (1975)
+ingredients: 
+- - "2"
+  - shot
+  - Herradura 100% agave tequila
+- - "1"
+  - shot
+  - Freshly squeezed lime juice
+- - " 1/2 "
+  - shot
+  - Agave nectar
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+name: Tommy's Margarita
+rate: 5.0

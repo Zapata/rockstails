@@ -1,0 +1,23 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Cox's apple ring (in memory of Jennings Cox)
+glass: Martini
+infos: 
+  Comment: Vanilla and pineapple bring out the sweetness of the rum against a citrus background.
+  Origin: One of two cocktails with which I won 'The Best Daiquiri in London Competition' in 2002. It is named after Jennings Cox, the American mining engineer credited with first creating the Daiquiri.
+  source: www.diffordsguide.com (477)
+ingredients: 
+- - "2 1/2 "
+  - shot
+  - Vanilla-infused Bacardi rum
+- - " 1/2 "
+  - shot
+  - Freshly squeezed lime juice
+- - "1"
+  - shot
+  - Fresh pressed pineapple juice
+- - " 1/4 "
+  - shot
+  - Monin Vanilla sugar syrup
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+name: Cox's Daiquiri
+rate: 5.0

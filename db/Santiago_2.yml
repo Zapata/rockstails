@@ -1,0 +1,29 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Float Raspberry<br />
+glass: Coupette
+infos: 
+  Comment: Lemon fresh pomegranate sweetened with agave nectar and laced with light rum.
+  Origin: Created in 2008 by Simon Rowe at The Bar at The Dorchester Hotel, London, England.<br /><br />
+  source: www.diffordsguide.com (2570)
+ingredients: 
+- - "3"
+  - fresh
+  - Raspberries
+- - "2"
+  - shot
+  - Bacardi Superior rum
+- - "1 1/4 "
+  - shot
+  - Pomegranate juice
+- - " 3/4 "
+  - shot
+  - Luxardo limoncello liqueur
+- - " 1/2 "
+  - shot
+  - Freshly squeezed lemon juice
+- - " 1/4 "
+  - shot
+  - Agave nectar
+method: MUDDLE raspberries in base of shaker. Add other ingredients, SHAKE with ice and fine strain into chilled glass.<br /><br />
+name: "Santiago #2"
+rate: 4.0

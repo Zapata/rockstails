@@ -1,0 +1,19 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Berries on stick
+glass: Martini
+infos: 
+  Comment: Not quite as rouge as the name would suggest. Hard to hate.
+  source: www.diffordsguide.com (640)
+ingredients: 
+- - "2"
+  - shot
+  - Ketel One vodka
+- - "2"
+  - shot
+  - Fresh pressed pineapple juice
+- - " 1/4 "
+  - shot
+  - "Cr\xE8me de cassis liqueur"
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+name: Diable Rouge
+rate: 3.5

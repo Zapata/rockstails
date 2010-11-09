@@ -1,0 +1,23 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Orange zest twist
+glass: Old-fashioned
+infos: 
+  Comment: Short but full of personality - like Kylie Minogue
+  Origin: Adapted from a recipe in the 1949 edition of Esquire's Handbook for Hosts, which suggests serving it at Christmas.
+  source: www.diffordsguide.com (1826)
+ingredients: 
+- - "1"
+  - shot
+  - Warre's Otima tawny port
+- - " 1/2 "
+  - shot
+  - Courvoisier V.S.O.P cognac
+- - " 1/2 "
+  - shot
+  - Grand Marnier liqueur
+- - " 1/8 "
+  - shot
+  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+method: STIR all ingredients with ice and strain into ice-filled glass.
+name: Sir Charles Punch
+rate: 4.0

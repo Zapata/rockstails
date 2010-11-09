@@ -1,0 +1,20 @@
+--- !ruby/object:DirtyCocktail 
+garnish: 
+glass: Shot
+infos: 
+  Comment: Tricoloured orange and mint smoothed with cream liqueur.
+  Origin: The Irish tricolour is the national flag of the Republic of Ireland. Its three equal stripes represent the political landscape. Orange stands for the Protestants because of William of Orange, the Protestant king of England who defeated the Roam Catholic James II in 1690. Green stands for the Catholic nationalists of the south and white for the the hope of peace between Catholics and Protestants.
+  source: www.diffordsguide.com (1024)
+ingredients: 
+- - " 1/2 "
+  - shot
+  - "Green cr\xE8me de menthe liqueur"
+- - " 1/2 "
+  - shot
+  - Baileys Irish cream liqueur
+- - " 1/2 "
+  - shot
+  - Grand Marnier liqueur
+method: Refrigerate ingredients then LAYER in chilled glass by carefully pouring in the following order.
+name: Irish Flag
+rate: 3.0

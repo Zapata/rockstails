@@ -1,0 +1,26 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Banana slice on rim
+glass: Martini
+infos: 
+  Comment: A wonderfully refreshing drink on a summer's day with surprisingly subtle flavours.
+  Origin: Often found on Cuban bar menus, this was created at La Floridita, Havana.
+  source: www.diffordsguide.com (411)
+ingredients: 
+- - "2 1/2 "
+  - shot
+  - Bacardi Superior rum
+- - " 1/2 "
+  - shot
+  - "Cr\xE8me de banane liqueur"
+- - " 1/8 "
+  - shot
+  - Giffard Menthe Pastille liqueur
+- - " 1/2 "
+  - shot
+  - Freshly squeezed lime juice
+- - " 1/4 "
+  - shot
+  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+method: BLEND ingredients with a 12oz scoop of crushed ice and serve in large chilled glass.
+name: Chiclet Daiquiri
+rate: 3.5

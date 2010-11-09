@@ -1,0 +1,20 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Maraschino cherry
+glass: Martini
+infos: 
+  Comment: As Apple Martinis go, this one is rather good.
+  Variant: Sour Apple Martini
+  source: www.diffordsguide.com (1653)
+ingredients: 
+- - "1 1/2 "
+  - shot
+  - Maker's Mark bourbon
+- - " 1/2 "
+  - shot
+  - Sour apple liqueur
+- - "2"
+  - shot
+  - Ocean Spray cranberry juice
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+name: Red Apple
+rate: 4.0

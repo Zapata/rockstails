@@ -1,0 +1,23 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Lime zest twist
+glass: Martini
+infos: 
+  Comment: Balanced rather than sweet. The old-school Dry Martini meets the contemporary fruit driven Martini.
+  Origin: Adapted form a recipe in Harry Craddock's 1930 Savoy Cocktail Book. Craddock wrote of this drink &quot;A favourite cocktail at the bar of the S.S. Mauretania.&quot;
+  source: www.diffordsguide.com (2072)
+ingredients: 
+- - "2"
+  - shot
+  - Bombay London dry gin
+- - " 1/2 "
+  - shot
+  - Bols apricot brandy liqueur
+- - "1"
+  - shot
+  - Noilly Prat dry vermouth
+- - " 1/2 "
+  - shot
+  - Freshly squeezed lime juice
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+name: Webster Martini
+rate: 3.5

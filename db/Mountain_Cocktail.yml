@@ -1,0 +1,26 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Maraschino cherry
+glass: Martini
+infos: 
+  Comment: Bone dry - I prefer with the addition of half spoon sugar syrup.
+  Origin: This vintage cocktail is thought to have been originally made at New York's Hoffman House.<br /><br />
+  source: www.diffordsguide.com (1368)
+ingredients: 
+- - "1 1/2 "
+  - shot
+  - Maker's Mark bourbon
+- - " 1/2 "
+  - shot
+  - Noilly Prat dry vermouth
+- - " 1/2 "
+  - shot
+  - Martini Rosso sweet vermouth
+- - " 1/2 "
+  - shot
+  - Freshly squeezed lemon juice
+- - " 1/2 "
+  - fresh
+  - Egg white
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+name: Mountain Cocktail
+rate: 3.5

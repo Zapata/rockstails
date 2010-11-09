@@ -1,0 +1,22 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Orange zest twist
+glass: Martini
+infos: 
+  Comment: Rum, vermouth, lime and orange form a challenging combination in this golden drink.
+  source: www.diffordsguide.com (2166)
+ingredients: 
+- - "1 1/2 "
+  - shot
+  - Bacardi Superior rum
+- - " 1/2 "
+  - shot
+  - Martini Rosso sweet vermouth
+- - "1"
+  - shot
+  - Freshly squeezed orange juice
+- - " 1/4 "
+  - shot
+  - Freshly squeezed lime juice
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+name: Fort Lauderdale
+rate: 3.0

@@ -1,0 +1,17 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Two olives<br />
+glass: Martini
+infos: 
+  Comment: A regular Martini, but garnished with two olives instead of one.
+  Origin: "Named after Franklin Delano Roosevelt (1882-1945), the 32nd President of the United States. Roosevelt is remembered for leading his country into World War II to fight alongside the Allies against Germany amd Japan: he died just as victory was in sight.<br />"
+  source: www.diffordsguide.com (2885)
+ingredients: 
+- - "2 1/2 "
+  - shot
+  - Bombay London dry gin
+- - " 1/2 "
+  - shot
+  - Noilly Prat dry vermouth
+method: STIR all ingredients with ice and strain into chilled glass.<br />
+name: Roosevelt Martini
+rate: 4.5

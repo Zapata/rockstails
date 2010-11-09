@@ -1,0 +1,823 @@
+--- 
+- - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+  - 755
+- - Freshly squeezed lime juice
+  - 658
+- - Freshly squeezed lemon juice
+  - 586
+- - Bombay London dry gin
+  - 524
+- - Ketel One vodka
+  - 431
+- - Bacardi Superior rum
+  - 330
+- - Freshly squeezed orange juice
+  - 297
+- - Cointreau triple sec
+  - 287
+- - Chilled mineral water
+  - 279
+- - Noilly Prat dry vermouth
+  - 273
+- - Angostura aromatic bitters
+  - 268
+- - Fresh pressed pineapple juice
+  - 234
+- - Courvoisier V.S.O.P cognac
+  - 223
+- - Pomegranate (grenadine) syrup
+  - 190
+- - Herradura 100% agave tequila
+  - 190
+- - Pressed apple juice
+  - 187
+- - Martini Rosso sweet vermouth
+  - 178
+- - Maker's Mark bourbon
+  - 175
+- - Ocean Spray cranberry juice
+  - 175
+- - Double (heavy) cream
+  - 159
+- - Grand Marnier liqueur
+  - 148
+- - Egg white
+  - 144
+- - Angostura orange bitters
+  - 144
+- - Freshly squeezed grapefruit juice
+  - 112
+- - Soda (club soda)
+  - 111
+- - Johnnie Walker Scotch Whisky
+  - 105
+- - Perrier Jouet brut champagne
+  - 103
+- - Bols apricot brandy liqueur
+  - 103
+- - St-Germain elderflower liqueur
+  - 102
+- - Mint leaves
+  - 100
+- - Milk
+  - 97
+- - Kahla coffee liqueur
+  - 97
+- - Luxardo maraschino liqueur
+  - 93
+- - "La F\xE9e Parisienne (68%) absinthe"
+  - 87
+- - Boulard Grand Solage calvados
+  - 83
+- - Luxardo Amaretto di Saschira
+  - 78
+- - Chambord
+  - 77
+- - Runny honey
+  - 74
+- - "White cr\xE8me de cacao liqueur"
+  - 72
+- - Campari Bitter
+  - 70
+- - Baileys Irish cream liqueur
+  - 62
+- - Zacapa aged rum
+  - 62
+- - Bndictine D.O.M.
+  - 57
+- - Ketel One Citroen vodka
+  - 57
+- - Rose's lime cordial
+  - 52
+- - Galliano L'Autentico liqueur
+  - 51
+- - "Cr\xE8me de cassis liqueur"
+  - 51
+- - Chartreuse Green liqueur
+  - 50
+- - Midori green melon liqueur
+  - 48
+- - Peychaud's aromatic bitters
+  - 48
+- - Heering cherry brandy liqueur
+  - 45
+- - Bacardi Oro golden rum
+  - 44
+- - Bols blue curacao liqueur
+  - 43
+- - Ginger ale
+  - 43
+- - Vanilla-infused Ketel One vodka
+  - 42
+- - Hazelnut liqueur
+  - 42
+- - Peach Tree peach schnapps
+  - 41
+- - "Cr\xE8me de banane liqueur"
+  - 41
+- - Zubrwka bison vodka
+  - 40
+- - Raspberries
+  - 40
+- - Berentzen Apple schnapps
+  - 39
+- - Monin Almond (orgeat) syrup
+  - 39
+- - Sauvignon blanc wine
+  - 39
+- - Warre's Otima tawny port
+  - 39
+- - Lemonade/Sprite/7-Up
+  - 37
+- - Drambuie
+  - 37
+- - Malibu coconut rum liqueur
+  - 37
+- - Southern Comfort liqueur
+  - 35
+- - Leblon cachaca
+  - 35
+- - Ginger beer
+  - 33
+- - Giffard Menthe Pastille liqueur
+  - 33
+- - Dubonnet Red (French made)
+  - 32
+- - Tio Pepe fino sherry
+  - 31
+- - Hot espresso coffee
+  - 31
+- - Passion fruit syrup
+  - 31
+- - Chartreuse Yellow liqueur
+  - 30
+- - Maple syrup
+  - 29
+- - Passion fruit
+  - 29
+- - Fresh root ginger (thumbnail sized)
+  - 29
+- - Wray & Nephew overproof rum
+  - 29
+- - "Brown cr\xE8me de cacao liqueur"
+  - 29
+- - Pusser's Navy rum
+  - 28
+- - Sake
+  - 28
+- - Pernod anis
+  - 27
+- - Macchu pisco
+  - 27
+- - Tobasco hot pepper sauce
+  - 25
+- - Agave nectar
+  - 25
+- - Velvet Falernum liqueur
+  - 25
+- - Black pepper
+  - 25
+- - Torn basil leaves
+  - 24
+- - Strawberries (hulled)
+  - 24
+- - Monin Vanilla sugar syrup
+  - 23
+- - Cuarenta y Tres (Licor 43) liqueur
+  - 23
+- - Sloe Gin liqueur
+  - 23
+- - Rye whiskey
+  - 23
+- - Soda from siphon
+  - 22
+- - Luxardo limoncello liqueur
+  - 22
+- - Seedless white grapes
+  - 22
+- - Bols advocaat liqueur
+  - 22
+- - Raspberry flavoured vodka
+  - 22
+- - Krupnik spiced honey liqueur
+  - 21
+- - Soho lychee liqueur
+  - 21
+- - Coca-cola
+  - 21
+- - "Cr\xE8me de framboise liqueur"
+  - 21
+- - Egg yolk
+  - 20
+- - Lime
+  - 20
+- - Goldschlager cinnamon schnapps
+  - 20
+- - Belle de Brillet pear liqueur
+  - 19
+- - Worcestershire sauce
+  - 19
+- - Lagavulin 16yo malt whisky
+  - 19
+- - Teichenn butterscotch schnapps
+  - 19
+- - Domaine de Canton ginger liqueur
+  - 19
+- - Monin Honey syrup
+  - 19
+- - Bokma oude genever
+  - 18
+- - "Cr\xE8me de M\xFBre liqueur"
+  - 18
+- - Tuaca liqueur
+  - 18
+- - Gosling's Black Seal rum
+  - 18
+- - Mandarine Napolon liqueur
+  - 18
+- - Orange-infused Ketel One vodka
+  - 17
+- - Sour apple liqueur
+  - 17
+- - Cucumber (chopped & peeled)
+  - 17
+- - Opal Nera black sambuca
+  - 17
+- - Tonic water
+  - 17
+- - "Green cr\xE8me de menthe liqueur"
+  - 17
+- - Passoa passion fruit liqueur
+  - 16
+- - Tomato juice
+  - 16
+- - Shiraz red wine
+  - 16
+- - Jameson Irish whiskey
+  - 16
+- - Jack Daniels Tennessee whiskey
+  - 16
+- - Benoit Serres cr`eme de violette
+  - 16
+- - Coco Lpez cream of coconut
+  - 15
+- - Lime flavoured vodka
+  - 15
+- - Swedish Punch liqueur
+  - 15
+- - Boiling water
+  - 15
+- - Banana (peeled)
+  - 15
+- - Pressed pear juice
+  - 14
+- - Maraschino syrup (from cherry jar)
+  - 14
+- - Parfait Amour liqueur
+  - 14
+- - Blackberries
+  - 14
+- - Clove
+  - 13
+- - Poire William eau de vie
+  - 13
+- - Brandy, whisk(e)y, gin, rum etc.
+  - 13
+- - Aperol
+  - 12
+- - "Cr\xE8me de fraise du bois liqueur"
+  - 12
+- - Freshly squeezed pink grapefruit juice
+  - 12
+- - Celery salt
+  - 12
+- - Egg
+  - 12
+- - Salt
+  - 11
+- - Cold English breakfast tea
+  - 11
+- - Vanilla schnapps
+  - 11
+- - Mango pure
+  - 11
+- - Prosecco sparkling wine
+  - 10
+- - Luxardo sambuca dei cesari
+  - 10
+- - Pomegranate juice
+  - 10
+- - Old Tom gin
+  - 10
+- - Rose water
+  - 9
+- - Vanilla-infused Bacardi rum
+  - 9
+- - Cranberry flavoured vodka
+  - 9
+- - Granulated sugar
+  - 9
+- - Stone's green ginger wine
+  - 9
+- - Haagen Dazs vanilla ice cream
+  - 9
+- - Kirschwasser eau de vie
+  - 9
+- - Marie Brizard anisette liqueur
+  - 9
+- - Sailor Jerry spiced rum
+  - 8
+- - Orange flower water
+  - 8
+- - Peach bitters
+  - 8
+- - Amontillado sherry
+  - 8
+- - Ground cinnamon
+  - 8
+- - Orange marmalade
+  - 8
+- - Cynar
+  - 8
+- - Cardamom pods
+  - 8
+- - Pedro Ximnez sherry
+  - 8
+- - Ricard Pastis
+  - 8
+- - Curacao liqueur or Grand Marnier
+  - 8
+- - Condensed milk
+  - 8
+- - Fernet Branca
+  - 7
+- - Lager
+  - 7
+- - Fee Brothers grapefruit bitters
+  - 7
+- - "Cr\xE8me p\xEAche de vigne liqueur"
+  - 7
+- - Kummel
+  - 7
+- - Myer's dark Jamaican rum
+  - 7
+- - Kiwi fruit
+  - 7
+- - Icewine
+  - 7
+- - Fresh watermelon
+  - 7
+- - Lanique rose petal liqueur
+  - 7
+- - Martinique agricole rum
+  - 7
+- - Boiron peach pure
+  - 7
+- - Blueberries
+  - 7
+- - Cantaloupe melon
+  - 7
+- - Berry Hill pimento allspice liqueur
+  - 6
+- - Becherovka liqueur
+  - 6
+- - Cold jasmine tea
+  - 6
+- - Rosemary sprig
+  - 6
+- - Pepper-infused Ketel One vodka
+  - 6
+- - Lychee syrup (from tinned fruit)
+  - 6
+- - Guiness
+  - 6
+- - Lillet Blanc
+  - 6
+- - Lemon zest twist
+  - 6
+- - Lemongrass stem (chopped)
+  - 6
+- - Fresh orange
+  - 6
+- - Amer Picon
+  - 5
+- - Pimm's No.1 Cup
+  - 5
+- - Carpano Punt E Mes
+  - 5
+- - Taylor's Chip dry white port
+  - 5
+- - Dry cider
+  - 5
+- - Raspberry syrup (1 juice to 1 sugar)
+  - 5
+- - Difford's Daiquiri Water
+  - 5
+- - Cold camomile tea
+  - 5
+- - Sage leaves
+  - 5
+- - Pear flavoured vodka
+  - 5
+- - Horseradish sauce
+  - 5
+- - Apricot jam (preserve)
+  - 5
+- - Cold earl gray tea
+  - 5
+- - Pisang Ambon liqueur
+  - 5
+- - Vanilla extract
+  - 5
+- - "Cr\xE8me de myrtille liqueur"
+  - 4
+- - Averna Amaro
+  - 4
+- - Myer's Planter's Punch rum
+  - 4
+- - Monin Ginger syrup
+  - 4
+- - Rose syrup
+  - 4
+- - Blandy's Alvada madeira
+  - 4
+- - Jagermeister
+  - 4
+- - Plum (stoned, peeled & chopped)
+  - 4
+- - Lemon
+  - 4
+- - Nocello walnut liqueur
+  - 4
+- - Giffard caramel liqueur
+  - 4
+- - Natural yoghurt
+  - 4
+- - Freshly squeezed lemon or lime juice
+  - 4
+- - Coriander (cilantro)
+  - 4
+- - Raisins
+  - 4
+- - Canadian whisky
+  - 4
+- - Monin Lavender sugar syrup
+  - 4
+- - Red bell pepper
+  - 3
+- - Hpnotiq liqueur
+  - 3
+- - Freshly grated nutmeg
+  - 3
+- - Zen green tea liqueur
+  - 3
+- - Pineapple (fresh)
+  - 3
+- - Balsamic vinegar
+  - 3
+- - Manzanilla Sherry
+  - 3
+- - Francoli Moscato grappa
+  - 3
+- - Bitter lemon
+  - 3
+- - Carpano Antica Formula
+  - 3
+- - Claret red wine
+  - 3
+- - Wood's 100 rum
+  - 3
+- - Brown sugar
+  - 3
+- - "Cr\xE8me de fraise liqueur"
+  - 3
+- - Red grapes
+  - 3
+- - Sweet fruit juice
+  - 2
+- - Rhubarb & orange preserve
+  - 2
+- - Soy sauce
+  - 2
+- - Slivovitz plum brandy
+  - 2
+- - Mint (menthe) syrup
+  - 2
+- - Monin Coconut syrup
+  - 2
+- - Olive brine (from jarred olive)
+  - 2
+- - La Vieille Prune plum brandy
+  - 2
+- - Quince mustard jam
+  - 2
+- - Cold green tea
+  - 2
+- - Red chilli (thin slice)
+  - 2
+- - Spumante (or brut champagne)
+  - 2
+- - Strega liqueur
+  - 2
+- - "Regan's Orange #6"
+  - 2
+- - Yellow bell pepper juice
+  - 2
+- - Noilly Ambre vermouth
+  - 2
+- - Malt vinegar
+  - 2
+- - Fresh dill
+  - 2
+- - Unsalted butter
+  - 2
+- - Lemon sorbet
+  - 2
+- - Matulsalem Oloroso sherry
+  - 2
+- - Spey malt whisky
+  - 2
+- - Maraschino cherries & syrup
+  - 2
+- - Mascarpone cheese
+  - 2
+- - Chardonnay white wine
+  - 2
+- - Ruby grapefruit juice
+  - 2
+- - Rhubarb syrup (from tinned fruit)
+  - 2
+- - Damson gin liqueur
+  - 2
+- - Cinnamon stick
+  - 2
+- - Kirsch liqueur
+  - 2
+- - Cucumber flavoured vodka
+  - 2
+- - Wasabi paste
+  - 2
+- - Harvey's Bristol Cream sherry
+  - 2
+- - Lemon curd
+  - 2
+- - Clment Creole Shrubb liqueur
+  - 2
+- - Toffee liqueur
+  - 2
+- - Martinique cane sugar syrup
+  - 2
+- - Sauternes dessert wine
+  - 2
+- - Agavero liqueur
+  - 2
+- - Lime & lemongrass cordial
+  - 2
+- - Choya Umeshu plum liqueur
+  - 2
+- - Vanilla-infused Don Julio tequila
+  - 2
+- - Freshly extracted celery juice
+  - 2
+- - Marie Brizard Anisette
+  - 2
+- - Barenjager honey liqueur
+  - 2
+- - Coconut water
+  - 2
+- - British cask conditioned ale
+  - 2
+- - Vanilla pod
+  - 1
+- - 100-proof (50% A.B.V.) vodka
+  - 1
+- - Hot camomile tea
+  - 1
+- - Guava juice
+  - 1
+- - Wormwood bitters
+  - 1
+- - Sorrel (hibiscus flowers)
+  - 1
+- - Xoxolate Mole (www.bittermens.com)
+  - 1
+- - Oreo cookies
+  - 1
+- - Chocolate ice cream
+  - 1
+- - Physalis fruits
+  - 1
+- - Almond flavoured vodka
+  - 1
+- - Cinzano Arancio
+  - 1
+- - Star anise
+  - 1
+- - Redcurrants
+  - 1
+- - Pineapple marinade
+  - 1
+- - Marsala wine
+  - 1
+- - Genepi des Peres Chartreux
+  - 1
+- - Mincemeat
+  - 1
+- - Yellow bell pepper  (chopped)
+  - 1
+- - Appletiser
+  - 1
+- - Fee Brothers lemon bitters
+  - 1
+- - Wild Hibiscus flower (jarred)
+  - 1
+- - Armagnac
+  - 1
+- - Vanilla-infused Courvoisier cognac
+  - 1
+- - Apple flavoured vodka
+  - 1
+- - Fresh tarragon
+  - 1
+- - Marinated pineapple wedges
+  - 1
+- - Lemonade (English-style)
+  - 1
+- - Black strap molasses
+  - 1
+- - Pineapple flavoured vodka
+  - 1
+- - Tomato ketchup
+  - 1
+- - Prune syrup (from tinned fruit)
+  - 1
+- - Lapponia cloudberry liqueur
+  - 1
+- - Bottlegreen Cox's Apple and Plum Cordial
+  - 1
+- - Sour pineapple liqueur
+  - 1
+- - Smooth peanut butter
+  - 1
+- - Apostoles palo cortado sherry
+  - 1
+- - Mott's Clamato juice
+  - 1
+- - Boiron pear pure
+  - 1
+- - Berry flavoured vodka
+  - 1
+- - Demerara 151o overproof rum
+  - 1
+- - White balsamic vinegar
+  - 1
+- - Malt Extract
+  - 1
+- - Monasterium liqueur
+  - 1
+- - Watermelon liqueur
+  - 1
+- - Coriander seeds
+  - 1
+- - Caper brine (from jar)
+  - 1
+- - Red peppercorns
+  - 1
+- - Green Tabasco Sauce
+  - 1
+- - Yamazaki 12yo Japanese whisky
+  - 1
+- - Merlot red wine
+  - 1
+- - Taylor's ruby port
+  - 1
+- - Chablis white wine
+  - 1
+- - Kumquats (chopped)
+  - 1
+- - Lapponia cranberry liqueur
+  - 1
+- - Pinot Grigio white wine
+  - 1
+- - Plum wine
+  - 1
+- - Shochu
+  - 1
+- - Freshly extracted carrot juice
+  - 1
+- - Cold Lapsang Souchong tea
+  - 1
+- - Cold beef bouillon
+  - 1
+- - "La F\xE9e Bohemian (70%) absinthe"
+  - 1
+- - Tiki's Falernum Bitters (www.tradertiki.com)
+  - 1
+- - Ginger cordial (non-alcoholic)
+  - 1
+- - Passion fruit juice
+  - 1
+- - Barolo wine
+  - 1
+- - Grapefruit preserve
+  - 1
+- - Ouzo 12
+  - 1
+- - Torres Aqua d'Or aguardiente
+  - 1
+- - Barsol Quebranta pisco
+  - 1
+- - Lemon thyme (remove stalks)
+  - 1
+- - Fresh mandarin
+  - 1
+- - Ruby red grapefruit
+  - 1
+- - Brown sugar syrup (2 sugar to 1 water)
+  - 1
+- - Red onion rings
+  - 1
+- - Damson jam (preserve)
+  - 1
+- - Chocolate bitters
+  - 1
+- - Evaporated milk (sweetened)
+  - 1
+- - Cayenne pepper
+  - 1
+- - Fresh diced mango
+  - 1
+- - Oban 14yo malt whisky
+  - 1
+- - Homemade liquorice syrup
+  - 1
+- - Stoned cherries
+  - 1
+- - Sparkling mineral water
+  - 1
+- - Kaffir lime flavoured vodka
+  - 1
+- - Mexican 'Squirt' or Caribbean 'Ting' grapefruit soda
+  - 1
+- - Ripe peach (skinned and diced)
+  - 1
+- - Coffee ice cream
+  - 1
+- - Polska Wisniwka cherry liqueur
+  - 1
+- - Lavender-infused Ketel One vodka
+  - 1
+- - Figs
+  - 1
+- - Half soda and half lemonade
+  - 1
+- - Ginger & lemongrass cordial
+  - 1
+- - Fee Brothers mint bitters
+  - 1
+- - Cherry tomatoes (chopped)
+  - 1
+- - Sweetcorn (canned)
+  - 1
+- - Dark beer
+  - 1
+- - Laird's Applejack brandy
+  - 1
+- - Cold hibiscus tea (strong brewed)
+  - 1
+- - Mint fresh sprigs
+  - 1
+- - Orange peel
+  - 1
+- - Algarrobo extract (or malt extract from healthfood shops)
+  - 1
+- - Sorrelade (see sorrelade recipe)
+  - 1
+- - Burnt lime juice
+  - 1
+- - Homemade hibiscus tea syrup
+  - 1
+- - "Cr\xE8me de noyaux liqueur"
+  - 1
+- - Oatmeal water
+  - 1
+- - Eau de Vie Framboise
+  - 1
+- - Fennel seeds
+  - 1
+- - Vieille de prune eau de vie
+  - 1
+- - Old-fashioned bitters
+  - 1
+- - Tokaji Hungarian wine
+  - 1
+- - Blackcurrents
+  - 1
+- - Poire William pear liqueur
+  - 1
+- - Gooseberry & mint cordial
+  - 1
+- - White truffle honey
+  - 1
+- - Mezcal
+  - 1

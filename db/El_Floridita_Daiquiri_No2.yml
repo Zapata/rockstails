@@ -1,0 +1,27 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Lime wedge on rim
+glass: Martini
+infos: 
+  Comment: Like other Daiquiris, this complex version benefits from dilution so consider adding a dash of water.
+  Origin: <br />
+  Variant: With fruit.
+  source: www.diffordsguide.com (2655)
+ingredients: 
+- - "2"
+  - shot
+  - Bacardi Superior rum
+- - " 1/2 "
+  - shot
+  - Martini Rosso sweet vermouth
+- - " 1/2 "
+  - shot
+  - Freshly squeezed lime juice
+- - " 1/4 "
+  - shot
+  - "White cr\xE8me de cacao liqueur"
+- - " 1/8 "
+  - shot
+  - Pomegranate (grenadine) syrup
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+name: El Floridita Daiquiri No.2
+rate: 3.5

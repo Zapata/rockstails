@@ -1,0 +1,26 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Dust with cinnamon powder
+glass: Martini
+infos: 
+  Comment: OK, so there's no crust, but this does contain egg yolk, caramel, vanilla, sugar and cream. Due to the cinnamon, it even has a brown top.
+  Origin: Adapted from a drink created in 2002 by Yannick Miseriaux at the Fifth Floor Bar, London, England.
+  source: www.diffordsguide.com (488)
+ingredients: 
+- - "2"
+  - shot
+  - Vanilla-infused Ketel One vodka
+- - " 1/2 "
+  - unit
+  - Giffard caramel liqueur
+- - " 3/4 "
+  - shot
+  - Cuarenta y Tres (Licor 43) liqueur
+- - "1"
+  - shot
+  - Double (heavy) cream
+- - " 1/2 "
+  - fresh
+  - Egg yolk
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+name: Cr`eme Br^ule Martini
+rate: 3.5

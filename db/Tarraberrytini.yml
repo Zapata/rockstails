@@ -1,0 +1,26 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Tarragon sprig
+glass: Martini
+infos: 
+  Comment: Cranberry with subtle hints of tarragon and lemon.
+  Origin: Created in 2003 by Yours Truly (Simon Difford).
+  source: www.diffordsguide.com (1919)
+ingredients: 
+- - "2"
+  - sprig
+  - Fresh tarragon
+- - "1 1/4 "
+  - shot
+  - Cranberry flavoured vodka
+- - " 1/4 "
+  - shot
+  - Pernod anis
+- - "2"
+  - shot
+  - Ocean Spray cranberry juice
+- - " 1/4 "
+  - shot
+  - Freshly squeezed lemon juice
+method: MUDDLE tarragon in base of shaker. Add other ingredients, SHAKE with ice and fine strain into chilled glass.
+name: Tarraberry'tini
+rate: 4.0

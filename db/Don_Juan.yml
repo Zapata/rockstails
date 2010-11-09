@@ -1,0 +1,25 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Orange zest twist
+glass: Martini
+infos: 
+  Comment: A lightly creamy orange affair with vanilla spice.
+  source: www.diffordsguide.com (662)
+ingredients: 
+- - "1 3/4 "
+  - shot
+  - Courvoisier V.S.O.P cognac
+- - "1"
+  - shot
+  - Cuarenta y Tres (Licor 43) liqueur
+- - "1"
+  - shot
+  - Freshly squeezed orange juice
+- - " 1/2 "
+  - shot
+  - Milk
+- - " 1/2 "
+  - shot
+  - Double (heavy) cream
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+name: Don Juan
+rate: 3.5

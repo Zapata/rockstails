@@ -1,0 +1,23 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Orange zest twist<br />
+glass: Martini
+infos: 
+  Comment: <br _moz_editor_bogus_node="TRUE" />
+  Origin: This modern take on the vintage classic emerged in London during early 2008 with the introduction of Antica Formula.<br /><br />
+  source: www.diffordsguide.com (2488)
+ingredients: 
+- - "2"
+  - shot
+  - Bokma oude genever
+- - " 1/2 "
+  - shot
+  - Noilly Prat dry vermouth
+- - " 1/2 "
+  - shot
+  - Martini Rosso sweet vermouth
+- - " 1/8 "
+  - shot
+  - Luxardo maraschino liqueur
+method: STIR ingredients with ice and fine strain into chilled glass.<br /><br />
+name: "Martinez #2 (Modern Genever)"
+rate: 5.0

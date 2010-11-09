@@ -1,0 +1,25 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Melon slice or melon balls
+glass: Martini
+infos: 
+  Comment: A classic Daiquiri with the gentle touch of melon.
+  source: www.diffordsguide.com (1285)
+ingredients: 
+- - " 1/8 "
+  - fresh
+  - Cantaloupe melon
+- - "2"
+  - shot
+  - Bacardi Superior rum
+- - " 1/2 "
+  - shot
+  - Midori green melon liqueur
+- - " 1/2 "
+  - shot
+  - Freshly squeezed lime juice
+- - " 1/8 "
+  - shot
+  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+method: Cut melon into 8 segments and deseed. Cut cubes of flesh from skin of one segment and MUDDLE in base of shaker. Add other ingredients, SHAKE with ice and fine strain into chilled glass.
+name: "Melon Daiquiri #1 (served 'up')"
+rate: 4.0

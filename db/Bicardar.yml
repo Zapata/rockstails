@@ -1,0 +1,29 @@
+--- !ruby/object:DirtyCocktail 
+garnish: " Lemon zest twist<br />"
+glass: Martini
+infos: 
+  Comment: Subtle and delicate with hints of apricot, cherry, lemon and orange.
+  Origin: Created in 2008 by Kashi Forootani at Seattle Hotel, Brighton, England.
+  source: www.diffordsguide.com (2293)
+ingredients: 
+- - "2"
+  - shot
+  - Bacardi Superior rum
+- - " 1/4 "
+  - shot
+  - Bols apricot brandy liqueur
+- - " 1/4 "
+  - shot
+  - Luxardo maraschino liqueur
+- - " 1/8 "
+  - shot
+  - Freshly squeezed lemon juice
+- - "1"
+  - dash
+  - Angostura orange bitters
+- - " 1/4 "
+  - shot
+  - Chilled mineral water
+method: STIR all ingredients with ice and strain into chilled glass.
+name: Bicardar
+rate: 4.0

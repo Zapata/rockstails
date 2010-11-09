@@ -1,0 +1,26 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Mint leaf
+glass: Martini
+infos: 
+  Comment: Delicate with subtle hints of mint, orange and gin.
+  Origin: Adapted from a drink purloined from David Embury's classic book, The Fine Art of Mixing Drinks.
+  source: www.diffordsguide.com (1959)
+ingredients: 
+- - "7"
+  - fresh
+  - Mint leaves
+- - "2"
+  - shot
+  - Bombay London dry gin
+- - "1"
+  - shot
+  - Noilly Prat dry vermouth
+- - " 1/4 "
+  - shot
+  - Freshly squeezed orange juice
+- - " 1/4 "
+  - shot
+  - Pomegranate (grenadine) syrup
+method: Lightly MUDDLE mint in base in shaker (just to bruise). Add other ingredients, SHAKE with ice and fine strain into chilled glass.
+name: "Tipperary #2"
+rate: 4.5

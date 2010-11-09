@@ -1,0 +1,20 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Maraschino cherry
+glass: Martini
+infos: 
+  Comment: Strong, fruity, zesty orange laced with gin.
+  Origin: Adapted from a recipe in the 1930s edition of the Savoy Cocktail Book by Harry Craddock.
+  source: www.diffordsguide.com (1439)
+ingredients: 
+- - "2"
+  - shot
+  - Bombay London dry gin
+- - "1"
+  - shot
+  - Cointreau triple sec
+- - "1"
+  - shot
+  - Martini Rosso sweet vermouth
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+name: Orange Bloom Martini
+rate: 4.5

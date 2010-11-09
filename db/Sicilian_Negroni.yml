@@ -1,0 +1,20 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Orange slice
+glass: Old-fashioned
+infos: 
+  Comment: Blood orange juice replaces sweet vermouth in this fruity Negroni.
+  Origin: Discovered in 2006 at The Last Supper Club, San Francisco, USA.
+  source: www.diffordsguide.com (1772)
+ingredients: 
+- - "1 1/2 "
+  - shot
+  - Bombay London dry gin
+- - "1 1/2 "
+  - shot
+  - Campari Bitter
+- - "1 1/2 "
+  - shot
+  - Freshly squeezed orange juice
+method: SHAKE all ingredients with ice and strain into ice-filled glass.
+name: Sicilian Negroni
+rate: 4.0

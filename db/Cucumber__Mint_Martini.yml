@@ -1,0 +1,26 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Cucumber slice
+glass: Martini
+infos: 
+  Comment: A well balanced fortified salad in a glass - almost healthy.
+  Origin: Created in 2004 by David Ramos in the Netherlands.
+  source: www.diffordsguide.com (500)
+ingredients: 
+- - "2"
+  - inch
+  - Cucumber (chopped & peeled)
+- - "7"
+  - fresh
+  - Mint leaves
+- - "2"
+  - shot
+  - Ketel One vodka
+- - "1"
+  - shot
+  - Pressed apple juice
+- - " 1/4 "
+  - shot
+  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+method: MUDDLE cucumber and mint in base of shaker. Add other ingredients, SHAKE with ice and fine strain into chilled glass.
+name: Cucumber & Mint Martini
+rate: 4.0

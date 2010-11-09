@@ -1,0 +1,29 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Grated chocolate (crumbled Cadbury's Flake bar)
+glass: Martini
+infos: 
+  Comment: A standard Chocolate Martini with extra interest thanks to the clever use of vanilla and cardamom. The egg white was my own addition. It seemed appropriate given the Easter in the title.
+  Origin: Created in 2003 by Simon King at MJU Bar, Millennium Hotel, London, England.
+  source: www.diffordsguide.com (689)
+ingredients: 
+- - "4"
+  - whole
+  - Cardamom pods
+- - "2"
+  - shot
+  - Vanilla-infused Ketel One vodka
+- - "1"
+  - shot
+  - "White cr\xE8me de cacao liqueur"
+- - " 1/4 "
+  - shot
+  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- - " 1/2 "
+  - shot
+  - Chilled mineral water
+- - " 1/2 "
+  - fresh
+  - Egg white
+method: MUDDLE cardamom pods in base of shaker. Add other ingredients, SHAKE with ice and fine strain into chilled glass.
+name: Easter Martini
+rate: 4.5

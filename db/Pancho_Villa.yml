@@ -1,0 +1,29 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Pineapple wedge on rim
+glass: Martini
+infos: 
+  Comment: To quote Victor Bergeron, &quot;This'll tuck you away neatly - and pick you up and throw you right to the floor&quot;.
+  Origin: Adapted from a recipe in the 1942-72 Trader Vic's Bartender's Guide by Victor Bergeron.
+  source: www.diffordsguide.com (1464)
+ingredients: 
+- - "1"
+  - shot
+  - Bacardi Superior rum
+- - "1"
+  - shot
+  - Bombay London dry gin
+- - "1"
+  - shot
+  - Bols apricot brandy liqueur
+- - " 1/4 "
+  - shot
+  - Heering cherry brandy liqueur
+- - " 1/4 "
+  - shot
+  - Fresh pressed pineapple juice
+- - " 1/2 "
+  - shot
+  - Chilled mineral water
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+name: Pancho Villa
+rate: 4.0

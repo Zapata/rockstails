@@ -1,0 +1,20 @@
+--- !ruby/object:DirtyCocktail 
+garnish: <p>Blackberry</p>
+glass: Martini
+infos: 
+  Comment: <p>One for hardened Martini drinkers.</p>
+  Origin: <p>Created in the 1990's by Dick Bradsell for Esquire Magazine.</p>
+  source: www.diffordsguide.com (727)
+ingredients: 
+- - "1 1/2 "
+  - shot
+  - Ketel One vodka
+- - " 3/4 "
+  - shot
+  - Raspberry flavoured vodka
+- - " 3/4 "
+  - shot
+  - Parfait Amour liqueur
+method: <p>STIR all ingredients with ice and strain into chilled glass.</p>
+name: "Esquire #2"
+rate: 3.5

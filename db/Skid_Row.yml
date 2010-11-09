@@ -1,0 +1,26 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Flamed orange zest twist<br />
+glass: Coupette
+infos: 
+  Comment: "Complex and strong in alcohol, bitter-sweet with apricot liqueur and amaro fighting it out over Dutch genever. "
+  Origin: Adapted from a drink created in 2009 by Eric Alperin at The Varnish, Los Angeles, USA. <br />
+  source: www.diffordsguide.com (2886)
+ingredients: 
+- - "2"
+  - shot
+  - Bokma oude genever
+- - " 1/2 "
+  - shot
+  - Bols apricot brandy liqueur
+- - " 1/2 "
+  - shot
+  - Chartreuse Yellow liqueur
+- - "1"
+  - dash
+  - Angostura aromatic bitters
+- - "1"
+  - dash
+  - Angostura orange bitters
+method: STIR all ingredients with ice and strain into chilled glass.<br />
+name: Skid Row
+rate: 4.0

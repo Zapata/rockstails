@@ -1,0 +1,20 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Float grated white chocolate
+glass: Martini
+infos: 
+  Comment: This flavoursome mix of coffee and chocolate is further enhanced if vanilla-infused rum is used.
+  Origin: Created in March 2004 by yours truly.
+  source: www.diffordsguide.com (232)
+ingredients: 
+- - "1 1/2 "
+  - shot
+  - Bacardi Superior rum
+- - "1 1/2 "
+  - shot
+  - "Brown cr\xE8me de cacao liqueur"
+- - "1 1/2 "
+  - shot
+  - Hot espresso coffee
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+name: Black Martini
+rate: 4.5

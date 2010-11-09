@@ -1,0 +1,19 @@
+--- !ruby/object:DirtyCocktail 
+garnish: 
+glass: Toddy
+infos: 
+  Comment: A latte with extra interest and flavour courtesy of Irish cream liqueur.
+  source: www.diffordsguide.com (1026)
+ingredients: 
+- - "1"
+  - shot
+  - Hot espresso coffee
+- - "1 1/2 "
+  - shot
+  - Baileys Irish cream liqueur
+- - "1"
+  - top up with
+  - Milk
+method: POUR ingredients into warmed glass in the following order.
+name: Irish Latte
+rate: 3.5

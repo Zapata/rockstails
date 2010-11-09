@@ -1,0 +1,26 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Three raspberries
+glass: Collins
+infos: 
+  Comment: Well balanced sweet 'n' sour with a rich fruity flavour.
+  Origin: Created at Bam-Bou, London, England.
+  source: www.diffordsguide.com (1724)
+ingredients: 
+- - "7"
+  - fresh
+  - Raspberries
+- - "2"
+  - shot
+  - Bombay London dry gin
+- - " 1/2 "
+  - shot
+  - Chambord
+- - "3"
+  - shot
+  - Ocean Spray cranberry juice
+- - " 3/4 "
+  - shot
+  - Freshly squeezed lime juice
+method: MUDDLE raspberries in base of shaker. Add other ingredients, SHAKE with ice and fine strain into chilled glass.
+name: Saigon Cooler
+rate: 3.5

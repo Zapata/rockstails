@@ -1,0 +1,23 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Lemon zest twist
+glass: Martini
+infos: 
+  Comment: Scotch, grape juice, apricot liqueur and grapefruit may seem an unlikely combo but they get on well together.
+  Origin: Discovered in 2004 at Indigo Yard, Edinburgh, Scotland.
+  source: www.diffordsguide.com (1853)
+ingredients: 
+- - "7"
+  - fresh
+  - Seedless white grapes
+- - "2"
+  - shot
+  - Johnnie Walker Scotch Whisky
+- - " 3/4 "
+  - shot
+  - Bols apricot brandy liqueur
+- - " 3/4 "
+  - shot
+  - Freshly squeezed grapefruit juice
+method: MUDDLE grapes in base of shaker. Add other ingredients, SHAKE with ice and fine strain into chilled glass.
+name: Speyside Martini
+rate: 4.0

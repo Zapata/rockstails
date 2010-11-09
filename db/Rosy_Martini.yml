@@ -1,0 +1,19 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Orange zest twist
+glass: Martini
+infos: 
+  Comment: An aptly named drink with hints of spice, citrus peel, honey and mulled wine.
+  source: www.diffordsguide.com (1698)
+ingredients: 
+- - "2"
+  - shot
+  - Ketel One Citroen vodka
+- - " 3/4 "
+  - shot
+  - Cointreau triple sec
+- - " 3/4 "
+  - shot
+  - Dubonnet Red (French made)
+method: STIR all ingredients with ice and strain into chilled glass.
+name: Rosy Martini
+rate: 4.0

@@ -1,0 +1,23 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Lemon zest twist
+glass: Martini
+infos: 
+  Comment: Almond and lemon flavoured gin. Subtle, citrusy and dry.
+  Origin: This old classic was originally made to an 8:4:4 formula but I have borrowed this 8:2:1 formula from David A. Embury's 1948 'Fine Art of Mixing Drinks' (he describes the original formulation as &quot;horrible&quot;). The addition of water is a Difford touch.
+  source: www.diffordsguide.com (530)
+ingredients: 
+- - "2"
+  - shot
+  - Bombay London dry gin
+- - " 1/2 "
+  - shot
+  - Freshly squeezed lemon juice
+- - " 1/4 "
+  - shot
+  - Monin Almond (orgeat) syrup
+- - " 1/2 "
+  - shot
+  - Chilled mineral water
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+name: Army & Navy
+rate: 4.0

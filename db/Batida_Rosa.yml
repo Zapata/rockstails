@@ -1,0 +1,26 @@
+--- !ruby/object:DirtyCocktail 
+garnish: " Pineapple wedge<br />"
+glass: Large wine glass
+infos: 
+  Comment: Cachaca pleasantly shines in this balanced fruity, Daiquiri style drink.<br _moz_editor_bogus_node="TRUE" />
+  Origin: Adapted from a drink created in 2008 by Jeffrey Morgenthaler at Bel Ami Lounge, Oregon, USA.<br /><br />
+  source: www.diffordsguide.com (2285)
+ingredients: 
+- - "2"
+  - shot
+  - Leblon cachaca
+- - "1"
+  - shot
+  - Freshly squeezed lemon juice
+- - "1"
+  - shot
+  - Fresh pressed pineapple juice
+- - " 1/2 "
+  - shot
+  - Pomegranate (grenadine) syrup
+- - "1"
+  - top up with
+  - Soda (club soda)
+method: SHAKE first 3 ingredients with ice and strain into ice-filled glass. TOP with soda.
+name: Batida Rosa
+rate: 3.5

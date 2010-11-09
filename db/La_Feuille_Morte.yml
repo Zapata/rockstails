@@ -1,0 +1,23 @@
+--- !ruby/object:DirtyCocktail 
+garnish: 
+glass: Collins
+infos: 
+  Comment: A traditional French way to serve pastis.
+  Origin: Pronounced 'Fueel-Mort', the name literally means 'The dead leaf', a reference to its colour.
+  source: www.diffordsguide.com (742)
+ingredients: 
+- - "1"
+  - shot
+  - Ricard Pastis
+- - " 1/2 "
+  - shot
+  - Pomegranate (grenadine) syrup
+- - " 1/2 "
+  - shot
+  - Mint (menthe) syrup
+- - "1"
+  - top up with
+  - Chilled mineral water
+method: POUR first 3 ingredients into glass. Serve iced water separately in a small jug (known in France as a 'broc') so the customer can dilute to their own taste. (I recommend five shots). Lastly, add ice to fill glass.
+name: La Feuille Morte
+rate: 3.5

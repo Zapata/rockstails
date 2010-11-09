@@ -1,0 +1,23 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Orange zest twist<br />
+glass: Martini
+infos: 
+  Comment: Your standard Cosmo made more complex by a slug of warm Caribbean spirit.
+  Origin: Discovered in 2006 at Bix, San Francisco, USA.
+  source: www.diffordsguide.com (2718)
+ingredients: 
+- - "1 1/4 "
+  - shot
+  - Bacardi Oro golden rum
+- - " 3/4 "
+  - shot
+  - Cointreau triple sec
+- - " 1/2 "
+  - shot
+  - Freshly squeezed lime juice
+- - "1 1/2 "
+  - shot
+  - Ocean Spray cranberry juice
+method: SHAKE all ingredients with ice and fine strain into chilled glass.<br />
+name: Neal's Barbados Cosmopolitan
+rate: 4.0

@@ -1,0 +1,29 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Mint sprig<br />
+glass: Collins
+infos: 
+  Comment: All the flavour of the Mojito but without unattractive mint leaves trapped in crushed ice. This only works when fresh, cold crushed ice is used. Otherwise the drink will be overly diluted.<br /><br />
+  Origin: Recipe by Yours Truly (Simon Difford), the man who likes his Mojito shaken and stirred.<br /><br />
+  source: www.diffordsguide.com (2505)
+ingredients: 
+- - "12"
+  - fresh
+  - Mint leaves
+- - "2 1/2 "
+  - shot
+  - Bacardi Superior rum
+- - " 3/4 "
+  - shot
+  - Freshly squeezed lime juice
+- - " 1/2 "
+  - shot
+  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- - " 1/8 "
+  - shot
+  - Giffard Menthe Pastille liqueur
+- - "2"
+  - dash
+  - Angostura aromatic bitters
+method: SHAKE all ingredients with ice and fine strain into ice-filled glass. CHURN (stir) with bar spoon. Fill glass with more crushed ice and CHURN some more. Keep adding ice and churning until drink fills glass. Serve with straws.<br /><br />
+name: "Mojito #2 (Difford's method) "
+rate: 4.5

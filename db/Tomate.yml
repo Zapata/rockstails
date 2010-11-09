@@ -1,0 +1,20 @@
+--- !ruby/object:DirtyCocktail 
+garnish: 
+glass: Collins
+infos: 
+  Comment: The traditional aniseed and liquorice French caf drink with a sweet hint of fruit.
+  Origin: Very popular throughout France. Pronounced 'Toh-Maht', the name literally means 'tomato' and refers to the drink's colour.
+  source: www.diffordsguide.com (1974)
+ingredients: 
+- - "1"
+  - shot
+  - Ricard Pastis
+- - " 1/4 "
+  - shot
+  - Pomegranate (grenadine) syrup
+- - "1"
+  - top up with
+  - Chilled mineral water
+method: POUR pastis and grenadine into glass. SERVE iced water separately in a small jug (known in France as a 'broc') so the customer can dilute to their own taste (I recommend five shots). Lastly ADD ICE to fill glass.
+name: Tomate
+rate: 3.0

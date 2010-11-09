@@ -1,0 +1,26 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Berries on stick
+glass: Martini
+infos: 
+  Comment: Pink and creamy but with a tequila kick.
+  Origin: "The signature drink at El Estribo, Mexico City, which sadly closed in 2005. The drink and this once legendary tequila bar's name 'estribo' is used to say &quot;one for the road&quot; in Mexico... before you get into the stirrups and ride away.<br /> "
+  source: www.diffordsguide.com (730)
+ingredients: 
+- - "2"
+  - shot
+  - Herradura 100% agave tequila
+- - " 1/4 "
+  - shot
+  - "Cr\xE8me de cassis liqueur"
+- - "1"
+  - shot
+  - Fresh pressed pineapple juice
+- - " 1/2 "
+  - shot
+  - Double (heavy) cream
+- - " 1/2 "
+  - shot
+  - Milk
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+name: El Estribo
+rate: 3.0

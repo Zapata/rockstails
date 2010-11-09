@@ -1,0 +1,26 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Lime wedge on rim<br />
+glass: Martini
+infos: 
+  Comment: Classically tangy Daiquiri but sweetened with pomegranate syrup and a splash of maraschino.<br /><br />
+  Origin: Created by Constantino (Constante) Ribalaigua Vert at the Floridita bar in Havana, Cuba.<br /><br />
+  source: www.diffordsguide.com (2369)
+ingredients: 
+- - "2"
+  - shot
+  - Bacardi Superior rum
+- - " 1/8 "
+  - shot
+  - Luxardo maraschino liqueur
+- - " 1/4 "
+  - shot
+  - Pomegranate (grenadine) syrup
+- - " 1/2 "
+  - shot
+  - Freshly squeezed lime juice
+- - " 1/4 "
+  - shot
+  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+name: Daiquiri No.5 (Pink Daiquiri)
+rate: 4.5

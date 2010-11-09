@@ -1,0 +1,22 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Orange zest twist<br />
+glass: Martini
+infos: 
+  Comment: Stir well as dilution helps to tame this old-school classic in which bitter orange predominates.<br /><br />
+  source: www.diffordsguide.com (2491)
+ingredients: 
+- - "2"
+  - shot
+  - Bombay London dry gin
+- - " 1/2 "
+  - shot
+  - Martini Rosso sweet vermouth
+- - " 1/4 "
+  - shot
+  - Curacao liqueur or Grand Marnier
+- - "2"
+  - dash
+  - Angostura orange bitters
+method: STIR ingredients with ice and fine strain into chilled glass.
+name: "Martinez #5 (Orange)"
+rate: 4.0

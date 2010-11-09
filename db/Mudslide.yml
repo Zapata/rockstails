@@ -1,0 +1,22 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Crumbled Cadbury's Flake bar
+glass: Hurricane
+infos: 
+  Comment: A simply scrumptious dessert drink with whiskey cream and coffee.
+  source: www.diffordsguide.com (1374)
+ingredients: 
+- - "1 1/2 "
+  - shot
+  - Baileys Irish cream liqueur
+- - "1 1/2 "
+  - shot
+  - Ketel One vodka
+- - "1 1/2 "
+  - shot
+  - Kahla coffee liqueur
+- - "3"
+  - scoop
+  - Haagen Dazs vanilla ice cream
+method: BLEND all ingredients with two 12oz scoops of crushed ice and serve with straws.
+name: Mudslide
+rate: 4.0

@@ -1,0 +1,23 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Maraschino cherry
+glass: Martini
+infos: 
+  Comment: A diverse range of flavours come together surprisingly well.
+  Origin: Adapted from a recipe in the 1947-72 Trader Vic's Bartender's Guide by Victor Bergeron.
+  source: www.diffordsguide.com (1359)
+ingredients: 
+- - "1 1/2 "
+  - shot
+  - Courvoisier V.S.O.P cognac
+- - " 3/4 "
+  - shot
+  - Peach Tree peach schnapps
+- - " 1/4 "
+  - shot
+  - Pernod anis
+- - "1 1/2 "
+  - shot
+  - Dubonnet Red (French made)
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+name: Moonraker
+rate: 3.5

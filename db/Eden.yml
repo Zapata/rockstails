@@ -1,0 +1,23 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Orange zest string
+glass: Collins
+infos: 
+  Comment: Orange zest predominates in a long, refreshing drink that's perfect for warm days.
+  Origin: Created in 2003 by Sylvian Solignac at Citrus, London, England.
+  source: www.diffordsguide.com (694)
+ingredients: 
+- - "2"
+  - shot
+  - Ketel One vodka
+- - " 1/2 "
+  - shot
+  - St-Germain elderflower liqueur
+- - "1 1/2 "
+  - shot
+  - Pressed apple juice
+- - "1"
+  - top up with
+  - Tonic water
+method: SHAKE first 3 ingredients with ice and strain into ice-filled glass. TOP with tonic water.
+name: Eden
+rate: 4.5

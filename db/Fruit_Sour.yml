@@ -1,0 +1,23 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Lemon zest twist
+glass: Old-fashioned
+infos: 
+  Comment: An orange influenced, sweet and sour whiskey cocktail.
+  Origin: <br />
+  source: www.diffordsguide.com (816)
+ingredients: 
+- - "1"
+  - shot
+  - Maker's Mark bourbon
+- - "1"
+  - shot
+  - Cointreau triple sec
+- - "1"
+  - shot
+  - Freshly squeezed lemon juice
+- - " 1/2 "
+  - shot
+  - Egg white
+method: SHAKE all ingredients with ice and strain into ice-filled glass.
+name: Fruit Sour
+rate: 4.0

@@ -1,0 +1,20 @@
+--- !ruby/object:DirtyCocktail 
+garnish: 
+glass: Old-fashioned
+infos: 
+  Comment: In winter this hot drink is a warming treat. In summer serve cold over ice, as pictured.
+  Origin: Created in 2002 by yours truly.
+  source: www.diffordsguide.com (1172)
+ingredients: 
+- - "2"
+  - shot
+  - Ketel One vodka
+- - "1"
+  - shot
+  - Krupnik spiced honey liqueur
+- - "4"
+  - shot
+  - Hot camomile tea
+method: Place bar spoon in glass. POUR ingredients into glass and stir.
+name: Limousine
+rate: 4.0

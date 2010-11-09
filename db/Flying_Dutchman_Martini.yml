@@ -1,0 +1,22 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Orange zest twist
+glass: Martini
+infos: 
+  Comment: A Martini with more than a hint of orange.
+  source: www.diffordsguide.com (774)
+ingredients: 
+- - "2 1/2 "
+  - shot
+  - Bokma oude genever
+- - " 1/4 "
+  - shot
+  - Cointreau triple sec
+- - "2"
+  - dash
+  - Angostura orange bitters
+- - " 3/4 "
+  - shot
+  - Chilled mineral water
+method: STIR all ingredients with ice and strain into chilled glass.
+name: Flying Dutchman Martini
+rate: 4.0

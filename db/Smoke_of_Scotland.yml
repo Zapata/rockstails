@@ -1,0 +1,23 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Grapefruit zest twist (flamed)
+glass: Martini
+infos: 
+  Comment: Smoky, with floral and tropical fruit notes from the elderflower liqueur and added complexity from the vermouth and Cynar.<br /><br />
+  Origin: Created in 2007 by Vincenzo Marianella at Providence, Los Angeles, USA.<br /><br />
+  source: www.diffordsguide.com (2579)
+ingredients: 
+- - "2"
+  - shot
+  - Lagavulin 16yo malt whisky
+- - " 1/2 "
+  - shot
+  - Noilly Prat dry vermouth
+- - " 1/2 "
+  - shot
+  - St-Germain elderflower liqueur
+- - " 1/8 "
+  - shot
+  - Cynar
+method: STIR all ingredients with ice and strain into chilled glass.
+name: Smoke of Scotland
+rate: 4.0

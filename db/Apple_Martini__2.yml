@@ -1,0 +1,19 @@
+--- !ruby/object:DirtyCocktail 
+garnish: " Apple wedge on rim<br />"
+glass: Martini
+infos: 
+  Comment: "There are as many different recipes for this drink as there are varieties of apple and brands of apple liqueur: this one was popular in the UK during the Noughties."
+  source: www.diffordsguide.com (2775)
+ingredients: 
+- - "1 1/2 "
+  - shot
+  - Ketel One vodka
+- - "1"
+  - shot
+  - Berentzen Apple schnapps
+- - "2"
+  - shot
+  - Pressed apple juice
+method: " SHAKE all ingredients with ice and fine strain into chilled glass. <br />"
+name: "Apple Martini # 2"
+rate: 4.0

@@ -1,0 +1,29 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Cinnamon stick
+glass: Toddy
+infos: 
+  Comment: The smoky flavours in the Scotch add spice to this warming drink that's great when you're feeling down with a cold or the flu.
+  Origin: Lost in time but Dickens refers to a &quot;Whisky Toddy&quot; in 'The Pickwick Papers'.
+  source: www.diffordsguide.com (987)
+ingredients: 
+- - "1"
+  - spoon
+  - Runny honey
+- - "2"
+  - shot
+  - Johnnie Walker Scotch Whisky
+- - " 1/2 "
+  - shot
+  - Freshly squeezed lemon juice
+- - " 1/2 "
+  - shot
+  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- - "3"
+  - dried
+  - Clove
+- - "1"
+  - top up with
+  - Boiling water
+method: Place bar spoon loaded with honey in warmed glass. Add other ingredients and STIR until honey dissolves.
+name: "Hot Toddy #1"
+rate: 4.5

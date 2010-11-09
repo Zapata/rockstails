@@ -1,0 +1,23 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Orange zest twist
+glass: Martini
+infos: 
+  Comment: A dry, orangey, herbal, gin laced concoction.
+  Origin: This 1930s classic cocktail is closely related to the better known Bronx.
+  source: www.diffordsguide.com (3)
+ingredients: 
+- - "2"
+  - shot
+  - Bombay London dry gin
+- - "1"
+  - shot
+  - Martini Rosso sweet vermouth
+- - "1"
+  - shot
+  - Freshly squeezed orange juice
+- - "3"
+  - dash
+  - Angostura aromatic bitters
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+name: Abbey Martini
+rate: 3.5

@@ -1,0 +1,23 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Maraschino cherry<br />
+glass: Goblet
+infos: 
+  Comment: If correctly made this serious, gin dominated cocktail should be blush, not pink.
+  Origin: A classic Daisy variation.
+  source: www.diffordsguide.com (837)
+ingredients: 
+- - "2"
+  - shot
+  - Bombay London dry gin
+- - " 1/4 "
+  - shot
+  - Chartreuse Yellow liqueur
+- - " 1/4 "
+  - shot
+  - Freshly squeezed lemon juice
+- - " 1/4 "
+  - shot
+  - Pomegranate (grenadine) syrup
+method: SHAKE all ingredients with ice and strain into glass filled with crushed ice. CHURN (stir) drink with ice and serve with straws.
+name: Gin Daisy
+rate: 4.0

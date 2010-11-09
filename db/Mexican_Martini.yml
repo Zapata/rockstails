@@ -1,0 +1,23 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Jalapeno-stuffed olives
+glass: Martini
+infos: 
+  Comment: Basically a top-shelf Margarita garnished with Jalapeno-stuffed olives.<br /><br />
+  Origin: <br />
+  source: www.diffordsguide.com (1304)
+ingredients: 
+- - "2"
+  - shot
+  - Herradura 100% agave tequila
+- - "1"
+  - shot
+  - Freshly squeezed lime juice
+- - " 1/2 "
+  - shot
+  - Cointreau triple sec
+- - " 1/4 "
+  - shot
+  - Agave nectar
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+name: Mexican Martini
+rate: 4.5

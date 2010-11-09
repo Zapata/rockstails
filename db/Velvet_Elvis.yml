@@ -1,0 +1,22 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Lime wedge<br />
+glass: Old-fashioned
+infos: 
+  Comment: The merest bit on the sweet side, fruity with a hint of whiskey.
+  source: www.diffordsguide.com (2867)
+ingredients: 
+- - "1 1/2 "
+  - shot
+  - Jack Daniels Tennessee whiskey
+- - "1"
+  - shot
+  - Chambord
+- - " 1/2 "
+  - shot
+  - Freshly squeezed lime juice
+- - "1"
+  - top up with
+  - Lemonade/Sprite/7-Up
+method: SHAKE first three ingredients with ice and strain into ice-filled glass. TOP with lemon-lime soda.<br />
+name: Velvet Elvis
+rate: 3.5

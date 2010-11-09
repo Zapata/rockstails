@@ -1,0 +1,25 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Lemon zest twist
+glass: Martini
+infos: 
+  AKA: New Orleans Manhattan
+  Comment: Old-school, but approachable so. Dry and herbal. A great aperitif.<br /><br />
+  Origin: Recipe adapted from George J. Kappeler's 1895 'Modern American Drinks'. In his 1931 book 'Old Waldorf Bar Days', Albert Stevens Crockett, notes of this drink, "Named after a school for young men, whose site is contiguous to the Charles River, in a suburb of Boston. Alumni who drunk it sometimes lost the 'Harvard accent'.<br /><br />
+  Variant: Delmonico (with Angostura in place of orange bitters).
+  source: www.diffordsguide.com (934)
+ingredients: 
+- - "1 1/2 "
+  - shot
+  - Courvoisier V.S.O.P cognac
+- - "2"
+  - shot
+  - Martini Rosso sweet vermouth
+- - "2"
+  - dash
+  - Angostura orange bitters
+- - "1"
+  - top up with
+  - Soda from siphon
+method: STIR all ingredients with ice and strain into chilled glass. TOP with a shot or so of chilled soda.
+name: Harvard
+rate: 4.0

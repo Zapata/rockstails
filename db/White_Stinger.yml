@@ -1,0 +1,19 @@
+--- !ruby/object:DirtyCocktail 
+garnish: 
+glass: Old-fashioned
+infos: 
+  Comment: Liquid After Eight.
+  source: www.diffordsguide.com (2096)
+ingredients: 
+- - "2"
+  - shot
+  - Ketel One vodka
+- - " 1/2 "
+  - shot
+  - Giffard Menthe Pastille liqueur
+- - " 1/2 "
+  - shot
+  - "White cr\xE8me de cacao liqueur"
+method: SHAKE all ingredients with ice and strain into ice-filled glass.
+name: White Stinger
+rate: 3.5

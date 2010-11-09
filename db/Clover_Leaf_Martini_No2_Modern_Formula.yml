@@ -1,0 +1,29 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Float clover or mint leaf
+glass: Martini
+infos: 
+  AKA: With a mint leaf garnish this drink called a 'Clover Leaf'.
+  Comment: Carpet scaring red, this fruity adaptation perhaps has a wider appeal than the original Clover Leaf.
+  source: www.diffordsguide.com (581)
+ingredients: 
+- - "7"
+  - fresh
+  - Raspberries
+- - "3"
+  - fresh
+  - Mint leaves
+- - "2"
+  - shot
+  - Bombay London dry gin
+- - " 3/4 "
+  - shot
+  - Freshly squeezed lemon juice
+- - " 1/2 "
+  - shot
+  - Pomegranate (grenadine) syrup
+- - " 1/2 "
+  - fresh
+  - Egg white
+method: MUDDLE raspberries in base of shaker. Add other ingredients, SHAKE with ice and fine strain into chilled glass.
+name: Clover Leaf Martini No.2 (Modern Formula)
+rate: 3.5

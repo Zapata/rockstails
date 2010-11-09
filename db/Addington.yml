@@ -1,0 +1,20 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Orange zest twist
+glass: Martini
+infos: 
+  Comment: Substitute vermouths such as Antica Formula by Giuseppe B. Carpano dramatically alter the character of this cocktail.
+  Origin: Vintage cocktail of unknown origin.
+  source: www.diffordsguide.com (2135)
+ingredients: 
+- - "2"
+  - shot
+  - Martini Rosso sweet vermouth
+- - "1"
+  - shot
+  - Noilly Prat dry vermouth
+- - "1"
+  - top up with
+  - Soda from siphon
+method: SHAKE first two ingredients with ice and fine strain into chilled glass. TOP with just the merest squirt of soda from chilled siphon.
+name: Addington
+rate: 5.0

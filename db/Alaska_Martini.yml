@@ -1,0 +1,24 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Orange zest twist
+glass: Martini
+infos: 
+  AKA: Nome
+  Comment: <br />
+  Origin: In his 1930 'The Savoy Cocktail Book', Harry Craddock writes, &quot;so far as can be ascertained this delectable potion is NOT the staple diet of the Esquimaux. It was probably first thought of in South Carolina - hence its name.&quot; The addition of dry sherry is recommended in David Embury's 1948 'Fine Art of Mixing Drinks'.
+  source: www.diffordsguide.com (33)
+ingredients: 
+- - "2 1/2 "
+  - shot
+  - Bombay London dry gin
+- - " 3/4 "
+  - shot
+  - Chartreuse Yellow liqueur
+- - "1"
+  - shot
+  - Tio Pepe fino sherry
+- - "3"
+  - dash
+  - Angostura orange bitters
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+name: Alaska Martini
+rate: 4.0

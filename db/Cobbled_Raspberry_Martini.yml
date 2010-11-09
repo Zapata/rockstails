@@ -1,0 +1,23 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Mint leaf/raspberries on stick
+glass: Martini
+infos: 
+  Comment: The addition of a splash of wine to a simple Raspberry Martini adds another level of complexity.
+  Origin: Created by Yours Truly (Simon Difford) in 2004.
+  source: www.diffordsguide.com (448)
+ingredients: 
+- - "2"
+  - shot
+  - Ketel One vodka
+- - "1"
+  - shot
+  - Shiraz red wine
+- - " 1/4 "
+  - shot
+  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- - "12"
+  - fresh
+  - Raspberries
+method: MUDDLE raspberries in base of shaker. Add other ingredients, SHAKE with ice and fine strain into chilled glass.
+name: Cobbled Raspberry Martini
+rate: 4.5

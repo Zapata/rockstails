@@ -1,0 +1,20 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Mint leaf, pineapple wedge &amp; lime wedge
+glass: Old-fashioned
+infos: 
+  Comment: A simple almond twist on the classic Margarita - fantastic.
+  Origin: Created in 2005 by Crispin Somerville and Jasper Eyears at Bar Tiki, Mexico City.
+  source: www.diffordsguide.com (1955)
+ingredients: 
+- - "2"
+  - shot
+  - Herradura 100% agave tequila
+- - " 1/2 "
+  - shot
+  - Monin Almond (orgeat) syrup
+- - "1"
+  - shot
+  - Freshly squeezed lime juice
+method: SHAKE all ingredients with ice and strain into glass filled with crushed ice.
+name: Tiki Bar Margarita
+rate: 4.5

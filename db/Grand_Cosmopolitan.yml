@@ -1,0 +1,25 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Flamed orange zest twist
+glass: Martini
+infos: 
+  Comment: A 'grand' Cosmo indeed.
+  source: www.diffordsguide.com (888)
+ingredients: 
+- - "1"
+  - shot
+  - Ketel One vodka
+- - "1"
+  - shot
+  - Grand Marnier liqueur
+- - "1 1/2 "
+  - shot
+  - Ocean Spray cranberry juice
+- - " 3/4 "
+  - shot
+  - Freshly squeezed lime juice
+- - "2"
+  - dash
+  - Angostura orange bitters
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+name: Grand Cosmopolitan
+rate: 4.5

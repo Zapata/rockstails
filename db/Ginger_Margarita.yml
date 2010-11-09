@@ -1,0 +1,19 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Lime wedge on rim
+glass: Coupette
+infos: 
+  Comment: A Margarita spiced with ginger.
+  source: www.diffordsguide.com (851)
+ingredients: 
+- - "2"
+  - shot
+  - Herradura 100% agave tequila
+- - "1"
+  - shot
+  - Domaine de Canton ginger liqueur
+- - "1"
+  - shot
+  - Freshly squeezed lime juice
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+name: Ginger Margarita
+rate: 4.0

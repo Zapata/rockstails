@@ -1,0 +1,32 @@
+--- !ruby/object:DirtyCocktail 
+garnish: <p>Apricot slice on rim</p>
+glass: Collins
+infos: 
+  Comment: <p>This richly flavoured, velvety drink is almost custardy in consistency.</p>
+  Origin: <p>Created in 2002 by Salvatore Calabrese at the Library Bar, Lanesborough Hotel, London, England, for Kirsten Fosbury. The Fosbury Flop is the style of high jump used by almost all successful high jumpers today and introduced by the American Dick Fosbury, who won the Gold Medal at the 1968 Olympic Games.</p>
+  source: www.diffordsguide.com (782)
+ingredients: 
+- - "2"
+  - shot
+  - Zacapa aged rum
+- - "1"
+  - shot
+  - Bols apricot brandy liqueur
+- - "1"
+  - shot
+  - Hazelnut liqueur
+- - "2 1/2 "
+  - shot
+  - Freshly squeezed orange juice
+- - " 3/4 "
+  - shot
+  - Freshly squeezed lime juice
+- - " 1/8 "
+  - shot
+  - Pomegranate (grenadine) syrup
+- - " 1/2 "
+  - fresh
+  - Egg white
+method: <p>SHAKE all ingredients with ice and strain into ice-filled glass.</p>
+name: Fosbury Flip
+rate: 4.5

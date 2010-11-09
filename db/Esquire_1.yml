@@ -1,0 +1,25 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Orange zest twist
+glass: Martini
+infos: 
+  Comment: Spicy bourbon laden with orange fruit.
+  source: www.diffordsguide.com (726)
+ingredients: 
+- - "2"
+  - shot
+  - Maker's Mark bourbon
+- - " 3/4 "
+  - shot
+  - Grand Marnier liqueur
+- - " 3/4 "
+  - shot
+  - Freshly squeezed orange juice
+- - "1"
+  - dash
+  - Angostura aromatic bitters
+- - " 1/2 "
+  - shot
+  - Chilled mineral water
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+name: "Esquire #1"
+rate: 4.0

@@ -1,0 +1,26 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Orange slice on rim
+glass: Martini
+infos: 
+  Comment: The colour of a summer's twilight with a rich tangy orange flavour.
+  Origin: The classic drink is said to have been created for the Chicago World Fair in 1933. However, it won the British Empire Cocktail Competition that year and was more likely created by W J Tarling for Booth's gin and named after the brand's Red Lion Distillery in London.
+  source: www.diffordsguide.com (1657)
+ingredients: 
+- - "1 1/4 "
+  - shot
+  - Bombay London dry gin
+- - "1 1/4 "
+  - shot
+  - Grand Marnier liqueur
+- - "1"
+  - shot
+  - Freshly squeezed orange juice
+- - "1"
+  - shot
+  - Freshly squeezed lemon juice
+- - " 1/8 "
+  - shot
+  - Pomegranate (grenadine) syrup
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+name: "Red Lion #1 (Modern Formula)"
+rate: 4.5

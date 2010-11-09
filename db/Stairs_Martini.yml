@@ -1,0 +1,29 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Pear slice on rim
+glass: Martini
+infos: 
+  Comment: In London's cockney rhyming slang 'apples and pears' means stairs. So this tasty cocktail is appropriately named.
+  Origin: Created in 2000 by Ian Baldwin at the GE Club, London, England
+  source: www.diffordsguide.com (1866)
+ingredients: 
+- - "2"
+  - shot
+  - Ketel One vodka
+- - "1"
+  - shot
+  - Pressed pear juice
+- - "1"
+  - shot
+  - Pressed apple juice
+- - " 1/4 "
+  - shot
+  - Freshly squeezed lemon juice
+- - " 1/4 "
+  - shot
+  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- - "2"
+  - dash
+  - Angostura orange bitters
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+name: Stairs Martini
+rate: 5.0

@@ -1,0 +1,26 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Dust with freshly grated nutmeg
+glass: Collins
+infos: 
+  Comment: This traditional New Orleans hangover cure beats your bog-standard vanilla milkshake.
+  Origin: A New Orleans variant of the drink that enjoyed nationwide popularity during Prohibition.
+  source: www.diffordsguide.com (314)
+ingredients: 
+- - "2"
+  - shot
+  - Courvoisier V.S.O.P cognac
+- - "1"
+  - shot
+  - Double (heavy) cream
+- - "3"
+  - shot
+  - Milk
+- - " 1/4 "
+  - shot
+  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- - " 1/8 "
+  - shot
+  - Vanilla extract
+method: SHAKE all ingredients with ice and strain into glass filled with crushed ice.
+name: Brandy Milk Punch
+rate: 3.5

@@ -1,0 +1,20 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Lemon peel twist
+glass: Martini
+infos: 
+  Comment: Full-on rich cassis is barely tempered by gin and dry vermouth.
+  Origin: A drink created in the 1920s to promote cr`eme de cassis. This recipe is adapted from one in Harry Craddock's Savoy Cocktail Book.
+  source: www.diffordsguide.com (1470)
+ingredients: 
+- - "1 1/4 "
+  - shot
+  - Bombay London dry gin
+- - "1 1/4 "
+  - shot
+  - "Cr\xE8me de cassis liqueur"
+- - "1 1/4 "
+  - shot
+  - Noilly Prat dry vermouth
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+name: "Parisian Martini #1"
+rate: 4.0

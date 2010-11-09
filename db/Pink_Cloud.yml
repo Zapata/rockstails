@@ -1,0 +1,23 @@
+--- !ruby/object:DirtyCocktail 
+garnish: 
+glass: Martini
+infos: 
+  Comment: To make this sweet after dinner drink I've used amaretto and pomegranate syrup in place of cr`eme de noyaux. This almond flavoured liqueur made from apricot and peach stones is not currently available in the UK. US readers should use 2 shots of cr`eme de noyaux in place of the first two ingredients.
+  Origin: Adapted from a recipe in the 1947-72 Trader Vic's Bartender's Guide by Victor Bergeron.
+  source: www.diffordsguide.com (1540)
+ingredients: 
+- - "1"
+  - shot
+  - Luxardo Amaretto di Saschira
+- - "1"
+  - shot
+  - Pomegranate (grenadine) syrup
+- - "1"
+  - shot
+  - "White cr\xE8me de cacao liqueur"
+- - " 3/4 "
+  - shot
+  - Evaporated milk (sweetened)
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+name: Pink Cloud
+rate: 3.0

@@ -1,0 +1,23 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Orange slice
+glass: Collins
+infos: 
+  Comment: A Madras with more than a hint of apple juice.
+  Origin: Created in 1998 by Jamie Terrell, London, England.
+  source: www.diffordsguide.com (1217)
+ingredients: 
+- - "2"
+  - shot
+  - Ketel One vodka
+- - "2 1/2 "
+  - shot
+  - Pressed apple juice
+- - "1 1/2 "
+  - shot
+  - Ocean Spray cranberry juice
+- - "1"
+  - shot
+  - Freshly squeezed orange juice
+method: SHAKE all ingredients with ice and strain into ice-filled glass.
+name: Madroska
+rate: 3.0

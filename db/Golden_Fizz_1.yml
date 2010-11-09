@@ -1,0 +1,27 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Lemon slice &amp; mint
+glass: Collins (small 8oz)
+infos: 
+  Comment: You may have some raw egg inhibitions to conquer before you can enjoy this drink.
+  Origin: Mid-19th Century classic.
+  Variant: Gin Fizz
+  source: www.diffordsguide.com (876)
+ingredients: 
+- - "2"
+  - shot
+  - Bombay London dry gin
+- - "1"
+  - shot
+  - Freshly squeezed lemon juice
+- - " 1/2 "
+  - shot
+  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- - "1"
+  - fresh
+  - Egg yolk
+- - "1"
+  - top up with
+  - Soda from siphon
+method: SHAKE first 4 ingredients with ice and fine strain into chilled glass. TOP with soda.
+name: "Golden Fizz #1"
+rate: 3.5

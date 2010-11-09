@@ -1,0 +1,32 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Float mini Jaffa Cake
+glass: Martini
+infos: 
+  Comment: Sweet, dessert-style cocktail.
+  Origin: Created by Yours Truly (Simon Difford) in 2004. McVitie's Jaffa Cakes have a tangy orange jelly centre on a hardish sponge base, covered in dark chocolate. Back in 1991 these tasty little snacks beat off UK Customs &amp; Excise who sought to reclassify them as chocolate biscuits, which, unlike cakes, are categorised as luxuries and so subjected to Value Added Tax.
+  source: www.diffordsguide.com (1046)
+ingredients: 
+- - "1"
+  - shot
+  - Cointreau triple sec
+- - "1"
+  - shot
+  - "Brown cr\xE8me de cacao liqueur"
+- - " 1/2 "
+  - shot
+  - Orange-infused Ketel One vodka
+- - " 1/2 "
+  - shot
+  - Freshly squeezed lemon juice
+- - "1"
+  - shot
+  - Freshly squeezed orange juice
+- - "3"
+  - dash
+  - Angostura orange bitters
+- - "1"
+  - fresh
+  - Egg
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+name: Jaffa Martini
+rate: 3.5

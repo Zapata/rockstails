@@ -1,0 +1,29 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Lemon slice
+glass: Collins
+infos: 
+  Comment: This fruit laced mix is neither too sweet, nor too strong. It is perfect. <br /><br />
+  Origin: Probably the most famous of all punch recipes, this originated in 1732 at a Philadelphia fishing and social club called the 'State in Schuylkill'. As a punch the original was mixed in larger quantities and served from a punch bowl. <br />Many modern variations use soda water (club soda) in place of mineral water. The inclusion of peach liqueur is a modern substitute for the traditional peach brandy. However, it's believed the Schuylkill original omitted peach entirely.<br /><br />
+  source: www.diffordsguide.com (752)
+ingredients: 
+- - "1"
+  - shot
+  - Courvoisier V.S.O.P cognac
+- - "1"
+  - shot
+  - Bacardi Oro golden rum
+- - " 3/4 "
+  - shot
+  - "Cr\xE8me p\xEAche de vigne liqueur"
+- - " 3/4 "
+  - shot
+  - Freshly squeezed lemon juice
+- - " 1/4 "
+  - shot
+  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- - "2"
+  - shot
+  - Chilled mineral water
+method: SHAKE all ingredients with ice and strain into ice-filled glass.
+name: "Fish House of Punch #1"
+rate: 5.0

@@ -1,0 +1,32 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Palma Violet sweets
+glass: Martini
+infos: 
+  Comment: A subtly floral drink with a delicate colour.
+  Origin: Created in 2001 by Jamie Terrell at LAB, London, England.
+  source: www.diffordsguide.com (1463)
+ingredients: 
+- - "1 1/2 "
+  - shot
+  - Ketel One vodka
+- - " 1/4 "
+  - shot
+  - Peach Tree peach schnapps
+- - "1"
+  - shot
+  - Benoit Serres cr`eme de violette
+- - " 1/2 "
+  - shot
+  - Freshly squeezed lemon juice
+- - " 1/4 "
+  - shot
+  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- - "1"
+  - dash
+  - Angostura orange bitters
+- - " 1/2 "
+  - shot
+  - Chilled mineral water
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+name: Palma Violet Martini
+rate: 3.5

@@ -1,0 +1,24 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Mint leaf
+glass: Martini
+infos: 
+  Comment: Minty tequila.
+  Origin: Named after Harper Lee's 1960 novel 'To Kill a Mockingbird', this is thought to have been created some time in the 1960s. Genius.
+  Variant: With white cr`eme de menthe instead of green cr`eme de menthe.
+  source: www.diffordsguide.com (1931)
+ingredients: 
+- - "2"
+  - shot
+  - Herradura 100% agave tequila
+- - " 1/2 "
+  - shot
+  - "Green cr\xE8me de menthe liqueur"
+- - " 1/2 "
+  - shot
+  - Freshly squeezed lime juice
+- - " 1/8 "
+  - shot
+  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+name: Tequila Mockingbird
+rate: 3.0

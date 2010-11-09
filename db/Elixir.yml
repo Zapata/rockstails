@@ -1,0 +1,26 @@
+--- !ruby/object:DirtyCocktail 
+garnish: <p>Mint sprig</p>
+glass: Collins
+infos: 
+  Comment: <p>A minty, herbal, refreshing summer drink.</p>
+  Origin: <p>Created in 2003 by Gian Franco Pola for Capannina in Cremona and Coconuts in Rimini, Italy.</p>
+  source: www.diffordsguide.com (709)
+ingredients: 
+- - "7"
+  - fresh
+  - Mint leaves
+- - "1 1/2 "
+  - shot
+  - Chartreuse Green liqueur
+- - "1"
+  - shot
+  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- - " 3/4 "
+  - shot
+  - Freshly squeezed lime juice
+- - "1"
+  - top up with
+  - Soda (club soda)
+method: <p>Lightly MUDDLE mint in base of shaker. Add next 3 ingredients, SHAKE with ice and strain into ice-filled glasses. TOP with soda, stir and serve with straws.</p>
+name: Elixir
+rate: 4.0

@@ -1,0 +1,20 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Float three coffee beans
+glass: Martini
+infos: 
+  Comment: A tequila laced wake up call.
+  Origin: Adapted from a drink created in 2005 by Henry Besant &amp; Andres Masso, London, England, and named after the Mexican state where the tequila industry is centred.
+  source: www.diffordsguide.com (1048)
+ingredients: 
+- - "2"
+  - shot
+  - Herradura 100% agave tequila
+- - "1"
+  - shot
+  - Hot espresso coffee
+- - "1"
+  - shot
+  - Kahla coffee liqueur
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+name: Jalisco Espresso
+rate: 4.5

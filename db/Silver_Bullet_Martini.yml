@@ -1,0 +1,24 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Lemon zest twist
+glass: Martini
+infos: 
+  Comment: Caraway and fennel flavour this unusual sweet 'n' sour drink.
+  Origin: Thought to have been created in the 1920s.
+  Variant: A modern variation is to substitute sambuca for k"ummel.
+  source: www.diffordsguide.com (1775)
+ingredients: 
+- - "2"
+  - shot
+  - Bombay London dry gin
+- - "1"
+  - shot
+  - Kummel
+- - "1"
+  - shot
+  - Freshly squeezed lemon juice
+- - " 1/4 "
+  - shot
+  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+name: Silver Bullet Martini
+rate: 4.0

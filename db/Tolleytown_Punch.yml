@@ -1,0 +1,26 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Cranberries, orange &amp; lemon slices
+glass: Collins
+infos: 
+  Comment: A fruity long drink with a dry edge that also works well made in bulk and served from a  punch bowl.
+  Origin: A drink promoted by Jack Daniel's. Tolleytown lies just down the road from Lynchburg.
+  source: www.diffordsguide.com (1970)
+ingredients: 
+- - "2"
+  - shot
+  - Jack Daniels Tennessee whiskey
+- - "2"
+  - shot
+  - Ocean Spray cranberry juice
+- - " 1/2 "
+  - shot
+  - Fresh pressed pineapple juice
+- - " 1/2 "
+  - shot
+  - Freshly squeezed orange juice
+- - "1"
+  - top up with
+  - Ginger ale
+method: SHAKE first 4 ingredients with ice and strain into ice-filled glass. TOP with ginger ale.
+name: Tolleytown Punch
+rate: 3.5

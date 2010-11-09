@@ -1,0 +1,32 @@
+--- !ruby/object:DirtyCocktail 
+garnish: " Orange zest twist"
+glass: Martini
+infos: 
+  Comment: |-
+    <span lang="EN-US">A
+    brandy influenced wet, sweet Martini with a hint of orange.</span>
+  Origin: " <span lang=\"EN-US\">First\r\n\
+    published in A. S. Crockett's 1935 'The Old Waldorf-Astoria Bar Book'. The name\r\n\
+    may be a reference to the '&amp;' in Martini &amp; Rossi, likely the brand of\r\n\
+    vermouth originally used.</span>"
+  source: www.diffordsguide.com (2246)
+ingredients: 
+- - "1"
+  - shot
+  - Old Tom gin
+- - "1"
+  - shot
+  - Courvoisier V.S.O.P cognac
+- - "1"
+  - shot
+  - Martini Rosso sweet vermouth
+- - " 1/4 "
+  - shot
+  - Grand Marnier liqueur
+- - "1"
+  - dash
+  - Angostura orange bitters
+method: " <span lang=\"EN-US\">STIR\r\n\
+  all ingredients with ice and strain into chilled glass."
+name: Ampersand
+rate: 4.5

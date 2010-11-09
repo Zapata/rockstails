@@ -1,0 +1,20 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Mint leaf
+glass: Martini
+infos: 
+  Comment: This ros Martini is harder than it looks - perhaps why the name?
+  Variant: Served 'dry' without the grenadine.
+  source: www.diffordsguide.com (2258)
+ingredients: 
+- - "2 1/2 "
+  - shot
+  - Bombay London dry gin
+- - " 1/4 "
+  - shot
+  - Martini Rosso sweet vermouth
+- - " 1/4 "
+  - shot
+  - Pomegranate (grenadine) syrup
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+name: "Army Martini "
+rate: 4.0

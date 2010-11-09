@@ -1,0 +1,20 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Lemon zest twist
+glass: Martini
+infos: 
+  Comment: A simple, well balanced, fruity drink, laced with rum.
+  Origin: Created in 2002 by Asa Nevestveit at Sosho, London, England.
+  source: www.diffordsguide.com (1982)
+ingredients: 
+- - "2"
+  - shot
+  - Bacardi Superior rum
+- - " 1/2 "
+  - shot
+  - Chambord
+- - "1 1/2 "
+  - shot
+  - Pressed apple juice
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+name: Tre Martini
+rate: 4.0

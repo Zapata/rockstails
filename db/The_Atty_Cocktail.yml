@@ -1,0 +1,23 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Lemon zest twist
+glass: Martini
+infos: 
+  Comment: Dry and aromatic with floral hints and aniseed notes.
+  Origin: Adapted from Harry Craddock's 1930 'The Savoy Cocktail Book'.
+  source: www.diffordsguide.com (532)
+ingredients: 
+- - "2 1/4 "
+  - shot
+  - Bombay London dry gin
+- - " 3/4 "
+  - shot
+  - Noilly Prat dry vermouth
+- - " 1/4 "
+  - shot
+  - Benoit Serres cr`eme de violette
+- - " 1/4 "
+  - shot
+  - "La F\xE9e Parisienne (68%) absinthe"
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+name: The Atty Cocktail
+rate: 4.0

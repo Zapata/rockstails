@@ -1,0 +1,19 @@
+--- !ruby/object:DirtyCocktail 
+garnish: 
+glass: Shot
+infos: 
+  Comment: Coffee, banana and creamy whiskey. Very sweet but not too offensive and easy to layer.
+  source: www.diffordsguide.com (192)
+ingredients: 
+- - " 1/2 "
+  - shot
+  - Kahla coffee liqueur
+- - " 1/2 "
+  - shot
+  - "Cr\xE8me de banane liqueur"
+- - " 1/2 "
+  - shot
+  - Baileys Irish cream liqueur
+method: Refrigerate ingredients then LAYER in chilled glass by carefully pouring in the following order.
+name: Beam-me-up Scotty
+rate: 2.5

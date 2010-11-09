@@ -1,0 +1,25 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Pineapple wedge on rim
+glass: Collins
+infos: 
+  Comment: A long, refreshing tropical drink with melon, coconut and pineapple juice.
+  source: www.diffordsguide.com (116)
+ingredients: 
+- - "1 1/2 "
+  - shot
+  - Bacardi Superior rum
+- - " 3/4 "
+  - shot
+  - Midori green melon liqueur
+- - " 3/4 "
+  - shot
+  - Malibu coconut rum liqueur
+- - "2 1/2 "
+  - shot
+  - Fresh pressed pineapple juice
+- - " 3/4 "
+  - shot
+  - Freshly squeezed lemon juice
+method: SHAKE all ingredients with ice and strain into ice-filled glass.
+name: Atomic Dog
+rate: 3.0

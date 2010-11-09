@@ -1,0 +1,22 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Pineapple wedge
+glass: Collins
+infos: 
+  Comment: A simple recipe and an effective drink.
+  source: www.diffordsguide.com (1973)
+ingredients: 
+- - "1"
+  - shot
+  - Herradura 100% agave tequila
+- - "1"
+  - shot
+  - Cointreau triple sec
+- - "2"
+  - shot
+  - Ocean Spray cranberry juice
+- - "2"
+  - shot
+  - Fresh pressed pineapple juice
+method: SHAKE all ingredients with ice and strain into ice-filled glass.
+name: Tomahawk
+rate: 3.5

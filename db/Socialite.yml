@@ -1,0 +1,26 @@
+--- !ruby/object:DirtyCocktail 
+garnish: None
+glass: Old-fashioned
+infos: 
+  Comment: Rich citrus with lashings of vanilla.
+  Origin: Discovered in 2001 at Lab Bar, London, England.
+  source: www.diffordsguide.com (1789)
+ingredients: 
+- - "1"
+  - shot
+  - Grand Marnier liqueur
+- - "1"
+  - shot
+  - Vanilla-infused Ketel One vodka
+- - "1"
+  - shot
+  - Luxardo limoncello liqueur
+- - "1"
+  - shot
+  - Freshly squeezed lemon juice
+- - " 1/2 "
+  - shot
+  - Monin Vanilla sugar syrup
+method: SHAKE all ingredients with ice and strain into glass filled with crushed ice
+name: Socialite
+rate: 3.5

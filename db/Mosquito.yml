@@ -1,0 +1,23 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Mint sprig<br />
+glass: Old-fashioned
+infos: 
+  Comment: A short pisco based Mojito.<br _moz_editor_bogus_node="TRUE" />
+  Origin: Adapted from a 2008 recipe created by Hans Hilburg at El Pisquerito, Cuzco, Peru.<br />
+  source: www.diffordsguide.com (2511)
+ingredients: 
+- - "6"
+  - fresh
+  - Mint leaves
+- - "2"
+  - shot
+  - Macchu pisco
+- - "1"
+  - shot
+  - Freshly squeezed lime juice
+- - " 3/4 "
+  - shot
+  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+method: SHAKE all ingredients with ice and fine strain into ice-filled glass.
+name: Mosquito
+rate: 4.0

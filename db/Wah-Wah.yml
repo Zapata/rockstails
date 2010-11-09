@@ -1,0 +1,26 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Orange zest twist<br />
+glass: Martini
+infos: 
+  Comment: Bittersweet and complex with hints of elderflower and grapefruit.
+  Origin: Created in 2007 at Range, San Francisco, USA.
+  source: www.diffordsguide.com (2760)
+ingredients: 
+- - "1 1/2 "
+  - shot
+  - Macchu pisco
+- - "1"
+  - shot
+  - St-Germain elderflower liqueur
+- - " 3/4 "
+  - shot
+  - Aperol
+- - " 3/4 "
+  - shot
+  - Freshly squeezed grapefruit juice
+- - "1"
+  - dash
+  - Angostura aromatic bitters
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+name: Wah-Wah
+rate: 4.0

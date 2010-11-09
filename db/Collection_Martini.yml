@@ -1,0 +1,26 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Lime wedge
+glass: Martini
+infos: 
+  Comment: Honey, spice and vodka enhanced by blackberries, with a very alcoholic edge.
+  Origin: Originally created by Matthew Randall whilst at The Collection, London, England.
+  source: www.diffordsguide.com (457)
+ingredients: 
+- - " 3/4 "
+  - shot
+  - Ketel One vodka
+- - " 3/4 "
+  - shot
+  - Ketel One Citroen vodka
+- - " 3/4 "
+  - shot
+  - Bndictine D.O.M.
+- - " 3/4 "
+  - shot
+  - "Cr\xE8me de M\xFBre liqueur"
+- - " 1/2 "
+  - shot
+  - Freshly squeezed lime juice
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+name: Collection Martini
+rate: 3.0

@@ -1,0 +1,25 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Orange zest twist
+glass: Martini
+infos: 
+  Comment: "'Grande Champagne' refers to the top cru of the Cognac region: this drink is suitably elite.<br /><br />"
+  source: www.diffordsguide.com (893)
+ingredients: 
+- - "1 1/2 "
+  - shot
+  - Courvoisier V.S.O.P cognac
+- - " 3/4 "
+  - shot
+  - Grand Marnier liqueur
+- - " 1/2 "
+  - shot
+  - Freshly squeezed lemon juice
+- - "1"
+  - shot
+  - Ocean Spray cranberry juice
+- - " 1/2 "
+  - fresh
+  - Egg white
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+name: Grande Champagne Cosmo
+rate: 4.5

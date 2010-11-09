@@ -1,0 +1,22 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Orange zest twist
+glass: Martini
+infos: 
+  Comment: Turquoise blue, easy drinking, fruity gin.
+  source: www.diffordsguide.com (140)
+ingredients: 
+- - "2"
+  - shot
+  - Bombay London dry gin
+- - " 3/4 "
+  - shot
+  - Bols blue curacao liqueur
+- - " 3/4 "
+  - shot
+  - Freshly squeezed grapefruit juice
+- - " 3/4 "
+  - shot
+  - Fresh pressed pineapple juice
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+name: Baby Blue Martini
+rate: 3.5

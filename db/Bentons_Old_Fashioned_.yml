@@ -1,0 +1,20 @@
+--- !ruby/object:DirtyCocktail 
+garnish: " Orange zest twist<br />"
+glass: Old-fashioned
+infos: 
+  Comment: "Even vegetarians like bacon and everybody likes Old Fashioneds. "
+  Origin: " Created in 2008 by Don Lee at PDT, New York City, USA.<br />"
+  source: www.diffordsguide.com (2777)
+ingredients: 
+- - "2"
+  - dash
+  - Angostura aromatic bitters
+- - " 1/4 "
+  - shot
+  - Maple syrup
+- - "2"
+  - shot
+  - Maker's Mark bourbon
+method: " STIR bourbon and maple syrup in base of mixing glass until syrup dissolves. Add bitters and ie and STIR again. Strain into ice-filled glass. <br />"
+name: "Benton's Old Fashioned "
+rate: 5.0

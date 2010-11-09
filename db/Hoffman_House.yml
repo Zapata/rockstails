@@ -1,0 +1,20 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Lemon zest twist
+glass: Martini
+infos: 
+  Comment: A shaken Wet (5:1) Martini with orange bitters.
+  Origin: Apparently the house cocktail at Manhattan's Hoffman House in the 1880s.
+  source: www.diffordsguide.com (2445)
+ingredients: 
+- - "2 1/2 "
+  - shot
+  - Bombay London dry gin
+- - " 1/2 "
+  - shot
+  - Noilly Prat dry vermouth
+- - "2"
+  - dash
+  - Angostura orange bitters
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+name: Hoffman House
+rate: 4.0

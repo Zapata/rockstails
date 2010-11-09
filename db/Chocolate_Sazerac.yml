@@ -1,0 +1,26 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Lemon twist (discarded) &amp; apple wedge
+glass: Old-fashioned
+infos: 
+  Comment: This twist on the classic Sazerac pairs absinthe, bourbon and chocolate to great effect.
+  Origin: Created in 2005 by Tonin Kacaj at Maze, London, England.
+  source: www.diffordsguide.com (430)
+ingredients: 
+- - " 1/2 "
+  - shot
+  - "La F\xE9e Parisienne (68%) absinthe"
+- - "2"
+  - shot
+  - Maker's Mark bourbon
+- - " 1/2 "
+  - shot
+  - "White cr\xE8me de cacao liqueur"
+- - " 1/4 "
+  - shot
+  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- - "2"
+  - dash
+  - Peychaud's aromatic bitters
+method: Fill glass with ice, POUR in absinthe, top up with water and leave the mixture to stand in the glass. Separately SHAKE bourbon, cacao, sugar and bitters with ice. Finally discard contents of glass (absinthe, water and ice) and strain contents of shaker into empty absinthe-coated glass.
+name: Chocolate Sazerac
+rate: 4.0

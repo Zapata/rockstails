@@ -1,0 +1,22 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Lemon zest twist
+glass: Martini
+infos: 
+  Comment: Reminiscent of an Apple Cart (a Calvados Sidecar), this is simple, balanced and tastes great.
+  source: www.diffordsguide.com (2107)
+ingredients: 
+- - "2"
+  - shot
+  - Courvoisier V.S.O.P cognac
+- - " 1/2 "
+  - shot
+  - Sour apple liqueur
+- - " 1/2 "
+  - shot
+  - Noilly Prat dry vermouth
+- - " 1/4 "
+  - shot
+  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+method: STIR all ingredients with ice and strain into chilled glass.
+name: Winter Martini
+rate: 4.0

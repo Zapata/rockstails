@@ -1,0 +1,20 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Orange zest twist<br />
+glass: Martini
+infos: 
+  Comment: Wine-like with strong hints of bittersweet orange.
+  Origin: Vintage cocktail of unknown origin.
+  source: www.diffordsguide.com (2569)
+ingredients: 
+- - "2"
+  - shot
+  - Dubonnet Red (French made)
+- - "1"
+  - shot
+  - Amer Picon
+- - " 1/2 "
+  - shot
+  - Cointreau triple sec
+method: STIR all ingredients with ice and strain into chilled glass.<br /><br />
+name: Sanctuary
+rate: 3.0

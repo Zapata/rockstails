@@ -1,0 +1,26 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Apple wedge
+glass: Martini
+infos: 
+  Comment: This delicate drink demands freshly pressed apple juice and flavoursome Scotch with subtle peat.
+  Origin: A combined effort by the staff of London's GE Club in January 2002, this was named by Linda, a waitress at the club who happens to be blonde. She claimed the name was inspired by the cocktail's straw colour.
+  source: www.diffordsguide.com (827)
+ingredients: 
+- - "1 3/4 "
+  - shot
+  - Johnnie Walker Scotch Whisky
+- - "1 1/4 "
+  - shot
+  - Sauvignon blanc wine
+- - "1"
+  - shot
+  - Pressed apple juice
+- - " 1/2 "
+  - shot
+  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- - " 1/4 "
+  - shot
+  - Freshly squeezed lemon juice
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+name: GE Blonde
+rate: 4.5

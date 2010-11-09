@@ -1,0 +1,26 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Berries on stick
+glass: Martini
+infos: 
+  Comment: Rich berry fruit fortified with vodka and tamed by the tannins in a  splash of red wine.
+  Origin: Created in 2006 by yours truly.
+  source: www.diffordsguide.com (1992)
+ingredients: 
+- - "7"
+  - fresh
+  - Raspberries
+- - "2"
+  - shot
+  - Ketel One vodka
+- - " 1/2 "
+  - shot
+  - "Cr\xE8me de cassis liqueur"
+- - " 1/2 "
+  - shot
+  - "Cr\xE8me de fraise du bois liqueur"
+- - " 1/4 "
+  - shot
+  - Shiraz red wine
+method: MUDDLE raspberries in base of shaker. Add other ingredients, SHAKE with ice and fine strain into chilled glass.
+name: Tripleberry
+rate: 4.0

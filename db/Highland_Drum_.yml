@@ -1,0 +1,29 @@
+--- !ruby/object:DirtyCocktail 
+garnish: " Orange zest twist<br />"
+glass: Coupette
+infos: 
+  Comment: The classic blend of Scotch and Drambuie with fresh orange and vermouth complexity.<br /><br />
+  Origin: Created by Salvatore Calabrese at Salvatore at Fifty, London, England.<br /><br />
+  source: www.diffordsguide.com (2443)
+ingredients: 
+- - "2"
+  - shot
+  - Spey malt whisky
+- - "1"
+  - shot
+  - Noilly Prat dry vermouth
+- - " 3/4 "
+  - shot
+  - Drambuie
+- - " 1/4 "
+  - shot
+  - Freshly squeezed orange juice
+- - "1"
+  - spoon
+  - Monin Honey syrup
+- - "2"
+  - dash
+  - Angostura aromatic bitters
+method: " SHAKE all ingredients with ice and fine strain into chilled glass."
+name: "Highland Drum "
+rate: 3.5

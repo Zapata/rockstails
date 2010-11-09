@@ -1,0 +1,20 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Rosemary sprig<br />
+glass: Martini
+infos: 
+  Comment: Dry, but not oppressively so. Zingy grapefruit with gin complexity and delicate floral notes.
+  Origin: Adapted from a drink created in 2007 by Philip Spee at The Beverly Hills Hotel, California, USA.
+  source: www.diffordsguide.com (2292)
+ingredients: 
+- - "2"
+  - shot
+  - Bombay London dry gin
+- - "1"
+  - shot
+  - St-Germain elderflower liqueur
+- - "1"
+  - shot
+  - Freshly squeezed pink grapefruit juice
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+name: Beverly Hills Hotel Martini
+rate: 4.0

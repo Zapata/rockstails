@@ -1,0 +1,19 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Float amaretti biscuit
+glass: Collins
+infos: 
+  Comment: If you haven't got to grips with Scotch but like amaretto, try this spicy almond combination.
+  source: www.diffordsguide.com (1181)
+ingredients: 
+- - "1 1/2 "
+  - shot
+  - Johnnie Walker Scotch Whisky
+- - "1 1/2 "
+  - shot
+  - Luxardo Amaretto di Saschira
+- - "1"
+  - top up with
+  - Ginger ale
+method: POUR all ingredients into ice-filled glass, stir and serve with straws.
+name: Loch Almond
+rate: 4.0

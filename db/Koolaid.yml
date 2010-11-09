@@ -1,0 +1,29 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Lime wedge
+glass: Collins
+infos: 
+  Comment: Tangy liquid marzipan with hints if melon cranberry and orange juice.
+  Origin: A drink with unknown origins that emerged and morphed during the 1990s.
+  source: www.diffordsguide.com (1123)
+ingredients: 
+- - "1 1/2 "
+  - shot
+  - Ketel One vodka
+- - " 3/4 "
+  - shot
+  - Midori green melon liqueur
+- - " 3/4 "
+  - shot
+  - Luxardo Amaretto di Saschira
+- - " 1/2 "
+  - shot
+  - Freshly squeezed lime juice
+- - "2"
+  - shot
+  - Ocean Spray cranberry juice
+- - "1"
+  - shot
+  - Freshly squeezed orange juice
+method: SHAKE all ingredients with ice and strain into ice-filled glass.
+name: Koolaid
+rate: 4.0

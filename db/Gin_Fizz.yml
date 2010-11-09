@@ -1,0 +1,24 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Slice of lemon and mint sprig
+glass: Collins (small 8oz)
+infos: 
+  Comment: Everyone has heard of this clean, refreshing, long drink but few have actually tried it.<br /><br />
+  Origin: A mid-19th century classic.<br /><br />
+  Variant: With the addition of egg white this drink becomes a 'Silver Fizz'; with egg yolk it becomes a 'Golden Fizz'. A Royal Fizz includes one whole egg, a Diamond Fizz uses champagne instead of charged water, a Green Fizz has a dash of green cr`eme de menthe and a Purple Fizz uses equal parts of sloe gin and grapefruit juice in place of gin and lemon juice.<br /><br />
+  source: www.diffordsguide.com (840)
+ingredients: 
+- - "2"
+  - shot
+  - Old Tom gin
+- - "1"
+  - shot
+  - Freshly squeezed lemon juice
+- - " 1/2 "
+  - shot
+  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- - "1"
+  - top up with
+  - Soda from siphon
+method: SHAKE first 3 ingredients with ice and strain into chilled glass. TOP with soda.
+name: Gin Fizz
+rate: 4.0

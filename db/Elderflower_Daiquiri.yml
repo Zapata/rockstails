@@ -1,0 +1,20 @@
+--- !ruby/object:DirtyCocktail 
+garnish: <p>Lime wedge on rim</p>
+glass: Martini
+infos: 
+  Comment: <p>Elderflower liqueur adds floral interest to the classic Daiquiri. </p>
+  Origin: <p>Created in 2006 by Yours Truly (Simon Difford).</p>
+  source: www.diffordsguide.com (2641)
+ingredients: 
+- - "2"
+  - shot
+  - Bacardi Superior rum
+- - "1"
+  - shot
+  - St-Germain elderflower liqueur
+- - " 1/2 "
+  - shot
+  - Freshly squeezed lime juice
+method: <p>SHAKE all ingredients with ice and fine strain into chilled glass.</p>
+name: Elderflower Daiquiri
+rate: 4.0

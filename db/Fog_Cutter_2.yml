@@ -1,0 +1,28 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Orange slice
+glass: Old-fashioned
+infos: 
+  Comment: A well balanced (neither too strong nor to sweet), short, fruity drink.
+  source: www.diffordsguide.com (779)
+ingredients: 
+- - "1"
+  - shot
+  - Bacardi Superior rum
+- - " 1/2 "
+  - shot
+  - Courvoisier V.S.O.P cognac
+- - " 1/2 "
+  - shot
+  - Bombay London dry gin
+- - " 1/4 "
+  - shot
+  - Heering cherry brandy liqueur
+- - " 1/2 "
+  - shot
+  - Freshly squeezed lime juice
+- - " 1/4 "
+  - shot
+  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+method: SHAKE first 5 ingredients with ice and strain into glass filled with crushed ice. DRIZZLE cherry brandy over drink and serve with straws.
+name: "Fog Cutter #2"
+rate: 4.0

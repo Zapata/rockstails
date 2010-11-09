@@ -1,0 +1,25 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Grated nutmeg
+glass: Martini
+infos: 
+  Comment: This creamy after-dinner drink features Scotch and honey with a hint of coffee. Not too sweet.
+  source: www.diffordsguide.com (2090)
+ingredients: 
+- - " 3/4 "
+  - shot
+  - Johnnie Walker Scotch Whisky
+- - " 3/4 "
+  - shot
+  - Kahla coffee liqueur
+- - " 3/4 "
+  - shot
+  - Drambuie
+- - " 3/4 "
+  - shot
+  - Milk
+- - " 3/4 "
+  - shot
+  - Double (heavy) cream
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+name: White Knight
+rate: 3.5

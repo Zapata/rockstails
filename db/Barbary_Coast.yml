@@ -1,0 +1,26 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Freshly grated nutmeg dust
+glass: Martini
+infos: 
+  Comment: Cream and white chocolate liqueur smooth but don't smother gin and Scotch.
+  Origin: A Prohibition era cocktail (1920-1933) of unknown origin.
+  source: www.diffordsguide.com (170)
+ingredients: 
+- - "1"
+  - shot
+  - Johnnie Walker Scotch Whisky
+- - "1"
+  - shot
+  - Bombay London dry gin
+- - "1"
+  - shot
+  - "White cr\xE8me de cacao liqueur"
+- - " 1/2 "
+  - shot
+  - Double (heavy) cream
+- - " 1/2 "
+  - shot
+  - Milk
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+name: Barbary Coast
+rate: 3.5

@@ -1,0 +1,20 @@
+--- !ruby/object:DirtyCocktail 
+garnish: <p>Orange zest twist</p>
+glass: Martini
+infos: 
+  Comment: <p>Sure to warm and fairly good.</p>
+  Origin: <p>Adapted from Harry Craddock's 1930 'The Savoy Cocktail Book'.</p>
+  source: www.diffordsguide.com (2159)
+ingredients: 
+- - "2"
+  - shot
+  - Bacardi Superior rum
+- - " 1/2 "
+  - shot
+  - Cointreau triple sec
+- - "1"
+  - shot
+  - Martini Rosso sweet vermouth
+method: <p>SHAKE all ingredients with ice and fine strain into chilled glass.</p>
+name: Fair & Warmer Cocktail
+rate: 3.0

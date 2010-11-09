@@ -1,0 +1,29 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Three raspberries
+glass: Collins
+infos: 
+  Comment: A berry rich cocktail laced with whiskey, flavoured with Amaretto and topped with ginger beer.
+  Origin: Adapted in 2003 from a  recipe Alex Kammerling created for TGI Friday's UK. Named partly for the ingredients and partly as a reference to Jack Daniel's proprietor (and nephew), Lemuel Motlow, who took up mule trading during Prohibition.
+  source: www.diffordsguide.com (1927)
+ingredients: 
+- - "8"
+  - fresh
+  - Raspberries
+- - "1 1/2 "
+  - shot
+  - Jack Daniels Tennessee whiskey
+- - "1"
+  - shot
+  - Luxardo Amaretto di Saschira
+- - "1 1/2 "
+  - shot
+  - Ocean Spray cranberry juice
+- - " 1/2 "
+  - shot
+  - Freshly squeezed lime juice
+- - "1"
+  - top up with
+  - Ginger beer
+method: MUDDLE raspberries in base of shaker. Add next 4 ingredients, SHAKE with ice and strain into ice-filled glass. TOP with ginger beer, lightly stir and serve with straws.
+name: Tennessee Berry Mule
+rate: 4.0

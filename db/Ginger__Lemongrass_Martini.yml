@@ -1,0 +1,32 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Float apple slice
+glass: Martini
+infos: 
+  Comment: Consider infusing the lemongrass in gin instead of muddling.
+  Origin: Created in 2005 by Yours Truly (Simon Difford).
+  source: www.diffordsguide.com (847)
+ingredients: 
+- - "1"
+  - slice
+  - Fresh root ginger (thumbnail sized)
+- - " 1/2 "
+  - fresh
+  - Lemongrass stem (chopped)
+- - "2"
+  - spoon
+  - Runny honey
+- - "2"
+  - unit
+  - Bombay London dry gin
+- - " 1/4 "
+  - shot
+  - Noilly Prat dry vermouth
+- - " 1/4 "
+  - shot
+  - Pressed apple juice
+- - " 3/4 "
+  - shot
+  - Chilled mineral water
+method: MUDDLE ginger and lemongrass in base of shaker. Add other ingredients and STIR until honey dissolves. SHAKE with ice and fine strain into chilled glass.
+name: Ginger & Lemongrass Martini
+rate: 4.0

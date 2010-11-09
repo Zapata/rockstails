@@ -1,0 +1,26 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Apple slice
+glass: Martini
+infos: 
+  Comment: Most unusual with apple, hazelnut and lemon freshness.<br /><br />
+  Origin: Created by Tom Lawman at Snafu, Aberdeen. Lekker Lekker (pronounced 'Laker Laker') is Afrikaans for very nice, which is what Tom's South African friend exclaimed when he tasted this drink. <br /><br />
+  source: www.diffordsguide.com (2465)
+ingredients: 
+- - "1"
+  - shot
+  - Zubrwka bison vodka
+- - " 3/4 "
+  - shot
+  - Hazelnut liqueur
+- - " 1/2 "
+  - shot
+  - Freshly squeezed lemon juice
+- - "2"
+  - shot
+  - Pressed apple juice
+- - " 1/2 "
+  - shot
+  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+name: Lekker Lekker
+rate: 3.5

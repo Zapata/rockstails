@@ -1,0 +1,26 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Lemon zest twist
+glass: Martini
+infos: 
+  Comment: A classic cocktail flavour combination that still pleases.
+  Origin: A classic from the 1930s resurrected by Ted Haigh in his 2004 book 'Vintage Spirits &amp; Forgotten Cocktails'.
+  source: www.diffordsguide.com (173)
+ingredients: 
+- - "2"
+  - shot
+  - Bombay London dry gin
+- - "1"
+  - shot
+  - Bols apricot brandy liqueur
+- - " 1/2 "
+  - shot
+  - Freshly squeezed lemon juice
+- - "2"
+  - dash
+  - Angostura aromatic bitters
+- - " 1/2 "
+  - shot
+  - Chilled mineral water
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+name: Barnum (Was Right)
+rate: 3.5

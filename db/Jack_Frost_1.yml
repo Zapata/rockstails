@@ -1,0 +1,26 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Orange zest twist<br />
+glass: Old-fashioned
+infos: 
+  Comment: Tangy and fruity with the whiskey base dominating.
+  Origin: <br /><br />
+  source: www.diffordsguide.com (2696)
+ingredients: 
+- - "2"
+  - shot
+  - Jack Daniels Tennessee whiskey
+- - " 1/2 "
+  - shot
+  - Drambuie
+- - " 3/4 "
+  - shot
+  - Freshly squeezed orange juice
+- - " 1/2 "
+  - shot
+  - Freshly squeezed lemon juice
+- - " 1/4 "
+  - shot
+  - Pomegranate (grenadine) syrup
+method: SHAKE all ingredients with ice and strain into ice-filled glass.
+name: "Jack Frost #1"
+rate: 3.5

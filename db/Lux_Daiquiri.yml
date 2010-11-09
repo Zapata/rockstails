@@ -1,0 +1,26 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Maraschino cherry
+glass: Martini
+infos: 
+  Comment: A classic frozen Daiquiri heavily laced with maraschino cherry.
+  Origin: This was one of the two cocktails with which I won a Havana Club Daiquiri competition in 2002. I named it after Girolamo Luxardo, creator of the now famous liqueur, 'Luxardo Maraschino'. My educated sub also informs me Lux is Latin for light.
+  source: www.diffordsguide.com (1202)
+ingredients: 
+- - "3"
+  - shot
+  - Bacardi Superior rum
+- - " 1/2 "
+  - shot
+  - Luxardo maraschino liqueur
+- - " 3/4 "
+  - shot
+  - Freshly squeezed lime juice
+- - " 1/4 "
+  - shot
+  - Maraschino syrup (from cherry jar)
+- - " 1/4 "
+  - shot
+  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+method: BLEND all ingredients with one 12oz scoop of crushed ice and serve in chilled glass.
+name: Lux Daiquiri
+rate: 4.0

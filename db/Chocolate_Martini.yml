@@ -1,0 +1,19 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Wipe rim with cacao liqueur &amp; dust with cocoa powder
+glass: Martini
+infos: 
+  Comment: Vodka and chocolate made more interesting with a hint of vermouth.
+  source: www.diffordsguide.com (427)
+ingredients: 
+- - "2"
+  - shot
+  - Ketel One vodka
+- - "1"
+  - shot
+  - "White cr\xE8me de cacao liqueur"
+- - "1"
+  - shot
+  - Noilly Prat dry vermouth
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+name: Chocolate Martini
+rate: 4.0

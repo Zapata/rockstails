@@ -1,0 +1,26 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Orange slice &amp; cherry on stick (sail)
+glass: Collins
+infos: 
+  Comment: A long, fruity yet dry drink charged with champagne.
+  Origin: "Adapted from Victor J. Bergeron's and taken from his 'Trader Vic's Bartender's Guide' (1972 revised edition), where he writes &quot;This is one of our old drinks. The colonel's big opu: the colonel's big belly.&quot;"
+  source: www.diffordsguide.com (586)
+ingredients: 
+- - "1"
+  - shot
+  - Bombay London dry gin
+- - "1"
+  - shot
+  - Cointreau triple sec
+- - " 1/2 "
+  - shot
+  - Freshly squeezed lime juice
+- - "1"
+  - top up with
+  - Perrier Jouet brut champagne
+- - "1"
+  - dash
+  - Angostura orange bitters
+method: SHAKE first 3 ingredients with ice and strain into ice-filled glass. TOP with champagne and serve with straws.
+name: Colonel's Big Opu
+rate: 3.5

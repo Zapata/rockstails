@@ -1,0 +1,29 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Float coriander leaf
+glass: Martini
+infos: 
+  Comment: Fragrant, herbal gin with a hint of citrus.
+  Origin: Adapted from a drink discovered in 2006 at Ballroom, London, England.
+  source: www.diffordsguide.com (599)
+ingredients: 
+- - "5"
+  - fresh
+  - Coriander (cilantro)
+- - "2"
+  - shot
+  - Bombay London dry gin
+- - "1"
+  - shot
+  - Pressed apple juice
+- - " 1/4 "
+  - shot
+  - Freshly squeezed lemon juice
+- - " 1/8 "
+  - shot
+  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- - " 1/2 "
+  - shot
+  - Chilled mineral water
+method: MUDDLE coriander in base of shaker. Add other ingredients, SHAKE with ice and fine strain into chilled glass.
+name: Crimea
+rate: 3.0

@@ -1,0 +1,23 @@
+--- !ruby/object:DirtyCocktail 
+garnish: " Dust with freshly ground nutmeg"
+glass: Wine
+infos: 
+  Comment: As the anonymous writer of the 1887 edition of the Professor's book comments, "The name of this drink is a misnomer, as coffee and bitters are not to be found among its ingredients, but it looks like coffee when it has been properly concocted."<br /><br />
+  Origin: Recipe adapted from Jerry 'The Professor' Thomas's 1887 'The Bartender's Guide, or How to Mix All Kinds of Plain and Fancy Drinks'.<br /><br />
+  source: www.diffordsguide.com (2350)
+ingredients: 
+- - "2"
+  - shot
+  - Warre's Otima tawny port
+- - "1"
+  - shot
+  - Courvoisier V.S.O.P cognac
+- - " 1/2 "
+  - shot
+  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- - "1"
+  - fresh
+  - Egg
+method: " SHAKE all ingredients with ice and fine strain into chilled glass."
+name: Coffee Cocktail
+rate: 4.5

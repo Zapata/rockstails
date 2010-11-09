@@ -1,0 +1,30 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Dust with cinnamon powder
+glass: Martini
+infos: 
+  Comment: This sweet dessert cocktail tastes just like mum's home-made apple pie with cream.
+  Origin: Created in 1999 by Alex Kammerling, London, England.
+  Variant: May also be served as a shot.
+  source: www.diffordsguide.com (91)
+ingredients: 
+- - "1"
+  - shot
+  - Berentzen Apple schnapps
+- - " 1/2 "
+  - shot
+  - "Brown cr\xE8me de cacao liqueur"
+- - " 1/2 "
+  - shot
+  - "White cr\xE8me de cacao liqueur"
+- - " 1/2 "
+  - shot
+  - Goldschlager cinnamon schnapps
+- - "1"
+  - shot
+  - Pressed apple juice
+- - " 3/4 "
+  - shot
+  - Double (heavy) cream
+method: SHAKE first 5 ingredients with ice and fine strain into chilled glass. Carefully FLOAT cream by pouring over the back of a spoon.
+name: "Apple Strudel #1"
+rate: 3.0

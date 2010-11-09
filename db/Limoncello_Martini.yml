@@ -1,0 +1,20 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Lemon zest twist
+glass: Martini
+infos: 
+  Comment: If you like the liqueur, you'll love the cocktail.
+  Origin: Adapted from a drink created in 2005 by Francesco at Mix, New York City, USA.
+  source: www.diffordsguide.com (1171)
+ingredients: 
+- - "1 1/2 "
+  - shot
+  - Ketel One vodka
+- - "1 1/2 "
+  - shot
+  - Luxardo limoncello liqueur
+- - "1"
+  - shot
+  - Freshly squeezed lemon juice
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+name: Limoncello Martini
+rate: 3.5

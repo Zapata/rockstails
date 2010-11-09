@@ -1,0 +1,23 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Orange zest twist<br />
+glass: Coupette
+infos: 
+  Comment: A tad on the sweet side and flavoured with chocolate, red berries and violets over a base of sweet and dry vermouth.
+  Origin: Recipe adapted from Hugo R. Ensslin's 1917 book 'Recipies for Mixed Drinks'.<br />
+  source: www.diffordsguide.com (2832)
+ingredients: 
+- - "1"
+  - shot
+  - Martini Rosso sweet vermouth
+- - "1"
+  - shot
+  - Noilly Prat dry vermouth
+- - " 1/2 "
+  - shot
+  - Benoit Serres cr`eme de violette
+- - " 1/4 "
+  - shot
+  - "White cr\xE8me de cacao liqueur"
+method: SHAKE all ingredients with ice and fine strain into chilled glass.<br />
+name: Perpetual Cocktail
+rate: 4.5

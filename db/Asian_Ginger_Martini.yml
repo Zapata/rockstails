@@ -1,0 +1,23 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Ginger slice on rim
+glass: Martini
+infos: 
+  Comment: Lightly spiced with ginger, distinctly oriental in character.
+  Origin: Adapted from a recipe created in 2004 by Chris Langan of Barnomadics.
+  source: www.diffordsguide.com (109)
+ingredients: 
+- - "1 1/2 "
+  - shot
+  - Ketel One vodka
+- - "2"
+  - unit
+  - Bombay London dry gin
+- - "2 1/4 "
+  - shot
+  - Sake
+- - " 1/4 "
+  - shot
+  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+method: MUDDLE ginger in base of shaker. Add other ingredients, SHAKE with ice and fine strain into chilled glass.
+name: Asian Ginger Martini
+rate: 4.0

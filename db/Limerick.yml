@@ -1,0 +1,23 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Lime wedge squeezed over drink
+glass: Collins
+infos: 
+  Comment: A refreshing lime cooler.
+  Origin: I created this twist on the classic Vodka Rickey in 2002.
+  source: www.diffordsguide.com (1164)
+ingredients: 
+- - "2"
+  - shot
+  - Lime flavoured vodka
+- - "1"
+  - shot
+  - Freshly squeezed lime juice
+- - " 1/2 "
+  - shot
+  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- - "1"
+  - top up with
+  - Soda (club soda)
+method: SHAKE first 3 ingredients with ice and strain into ice-filled glass. TOP with soda water and lightly stir.
+name: Limerick
+rate: 4.0

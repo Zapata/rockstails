@@ -1,0 +1,20 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Mint leaf
+glass: Martini
+infos: 
+  Comment: Emerald Green with full-on mint. Good as a digestif after a tenor-sized meal.
+  Origin: This recipe was adapted form Harry Craddock's 1930 'The Savoy Cocktail Book'. The drink was created at The Savoy for the tenor Enrico Caruso in the early 20th century.
+  source: www.diffordsguide.com (575)
+ingredients: 
+- - "1"
+  - shot
+  - Bombay London dry gin
+- - "1"
+  - shot
+  - Noilly Prat dry vermouth
+- - "1"
+  - shot
+  - "Green cr\xE8me de menthe liqueur"
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+name: Caruso Martini
+rate: 3.0

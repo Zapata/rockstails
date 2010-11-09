@@ -1,0 +1,24 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Mint leaf
+glass: Martini
+infos: 
+  Comment: Honey - I love it!
+  Origin: Adapted from a recipe in David Embury's 'The Fine Art of Mixing Drinks'.
+  Variant: Made with gin in place of rum this drink becomes the 'Bee's Knees Martini'.
+  source: www.diffordsguide.com (970)
+ingredients: 
+- - "2"
+  - shot
+  - Bacardi Superior rum
+- - "4"
+  - spoon
+  - Runny honey
+- - "1"
+  - shot
+  - Freshly squeezed lemon juice
+- - "1"
+  - shot
+  - Freshly squeezed orange juice
+method: STIR honey with rum in base of shaker until honey dissolves. Add lemon and orange juice, SHAKE with ice and fine strain into chilled glass.
+name: Honeysuckle Daiquiri
+rate: 5.0

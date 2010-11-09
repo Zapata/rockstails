@@ -1,0 +1,29 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Orange wedge
+glass: Collins
+infos: 
+  Comment: This citrus refresher is reputedly an excellent cold remedy.
+  Origin: My adaptation of a traditional drink from the island of Madeira.
+  source: www.diffordsguide.com (1587)
+ingredients: 
+- - "2"
+  - spoon
+  - Runny honey
+- - "2 1/2 "
+  - shot
+  - Torres Aqua d'Or aguardiente
+- - "1"
+  - shot
+  - Freshly squeezed lemon juice
+- - " 1/4 "
+  - shot
+  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- - "1 1/2 "
+  - shot
+  - Freshly squeezed orange juice
+- - "1 1/2 "
+  - shot
+  - Freshly squeezed grapefruit juice
+method: STIR honey with aguardiente base of shaker to dissolve honey. Add other ingredients, SHAKE with ice and strain into ice filled glass.
+name: Poncha
+rate: 4.0

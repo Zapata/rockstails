@@ -1,0 +1,32 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Watermelon wedge on rim
+glass: Martini
+infos: 
+  Comment: Looks like a standard Cosmo but tastes just as the name suggests.
+  Origin: Created in 2003 by Eric Fossard at Cecconi's, London, England.
+  source: www.diffordsguide.com (2069)
+ingredients: 
+- - "1"
+  - slice
+  - Fresh watermelon
+- - "2"
+  - shot
+  - Ketel One Citroen vodka
+- - " 3/4 "
+  - shot
+  - Freshly squeezed lime juice
+- - " 3/4 "
+  - shot
+  - Ocean Spray cranberry juice
+- - " 1/8 "
+  - shot
+  - Rose's lime cordial
+- - " 1/2 "
+  - shot
+  - Midori green melon liqueur
+- - "2"
+  - dash
+  - Angostura orange bitters
+method: Cut watermelon into 16 segments, chop the flesh from one segment into cubes and MUDDLE in base of skater. Add other ingredients, SHAKE with ice and fine strain into chilled glass.
+name: Watermelon Cosmo
+rate: 3.5

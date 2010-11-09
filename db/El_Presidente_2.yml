@@ -1,0 +1,19 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Lime zest twist
+glass: Martini
+infos: 
+  Comment: Bone dry. Rather like a rum based, old school Martini
+  source: www.diffordsguide.com (2155)
+ingredients: 
+- - "2"
+  - shot
+  - Bacardi Superior rum
+- - "1"
+  - shot
+  - Noilly Prat dry vermouth
+- - "1"
+  - dash
+  - Angostura aromatic bitters
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+name: "El Presidente #2"
+rate: 3.5

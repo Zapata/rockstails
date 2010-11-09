@@ -1,0 +1,17 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Lemon zest twist
+glass: Old-fashioned
+infos: 
+  Comment: Honeyed and spiced cognac.
+  Origin: Created in 1937 by a bartender at New York's famous 21 Club.
+  source: www.diffordsguide.com (138)
+ingredients: 
+- - "2"
+  - shot
+  - Bndictine D.O.M.
+- - "2"
+  - shot
+  - Courvoisier V.S.O.P cognac
+method: STIR ingredients with ice and strain into ice-filled glass.
+name: B & B
+rate: 4.0

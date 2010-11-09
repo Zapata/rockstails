@@ -1,0 +1,20 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Pineapple wedge on rim
+glass: Martini
+infos: 
+  Comment: Fresh pineapple makes this drink.
+  Variant: Substitute sugar syrup for pomegranate syrup.
+  source: www.diffordsguide.com (1300)
+ingredients: 
+- - "2"
+  - shot
+  - Herradura 100% agave tequila
+- - "1 1/2 "
+  - shot
+  - Fresh pressed pineapple juice
+- - " 1/4 "
+  - shot
+  - Pomegranate (grenadine) syrup
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+name: Mexican
+rate: 4.0

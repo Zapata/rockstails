@@ -1,0 +1,23 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Dust with cocoa powder
+glass: Martini
+infos: 
+  Comment: <p>A Daiquiri with a hint of chocolate.</p>
+  Origin: <p><span lang="EN-US" >Created in the 1930s at a Bermudian nightclub of the same name.</span></p>
+  source: www.diffordsguide.com (14)
+ingredients: 
+- - " 1/2 "
+  - shot
+  - "White cr\xE8me de cacao liqueur"
+- - "2"
+  - shot
+  - Bacardi Oro golden rum
+- - " 1/2 "
+  - shot
+  - Freshly squeezed lime juice
+- - " 1/8 "
+  - shot
+  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+name: Ace Of Clubs Daiquiri
+rate: 4.5

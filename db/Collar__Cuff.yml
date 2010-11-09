@@ -1,0 +1,26 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Orange slice
+glass: Toddy
+infos: 
+  Comment: This blonde drink is warmed with ginger. <br />
+  Origin: Created in 2003 by Yours Truly (Simon Difford).
+  source: www.diffordsguide.com (456)
+ingredients: 
+- - "2"
+  - spoon
+  - Runny honey
+- - "1"
+  - shot
+  - Johnnie Walker Scotch Whisky
+- - "1"
+  - shot
+  - Domaine de Canton ginger liqueur
+- - "1"
+  - shot
+  - Freshly squeezed lemon juice
+- - "1"
+  - top up with
+  - Boiling water
+method: PLACE bar spoon in glass, add ingredients and STIR.
+name: Collar & Cuff
+rate: 4.0

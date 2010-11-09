@@ -1,0 +1,29 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Lime wheel on rim
+glass: Collins
+infos: 
+  Comment: A refreshing cooler for a hot day by the pool.
+  Origin: Created in 2002 by Wayne Collins.
+  source: www.diffordsguide.com (478)
+ingredients: 
+- - "1"
+  - shot
+  - Ketel One Citroen vodka
+- - "1"
+  - shot
+  - Cointreau triple sec
+- - "1"
+  - shot
+  - Ocean Spray cranberry juice
+- - "1"
+  - shot
+  - Pressed apple juice
+- - " 1/2 "
+  - shot
+  - Freshly squeezed lime juice
+- - "1"
+  - top up with
+  - Ginger ale
+method: SHAKE first 5 ingredients with ice and strain into ice-filled glass. TOP with ginger ale and stir.
+name: Cranapple Breeze
+rate: 3.5

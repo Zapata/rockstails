@@ -1,0 +1,29 @@
+--- !ruby/object:DirtyCocktail 
+garnish: <p>None</p>
+glass: Martini
+infos: 
+  Comment: <p>So smooth this drink is almost creamy. Vanilla dominates with fruity hints of rum.</p><br /><br _moz_editor_bogus_node="TRUE" />
+  Origin: <p>Created by Bruce Hamilton at Tigerlily, Edinburgh, Scotland.</p><br />
+  source: www.diffordsguide.com (2402)
+ingredients: 
+- - "1 1/2 "
+  - shot
+  - Bacardi Superior rum
+- - " 1/2 "
+  - shot
+  - Aperol
+- - "1"
+  - shot
+  - Freshly squeezed orange juice
+- - " 1/2 "
+  - shot
+  - Monin Vanilla sugar syrup
+- - "2"
+  - dash
+  - Peach bitters
+- - " 1/2 "
+  - fresh
+  - Egg white
+method: <p>SHAKE all ingredients with ice and fine strain into chilled glass.</p>
+name: Facundo's Flare
+rate: 3.5

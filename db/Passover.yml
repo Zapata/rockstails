@@ -1,0 +1,19 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Orange slice
+glass: Collins
+infos: 
+  Comment: Tropical and sweet.
+  source: www.diffordsguide.com (1488)
+ingredients: 
+- - "2"
+  - shot
+  - Ketel One vodka
+- - "1"
+  - shot
+  - Passoa passion fruit liqueur
+- - "3"
+  - shot
+  - Freshly squeezed grapefruit juice
+method: SHAKE all ingredients with ice and strain into ice-filled glass.
+name: Passover
+rate: 3.0

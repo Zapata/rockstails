@@ -1,0 +1,22 @@
+--- !ruby/object:DirtyCocktail 
+garnish: 
+glass: Martini
+infos: 
+  Comment: Sweet coffee and orange smoothed by a creamy top. A veritable dessert in a glass.
+  source: www.diffordsguide.com (673)
+ingredients: 
+- - "1 1/2 "
+  - shot
+  - Kahla coffee liqueur
+- - " 3/4 "
+  - shot
+  - Cointreau triple sec
+- - "1"
+  - shot
+  - Freshly squeezed orange juice
+- - " 3/4 "
+  - shot
+  - Double (heavy) cream
+method: SHAKE first 3 ingredients with ice and fine strain into chilled glass. FLOAT cream.
+name: Dreamsicle
+rate: 3.5

@@ -1,0 +1,23 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Physalis fruit
+glass: Flute
+infos: 
+  Comment: A favourite with the Midas and others whose budgets extend beyond a Buck's Fizz or a Mimosa.
+  Variant: With gin in place of brandy.
+  source: www.diffordsguide.com (882)
+ingredients: 
+- - " 1/2 "
+  - shot
+  - Courvoisier V.S.O.P cognac
+- - " 1/2 "
+  - shot
+  - Bols apricot brandy liqueur
+- - "1"
+  - shot
+  - Freshly squeezed orange juice
+- - "1"
+  - top up with
+  - Perrier Jouet brut champagne
+method: POUR all ingredients into chilled glass and lightly stir.
+name: Golden Screw
+rate: 3.5

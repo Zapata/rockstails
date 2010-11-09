@@ -1,0 +1,29 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Lime wedge on rim
+glass: Martini
+infos: 
+  Comment: Tangy and fruity.
+  Origin: Named after the Cuban.
+  source: www.diffordsguide.com (387)
+ingredients: 
+- - "1 1/2 "
+  - shot
+  - Zacapa aged rum
+- - " 3/4 "
+  - shot
+  - Boulard Grand Solage calvados
+- - " 1/4 "
+  - shot
+  - Freshly squeezed orange juice
+- - " 1/2 "
+  - shot
+  - Freshly squeezed lime juice
+- - " 1/4 "
+  - shot
+  - Rose's lime cordial
+- - " 1/4 "
+  - shot
+  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+name: Castro
+rate: 3.5

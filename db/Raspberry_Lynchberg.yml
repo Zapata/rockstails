@@ -1,0 +1,26 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Raspberries in drink
+glass: Collins
+infos: 
+  Comment: This variation on a Lynchburg Lemonade has a sweet and sour flavour laced with whiskey.
+  Origin: Created in 1992 by Wayne Collins at Road house, London, England.
+  source: www.diffordsguide.com (2195)
+ingredients: 
+- - "2"
+  - shot
+  - Jack Daniels Tennessee whiskey
+- - " 3/4 "
+  - shot
+  - Freshly squeezed lime juice
+- - " 1/4 "
+  - shot
+  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- - "1"
+  - top up with
+  - Lemonade/Sprite/7-Up
+- - " 1/2 "
+  - shot
+  - Chambord
+method: SHAKE first 3 ingredients with ice and strain into ice-filled glass. TOP with lemonade and DRIZZLE liqueur around surface of drink. It will fall through the drink leaving coloured threads.
+name: Raspberry Lynchberg
+rate: 3.5

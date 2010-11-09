@@ -1,0 +1,22 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Orange slice on rim
+glass: Flute
+infos: 
+  Comment: A sweet, peachy champagne cocktail.
+  source: www.diffordsguide.com (1042)
+ingredients: 
+- - "1"
+  - shot
+  - Peach Tree peach schnapps
+- - " 1/2 "
+  - shot
+  - Bombay London dry gin
+- - "1"
+  - shot
+  - Freshly squeezed orange juice
+- - "1"
+  - top up with
+  - Perrier Jouet brut champagne
+method: SHAKE first 3 ingredients with ice and fine strain into chilled glass. TOP with champagne.
+name: Jacuzzi
+rate: 3.5

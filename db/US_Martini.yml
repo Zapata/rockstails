@@ -1,0 +1,23 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Vanilla pod
+glass: Martini
+infos: 
+  Comment: A relatively dry cocktail where the vanilla combines beautifully with the cognac and the acidity of the wine balances the sweetness of the pineapple juice.
+  Origin: Adapted from the Palermo cocktail discovered in 2001 at Hotel du Vin, Bristol, England. I created this drink in 2003 and named it after the grape varieties Ugni and Sauvignon. Ugni Blanc is the most common grape in Cognac, and Sauvignon Blanc is the grape used in the wine.
+  source: www.diffordsguide.com (2019)
+ingredients: 
+- - "1 1/2 "
+  - shot
+  - Vanilla-infused Courvoisier cognac
+- - "1 1/4 "
+  - shot
+  - Sauvignon blanc wine
+- - "1 1/2 "
+  - shot
+  - Fresh pressed pineapple juice
+- - " 1/4 "
+  - shot
+  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+name: U.S. Martini
+rate: 5.0

@@ -1,0 +1,20 @@
+--- !ruby/object:DirtyCocktail 
+garnish: 
+glass: Shot
+infos: 
+  Comment: Far from sophisticated (some would say like Australia) but very appropriately named.
+  Origin: This drink heralds from Australia where it is a popular shot.
+  source: www.diffordsguide.com (1884)
+ingredients: 
+- - " 1/2 "
+  - shot
+  - "Cr\xE8me de fraise du bois liqueur"
+- - " 1/2 "
+  - shot
+  - Hazelnut liqueur
+- - " 1/4 "
+  - shot
+  - Freshly squeezed lime juice
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+name: The Strawberry clair
+rate: 4.0

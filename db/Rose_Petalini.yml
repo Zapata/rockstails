@@ -1,0 +1,23 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Float red rose petal
+glass: Martini
+infos: 
+  Comment: Peychaud's bitters give this fragrant cocktail a delicate pink hue.
+  Origin: Discovered in 2005 at Rain, Amsterdam, The Netherlands.
+  source: www.diffordsguide.com (1694)
+ingredients: 
+- - "1 1/2 "
+  - shot
+  - Lanique rose petal liqueur
+- - "1 1/2 "
+  - shot
+  - Bombay London dry gin
+- - "1"
+  - shot
+  - Lychee syrup (from tinned fruit)
+- - "3"
+  - dash
+  - Peychaud's aromatic bitters
+method: STIR all ingredients with ice and strain into chilled glass.
+name: Rose Petalini
+rate: 4.0

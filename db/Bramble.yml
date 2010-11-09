@@ -1,0 +1,23 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Blackberries &amp; lemon slice
+glass: Old-fashioned
+infos: 
+  Comment: One of the best and most popular drinks created in the 1980s.
+  Origin: Created in the mid-80s by Dick Bradsell at Fred's Club, Soho, London, England.
+  source: www.diffordsguide.com (305)
+ingredients: 
+- - "2"
+  - shot
+  - Bombay London dry gin
+- - "1"
+  - shot
+  - Freshly squeezed lemon juice
+- - " 1/2 "
+  - shot
+  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- - " 1/2 "
+  - shot
+  - "Cr\xE8me de M\xFBre liqueur"
+method: SHAKE first three ingredients with ice and strain into glass filled with crushed ice. DRIZZLE liqueur over drink to create a 'bleeding' effect in the glass. Serve with short straws.
+name: Bramble
+rate: 4.0

@@ -1,0 +1,19 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Crumbled Cadbury's Flake bar
+glass: Old-fashioned
+infos: 
+  Comment: The classic shot blended with ice.
+  source: www.diffordsguide.com (137)
+ingredients: 
+- - "1"
+  - shot
+  - Baileys Irish cream liqueur
+- - "1"
+  - shot
+  - Grand Marnier liqueur
+- - "1"
+  - shot
+  - Kahla coffee liqueur
+method: BLEND ingredients with 6oz scoop of crushed ice. Pour into glass and serve with straws.
+name: B-52 Frozen
+rate: 3.5

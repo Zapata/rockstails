@@ -1,0 +1,19 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Three raspberries on stick
+glass: Martini
+infos: 
+  Comment: Raspberry and vanilla with characteristic dry cranberry fruit.
+  source: www.diffordsguide.com (1649)
+ingredients: 
+- - "2"
+  - shot
+  - Vanilla-infused Ketel One vodka
+- - " 1/2 "
+  - shot
+  - Chambord
+- - "2"
+  - shot
+  - Ocean Spray cranberry juice
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+name: Razzzzzzberry Martini
+rate: 3.5

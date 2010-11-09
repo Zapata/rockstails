@@ -1,0 +1,23 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Lemon zest twist
+glass: Martini
+infos: 
+  Comment: "<span class=\"Apple-style-span\"><div><span class=\"Apple-style-span\" style=\"line-height: 11px;\">Bittersweet herbal notes of vermouth with a subtle hint of gin.</span></div></span>"
+  Origin: A classic cocktail of unknown origin.
+  source: www.diffordsguide.com (2262)
+ingredients: 
+- - "1"
+  - shot
+  - Bombay London dry gin
+- - "1"
+  - shot
+  - Noilly Prat dry vermouth
+- - "1"
+  - shot
+  - Martini Rosso sweet vermouth
+- - "1"
+  - shot
+  - Dubonnet Red (French made)
+method: STIR all ingredients with ice and strain into chilled glass.
+name: "Aviator #2"
+rate: 3.5

@@ -1,0 +1,21 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Olive on stick
+glass: Martini
+infos: 
+  Comment: Like many old classics, this drink needs dilution so stir until you're bored and thirsty.
+  Origin: Recipe from Harry Craddock's 1930 Savoy Cocktail Book. Created in the 1870s by a bartender at the legendary Manhattan Club, which once stood at the north corner of 34th Street and 5th Avenue, New York City
+  source: www.diffordsguide.com (1868)
+  Variant: T.N.T. Special - with the addition of a dash of sugar.
+ingredients: 
+- - "1 1/2 "
+  - shot
+  - Boulard Grand Solage calvados
+- - "1 1/2 "
+  - shot
+  - Martini Rosso sweet vermouth
+- - "1"
+  - dash
+  - Angostura aromatic bitters
+method: STIR all ingredients with ice and fine strain into chilled glass.
+name: "The Star #1"
+rate: 4.0

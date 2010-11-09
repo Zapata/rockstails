@@ -1,0 +1,29 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Float 3 raspberries
+glass: Martini
+infos: 
+  Comment: Rich raspberry with green hints of cucumber.
+  Origin: Created in 2002 by Mehdi Otmann at The Player, London, England.
+  source: www.diffordsguide.com (2100)
+ingredients: 
+- - "2"
+  - inch
+  - Cucumber (chopped & peeled)
+- - "5"
+  - fresh
+  - Raspberries
+- - "1 1/2 "
+  - shot
+  - Ketel One vodka
+- - " 1/2 "
+  - shot
+  - Raspberry flavoured vodka
+- - " 1/2 "
+  - shot
+  - "Cr\xE8me de framboise liqueur"
+- - " 1/4 "
+  - shot
+  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+method: MUDDLE cucumber and raspberries in base of shaker. Add other ingredients, SHAKE with ice and fine strain into chilled glass.
+name: Wild Promenade Martini
+rate: 4.0

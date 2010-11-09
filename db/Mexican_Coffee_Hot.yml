@@ -1,0 +1,22 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Three coffee beans
+glass: Toddy
+infos: 
+  Comment: "Tequila's answer to the Irish Coffee. <br /><br />Tip: Lightly whip or simply shake cream in container before pouring over the bowl of a spoon. It also helps if the cream is gently warmed."
+  source: www.diffordsguide.com (1302)
+ingredients: 
+- - "1"
+  - shot
+  - Herradura 100% agave tequila
+- - " 1/4 "
+  - shot
+  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- - "1"
+  - top up with
+  - Hot espresso coffee
+- - "1"
+  - float
+  - Double (heavy) cream
+method: Place bar spoon in glass. POUR first 3 ingredients into glass and stir. FLOAT cream.
+name: Mexican Coffee (Hot)
+rate: 3.5

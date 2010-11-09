@@ -1,0 +1,28 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Lemongrass stick
+glass: Collins
+infos: 
+  Comment: A Bloody Mary based on sake.
+  source: www.diffordsguide.com (249)
+ingredients: 
+- - "4"
+  - shot
+  - Sake
+- - "8"
+  - drop
+  - Tobasco hot pepper sauce
+- - " 1/2 "
+  - shot
+  - Freshly squeezed lemon juice
+- - "4"
+  - dash
+  - Worcestershire sauce
+- - "2"
+  - pinch
+  - Celery salt
+- - "2"
+  - grind
+  - Black pepper
+method: SHAKE all ingredients with ice and strain into ice-filled glass.
+name: Bloody Maru
+rate: 3.5

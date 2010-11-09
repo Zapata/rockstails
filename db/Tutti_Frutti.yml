@@ -1,0 +1,22 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Lime wedge
+glass: Collins
+infos: 
+  Comment: A berry drink with a tropical tinge.
+  source: www.diffordsguide.com (2003)
+ingredients: 
+- - "1"
+  - shot
+  - Herradura 100% agave tequila
+- - "1"
+  - shot
+  - Midori green melon liqueur
+- - "1"
+  - shot
+  - Passoa passion fruit liqueur
+- - "3"
+  - shot
+  - Ocean Spray cranberry juice
+method: SHAKE all ingredients with ice and strain into ice-filled glass.
+name: Tutti Frutti
+rate: 3.0

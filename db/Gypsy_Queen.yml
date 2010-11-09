@@ -1,0 +1,23 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Orange zest twist
+glass: Martini
+infos: 
+  Comment: Tangy, herbal, predominantly orange and not overly sweet.
+  Origin: A long lost classic.
+  source: www.diffordsguide.com (926)
+ingredients: 
+- - "1 1/2 "
+  - shot
+  - Ketel One vodka
+- - " 3/4 "
+  - shot
+  - Bndictine D.O.M.
+- - " 3/4 "
+  - shot
+  - Freshly squeezed orange juice
+- - " 1/4 "
+  - shot
+  - Freshly squeezed lemon juice
+method: STIR all ingredients with ice and strain into chilled glass.
+name: Gypsy Queen
+rate: 4.0

@@ -1,0 +1,19 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Banana chunk on rim
+glass: Martini
+infos: 
+  Comment: A tasty Caribbean combination of banana and pineapple.
+  source: www.diffordsguide.com (152)
+ingredients: 
+- - "2"
+  - shot
+  - Ketel One vodka
+- - "1"
+  - shot
+  - Pisang Ambon liqueur
+- - "1"
+  - shot
+  - Fresh pressed pineapple juice
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+name: Bali Trader
+rate: 3.5

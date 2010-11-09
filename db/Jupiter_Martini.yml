@@ -1,0 +1,26 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Orange zest twist
+glass: Martini
+infos: 
+  Comment: Bone dry and aromatic, this drink's colour is the grey hue of an overcast sky.
+  Origin: A classic which is thought to have originated sometime in the 1920's.
+  source: www.diffordsguide.com (1085)
+ingredients: 
+- - "2"
+  - shot
+  - Bombay London dry gin
+- - " 1/8 "
+  - shot
+  - Parfait Amour liqueur
+- - " 3/4 "
+  - shot
+  - Noilly Prat dry vermouth
+- - " 1/8 "
+  - shot
+  - Freshly squeezed orange juice
+- - " 1/2 "
+  - shot
+  - Chilled mineral water
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+name: Jupiter Martini
+rate: 3.5

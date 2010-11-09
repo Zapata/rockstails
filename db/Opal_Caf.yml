@@ -1,0 +1,19 @@
+--- !ruby/object:DirtyCocktail 
+garnish: 
+glass: Shot
+infos: 
+  Comment: A great liquorice and coffee drink to sip or shoot.
+  source: www.diffordsguide.com (1435)
+ingredients: 
+- - " 1/2 "
+  - shot
+  - Opal Nera black sambuca
+- - " 1/2 "
+  - shot
+  - Hot espresso coffee
+- - "1"
+  - float
+  - Double (heavy) cream
+method: SHAKE first 2 ingredients with ice and fine strain into chilled glass. FLOAT thin layer of cream over drink.
+name: Opal Caf
+rate: 4.0

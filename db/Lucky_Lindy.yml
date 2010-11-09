@@ -1,0 +1,23 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Lemon slice
+glass: Collins
+infos: 
+  Comment: A long refreshing drink that combines whisky, citrus and honey - a long chilled toddy without the spice.
+  Origin: Adapted from a drink discovered in 2003 at The Grange Hall, New York City, USA.
+  source: www.diffordsguide.com (1199)
+ingredients: 
+- - "3"
+  - spoon
+  - Runny honey
+- - "2"
+  - shot
+  - Maker's Mark bourbon
+- - " 1/2 "
+  - shot
+  - Freshly squeezed lemon juice
+- - "1"
+  - top up with
+  - Lemonade/Sprite/7-Up
+method: STIR honey with bourbon in base of shaker so as to dissolve honey. Add lemon juice, SHAKE with ice and strain into ice-filled glass. TOP with lemonade, lightly stir and serve with straws.
+name: Lucky Lindy
+rate: 3.5

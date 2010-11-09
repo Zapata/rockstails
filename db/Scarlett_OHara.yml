@@ -1,0 +1,20 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Cranberries or lime wedge
+glass: Martini
+infos: 
+  Comment: The tang of lime and the dryness of cranberry balance the apricot sweetness of Southern Comfort.<br /><br />
+  Origin: This drink helped put Southern Comfort on the proverbial drink map and was created in 1939 and named after the heroine of the film Gone With The Wind, released that year.<br /><br />
+  source: www.diffordsguide.com (1754)
+ingredients: 
+- - "1 1/2 "
+  - shot
+  - Southern Comfort liqueur
+- - "1 1/2 "
+  - shot
+  - Ocean Spray cranberry juice
+- - " 3/4 "
+  - shot
+  - Freshly squeezed lime juice
+method: SHAKE all ingredients with ice and strain into ice-filled glass.
+name: Scarlett O'Hara
+rate: 3.0

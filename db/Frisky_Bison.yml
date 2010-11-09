@@ -1,0 +1,29 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Float apple slice
+glass: Martini
+infos: 
+  Comment: Sweet 'n' sour, fruity, minty and fresh.
+  Origin: Created by Tony Kerr in 1999 at Mash &amp; Air in Manchester, England.
+  source: www.diffordsguide.com (808)
+ingredients: 
+- - "7"
+  - fresh
+  - Mint leaves
+- - "2"
+  - shot
+  - Zubrwka bison vodka
+- - "1"
+  - shot
+  - Berentzen Apple schnapps
+- - "1"
+  - shot
+  - Pressed apple juice
+- - " 1/2 "
+  - shot
+  - Freshly squeezed lime juice
+- - " 1/4 "
+  - shot
+  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+method: Lightly MUDDLE mint in base of shaker (just to bruise). Add other ingredients, SHAKE with ice and fine strain into chilled glass.
+name: Frisky Bison
+rate: 4.5

@@ -1,0 +1,30 @@
+--- !ruby/object:DirtyCocktail 
+garnish: <p>Pineapple wedge or orange slice on rim</p>
+glass: Martini
+infos: 
+  Comment: <p>A great looking, fairly sweet cocktail with hints of vanilla, coconut and pineapple.</p>
+  Origin: <p>My adaptation (in 2003) of the signature drink at the Merc Bar, New York City, USA.</p>
+  Variant: "<span style=\"font-size: 10pt;\"><p class=\"MsoNormal\" style=\"margin: 0cm 0cm 0pt;\"><span style=\"font-size: 10pt;\"><font face=\"Calibri\">This drink can be finished with your choice of 3 different coloured and flavoured liqueurs. Substitute blue curacao (blue) for either Midori (green) or Chambord (red).</font></span> </p></span>"
+  source: www.diffordsguide.com (2021)
+ingredients: 
+- - "2"
+  - shot
+  - Vanilla-infused Ketel One vodka
+- - " 1/2 "
+  - shot
+  - Malibu coconut rum liqueur
+- - " 1/2 "
+  - shot
+  - Freshly squeezed lime juice
+- - "1"
+  - shot
+  - Fresh pressed pineapple juice
+- - " 1/4 "
+  - fresh
+  - Egg white
+- - " 1/4 "
+  - shot
+  - Chambord
+method: <p>SHAKE first 5 ingredients with ice and fine strain into chilled glass. Then POUR your favoured final liqueur into the centre of the drink. It should sink.</p>
+name: Vacation
+rate: 3.5

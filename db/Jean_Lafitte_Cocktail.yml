@@ -1,0 +1,29 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Orange zest twist <br />
+glass: 
+infos: 
+  Comment: Not dissimilar to spicy, fortified advocaat.
+  Origin: My adaptation of the New Orleans classic named after the infamous privateer and hero of the Battle of New Orleans.
+  source: www.diffordsguide.com (2700)
+ingredients: 
+- - "2"
+  - shot
+  - Zacapa aged rum
+- - " 1/4 "
+  - shot
+  - "La F\xE9e Parisienne (68%) absinthe"
+- - " 1/4 "
+  - shot
+  - Cointreau triple sec
+- - " 1/8 "
+  - shot
+  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- - "1"
+  - fresh
+  - Egg yolk
+- - "1"
+  - dash
+  - Peychaud's aromatic bitters
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+name: Jean Lafitte Cocktail
+rate: 2.5

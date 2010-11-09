@@ -1,0 +1,23 @@
+--- !ruby/object:DirtyCocktail 
+garnish: <p>Maraschino cherry</p>
+glass: Martini
+infos: 
+  Comment: <p>Great for sipping after dinner.</p>
+  Origin: <p>Created in 2004 by Alexander Fiot at Lonsdale, London, England.</p>
+  source: www.diffordsguide.com (789)
+ingredients: 
+- - "2"
+  - shot
+  - Bacardi Superior rum
+- - "1"
+  - shot
+  - Warre's Otima tawny port
+- - " 1/2 "
+  - shot
+  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- - "2"
+  - dash
+  - Peychaud's aromatic bitters
+method: <p>SHAKE all ingredients with ice and fine strain into chilled glass.</p>
+name: Free Town
+rate: 4.0

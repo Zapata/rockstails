@@ -1,0 +1,23 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Orange zest twist
+glass: Martini
+infos: 
+  Comment: Balanced bitter sweet orange and apple.
+  Origin: Adapted from a drink discovered in 2003 at Hakkasan, London, England.
+  source: www.diffordsguide.com (928)
+ingredients: 
+- - "1"
+  - shot
+  - Ketel One vodka
+- - "1"
+  - shot
+  - Grand Marnier liqueur
+- - " 1/4 "
+  - shot
+  - Campari Bitter
+- - " 3/4 "
+  - shot
+  - Pressed apple juice
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+name: Hakkatini
+rate: 4.0

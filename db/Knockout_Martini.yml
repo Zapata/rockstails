@@ -1,0 +1,22 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Star anise on rim
+glass: Martini
+infos: 
+  Comment: A Wet Martini with hints of aniseed and mint. Stir well as it benefits from dilution.
+  source: www.diffordsguide.com (1120)
+ingredients: 
+- - "1 1/2 "
+  - shot
+  - Bombay London dry gin
+- - "1 1/2 "
+  - shot
+  - Noilly Prat dry vermouth
+- - " 1/4 "
+  - shot
+  - "La F\xE9e Parisienne (68%) absinthe"
+- - " 1/4 "
+  - shot
+  - Giffard Menthe Pastille liqueur
+method: STIR all ingredients with ice and strain into chilled glass.
+name: Knockout Martini
+rate: 3.5

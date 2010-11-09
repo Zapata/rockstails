@@ -1,0 +1,23 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Strip of cucumber
+glass: Martini
+infos: 
+  Comment: Cucumber has never tasted so good.
+  Origin: There are many different Cucumber Martini recipes; this is mine.
+  source: www.diffordsguide.com (499)
+ingredients: 
+- - "1"
+  - shot
+  - Ketel One vodka
+- - "1"
+  - shot
+  - Zubrwka bison vodka
+- - "2"
+  - inch
+  - Cucumber (chopped & peeled)
+- - " 1/2 "
+  - shot
+  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+method: MUDDLE cucumber in base of shaker. Add other ingredients, SHAKE with ice and strain into glass.
+name: Cucumber Martini
+rate: 4.5

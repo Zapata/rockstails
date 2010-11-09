@@ -1,0 +1,23 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Lemon zest twist<br />
+glass: Coupette
+infos: 
+  Comment: A wonderfully wet martini with the addition of Lillet and orange bitters.
+  Origin: Adapted from a drink created by Dan Warner at the Beefeater Distillery, London, England.<br />
+  source: www.diffordsguide.com (2507)
+ingredients: 
+- - "2"
+  - shot
+  - Bombay London dry gin
+- - " 3/4 "
+  - shot
+  - Lillet Blanc
+- - " 1/2 "
+  - shot
+  - Noilly Ambre vermouth
+- - "2"
+  - dash
+  - Angostura orange bitters
+method: STIR all ingredients with ice and strain into chilled glass.
+name: The Montford
+rate: 4.5

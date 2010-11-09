@@ -1,0 +1,414 @@
+--- !ruby/object:Set 
+hash: 
+  Vanilla pod: true
+  Monin Lavender sugar syrup: true
+  Orange marmalade: true
+  Baileys Irish cream liqueur: true
+  White truffle honey: true
+  Jagermeister: true
+  Maple syrup: true
+  Gooseberry & mint cordial: true
+  Poire William pear liqueur: true
+  Blackcurrents: true
+  Sour apple liqueur: true
+  Aperol: true
+  Zacapa aged rum: true
+  Tokaji Hungarian wine: true
+  Heering cherry brandy liqueur: true
+  Myer's Planter's Punch rum: true
+  Harvey's Bristol Cream sherry: true
+  Vieille de prune eau de vie: true
+  Pedro Ximnez sherry: true
+  Pomegranate (grenadine) syrup: true
+  Crème de cassis liqueur: true
+  Kirsch liqueur: true
+  Fennel seeds: true
+  Boulard Grand Solage calvados: true
+  Eau de Vie Framboise: true
+  Oatmeal water: true
+  Peach bitters: true
+  Ruby grapefruit juice: true
+  Maraschino cherries & syrup: true
+  Tobasco hot pepper sauce: true
+  Marie Brizard anisette liqueur: true
+  Burnt lime juice: true
+  Bols apricot brandy liqueur: true
+  Sorrelade (see sorrelade recipe): true
+  Mint leaves: true
+  Orange peel: true
+  Unsalted butter: true
+  Manzanilla Sherry: true
+  Zen green tea liqueur: true
+  Fresh orange: true
+  Blueberries: true
+  Mint fresh sprigs: true
+  Slivovitz plum brandy: true
+  Cold hibiscus tea (strong brewed): true
+  Cold green tea: true
+  Sweetcorn (canned): true
+  Teichenn butterscotch schnapps: true
+  Cherry tomatoes (chopped): true
+  Fee Brothers mint bitters: true
+  Angostura aromatic bitters: true
+  Figs: true
+  Lychee syrup (from tinned fruit): true
+  Lavender-infused Ketel One vodka: true
+  Polska Wisniwka cherry liqueur: true
+  Coffee ice cream: true
+  Ripe peach (skinned and diced): true
+  Freshly grated nutmeg: true
+  Rose's lime cordial: true
+  Spumante (or brut champagne): true
+  Ginger beer: true
+  Ocean Spray cranberry juice: true
+  Kaffir lime flavoured vodka: true
+  Condensed milk: true
+  Homemade liquorice syrup: true
+  Salt: true
+  Oban 14yo malt whisky: true
+  Strawberries (hulled): true
+  St-Germain elderflower liqueur: true
+  Haagen Dazs vanilla ice cream: true
+  Domaine de Canton ginger liqueur: true
+  Fresh diced mango: true
+  Stone's green ginger wine: true
+  Monin Ginger syrup: true
+  Agave nectar: true
+  Amer Picon: true
+  Cayenne pepper: true
+  Runny honey: true
+  Pressed apple juice: true
+  Evaporated milk (sweetened): true
+  Vanilla schnapps: true
+  Coriander (cilantro): true
+  Cinnamon stick: true
+  Freshly squeezed lemon or lime juice: true
+  Cucumber flavoured vodka: true
+  Worcestershire sauce: true
+  Boiron peach pure: true
+  Chocolate bitters: true
+  Difford's Daiquiri Water: true
+  Red onion rings: true
+  Bacardi Superior rum: true
+  Rose syrup: true
+  Brown sugar syrup (2 sugar to 1 water): true
+  Lemon curd: true
+  Tio Pepe fino sherry: true
+  Peach Tree peach schnapps: true
+  Taylor's Chip dry white port: true
+  Lemongrass stem (chopped): true
+  Vanilla extract: true
+  Ruby red grapefruit: true
+  Natural yoghurt: true
+  Martinique cane sugar syrup: true
+  Lime & lemongrass cordial: true
+  Pimm's No.1 Cup: true
+  Dubonnet Red (French made): true
+  Courvoisier V.S.O.P cognac: true
+  Angostura orange bitters: true
+  Fresh mandarin: true
+  Choya Umeshu plum liqueur: true
+  Grand Marnier liqueur: true
+  Vanilla-infused Don Julio tequila: true
+  Rose water: true
+  Lemon thyme (remove stalks): true
+  Sloe Gin liqueur: true
+  Torres Aqua d'Or aguardiente: true
+  Swedish Punch liqueur: true
+  Grapefruit preserve: true
+  Crème de banane liqueur: true
+  Cold earl gray tea: true
+  Apricot jam (preserve): true
+  La Fée Parisienne (68%) absinthe: true
+  Passion fruit juice: true
+  Bndictine D.O.M.: true
+  Jameson Irish whiskey: true
+  Ginger cordial (non-alcoholic): true
+  Marie Brizard Anisette: true
+  Milk: true
+  Boiling water: true
+  Galliano L'Autentico liqueur: true
+  Soda (club soda): true
+  Martinique agricole rum: true
+  British cask conditioned ale: true
+  Bacardi Oro golden rum: true
+  Carpano Antica Formula: true
+  Tiki's Falernum Bitters (www.tradertiki.com): true
+  Coconut water: true
+  Parfait Amour liqueur: true
+  Egg white: true
+  Granulated sugar: true
+  Bombay London dry gin: true
+  Cold beef bouillon: true
+  Cold Lapsang Souchong tea: true
+  Shochu: true
+  Leblon cachaca: true
+  Passion fruit: true
+  Fernet Branca: true
+  Kummel: true
+  Pinot Grigio white wine: true
+  Lapponia cranberry liqueur: true
+  Kumquats (chopped): true
+  Chablis white wine: true
+  Clove: true
+  Perrier Jouet brut champagne: true
+  Bols blue curacao liqueur: true
+  Brown crème de cacao liqueur: true
+  Raspberry syrup (1 juice to 1 sugar): true
+  Southern Comfort liqueur: true
+  Green crème de menthe liqueur: true
+  Lager: true
+  Taylor's ruby port: true
+  Midori green melon liqueur: true
+  Icewine: true
+  Raisins: true
+  Crème de noyaux liqueur: true
+  Pressed pear juice: true
+  Jack Daniels Tennessee whiskey: true
+  Fee Brothers grapefruit bitters: true
+  Toffee liqueur: true
+  Merlot red wine: true
+  Chartreuse Yellow liqueur: true
+  Cold English breakfast tea: true
+  Yamazaki 12yo Japanese whisky: true
+  Clment Creole Shrubb liqueur: true
+  Torn basil leaves: true
+  Green Tabasco Sauce: true
+  Pepper-infused Ketel One vodka: true
+  Rosemary sprig: true
+  Red peppercorns: true
+  Martini Rosso sweet vermouth: true
+  Caper brine (from jar): true
+  Barenjager honey liqueur: true
+  Coriander seeds: true
+  Malibu coconut rum liqueur: true
+  Kahla coffee liqueur: true
+  Freshly squeezed orange juice: true
+  Opal Nera black sambuca: true
+  Fresh watermelon: true
+  Watermelon liqueur: true
+  Kiwi fruit: true
+  Orange-infused Ketel One vodka: true
+  Pineapple (fresh): true
+  Rhubarb syrup (from tinned fruit): true
+  Lemon zest twist: true
+  Red grapes: true
+  Chardonnay white wine: true
+  Lemonade/Sprite/7-Up: true
+  Monasterium liqueur: true
+  Carpano Punt E Mes: true
+  Plum (stoned, peeled & chopped): true
+  Float lightly whipped: true
+  Herradura 100% agave tequila: true
+  Mascarpone cheese: true
+  Malt Extract: true
+  Goldschlager cinnamon schnapps: true
+  Spey malt whisky: true
+  White crème de cacao liqueur: true
+  White balsamic vinegar: true
+  Rye whiskey: true
+  Berry flavoured vodka: true
+  Pisang Ambon liqueur: true
+  Hot espresso coffee: true
+  Passoa passion fruit liqueur: true
+  Vanilla-infused Bacardi rum: true
+  Boiron pear pure: true
+  Mott's Clamato juice: true
+  Sweet fruit juice: true
+  Fresh dill: true
+  Drambuie: true
+  Apostoles palo cortado sherry: true
+  Monin Vanilla sugar syrup: true
+  Horseradish sauce: true
+  Sour pineapple liqueur: true
+  Strega liqueur: true
+  Bottlegreen Cox's Apple and Plum Cordial: true
+  Luxardo Amaretto di Saschira: true
+  Black strap molasses: true
+  Marinated pineapple wedges: true
+  Hazelnut liqueur: true
+  Fresh tarragon: true
+  Cardamom pods: true
+  Becherovka liqueur: true
+  Apple flavoured vodka: true
+  Armagnac: true
+  Monin Coconut syrup: true
+  Vanilla-infused Courvoisier cognac: true
+  Campari Bitter: true
+  Dry cider: true
+  Cold jasmine tea: true
+  Crème pêche de vigne liqueur: true
+  Freshly squeezed pink grapefruit juice: true
+  Wild Hibiscus flower (jarred): true
+  Crème de myrtille liqueur: true
+  Passion fruit syrup: true
+  Monin Honey syrup: true
+  Mint (menthe) syrup: true
+  Freshly squeezed lemon juice: true
+  Zubrwka bison vodka: true
+  Fee Brothers lemon bitters: true
+  Noilly Prat dry vermouth: true
+  Chilled mineral water: true
+  Peychaud's aromatic bitters: true
+  Cantaloupe melon: true
+  Yellow bell pepper  (chopped): true
+  Lime flavoured vodka: true
+  Lillet Blanc: true
+  Crème de framboise liqueur: true
+  Brandy, whisk(e)y, gin, rum etc.: true
+  Averna Amaro: true
+  Marsala wine: true
+  Luxardo limoncello liqueur: true
+  Yellow bell pepper juice: true
+  Tonic water: true
+  Redcurrants: true
+  Cinzano Arancio: true
+  Celery salt: true
+  Almond flavoured vodka: true
+  Physalis fruits: true
+  Blackberries: true
+  Johnnie Walker Scotch Whisky: true
+  Sake: true
+  Nocello walnut liqueur: true
+  Lemon: true
+  Wray & Nephew overproof rum: true
+  Oreo cookies: true
+  Ketel One vodka: true
+  Sorrel (hibiscus flowers): true
+  Mandarine Napolon liqueur: true
+  Crème de fraise du bois liqueur: true
+  La Fée Bohemian (70%) absinthe: true
+  Monin Almond (orgeat) syrup: true
+  Wormwood bitters: true
+  Myer's dark Jamaican rum: true
+  Sauvignon blanc wine: true
+  Guava juice: true
+  Hot camomile tea: true
+  Sauternes dessert wine: true
+  Agavero liqueur: true
+  Shiraz red wine: true
+  Pomegranate juice: true
+  Ginger ale: true
+  Giffard Menthe Pastille liqueur: true
+  Hpnotiq liqueur: true
+  100-proof (50% A.B.V.) vodka: true
+  Chartreuse Green liqueur: true
+  Genepi des Peres Chartreux: true
+  Balsamic vinegar: true
+  Fresh pressed pineapple juice: true
+  Curacao liqueur or Grand Marnier: true
+  Bols advocaat liqueur: true
+  Chocolate ice cream: true
+  Xoxolate Mole (www.bittermens.com): true
+  Poire William eau de vie: true
+  Lemon sorbet: true
+  Coca-cola: true
+  Crème de Mûre liqueur: true
+  Malt vinegar: true
+  Star anise: true
+  Noilly Ambre vermouth: true
+  Pineapple marinade: true
+  Red bell pepper: true
+  Mincemeat: true
+  Olive brine (from jarred olive): true
+  Freshly squeezed lime juice: true
+  Ricard Pastis: true
+  Lanique rose petal liqueur: true
+  Tuaca liqueur: true
+  Maraschino syrup (from cherry jar): true
+  Canadian whisky: true
+  Soda from siphon: true
+  Lemonade (English-style): true
+  Red chilli (thin slice): true
+  Pineapple flavoured vodka: true
+  Tomato ketchup: true
+  Prune syrup (from tinned fruit): true
+  Lapponia cloudberry liqueur: true
+  Maker's Mark bourbon: true
+  "Regan's Orange #6": true
+  Smooth peanut butter: true
+  Francoli Moscato grappa: true
+  Cynar: true
+  Black pepper: true
+  Blandy's Alvada madeira: true
+  Demerara 151o overproof rum: true
+  Seedless white grapes: true
+  Cold camomile tea: true
+  Mango pure: true
+  Velvet Falernum liqueur: true
+  Banana (peeled): true
+  Cucumber (chopped & peeled): true
+  Double (heavy) cream: true
+  Egg yolk: true
+  Kirschwasser eau de vie: true
+  Cointreau triple sec: true
+  Orange flower water: true
+  Berentzen Apple schnapps: true
+  Cranberry flavoured vodka: true
+  Fresh root ginger (thumbnail sized): true
+  Plum wine: true
+  Old Tom gin: true
+  Crème de fraise liqueur: true
+  Freshly extracted carrot juice: true
+  Bokma oude genever: true
+  Chambord: true
+  Pernod anis: true
+  Lagavulin 16yo malt whisky: true
+  Coco Lpez cream of coconut: true
+  Barolo wine: true
+  Sage leaves: true
+  Ouzo 12: true
+  Freshly extracted celery juice: true
+  Barsol Quebranta pisco: true
+  Wood's 100 rum: true
+  Berry Hill pimento allspice liqueur: true
+  Pusser's Navy rum: true
+  Warre's Otima tawny port: true
+  Damson jam (preserve): true
+  Giffard caramel liqueur: true
+  Benoit Serres cr`eme de violette: true
+  Damson gin liqueur: true
+  Pear flavoured vodka: true
+  Soho lychee liqueur: true
+  Matulsalem Oloroso sherry: true
+  Stoned cherries: true
+  Claret red wine: true
+  Raspberries: true
+  Gosling's Black Seal rum: true
+  Quince mustard jam: true
+  La Vieille Prune plum brandy: true
+  Egg: true
+  Prosecco sparkling wine: true
+  Tomato juice: true
+  Luxardo maraschino liqueur: true
+  Ginger & lemongrass cordial: true
+  Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water): true
+  Guiness: true
+  Rhubarb & orange preserve: true
+  Sailor Jerry spiced rum: true
+  Laird's Applejack brandy: true
+  Soy sauce: true
+  Brown sugar: true
+  Ground cinnamon: true
+  Algarrobo extract (or malt extract from healthfood shops): true
+  Macchu pisco: true
+  Krupnik spiced honey liqueur: true
+  Homemade hibiscus tea syrup: true
+  Belle de Brillet pear liqueur: true
+  Ketel One Citroen vodka: true
+  Amontillado sherry: true
+  Freshly squeezed grapefruit juice: true
+  Wasabi paste: true
+  Old-fashioned bitters: true
+  Cuarenta y Tres (Licor 43) liqueur: true
+  Vanilla-infused Ketel One vodka: true
+  Luxardo sambuca dei cesari: true
+  Raspberry flavoured vodka: true
+  Lime: true
+  Mezcal: true
+  Half soda and half lemonade: true
+  Bitter lemon: true
+  Appletiser: true
+  Dark beer: true
+  Sparkling mineral water: true
+  Mexican 'Squirt' or Caribbean 'Ting' grapefruit soda: true

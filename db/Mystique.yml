@@ -1,0 +1,20 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Raspberries on stick<br />
+glass: Old-fashioned
+infos: 
+  Comment: Rust coloured and fruit charged. Not the sweetie you might expect.
+  Origin: Created in 2002 by Tim Halilaj, Albania. <br />
+  source: www.diffordsguide.com (1381)
+ingredients: 
+- - "2"
+  - shot
+  - Johnnie Walker Scotch Whisky
+- - "1"
+  - shot
+  - Tuaca liqueur
+- - "1"
+  - shot
+  - Chambord
+method: SHAKE all ingredients with ice and strain into ice-filled glass.
+name: Mystique
+rate: 3.5

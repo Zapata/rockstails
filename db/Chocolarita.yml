@@ -1,0 +1,26 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Chocolate rim
+glass: Coupette
+infos: 
+  Comment: As the name suggests - a Margarita with chocolate and coffee.
+  Origin: Adapted from a recipe discovered in 2005 at Agave, Hong Kong, China.
+  source: www.diffordsguide.com (580)
+ingredients: 
+- - "2"
+  - shot
+  - Herradura 100% agave tequila
+- - " 1/4 "
+  - shot
+  - "Brown cr\xE8me de cacao liqueur"
+- - " 1/4 "
+  - shot
+  - Kahla coffee liqueur
+- - "1"
+  - shot
+  - Freshly squeezed lime juice
+- - " 1/4 "
+  - shot
+  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+name: Chocolarita
+rate: 4.0

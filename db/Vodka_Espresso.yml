@@ -1,0 +1,24 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Three coffee beans
+glass: Old-fashioned
+infos: 
+  Comment: Vodka and coffee combine in this tasty wake up call.
+  Origin: Created in 1983 by Dick Bradsell at the Soho Brasserie, London, England.
+  Variant: Pharmaceutical Stimulant, Espresso Martini.<br />
+  source: www.diffordsguide.com (2051)
+ingredients: 
+- - "2"
+  - shot
+  - Ketel One vodka
+- - "1 1/2 "
+  - shot
+  - Hot espresso coffee
+- - " 1/2 "
+  - shot
+  - Kahla coffee liqueur
+- - " 1/4 "
+  - shot
+  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+method: SHAKE all ingredients with ice and fine strain into ice-filled glass.
+name: Vodka Espresso
+rate: 4.5

@@ -1,0 +1,20 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Maraschino cherry
+glass: Martini
+infos: 
+  Comment: Dry, aromatic and packs one hell of a punch.
+  Origin: A classic from the 1940s.
+  source: www.diffordsguide.com (1461)
+ingredients: 
+- - "2 1/2 "
+  - shot
+  - Bombay London dry gin
+- - " 1/2 "
+  - shot
+  - Martini Rosso sweet vermouth
+- - "1"
+  - shot
+  - Freshly squeezed grapefruit juice
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+name: Palm Beach
+rate: 3.5

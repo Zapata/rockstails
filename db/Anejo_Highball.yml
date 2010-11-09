@@ -1,0 +1,26 @@
+--- !ruby/object:DirtyCocktail 
+garnish: " Half orange slice &amp; lime slice"
+glass: Collins
+infos: 
+  Comment: Orange and rum with a hint of ginger spice. Long and thirst-quenching.
+  Origin: " Created in the late 1990s by Dale DeGroff, New York City, USA."
+  source: www.diffordsguide.com (2248)
+ingredients: 
+- - "2"
+  - shot
+  - Zacapa aged rum
+- - "1"
+  - shot
+  - Curacao liqueur or Grand Marnier
+- - "1"
+  - shot
+  - Freshly squeezed lime juice
+- - "1"
+  - dash
+  - Angostura aromatic bitters
+- - "1"
+  - top up with
+  - Ginger beer
+method: " SHAKE first four ingredients with ice and strain into ice-filled glass."
+name: A~nejo Highball
+rate: 4.0
