@@ -1,0 +1,7 @@
+<h1>Select one ingredient to add</h1>
+
+<% form_tag(addingredient_path, :method=>'post') do %>
+  <% select :p, :ingredient, @ingredients %>
+<% end %>
+
+<%= link_to 'Back', @cocktail %>
