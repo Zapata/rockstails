@@ -1,0 +1,12 @@
+<h1>Select one ingredient to add</h1>
+
+<% form_tag(add_ingredient_cocktail_path, :method=>'put') do %>
+  <p>
+    Ingredient:<br />
+    <%= collection_select(:ingredient, :id, @ingredients, :id, :name, :class => "ingredient") %>
+  <p>
+    <%= submit_tag 'Add' %>
+  </p>
+<% end %>
+
+<%= link_to 'Back', @cocktail %>

@@ -1,7 +1,12 @@
+<h1><%=h @cocktail.name %></h1>
+
 <p>
   <b>Name:</b>
   <%=h @cocktail.name %>
 </p>
+
+<h2>Ingredients</h2>
+<%= render @cocktail.ingredients %>
 
 <%= link_to 'Edit', edit_cocktail_path(@cocktail) %> |
 <%= link_to 'Back', cocktails_path %>

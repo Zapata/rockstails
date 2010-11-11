@@ -1,4 +1,4 @@
-<h1>Editing cocktail</h1>
+<h1>Editing cocktail: <%= @cocktail.name %></h1>
 
 <% form_for(@cocktail) do |f| %>
   <%= f.error_messages %>
@@ -12,6 +12,9 @@
   </p>
 <% end %>
 
-<%= link_to 'Select ingredient to add', selectingredient_cocktail_path(@cocktail) %> |
+<h2>Ingredients</h2>
+<%= render @cocktail.ingredients %>
+
+<%= link_to 'Select ingredient to add', select_ingredient_cocktail_path(@cocktail) %> |
 <%= link_to 'Show', @cocktail %> |
 <%= link_to 'Back', cocktails_path %>

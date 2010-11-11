@@ -71,24 +71,25 @@ class CocktailsController < ApplicationController
     end
   end
 
-  # GET /cocktail/1/selectingredient
-  def selectingredient
+  # GET /cocktail/1/select_ingredient
+  def select_ingredient
     @cocktail = Cocktail.find(params[:id])
     @ingredients = Ingredient.find(:all, :order => "name")
   end
 
-  # PUT /cocktail/1/addingredient
-  # PUT /cocktail/1/addingredient.xml
-  def addingredient
+  # PUT /cocktail/1/add_ingredient
+  # PUT /cocktail/1/add_ingredient.xml
+  def add_ingredient
     @cocktail = Cocktail.find(params[:id])
+    @ingredient = Ingredient.find(params["ingredient"]["id"])
 
     respond_to do |format|
-      if @cocktail.add_ingredient(params[:ingredient])
+      if @cocktail.ingredients << @ingredient
         flash[:notice] = 'Cocktail was successfully updated.'
         format.html { redirect_to(@cocktail) }
         format.xml  { head :ok }
       else
-        format.html { render :action => "selectingredient" }
+        format.html { render :action => "select_ingredient" }
         format.xml  { render :xml => @cocktail.errors, :status => :unprocessable_entity }
       end
     end
