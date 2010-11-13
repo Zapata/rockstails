@@ -1,0 +1,26 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Pineapple wedge on rim
+glass: Martini
+infos: 
+  Comment: One of the tastiest Daiquiris I've tried.
+  Origin: Adapted from Herny Besant's Pineapple &amp; Cardamom Martini
+  source: www.diffordsguide.com (1528)
+ingredients: 
+- - "4"
+  - whole
+  - Cardamom pods
+- - "2"
+  - shot
+  - Bacardi Superior rum
+- - "1 3/4 "
+  - shot
+  - Fresh pressed pineapple juice
+- - " 1/4 "
+  - shot
+  - Freshly squeezed lime juice
+- - " 1/4 "
+  - shot
+  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+method: MUDDLE cardamom in base of shaker. Add other ingredients, SHAKE with ice and fine strain into chilled glass.
+name: Pineapple & Cardamom Daiquiri
+rate: 4.5

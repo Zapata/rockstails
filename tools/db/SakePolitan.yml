@@ -1,0 +1,25 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Orange zest twist
+glass: Martini
+infos: 
+  Comment: A Cosmo with more than a hint of sake.
+  source: www.diffordsguide.com (1730)
+ingredients: 
+- - "2 1/4 "
+  - shot
+  - Sake
+- - " 3/4 "
+  - shot
+  - Cointreau triple sec
+- - " 3/4 "
+  - shot
+  - Ocean Spray cranberry juice
+- - " 1/4 "
+  - shot
+  - Freshly squeezed lime juice
+- - "2"
+  - dash
+  - Angostura orange bitters
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+name: Sake'Politan
+rate: 4.0

@@ -1,0 +1,26 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Mint sprig
+glass: Sling
+infos: 
+  Comment: As Victor says of this gin based Julep, &quot;This is a hell of a drink.&quot;
+  Origin: Adapted from a recipe in the 1947 Trader Vic's Bartender Guide by Victor Bergeron.
+  source: www.diffordsguide.com (1225)
+ingredients: 
+- - "12"
+  - fresh
+  - Mint leaves
+- - "2"
+  - shot
+  - Bombay London dry gin
+- - " 1/4 "
+  - shot
+  - Freshly squeezed lime juice
+- - " 1/4 "
+  - shot
+  - Freshly squeezed lemon juice
+- - " 1/2 "
+  - shot
+  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+method: Lightly MUDDLE (only to bruise) mint with gin in base of shaker. Add other ingredients, SHAKE with ice and fine strain into glass half filled with crushed ice. CHURN (stir) drink with ice using a barspoon. Top the glass to the brim with more crushed ice and churn again. Serve with straws.
+name: "Major Bailey #1"
+rate: 4.5

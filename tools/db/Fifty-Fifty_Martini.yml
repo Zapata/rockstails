@@ -1,0 +1,17 @@
+--- !ruby/object:DirtyCocktail 
+garnish: <p>Olive on stick</p>
+glass: Martini
+infos: 
+  Comment: <p>A very 'wet' but wonderfully dry Martini which demands an olive, not a twist. Before you start - Craddock calls for it to be shaken.</p>
+  Origin: <p>Adapted from Harry Craddock's 1930 'The Savoy Cocktail Book'.</p>
+  source: www.diffordsguide.com (2162)
+ingredients: 
+- - "1 1/2 "
+  - shot
+  - Bombay London dry gin
+- - "1 1/2 "
+  - shot
+  - Noilly Prat dry vermouth
+method: <p>SHAKE all ingredients with ice and fine strain into chilled glass.</p>
+name: Fifty-Fifty Martini
+rate: 4.0

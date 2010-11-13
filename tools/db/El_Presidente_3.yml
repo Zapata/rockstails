@@ -1,0 +1,23 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Orange zest twist
+glass: Martini
+infos: 
+  Comment: "A sweeter version of El Presidente #2"
+  Origin: Adapted from Victor Bergeron's 'Trader Vic's Bartender's Guide' (1972 revised edition). Vic writes of this drink, &quot;This is the real recipe&quot;.
+  source: www.diffordsguide.com (2156)
+ingredients: 
+- - "2"
+  - shot
+  - Bacardi Superior rum
+- - "1"
+  - shot
+  - Noilly Prat dry vermouth
+- - " 1/2 "
+  - shot
+  - Cointreau triple sec
+- - " 1/4 "
+  - shot
+  - Pomegranate (grenadine) syrup
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+name: "El Presidente #3"
+rate: 3.0

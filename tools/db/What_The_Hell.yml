@@ -1,0 +1,25 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Lime wedge on rim
+glass: Martini
+infos: 
+  Comment: Gin and dry apricots.
+  source: www.diffordsguide.com (2077)
+ingredients: 
+- - "2"
+  - shot
+  - Bombay London dry gin
+- - "1"
+  - shot
+  - Bols apricot brandy liqueur
+- - " 3/4 "
+  - shot
+  - Noilly Prat dry vermouth
+- - " 1/4 "
+  - shot
+  - Freshly squeezed lime juice
+- - " 1/8 "
+  - shot
+  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+name: What The Hell
+rate: 4.0

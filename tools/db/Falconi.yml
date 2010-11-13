@@ -1,0 +1,22 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Orange zest twist<br />
+glass: Martini
+infos: 
+  Comment: Dry and subtly aromatic.
+  source: www.diffordsguide.com (2403)
+ingredients: 
+- - "2"
+  - shot
+  - Rye whiskey
+- - "1"
+  - shot
+  - Noilly Prat dry vermouth
+- - "1"
+  - shot
+  - Warre's Otima tawny port
+- - "1"
+  - dash
+  - Angostura orange bitters
+method: STIR all ingredients with ice and strain into chilled glass.<br /><br />
+name: Falconi
+rate: 4.0

@@ -1,0 +1,26 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Orange zest twist
+glass: Martini
+infos: 
+  Comment: Strongly citrus but dry rather than bitter.
+  Origin: Discovered in 2005 at the Four Seasons Hotel, Prague, Czech Republic.
+  source: www.diffordsguide.com (517)
+ingredients: 
+- - "1 1/2 "
+  - shot
+  - Ketel One Citroen vodka
+- - " 3/4 "
+  - shot
+  - Cointreau triple sec
+- - " 1/4 "
+  - shot
+  - Noilly Prat dry vermouth
+- - " 3/4 "
+  - shot
+  - Freshly squeezed orange juice
+- - " 1/4 "
+  - shot
+  - Freshly squeezed lime juice
+method: SHAKE all the ingredients with ice and fine strain into chilled glass.
+name: Allegrottini
+rate: 3.5

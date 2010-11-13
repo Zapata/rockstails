@@ -1,0 +1,17 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Pineapple or lime wedge
+glass: Old-fashioned
+infos: 
+  Comment: Don't let the lime-green hue of this drink put you off. It tastes considerably more adult than it looks.<br /><br />
+  Origin: Popular cocktail in Mexico.
+  source: www.diffordsguide.com (2435)
+ingredients: 
+- - "1 1/2 "
+  - shot
+  - Bombay London dry gin
+- - "1"
+  - shot
+  - Midori green melon liqueur
+method: SHAKE ingredients with ice and strain into ice-filled glass.
+name: Guardabosques
+rate: 3.5

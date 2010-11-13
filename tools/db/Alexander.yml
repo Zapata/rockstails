@@ -1,0 +1,29 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Dust with freshly grated nutmeg
+glass: Martini
+infos: 
+  AKA: Gin Alexander or Princess Mary
+  Comment: |-
+    <span ;mso-bidi-font-family:georgia;="" lang="EN-US" mso-ansi-language:en-us;mso-fareast-language:en-us;mso-bidi-language:en-us="" new="" roman=""  times="">This
+    gin based Alexander has sadly slipped from popularity, partly knocked by its
+    successors, particularly the Brandy Alexander. Predictably, I've doubled the
+    gin.</span>
+  Origin: " <span ;mso-bidi-font-family:georgia;=\"\" lang=\"EN-US\" mso-ansi-language:en-us;mso-fareast-language:en-us;mso-bidi-language:en-us=\"\" new=\"\" roman=\"\"  times=\"\">The\r\n\
+    original Alexander, equal parts gin, cr`eme de cacao and cream, is thought to\r\n\
+    have originated in the twentieth century, certainly before 1917. It became a\r\n\
+    Prohibition favourite as the cream and nutmeg garnish helped disguise the rough\r\n\
+    taste of homemade 'bathtub' gin.</span>"
+  source: www.diffordsguide.com (35)
+ingredients: 
+- - "2"
+  - shot
+  - Bombay London dry gin
+- - "1"
+  - shot
+  - "White cr\xE8me de cacao liqueur"
+- - "1"
+  - shot
+  - Double (heavy) cream
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+name: Alexander
+rate: 3.5

@@ -1,0 +1,32 @@
+--- !ruby/object:DirtyCocktail 
+garnish: " Physalis (cape gooseberry)<br />"
+glass: Old-fashioned
+infos: 
+  Comment: Depending on the sweetness of your molasses, you may not need to add sugar syrup.
+  Origin: " Adapted from a drink created by Mark Lynch at Green 19, Dublin, Ireland. <br />"
+  source: www.diffordsguide.com (2782)
+ingredients: 
+- - "1"
+  - shot
+  - Zacapa aged rum
+- - " 1/2 "
+  - shot
+  - Bacardi Superior rum
+- - " 1/2 "
+  - shot
+  - Cointreau triple sec
+- - " 1/4 "
+  - shot
+  - Monin Almond (orgeat) syrup
+- - " 1/2 "
+  - spoon
+  - Black strap molasses
+- - " 3/4 "
+  - shot
+  - Freshly squeezed lime juice
+- - " 1/8 "
+  - shot
+  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+method: " SHAKE all ingredients with ice and strain into ice-filled glass. <br />"
+name: Black Tie
+rate: 4.0

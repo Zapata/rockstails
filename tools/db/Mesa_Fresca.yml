@@ -1,0 +1,23 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Lime slice
+glass: Collins
+infos: 
+  Comment: Sweet and sour tequila and grapefruit.
+  Origin: Discovered in 2005 at Mesa Grill, New York City, USA.
+  source: www.diffordsguide.com (1296)
+ingredients: 
+- - "2"
+  - shot
+  - Herradura 100% agave tequila
+- - "3"
+  - shot
+  - Freshly squeezed grapefruit juice
+- - "1"
+  - shot
+  - Freshly squeezed lime juice
+- - " 1/2 "
+  - shot
+  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+method: SHAKE all ingredient with ice and strain into ice-filled glass.
+name: Mesa Fresca
+rate: 4.0

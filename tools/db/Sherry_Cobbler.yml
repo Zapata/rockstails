@@ -1,0 +1,29 @@
+--- !ruby/object:DirtyCocktail 
+garnish: " Lemon and orange wedges<br />"
+glass: Collins
+infos: 
+  Comment: "This age old cocktail is said to have been the drink for which the waxed paper straw was invented. To quote Harry Johnson, from his 1882 'Bartender's Manual': &quot;It is a very refreshing drink for old and young.&quot;"
+  Origin: " The origins of this cocktail are unknown but it is one of the original classic cocktails. This recipes is adapted from Jerry Thomas' 1862 book, 'How to Mix Drinks - the Bon Vivant's Companion'. <br /><br />In his 1882 'Bartender's Manual', Harry Johnson writes of the Sherry Cobbler, &quot;This drink is without doubt the most popular beverage in the country, with ladies as well as with gentlemen.&quot;<br />"
+  source: www.diffordsguide.com (2895)
+ingredients: 
+- - " 1/4 "
+  - slice
+  - Pineapple (fresh)
+- - " 1/2 "
+  - slice
+  - Fresh orange
+- - "3 1/2 "
+  - shot
+  - Tio Pepe fino sherry
+- - " 1/4 "
+  - shot
+  - Luxardo maraschino liqueur
+- - " 1/4 "
+  - shot
+  - Freshly squeezed lemon juice
+- - " 1/4 "
+  - shot
+  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+method: " MUDDLE fruit in base of shaker. Add other ingredients, SHAKE with ice and fine strain into a glass filled with crushed ice.<br /><br />"
+name: Sherry Cobbler
+rate: 4.5

@@ -1,0 +1,25 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Banana chunk on rim
+glass: Martini
+infos: 
+  Comment: It's not pink but it has bourbon, banana, orange and lemon smoothed with egg white.
+  source: www.diffordsguide.com (758)
+ingredients: 
+- - "1"
+  - shot
+  - Maker's Mark bourbon
+- - " 3/4 "
+  - shot
+  - "Cr\xE8me de banane liqueur"
+- - "1 1/2 "
+  - shot
+  - Freshly squeezed orange juice
+- - " 3/4 "
+  - shot
+  - Freshly squeezed lemon juice
+- - " 1/2 "
+  - fresh
+  - Egg white
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+name: "Flamingo #1"
+rate: 3.5

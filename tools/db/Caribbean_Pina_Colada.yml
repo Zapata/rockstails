@@ -1,0 +1,25 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Pineapple wedge with cherry on stick.
+glass: Hurricane
+infos: 
+  Comment: Angostura and salt make this a less sticky Colada.
+  source: www.diffordsguide.com (377)
+ingredients: 
+- - "2"
+  - shot
+  - Bacardi Superior rum
+- - "3"
+  - shot
+  - Fresh pressed pineapple juice
+- - " 1/2 "
+  - shot
+  - Coco Lpez cream of coconut
+- - "4"
+  - dash
+  - Angostura aromatic bitters
+- - "1"
+  - pinch
+  - Salt
+method: BLEND ingredients with 12oz scoop of crushed ice. Pour into glass and serve with straws.
+name: Caribbean Pi~na Colada
+rate: 3.5

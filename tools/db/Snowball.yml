@@ -1,0 +1,23 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Lime zest twist<br />
+glass: Collins
+infos: 
+  Comment: The classic light, frothy concoction. Try it, you may like it.
+  Origin: This is thought to have originated in Britain in the late 1940s or early 1950s, reaching its peak of popularity in the 1970s.
+  source: www.diffordsguide.com (1841)
+ingredients: 
+- - "2"
+  - shot
+  - Bols advocaat liqueur
+- - "1"
+  - shot
+  - Tio Pepe fino sherry
+- - " 3/4 "
+  - shot
+  - Rose's lime cordial
+- - "1"
+  - top up with
+  - Perrier Jouet brut champagne
+method: SHAKE first 3 ingredients with ice and strain into ice-filled glass. TOP with champagne.<br />
+name: Snowball
+rate: 4.0

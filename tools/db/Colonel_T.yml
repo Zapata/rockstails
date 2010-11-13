@@ -1,0 +1,19 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Pineapple wedge
+glass: Sling
+infos: 
+  Comment: Mellow and long with pineapple, apricot and bourbon.
+  source: www.diffordsguide.com (460)
+ingredients: 
+- - "2"
+  - shot
+  - Maker's Mark bourbon
+- - "1"
+  - shot
+  - Bols apricot brandy liqueur
+- - "2 1/2 "
+  - shot
+  - Fresh pressed pineapple juice
+method: SHAKE all ingredients with ice and strain into ice-filled glass.
+name: Colonel T
+rate: 3.5

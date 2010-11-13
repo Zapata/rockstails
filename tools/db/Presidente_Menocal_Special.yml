@@ -1,0 +1,23 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Mint sprig and two cherries
+glass: Martini
+infos: 
+  Comment: What hot Cuban summers are made for.
+  Origin: Created by Constantino (Constante) Ribalaigua Vert at the Floridita bar in Havana, Cuba. This recipe is adapted from a 1937 Bar Florida (later renamed Floridita) menu. The name refers to Mario Garca Menocal, who was president of Cuba from 1912 to 1920.<br /><br />
+  source: www.diffordsguide.com (2193)
+ingredients: 
+- - "7"
+  - fresh
+  - Mint leaves
+- - "2"
+  - shot
+  - Bacardi Superior rum
+- - " 1/4 "
+  - shot
+  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- - " 1/8 "
+  - shot
+  - Freshly squeezed lime juice
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+name: Presidente Menocal Special
+rate: 4.0

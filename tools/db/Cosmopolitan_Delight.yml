@@ -1,0 +1,29 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Flamed orange zest twist
+glass: Martini
+infos: 
+  Comment: No relation to the modern Cosmopolitan, this is a mellow, balanced blend of citrus, brandy and red wine.
+  Origin: Adapted from Dale DeGroff's book, 'The Craft of the Cocktail'. He credits the original recipe to a 1902 book by Charlie Paul.
+  source: www.diffordsguide.com (474)
+ingredients: 
+- - "1 1/2 "
+  - shot
+  - Courvoisier V.S.O.P cognac
+- - " 1/2 "
+  - shot
+  - Grand Marnier liqueur
+- - "1 1/4 "
+  - shot
+  - Shiraz red wine
+- - " 1/4 "
+  - shot
+  - Monin Almond (orgeat) syrup
+- - " 3/4 "
+  - shot
+  - Freshly squeezed lemon juice
+- - " 1/4 "
+  - shot
+  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+name: Cosmopolitan Delight
+rate: 4.5

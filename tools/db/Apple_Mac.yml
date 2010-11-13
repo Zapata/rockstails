@@ -1,0 +1,21 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Float apple slice
+glass: Martini
+infos: 
+  Comment: Scotch, ginger and apple are a threesome made in heaven.
+  Origin: I created this twist on the classic Whisky Mac in 2004.
+  Variant: Also suits being served over ice in an old-fashioned glass.
+  source: www.diffordsguide.com (79)
+ingredients: 
+- - "2"
+  - shot
+  - Johnnie Walker Scotch Whisky
+- - "1 1/2 "
+  - shot
+  - Pressed apple juice
+- - " 1/2 "
+  - shot
+  - Stone's green ginger wine
+method: SHAKE all ingredients with ice and strain into ice-filled glass.
+name: Apple Mac
+rate: 4.0

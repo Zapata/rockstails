@@ -1,0 +1,27 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Maraschino cherry
+glass: Martini
+infos: 
+  Comment: Basically an Aviation dried and made more complex with a dash of orange bitters.
+  Origin: Recipe adapted from Harry Craddock's 1930 'The Savoy Cocktail Book'.<br /><br /><br />
+  source: www.diffordsguide.com (2332)
+  Variant: Bee's Knees, Blue Moon
+ingredients: 
+- - "1 1/2 "
+  - shot
+  - Bombay London dry gin
+- - " 3/4 "
+  - shot
+  - Luxardo maraschino liqueur
+- - " 1/2 "
+  - shot
+  - Freshly squeezed lemon juice
+- - " 1/4 "
+  - shot
+  - Chilled mineral water
+- - "1"
+  - dash
+  - Angostura orange bitters
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+name: "Casino #1"
+rate: 5.0

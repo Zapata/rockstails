@@ -1,0 +1,19 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Maraschino cherry
+glass: Martini
+infos: 
+  Comment: Scotch adds some peaty character to this twist on the Sour Apple Martini.
+  source: www.diffordsguide.com (1835)
+ingredients: 
+- - "2 1/2 "
+  - shot
+  - Johnnie Walker Scotch Whisky
+- - "1"
+  - shot
+  - Sour apple liqueur
+- - " 1/2 "
+  - shot
+  - Rose's lime cordial
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+name: Smoky Apple Martini
+rate: 3.5

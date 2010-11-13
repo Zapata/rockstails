@@ -1,0 +1,33 @@
+--- !ruby/object:DirtyCocktail 
+garnish: See 'Crusta' for instructions
+glass: Flute
+infos: 
+  Comment: This old classic zings with fresh lemon and is beautifully balanced  by the cognac base.
+  Origin: Created in the 1840s - 50s by Joseph Santina at Jewel of the South, Gravier Street, New Orleans, USA. The name refers to the crust of sugar around the rim. This recipe is adapted from the David A. Embury's 1948 'the Fine Art of Mixing Drinks'.
+  Variant: Bourbon Crusta
+  source: www.diffordsguide.com (310)
+ingredients: 
+- - "2"
+  - shot
+  - Courvoisier V.S.O.P cognac
+- - " 1/4 "
+  - shot
+  - Cointreau triple sec
+- - " 1/8 "
+  - shot
+  - Luxardo maraschino liqueur
+- - " 1/2 "
+  - shot
+  - Freshly squeezed lemon juice
+- - " 1/4 "
+  - shot
+  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- - "2"
+  - dash
+  - Angostura aromatic bitters
+- - " 3/4 "
+  - shot
+  - Chilled mineral water
+method: SHAKE all ingredients with ice and fine strain into pre-prepared glass.
+name: Brandy Crusta
+rate: 4.0

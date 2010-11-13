@@ -1,0 +1,20 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Orange zest twist
+glass: Martini
+infos: 
+  Comment: Dry and incredibly aromatic. A perfect aperitif.
+  Origin: In his 1948 'The Fine Art of Mixing Drinks', David A. Embury writes, &quot;Perhaps it would not be too much of an exaggeration to say there are as many Club Cocktails as there are clubs.&quot; This example is adapted form the same book.
+  source: www.diffordsguide.com (582)
+ingredients: 
+- - "1 1/2 "
+  - shot
+  - Tio Pepe fino sherry
+- - "1 1/2 "
+  - shot
+  - Warre's Otima tawny port
+- - "1"
+  - dash
+  - Angostura orange bitters
+method: STIR all ingredients with ice and strain into chilled glass.
+name: "Club Cocktail #1"
+rate: 4.0

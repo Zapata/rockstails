@@ -1,0 +1,26 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Orange zest twist (flamed)
+glass: Coupette
+infos: 
+  Comment: A Negroni style cocktail served up. Heavy on the gin and relatively light on Campari and vermouth. It's a formula that works but like us, you may prefer yours served on the rocks. <br />
+  Origin: Created in 2006 by Philip Ward, New York, USA after attending Gaz Regan's Cocktails in the Country workshop in Cornwall-on-Hudson. <br />
+  source: www.diffordsguide.com (2356)
+ingredients: 
+- - "2"
+  - shot
+  - Bombay London dry gin
+- - " 1/2 "
+  - shot
+  - Campari Bitter
+- - " 1/2 "
+  - shot
+  - Carpano Punt E Mes
+- - " 1/2 "
+  - shot
+  - Martini Rosso sweet vermouth
+- - "1"
+  - dash
+  - "Regan's Orange #6"
+method: STIR all ingredients with ice and strain into chilled glass.
+name: Cornwall Negroni
+rate: 4.5

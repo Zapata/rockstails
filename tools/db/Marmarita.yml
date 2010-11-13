@@ -1,0 +1,20 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Wipe Marmite (yeast extract) around rim
+glass: Coupette
+infos: 
+  Comment: A Margarita with a Marmite rim. After all, yeast extract is slightly salty.
+  Origin: Created in 2005 by Simon (Ginger) Warneford at Blanch House, Brighton, England.
+  source: www.diffordsguide.com (1261)
+ingredients: 
+- - "2"
+  - shot
+  - Herradura 100% agave tequila
+- - "1"
+  - shot
+  - Cointreau triple sec
+- - "1"
+  - shot
+  - Freshly squeezed lime juice
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+name: Marmarita
+rate: 4.0

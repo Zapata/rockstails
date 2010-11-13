@@ -1,0 +1,23 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Float strips of yaki nori seaweed
+glass: Martini
+infos: 
+  Comment: Wonderfully balanced with spicy heat and a zesty finish.
+  Origin: Created in 2004 by Philippe Guidi at Morton's, London, England.
+  source: www.diffordsguide.com (2065)
+ingredients: 
+- - "2"
+  - shot
+  - Ketel One vodka
+- - "1"
+  - pea
+  - Wasabi paste
+- - " 3/4 "
+  - shot
+  - Freshly squeezed lemon juice
+- - " 1/2 "
+  - shot
+  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+method: Squeeze a pea-sized quantity of wasabi paste onto a barspoon and STIR with vodka until wasabi dissolves. Add other ingredients, SHAKE with ice and fine strain into chilled glass.
+name: Wasabi Martini
+rate: 4.5

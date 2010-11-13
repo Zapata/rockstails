@@ -1,0 +1,23 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Mint sprig
+glass: Collins
+infos: 
+  Comment: A Scottish twist on the classic bourbon based Mint Julep.
+  Origin: Adapted from a drink discovered in 2001 at Teatro, London, England.
+  source: www.diffordsguide.com (949)
+ingredients: 
+- - "12"
+  - fresh
+  - Mint leaves
+- - "2 1/2 "
+  - shot
+  - Johnnie Walker Scotch Whisky
+- - " 1/2 "
+  - shot
+  - Drambuie
+- - " 3/4 "
+  - shot
+  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+method: Lightly MUDDLE mint in base of shaker (just to bruise). Add other ingredients, SHAKE with ice and strain into glass filled with crushed ice. CHURN (stir) the drink using a bar spoon.Top the glass with more crushed ice so as to fill it and churn again. Serve with straws.
+name: Heather Julep
+rate: 4.5

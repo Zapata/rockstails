@@ -1,0 +1,20 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Orange zest twist<br />
+glass: Martini
+infos: 
+  Comment: Herbal and aromatic, this benefits from the dilution that comes with a good long stir.<br /><br />
+  Origin: "In his 1930 'The Savoy Cocktail Book', Harry Craddock writes of this drink: \"Well-known and very popular in the American Bar of the S.S. Europa\".<br /><br />"
+  source: www.diffordsguide.com (2338)
+ingredients: 
+- - "2"
+  - shot
+  - Noilly Prat dry vermouth
+- - "1"
+  - shot
+  - Bndictine D.O.M.
+- - " 1/8 "
+  - shot
+  - "La F\xE9e Parisienne (68%) absinthe"
+method: STIR all ingredients with ice and strain into chilled glass.
+name: Chrysanthemum
+rate: 4.0

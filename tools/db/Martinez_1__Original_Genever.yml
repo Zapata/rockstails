@@ -1,0 +1,24 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Orange zest twist
+glass: Martini
+infos: 
+  Comment: This medium dry Martini is somewhat more approachable than a Dry Martini.
+  Origin: Probably the forerunner of the Martini, the first known recipe for this drink appears in O.H. Byron's 1884 'The Modern Bartender' where it is listed as a variation to the Manhattan. Its first written standalone listing in a recipe book appears in Harry Johnson's 1888 Bartender's Manual.<br />       <br />Drinks historian David Wondrich and others believe it was first made using Dutch oude genever as this was the style of exported to America long before English Old Tom gin or London Dry gins.<br />       <br />Although the drink appears in his 1887 Bartenders' Guide (as a variation), there is no evidence that Jerry Thomas invented the Martinez and significantly he omits the drink from the earlier 1862 edition of his Bartender's Guide.<br />       <br />Many claim that one Julio Richelieu created the drink in 1874 for a goldminer and that the drink is named after the Californian town of Martinez, where that unnamed goldminer enjoyed this libation.<br /><br />
+  Variant: <br />
+  source: www.diffordsguide.com (1264)
+ingredients: 
+- - "1 1/2 "
+  - shot
+  - Bokma oude genever
+- - "1 1/2 "
+  - shot
+  - Martini Rosso sweet vermouth
+- - " 1/8 "
+  - shot
+  - Curacao liqueur or Grand Marnier
+- - "2"
+  - dash
+  - Angostura aromatic bitters
+method: STIR all ingredients with ice and strain into chilled glass.
+name: "Martinez #1  (Original Genever)"
+rate: 5.0

@@ -1,0 +1,23 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Dust with cocoa powder
+glass: Martini
+infos: 
+  Comment: Slightly sweet, very creamy - drink after dinner.
+  Origin: Created in 1922 by Harry MacElhone to celebrate H.R.H. Princess Mary's marriage. The original recipe featured equal parts of all four ingredients.
+  source: www.diffordsguide.com (1603)
+ingredients: 
+- - "1 1/2 "
+  - shot
+  - Bombay London dry gin
+- - "1"
+  - shot
+  - "White cr\xE8me de cacao liqueur"
+- - " 3/4 "
+  - shot
+  - Double (heavy) cream
+- - " 3/4 "
+  - shot
+  - Milk
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+name: Princess Mary
+rate: 3.0

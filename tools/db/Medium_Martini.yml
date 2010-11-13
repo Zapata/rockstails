@@ -1,0 +1,20 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Orange zest twist
+glass: Martini
+infos: 
+  Comment: A classic Martini served perfect and very wet. I prefer mine shaken which is the method Harry specifies in his guide.
+  Origin: Adapted from a recipe in Harry Craddock's 1930 Savoy Cocktail Book.
+  source: www.diffordsguide.com (1282)
+ingredients: 
+- - "1 1/2 "
+  - shot
+  - Bombay London dry gin
+- - " 3/4 "
+  - shot
+  - Noilly Prat dry vermouth
+- - " 3/4 "
+  - shot
+  - Martini Rosso sweet vermouth
+method: STIR all ingredients with ice and strain into chilled glass
+name: Medium Martini
+rate: 4.5

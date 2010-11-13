@@ -1,0 +1,23 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Orange zest twist
+glass: Martini
+infos: 
+  Comment: Salmon-coloured, light and fragrant with plum wine and sake to the fore.
+  Origin: Discovered at Nobu Berkeley, London, England.
+  source: www.diffordsguide.com (1732)
+ingredients: 
+- - "1 1/2 "
+  - shot
+  - Ketel One vodka
+- - "1"
+  - shot
+  - Plum wine
+- - " 1/2 "
+  - shot
+  - Sake
+- - "1"
+  - shot
+  - Ocean Spray cranberry juice
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+name: "Sake-Tini #2"
+rate: 4.0

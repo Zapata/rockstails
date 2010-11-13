@@ -1,0 +1,26 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Orange zest twist
+glass: Martini
+infos: 
+  Comment: Tangy citrus fruit and cognac smoothed with a hint of vanilla.
+  Origin: Created in 2005 by Milo Rodriguez, London
+  source: www.diffordsguide.com (522)
+ingredients: 
+- - "1"
+  - spoon
+  - Orange marmalade
+- - "2"
+  - shot
+  - Courvoisier V.S.O.P cognac
+- - " 1/4 "
+  - shot
+  - Cuarenta y Tres (Licor 43) liqueur
+- - " 1/2 "
+  - shot
+  - Freshly squeezed lemon juice
+- - " 1/4 "
+  - shot
+  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+method: STIR heaped spoon if orange marmalade with cognac in base of shaker until marmalade dissolves. Add other ingredients, SHAKE with ice and fine strain into chilled glass.
+name: "Angel's Share #1"
+rate: 4.5

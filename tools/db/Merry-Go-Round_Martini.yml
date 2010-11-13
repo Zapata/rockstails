@@ -1,0 +1,20 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Olive &amp; lemon zest twist
+glass: Martini
+infos: 
+  Comment: Stir this 'perfect' Martini around and then get merry.
+  Origin: Long lost classic variation on the Dry Martini.
+  source: www.diffordsguide.com (1299)
+ingredients: 
+- - "2"
+  - shot
+  - Bombay London dry gin
+- - " 1/2 "
+  - shot
+  - Noilly Prat dry vermouth
+- - " 1/2 "
+  - shot
+  - Martini Rosso sweet vermouth
+method: STIR all ingredients with ice and fine strain into chilled glass.
+name: Merry-Go-Round Martini
+rate: 4.0

@@ -1,0 +1,23 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Apple or pear slice on rim
+glass: Martini
+infos: 
+  Comment: "'Apples and pears' means stairs. Well worth climbing."
+  Origin: Created in 2005 by yours truly.
+  source: www.diffordsguide.com (96)
+ingredients: 
+- - "1"
+  - shot
+  - Ketel One vodka
+- - "1"
+  - shot
+  - Boulard Grand Solage calvados
+- - " 3/4 "
+  - shot
+  - Belle de Brillet pear liqueur
+- - "1 1/2 "
+  - shot
+  - Pressed apple juice
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+name: Apples 'N' Pears
+rate: 4.0

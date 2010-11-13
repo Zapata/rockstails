@@ -1,0 +1,16 @@
+--- !ruby/object:DirtyCocktail 
+garnish: 
+glass: Shot
+infos: 
+  Comment: Down this in one and be prepared for a sweet cinnamon palate quickly followed by a hot, spicy finish.
+  source: www.diffordsguide.com (750)
+ingredients: 
+- - "2"
+  - drop
+  - Tobasco hot pepper sauce
+- - "1"
+  - shot
+  - Goldschlager cinnamon schnapps
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+name: Fireball
+rate: 2.0

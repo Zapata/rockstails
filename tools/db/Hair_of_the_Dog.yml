@@ -1,0 +1,23 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Freshly grated nutmeg
+glass: Martini
+infos: 
+  Comment: This drink's name and reputation as a hangover cure may lead you to assume it tastes unpleasant. In fact, honey, whisky and cream combine wonderfully.
+  Origin: Traditionally drunk as a pick-me-up hangover cure.
+  source: www.diffordsguide.com (927)
+ingredients: 
+- - "3"
+  - spoon
+  - Runny honey
+- - "2"
+  - shot
+  - Johnnie Walker Scotch Whisky
+- - "1"
+  - shot
+  - Double (heavy) cream
+- - "1"
+  - shot
+  - Milk
+method: STIR honey with Scotch until honey dissolves. Add other ingredients, SHAKE with ice and fine strain into chilled glass.
+name: Hair of the Dog
+rate: 4.0

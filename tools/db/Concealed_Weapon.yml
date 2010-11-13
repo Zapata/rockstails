@@ -1,0 +1,32 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Lemon zest twist
+glass: Old-fashioned
+infos: 
+  Comment: Absinthe is the 'weapon' that's 'concealed' in this full-on short berry drink.
+  Origin: Created in 2000 by Danny Smith at Che, London, England.
+  source: www.diffordsguide.com (591)
+ingredients: 
+- - "1"
+  - shot
+  - "La F\xE9e Parisienne (68%) absinthe"
+- - "1"
+  - shot
+  - Chambord
+- - " 3/4 "
+  - shot
+  - Freshly squeezed lemon juice
+- - " 1/2 "
+  - shot
+  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- - "1"
+  - dash
+  - Angostura aromatic bitters
+- - "1"
+  - dash
+  - Peychaud's aromatic bitters
+- - " 1/2 "
+  - fresh
+  - Egg white
+method: SHAKE all ingredients with ice and strain into ice-chilled glass.
+name: Concealed Weapon
+rate: 3.0

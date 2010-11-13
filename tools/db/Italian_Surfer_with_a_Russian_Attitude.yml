@@ -1,0 +1,26 @@
+--- !ruby/object:DirtyCocktail 
+garnish: 
+glass: Martini
+infos: 
+  Comment: Fruity and easy drinking but a tad sweet.
+  source: www.diffordsguide.com (1032)
+  Variant: Served as a long drink, over ice in a Collins glass.
+ingredients: 
+- - "1 1/2 "
+  - shot
+  - Ketel One vodka
+- - " 1/2 "
+  - shot
+  - Luxardo Amaretto di Saschira
+- - " 1/2 "
+  - shot
+  - Malibu coconut rum liqueur
+- - " 3/4 "
+  - shot
+  - Fresh pressed pineapple juice
+- - " 3/4 "
+  - shot
+  - Ocean Spray cranberry juice
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+name: Italian Surfer with a Russian Attitude
+rate: 3.0

@@ -1,0 +1,22 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Sponge biscuit on rim
+glass: Martini
+infos: 
+  Comment: Tastes remarkably like syllabub.
+  source: www.diffordsguide.com (875)
+ingredients: 
+- - "1"
+  - shot
+  - Cointreau triple sec
+- - "1"
+  - shot
+  - Galliano L'Autentico liqueur
+- - "2"
+  - shot
+  - Freshly squeezed orange juice
+- - "1"
+  - shot
+  - Double (heavy) cream
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+name: Golden Dream
+rate: 4.0

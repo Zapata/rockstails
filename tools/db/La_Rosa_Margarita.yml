@@ -1,0 +1,22 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Lime wedge on rim
+glass: Coupette
+infos: 
+  Comment: A fruity yet dry crimson-coloured Margarita
+  source: www.diffordsguide.com (1689)
+ingredients: 
+- - "2"
+  - shot
+  - Herradura 100% agave tequila
+- - " 3/4 "
+  - shot
+  - "Cr\xE8me de M\xFBre liqueur"
+- - "1"
+  - shot
+  - Cold hibiscus tea (strong brewed)
+- - " 1/2 "
+  - shot
+  - Freshly squeezed lime juice
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+name: La Rosa Margarita
+rate: 4.0

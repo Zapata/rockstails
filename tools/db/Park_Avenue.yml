@@ -1,0 +1,23 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Maraschino cherry
+glass: Martini
+infos: 
+  Comment: Very fruity and well-balanced rather than dry or sweet.
+  Origin: A classic from the 1940s.
+  source: www.diffordsguide.com (1472)
+ingredients: 
+- - "2"
+  - shot
+  - Bombay London dry gin
+- - " 1/2 "
+  - shot
+  - Grand Marnier liqueur
+- - " 1/2 "
+  - shot
+  - Martini Rosso sweet vermouth
+- - "1"
+  - shot
+  - Fresh pressed pineapple juice
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+name: Park Avenue
+rate: 4.0

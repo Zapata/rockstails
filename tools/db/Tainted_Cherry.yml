@@ -1,0 +1,19 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Maraschino cherry
+glass: Martini
+infos: 
+  Comment: Orange and cherry combine to produce a flavour rather like amaretto.
+  source: www.diffordsguide.com (1915)
+ingredients: 
+- - "1 3/4 "
+  - shot
+  - Ketel One vodka
+- - " 3/4 "
+  - shot
+  - Heering cherry brandy liqueur
+- - "1 3/4 "
+  - shot
+  - Freshly squeezed orange juice
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+name: Tainted Cherry
+rate: 3.0

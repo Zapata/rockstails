@@ -1,0 +1,26 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Lime zest twist
+glass: Old-fashioned
+infos: 
+  Comment: A fruity, sophisticated Daiquiri with hints of almond and spicy clove, served short over ice.
+  Origin: Adapted from a recipe in the 1947-72 Trader Vic's Bartender's Guide by Victor Bergeron.
+  source: www.diffordsguide.com (1940)
+ingredients: 
+- - "1 1/2 "
+  - shot
+  - Zacapa aged rum
+- - " 3/4 "
+  - shot
+  - Bacardi Superior rum
+- - " 1/4 "
+  - shot
+  - Cointreau triple sec
+- - " 1/4 "
+  - shot
+  - Velvet Falernum liqueur
+- - " 1/4 "
+  - shot
+  - Freshly squeezed lemon juice
+method: SHAKE all ingredients with ice and fine strain into ice-filled glass.
+name: Test Pilot
+rate: 4.0

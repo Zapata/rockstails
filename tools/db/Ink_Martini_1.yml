@@ -1,0 +1,23 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Orange zest twist
+glass: Martini
+infos: 
+  Comment: This simple, appropriately named drink is surprisingly quaffable.
+  Origin: Created in 2002 by Gentian Naci at Bar Epernay, Birmingham, England.
+  source: www.diffordsguide.com (1013)
+ingredients: 
+- - "1 1/4 "
+  - shot
+  - Bombay London dry gin
+- - " 1/2 "
+  - shot
+  - Peach Tree peach schnapps
+- - " 1/2 "
+  - shot
+  - Bols blue curacao liqueur
+- - "2"
+  - shot
+  - Ocean Spray cranberry juice
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+name: "Ink Martini #1"
+rate: 3.5

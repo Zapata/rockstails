@@ -1,0 +1,23 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Apple wedge on rim
+glass: Martini
+infos: 
+  Comment: American readers might consider this a Apple Martini based on rum.
+  Origin: Adapted from a drink created in 2002 by Tony Conigliaro at The Lonsdale, London, England.
+  source: www.diffordsguide.com (1683)
+ingredients: 
+- - "1 3/4 "
+  - shot
+  - Bacardi Superior rum
+- - "1 1/4 "
+  - shot
+  - Berentzen Apple schnapps
+- - " 3/4 "
+  - shot
+  - Rose's lime cordial
+- - " 1/2 "
+  - shot
+  - Freshly squeezed lime juice
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+name: "Robin Hood #1"
+rate: 4.0

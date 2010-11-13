@@ -1,0 +1,23 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Lemon zest twist
+glass: Martini
+infos: 
+  Comment: A seriously strong drink, in flavour and in alcohol.
+  Origin: Adapted from the Three Miller Cocktail in the 1930 Savoy Cocktail Book. <br />
+  source: www.diffordsguide.com (1947)
+ingredients: 
+- - "1 1/2 "
+  - shot
+  - Courvoisier V.S.O.P cognac
+- - "1 1/2 "
+  - shot
+  - Bacardi Superior rum
+- - " 1/2 "
+  - shot
+  - Pomegranate (grenadine) syrup
+- - " 1/2 "
+  - shot
+  - Freshly squeezed lemon juice
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+name: Three Miler
+rate: 4.0

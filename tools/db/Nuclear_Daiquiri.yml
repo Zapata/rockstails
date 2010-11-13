@@ -1,0 +1,26 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Lime wedge on rim
+glass: Martini
+infos: 
+  Comment: A great way to inflict mutually assured destruction, although there will be fallout the morning after.
+  Origin: Created in 2005 by Gregor de Gruyther at LAB bar, London, England.
+  source: www.diffordsguide.com (2719)
+ingredients: 
+- - "1"
+  - shot
+  - Wray & Nephew overproof rum
+- - " 3/4 "
+  - shot
+  - Chartreuse Green liqueur
+- - "1"
+  - shot
+  - Freshly squeezed lime juice
+- - " 1/4 "
+  - shot
+  - Velvet Falernum liqueur
+- - " 1/2 "
+  - shot
+  - Chilled mineral water
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+name: Nuclear Daiquiri
+rate: 4.0

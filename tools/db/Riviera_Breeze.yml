@@ -1,0 +1,20 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Orange slice in glass
+glass: Old-fashioned
+infos: 
+  Comment: An aniseed-rich summertime cooler.
+  Origin: Created in 2003 by Rool Buckley at Caf Lebowitz, New York City, USA.
+  source: www.diffordsguide.com (1678)
+ingredients: 
+- - "1 1/2 "
+  - shot
+  - Ricard Pastis
+- - "2"
+  - shot
+  - Freshly squeezed orange juice
+- - "1"
+  - top up with
+  - Ginger ale
+method: POUR pastis and orange juice into glass and then fill with ice. TOP with ginger ale and stir.
+name: Riviera Breeze
+rate: 3.5

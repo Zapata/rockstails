@@ -1,0 +1,25 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Sugar rim
+glass: Martini
+infos: 
+  Comment: A White Lady in a sugar-rimmed glass with the addition of a dash of grenadine and substituting lemon juice for lime.
+  source: www.diffordsguide.com (2145)
+ingredients: 
+- - "2"
+  - shot
+  - Bombay London dry gin
+- - " 1/2 "
+  - shot
+  - Cointreau triple sec
+- - " 3/4 "
+  - shot
+  - Freshly squeezed lime juice
+- - " 1/8 "
+  - shot
+  - Pomegranate (grenadine) syrup
+- - " 1/2 "
+  - fresh
+  - Egg white
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+name: Boxcar
+rate: 3.5

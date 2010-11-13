@@ -1,0 +1,20 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Salt rim
+glass: Collins
+infos: 
+  Comment: Basically a Cuba Libre made with tequila in place of rum - an improvement.
+  Origin: The signature drink of the now legendary Don Javier Delgado Corona, the owner/bartender of La Capilla (The Chapel) in Tequila, Mexico. Still mixing, even in his eighties, Corona is noted for ritualistically stirring this drink with a huge knife.
+  source: www.diffordsguide.com (540)
+ingredients: 
+- - "2"
+  - shot
+  - Herradura 100% agave tequila
+- - " 1/2 "
+  - shot
+  - Freshly squeezed lime juice
+- - "1"
+  - top up with
+  - Coca-cola
+method: POUR ingredients into ice-filled glass, stir and serve with straws.
+name: Batanga
+rate: 4.0

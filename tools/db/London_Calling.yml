@@ -1,0 +1,23 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Orange zest twist
+glass: Martini
+infos: 
+  Comment: A traditionally styled sweet Martini with a dry, fruity finish.
+  Origin: Discovered in 2003 at Oxo Tower Bar &amp; Brasserie, London, England.
+  source: www.diffordsguide.com (1184)
+ingredients: 
+- - "2"
+  - shot
+  - Bombay London dry gin
+- - "1 1/4 "
+  - shot
+  - Sloe Gin liqueur
+- - " 1/2 "
+  - shot
+  - Martini Rosso sweet vermouth
+- - "2"
+  - dash
+  - Angostura orange bitters
+method: STIR all ingredients with ice and strain into chilled glass.
+name: London Calling
+rate: 3.5

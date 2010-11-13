@@ -1,0 +1,19 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Three think slices of cucumber
+glass: Martini
+infos: 
+  Comment: Sake and a hint of orange liqueur add the perfect aromatic edge to this Martini-style drunk.
+  source: www.diffordsguide.com (1731)
+ingredients: 
+- - "1"
+  - shot
+  - Bombay London dry gin
+- - " 1/2 "
+  - shot
+  - Grand Marnier liqueur
+- - "2 1/2 "
+  - shot
+  - Sake
+method: STIR all ingredients with ice and strain into chilled glass.
+name: "Sake-Tini #1"
+rate: 4.0

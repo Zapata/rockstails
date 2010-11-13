@@ -1,0 +1,23 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Orange zest twist
+glass: Martini
+infos: 
+  Comment: <p>Nothing subtle about this full-on orange, gin based short drink.</p>
+  Origin: <p><span lang="EN-US">In W.J. Tarling's 1937 Caf Royal Cocktail Book this cocktail is accompanied by the notation, "Invented by Albert". The recipe stated is "1 dash lemon juice, 1/3 Grand Marnier, 2/3 Dry Gin, Dash Grenadine."</span> </p>
+  source: www.diffordsguide.com (2134)
+ingredients: 
+- - "1 3/4 "
+  - shot
+  - Bombay London dry gin
+- - "1"
+  - shot
+  - Grand Marnier liqueur
+- - " 1/4 "
+  - shot
+  - Freshly squeezed lemon juice
+- - " 1/8 "
+  - shot
+  - Pomegranate (grenadine) syrup
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+name: A1
+rate: 3.5

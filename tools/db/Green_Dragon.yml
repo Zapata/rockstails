@@ -1,0 +1,29 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Mint sprig<br />
+glass: Martini
+infos: 
+  Comment: Mint, juniper, caraway and fennel make for an unusual cocktail that's conducive to fresh breath.
+  Origin: Adapted from Harry Craddock's 1930 'The Savoy Cocktail Book'.
+  source: www.diffordsguide.com (2675)
+ingredients: 
+- - "2"
+  - shot
+  - Bombay London dry gin
+- - " 1/2 "
+  - shot
+  - "Green cr\xE8me de menthe liqueur"
+- - " 1/4 "
+  - shot
+  - Kummel
+- - " 1/4 "
+  - shot
+  - Freshly squeezed lemon juice
+- - "3"
+  - dash
+  - Peach bitters
+- - " 1/2 "
+  - shot
+  - Chilled mineral water
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+name: Green Dragon
+rate: 3.5

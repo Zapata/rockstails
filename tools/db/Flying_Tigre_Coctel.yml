@@ -1,0 +1,29 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Orange zest twist
+glass: Martini
+infos: 
+  Comment: Light, aromatic and complex - one to sip.
+  Origin: Adapted from a recipe in the 1949 edition of Esquire's 'Handbook for Hosts'. The drink is credited to an unnamed Captain serving in the US Marines, Amphibious Group Seven, at Santiago de Cuba in 1942.
+  source: www.diffordsguide.com (777)
+ingredients: 
+- - "1 3/4 "
+  - shot
+  - Bacardi Superior rum
+- - " 3/4 "
+  - shot
+  - Bombay London dry gin
+- - " 1/4 "
+  - shot
+  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- - " 1/8 "
+  - shot
+  - Pomegranate (grenadine) syrup
+- - "3"
+  - dash
+  - Angostura aromatic bitters
+- - " 3/4 "
+  - shot
+  - Chilled mineral water
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+name: Flying Tigre Coctel
+rate: 4.0

@@ -1,0 +1,22 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Apple wedge
+glass: Old-fashioned
+infos: 
+  Comment: A light, crisp, refreshing blend of peach, melon and apple juice, laced with vodka.
+  source: www.diffordsguide.com (1196)
+ingredients: 
+- - "2"
+  - shot
+  - Ketel One vodka
+- - " 1/2 "
+  - shot
+  - Midori green melon liqueur
+- - " 1/2 "
+  - shot
+  - Peach Tree peach schnapps
+- - "1 1/2 "
+  - shot
+  - Pressed apple juice
+method: SHAKE all ingredients with ice and strain into ice-filled glass.
+name: Love Junk
+rate: 3.5

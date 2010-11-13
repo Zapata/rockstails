@@ -1,0 +1,26 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Maraschino cherry
+glass: Martini
+infos: 
+  Comment: A smooth, sweet Daiquiri with flavoursome rum.
+  Origin: Adapted from David A. Embury's 1948 'The Fine Art of Mixing Drinks', where he writes, &quot;Another version of the Commodore calls for whisky instead of rum, omits the egg white, and uses orange bitters in place of the grenadine. Obviously, the two Commodores command two different fleets.&quot;
+  source: www.diffordsguide.com (589)
+ingredients: 
+- - "2"
+  - shot
+  - Bacardi Oro golden rum
+- - " 1/2 "
+  - shot
+  - Freshly squeezed lemon juice
+- - " 1/4 "
+  - shot
+  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- - " 1/8 "
+  - shot
+  - Pomegranate (grenadine) syrup
+- - " 1/2 "
+  - fresh
+  - Egg white
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+name: "Commodore #1"
+rate: 4.0

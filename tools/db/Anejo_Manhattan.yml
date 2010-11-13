@@ -1,0 +1,26 @@
+--- !ruby/object:DirtyCocktail 
+garnish: " Salami wrapped cherry on a pick"
+glass: Martini
+infos: 
+  Comment: Tequila dominates this dry, serious Manhattan-like cocktail
+  Origin: " Created by Ryan Magarian, Seattle, USA."
+  source: www.diffordsguide.com (2249)
+ingredients: 
+- - "2"
+  - shot
+  - Herradura 100% agave tequila
+- - " 1/2 "
+  - shot
+  - Martini Rosso sweet vermouth
+- - " 1/4 "
+  - shot
+  - Cuarenta y Tres (Licor 43) liqueur
+- - "1"
+  - dash
+  - Angostura aromatic bitters
+- - "1"
+  - dash
+  - Angostura orange bitters
+method: " STIR all ingredients with ice and strain into chilled glass."
+name: A~nejo Manhattan
+rate: 3.5

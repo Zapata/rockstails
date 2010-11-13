@@ -1,0 +1,24 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Float 3 coffee beans
+glass: Martini
+infos: 
+  Comment: Forget the vodka Red Bull, this is the cocktail connoisseur's way of combining caffeine and vodka.
+  Origin: <br _moz_editor_bogus_node="TRUE" />
+  Variant: Pharmaceutical Stimulant, Vodka Espresso, Espresso Daquiri, Insomniac, Irish Coffee Martini, Jalisco Espresso, Jolt'ini.<br />
+  source: www.diffordsguide.com (725)
+ingredients: 
+- - "2"
+  - shot
+  - Ketel One vodka
+- - "1 1/2 "
+  - shot
+  - Hot espresso coffee
+- - " 1/2 "
+  - shot
+  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- - " 1/4 "
+  - shot
+  - Kahla coffee liqueur
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+name: Espresso Martini
+rate: 5.0

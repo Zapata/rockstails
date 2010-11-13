@@ -1,0 +1,26 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Lemon peel twist
+glass: Martini
+infos: 
+  Comment: I've added a dash of sugar to the original recipe which I found too dry.
+  Origin: Adapted from a recipe in the 1930 Savoy Cocktail Book by Harry Craddock. <br />
+  source: www.diffordsguide.com (1194)
+ingredients: 
+- - "1 1/2 "
+  - shot
+  - Bombay London dry gin
+- - "1 1/2 "
+  - shot
+  - Courvoisier V.S.O.P cognac
+- - " 1/2 "
+  - shot
+  - Martini Rosso sweet vermouth
+- - " 1/4 "
+  - shot
+  - Freshly squeezed lemon juice
+- - " 1/4 "
+  - shot
+  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+name: Loud Speaker Martini
+rate: 3.5

@@ -1,0 +1,23 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Dust with cocoa powder
+glass: Martini
+infos: 
+  Comment: A great looking, beautifully balanced after-dinner drink.
+  Origin: Created in 2005 by Xavier Laigle at Bar le Forum, Paris, France.
+  source: www.diffordsguide.com (1441)
+ingredients: 
+- - "1 1/2 "
+  - shot
+  - Luxardo Amaretto di Saschira
+- - "1 1/2 "
+  - shot
+  - Grand Marnier liqueur
+- - " 3/4 "
+  - shot
+  - Courvoisier V.S.O.P cognac
+- - " 1/4 "
+  - shot
+  - Double (heavy) cream
+method: SHAKE first three ingredients with ice and fine strain into chilled glass. FLOAT thin layer of cream over drink and turn glass to spread evenly.
+name: Orange Br^ule
+rate: 5.0

@@ -1,0 +1,26 @@
+--- !ruby/object:DirtyCocktail 
+garnish: <p>Lemon zest twist</p>
+glass: Martini
+infos: 
+  Comment: <p>Rich blackcurrant with hints of elderflower, citrus and champagne. Slightly sweet.</p>
+  Origin: <p>Adapted from a drink created by Wayne Collins, London, England.</p>
+  source: www.diffordsguide.com (794)
+ingredients: 
+- - "1"
+  - shot
+  - Courvoisier V.S.O.P cognac
+- - " 1/2 "
+  - shot
+  - St-Germain elderflower liqueur
+- - " 1/2 "
+  - shot
+  - "Cr\xE8me de cassis liqueur"
+- - "1"
+  - shot
+  - Freshly squeezed lemon juice
+- - "1"
+  - top up with
+  - Perrier Jouet brut champagne
+method: <p>SHAKE first 4 ingredients with ice and fine strain into chilled glass. TOP with champagne.</p>
+name: French Daisy
+rate: 3.5

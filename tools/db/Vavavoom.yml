@@ -1,0 +1,23 @@
+--- !ruby/object:DirtyCocktail 
+garnish: 
+glass: Flute
+infos: 
+  Comment: This drink does indeed give champagne that vavavoom.
+  Origin: Adapted from a drink created in 2002 by Yannick Miseriaux at The Fifth Floor Bar, Harvey Nichols, London, England, and named after the Renault television advertisements.<br />
+  source: www.diffordsguide.com (2037)
+ingredients: 
+- - " 1/2 "
+  - shot
+  - Cointreau triple sec
+- - " 1/2 "
+  - shot
+  - Freshly squeezed lemon juice
+- - " 1/2 "
+  - shot
+  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- - "1"
+  - top up with
+  - Perrier Jouet brut champagne
+method: POUR ingredients into chilled glass. TOP with champagne.
+name: Vavavoom
+rate: 4.0

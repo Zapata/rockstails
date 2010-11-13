@@ -1,0 +1,22 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Lemon zest twist
+glass: Flute
+infos: 
+  Comment: A tequila sour topped with champagne or a tequila French 75.
+  source: www.diffordsguide.com (2176)
+ingredients: 
+- - "1"
+  - shot
+  - Herradura 100% agave tequila
+- - " 1/2 "
+  - shot
+  - Freshly squeezed lemon juice
+- - " 1/2 "
+  - shot
+  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- - "1"
+  - top up with
+  - Perrier Jouet brut champagne
+method: SHAKE first 3 ingredients with ice and fine strain into chilled glass. TOP with champagne.
+name: Gloria
+rate: 3.5

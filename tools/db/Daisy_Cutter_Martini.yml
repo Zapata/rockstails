@@ -1,0 +1,26 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Float mint leaf<br />
+glass: Martini
+infos: 
+  Comment: Floral, minty and herbal with a dry finish.
+  Origin: Created in 2006 by Yours Truly (Simon Difford). I named it not for the bomb but after the cricketing term for a ball bowled so incompetently that it skims along the ground.
+  source: www.diffordsguide.com (2619)
+ingredients: 
+- - "3"
+  - fresh
+  - Mint leaves
+- - "1 1/2 "
+  - shot
+  - Ketel One vodka
+- - "1"
+  - shot
+  - St-Germain elderflower liqueur
+- - "1"
+  - shot
+  - Noilly Prat dry vermouth
+- - " 1/4 "
+  - shot
+  - Chartreuse Yellow liqueur
+method: Lightly MUDDLE mint in base of shaker (just to bruise). Add other ingredients, SHAKE with ice and fine strain into chilled glass.
+name: Daisy Cutter Martini
+rate: 4.5

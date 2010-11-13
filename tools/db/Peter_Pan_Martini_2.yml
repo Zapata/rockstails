@@ -1,0 +1,24 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Orange zest twist
+glass: Martini
+infos: 
+  Comment: Orange predominates in this complex cocktail. <br />
+  Origin: Adapted from a recipe in the 1930 edition of the Savoy Cocktail Book by Harry Craddock.
+  Variant: <br />
+  source: www.diffordsguide.com (2732)
+ingredients: 
+- - "2"
+  - shot
+  - Bombay London dry gin
+- - "1"
+  - shot
+  - Noilly Prat dry vermouth
+- - "1"
+  - shot
+  - Freshly squeezed orange juice
+- - "3"
+  - dash
+  - Peach bitters
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+name: "Peter Pan Martini #2"
+rate: 3.0

@@ -1,0 +1,23 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Orange zest twist
+glass: Martini
+infos: 
+  Comment: This non-alcoholic cocktail may look like a Cosmo, but it doesn't taste like one.
+  Origin: Discovered in 2003 at Claridge's Bar, London, England.
+  source: www.diffordsguide.com (1411)
+ingredients: 
+- - "1"
+  - shot
+  - Freshly squeezed orange juice
+- - "1"
+  - shot
+  - Ocean Spray cranberry juice
+- - "1"
+  - shot
+  - Freshly squeezed lime juice
+- - "1"
+  - shot
+  - Freshly squeezed lemon juice
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+name: Not so Cosmo (Mocktail)
+rate: 3.5

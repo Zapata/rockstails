@@ -1,0 +1,29 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Orange &amp; lime zest twists (discarded)
+glass: Old-fashioned
+infos: 
+  Comment: A beautifully balanced, flavoursome medley of sweet and sour.
+  Origin: Adapted from David A. Embury's 1948 'The Fine Art of Mixing Drinks'.
+  source: www.diffordsguide.com (284)
+ingredients: 
+- - "1"
+  - shot
+  - Bacardi Superior rum
+- - "1"
+  - shot
+  - Courvoisier V.S.O.P cognac
+- - " 1/2 "
+  - shot
+  - Freshly squeezed orange juice
+- - "1"
+  - shot
+  - Freshly squeezed lime juice
+- - " 1/2 "
+  - shot
+  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- - " 1/2 "
+  - fresh
+  - Egg white
+method: SHAKE all ingredients with ice and fine strain into an ice-filled glass.
+name: Bolero Sour
+rate: 5.0

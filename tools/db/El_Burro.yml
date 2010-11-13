@@ -1,0 +1,27 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Lime slice
+glass: Collins
+infos: 
+  AKA: Mexican Mule
+  Comment: Ginger spice and tequila soured with lime.
+  Origin: Created by Henry Besant and Andres Masso, London, England. The name of this Mexican version of the Moscow Mule translates from Spanish as 'The Donkey'.
+  source: www.diffordsguide.com (699)
+ingredients: 
+- - "2"
+  - shot
+  - Herradura 100% agave tequila
+- - " 1/2 "
+  - shot
+  - Freshly squeezed lime juice
+- - " 1/4 "
+  - shot
+  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- - "3"
+  - dash
+  - Angostura aromatic bitters
+- - "1"
+  - top up with
+  - Ginger beer
+method: SHAKE first 4 ingredients with ice and strain into ice-filled glass. TOP with ginger beer.
+name: El Burro
+rate: 4.0

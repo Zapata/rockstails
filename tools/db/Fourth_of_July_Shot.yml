@@ -1,0 +1,19 @@
+--- !ruby/object:DirtyCocktail 
+garnish: 
+glass: Shot
+infos: 
+  Comment: Looks cool... tastes less so!
+  source: www.diffordsguide.com (785)
+ingredients: 
+- - " 1/4 "
+  - shot
+  - Pomegranate (grenadine) syrup
+- - " 1/2 "
+  - shot
+  - Bols blue curacao liqueur
+- - " 1/2 "
+  - shot
+  - Ketel One vodka
+method: Refrigerate ingredients then LAYER in chilled glass by carefully pouring in the following order.
+name: Fourth of July Shot
+rate: 2.5

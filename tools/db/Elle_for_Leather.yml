@@ -1,0 +1,26 @@
+--- !ruby/object:DirtyCocktail 
+garnish: <p>Vanilla Pod</p>
+glass: Collins
+infos: 
+  Comment: <p>A long, cool champagne cocktail pepped up with Scotch whisky and vanilla schnapps. Easy drinking - yet adult.</p>
+  Origin: <p>Created in 2001 by Reece Clark at Hush Up, London, England.</p>
+  source: www.diffordsguide.com (710)
+ingredients: 
+- - "1 1/2 "
+  - shot
+  - Johnnie Walker Scotch Whisky
+- - "1"
+  - shot
+  - Vanilla schnapps
+- - " 1/4 "
+  - shot
+  - Freshly squeezed lemon juice
+- - " 1/8 "
+  - shot
+  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- - "1"
+  - top up with
+  - Perrier Jouet brut champagne
+method: <p>SHAKE first 4 ingredients with ice and strain into glass filled with crushed ice. TOP with champagne.</p>
+name: Elle for Leather
+rate: 4.5

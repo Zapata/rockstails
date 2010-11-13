@@ -1,0 +1,29 @@
+--- !ruby/object:DirtyCocktail 
+garnish: <p>Float apple slice</p>
+glass: Martini
+infos: 
+  Comment: <p>Dry and aromatic, although not for all tastes. </p>
+  Origin: <p>Created in 2004 by Mickael Perron at Millbank Lounge Bar, London, England.</p>
+  source: www.diffordsguide.com (2646)
+ingredients: 
+- - "2"
+  - shot
+  - Boulard Grand Solage calvados
+- - " 1/2 "
+  - shot
+  - Martini Rosso sweet vermouth
+- - " 1/2 "
+  - shot
+  - Noilly Prat dry vermouth
+- - " 1/4 "
+  - shot
+  - Maple syrup
+- - "3"
+  - dash
+  - Angostura aromatic bitters
+- - "3"
+  - dash
+  - Peychaud's aromatic bitters
+method: <p>STIR all ingredients with ice and strain into chilled glass.</p>
+name: Elysian
+rate: 4.0

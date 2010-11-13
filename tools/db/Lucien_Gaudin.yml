@@ -1,0 +1,25 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Orange zest twist<br />
+glass: Martini
+infos: 
+  Comment: |-
+    A must try for anyone who loves Negronis.<br /><div style="text-align: justify;">
+    									</div>
+  Origin: Recipe from 'Vintage Spirits and Forgotten Cocktails' by Ted Haigh (Dr. Cocktail). Lucien Gaudin was a French fencer who achieved gold<br />medals with two different weapons at the 1928 Olympics in Amsterdam.
+  source: www.diffordsguide.com (2709)
+ingredients: 
+- - "1 1/2 "
+  - shot
+  - Bombay London dry gin
+- - " 3/4 "
+  - shot
+  - Cointreau triple sec
+- - " 3/4 "
+  - shot
+  - Campari Bitter
+- - " 3/4 "
+  - shot
+  - Noilly Prat dry vermouth
+method: STIR all ingredients with ice and strain into chilled glass.
+name: Lucien Gaudin
+rate: 4.0

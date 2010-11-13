@@ -1,0 +1,22 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Maraschino cherry<br />
+glass: Old-fashioned
+infos: 
+  Comment: The passion fruit shines through in this drink, which is very much a frozen Daiquiri in style.
+  source: www.diffordsguide.com (2666)
+ingredients: 
+- - "2"
+  - shot
+  - Bacardi Superior rum
+- - " 1/2 "
+  - shot
+  - Freshly squeezed lime juice
+- - " 1/2 "
+  - shot
+  - Freshly squeezed lemon juice
+- - " 1/2 "
+  - shot
+  - Passion fruit syrup
+method: BLEND all ingredients with 6oz crushed ice and serve with straws.
+name: Gauguin
+rate: 3.0

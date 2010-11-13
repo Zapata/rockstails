@@ -1,0 +1,25 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Maraschino cherry
+glass: Martini
+infos: 
+  Comment: Lemon subtly dominates this complex, herbal drink.
+  source: www.diffordsguide.com (1150)
+ingredients: 
+- - "2"
+  - shot
+  - Bombay London dry gin
+- - " 1/2 "
+  - shot
+  - Chartreuse Yellow liqueur
+- - " 1/2 "
+  - shot
+  - Luxardo limoncello liqueur
+- - " 1/2 "
+  - shot
+  - Freshly squeezed lemon juice
+- - " 1/2 "
+  - shot
+  - Chilled mineral water
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+name: Lemony
+rate: 4.0

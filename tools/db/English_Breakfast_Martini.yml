@@ -1,0 +1,23 @@
+--- !ruby/object:DirtyCocktail 
+garnish: <p>Orange zest twist</p>
+glass: Martini
+infos: 
+  Comment: <p>Light and fragrant, thanks to tea, elderflower and the botanicals in the gin. </p>
+  Origin: <p>Created in 2006 by Yours Truly (Simon Difford).</p>
+  source: www.diffordsguide.com (2649)
+ingredients: 
+- - "1"
+  - shot
+  - Bombay London dry gin
+- - "1"
+  - shot
+  - St-Germain elderflower liqueur
+- - "1"
+  - shot
+  - Cold English breakfast tea
+- - " 1/2 "
+  - shot
+  - Freshly squeezed lemon juice
+method: <p>SHAKE all ingredients with ice and fine strain into chilled glass.</p>
+name: English Breakfast Martini
+rate: 4.5

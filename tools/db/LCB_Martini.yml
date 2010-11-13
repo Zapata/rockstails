@@ -1,0 +1,23 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Lemon zest twist
+glass: Martini
+infos: 
+  Comment: A sweet and sour, citrus fresh Martini.
+  Origin: Created by yours truly in 2004 and named after Lisa Clare Ball, who loves both Sauvignon Blanc and pink grapefruit juice.
+  source: www.diffordsguide.com (1135)
+ingredients: 
+- - "2"
+  - shot
+  - Ketel One vodka
+- - " 3/4 "
+  - shot
+  - Sauvignon blanc wine
+- - "2"
+  - shot
+  - Freshly squeezed grapefruit juice
+- - " 1/4 "
+  - shot
+  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+name: LCB Martini
+rate: 4.0

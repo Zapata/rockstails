@@ -1,0 +1,23 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Lemon zest twist
+glass: Martini
+infos: 
+  Comment: This pinky/rusty drink benefits from a good long stir but the result is an aromatic, medium dry, spicy vanilla Martini.
+  Origin: Adapted from a drink created in 2003 by Robert Hess and published on drinkboy.com
+  source: www.diffordsguide.com (558)
+ingredients: 
+- - "2"
+  - shot
+  - Bombay London dry gin
+- - " 1/2 "
+  - shot
+  - Cuarenta y Tres (Licor 43) liqueur
+- - " 1/2 "
+  - shot
+  - Noilly Prat dry vermouth
+- - "2"
+  - dash
+  - Peychaud's aromatic bitters
+method: STIR all ingredients with ice and strain into chilled glass.
+name: Bloomsbury Martini
+rate: 4.0

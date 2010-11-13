@@ -1,0 +1,16 @@
+--- !ruby/object:DirtyCocktail 
+garnish: 
+glass: Old-fashioned
+infos: 
+  Comment: Turns green when mixed. A crying waste of good cognac.
+  source: www.diffordsguide.com (990)
+ingredients: 
+- - "2"
+  - shot
+  - Hpnotiq liqueur
+- - "1"
+  - shot
+  - Courvoisier V.S.O.P cognac
+method: LAYER ingredients in ice-filled glass by carefully pouring in the following order.
+name: Hulk
+rate: 2.5

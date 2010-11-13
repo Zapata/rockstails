@@ -1,0 +1,19 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Orange wheel
+glass: Collins
+infos: 
+  Comment: Campari and soda with some oomph.
+  source: www.diffordsguide.com (1939)
+ingredients: 
+- - "1 1/2 "
+  - shot
+  - Ketel One vodka
+- - "1 1/2 "
+  - shot
+  - Campari Bitter
+- - "1"
+  - top up with
+  - Soda (club soda)
+method: POUR all ingredients into ice-filled glass, lightly stir and serve with straws.
+name: Testarossa
+rate: 3.5

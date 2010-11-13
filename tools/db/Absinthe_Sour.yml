@@ -1,0 +1,23 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Lemon zest twist
+glass: Old-fashioned
+infos: 
+  Comment: A touch of the sours for absinthe lovers.
+  Variant: Served 'up' in sour glass.
+  source: www.diffordsguide.com (7)
+ingredients: 
+- - "1"
+  - shot
+  - "La F\xE9e Parisienne (68%) absinthe"
+- - "1"
+  - shot
+  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- - "1"
+  - shot
+  - Freshly squeezed lemon juice
+- - " 1/2 "
+  - fresh
+  - Egg white
+method: SHAKE all ingredients with ice and strain into ice-filled glass.
+name: Absinthe Sour
+rate: 3.5

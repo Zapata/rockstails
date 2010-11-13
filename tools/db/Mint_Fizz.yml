@@ -1,0 +1,28 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Mint sprig
+glass: Collins
+infos: 
+  Comment: Long, refreshing citrus and mint fizz.
+  source: www.diffordsguide.com (1329)
+ingredients: 
+- - "7"
+  - fresh
+  - Mint leaves
+- - "2"
+  - shot
+  - Bombay London dry gin
+- - " 1/4 "
+  - shot
+  - Giffard Menthe Pastille liqueur
+- - "1"
+  - shot
+  - Freshly squeezed lime juice
+- - " 1/2 "
+  - shot
+  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- - "1"
+  - top up with
+  - Soda (club soda)
+method: Lightly MUDDLE mint (just to bruise) in base of shaker. Add other ingredients apart from soda, SHAKE with ice and fine strain into ice-filled glass. TOP with soda, lightly stir and serve with straws.
+name: Mint Fizz
+rate: 3.5

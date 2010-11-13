@@ -1,0 +1,28 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Orange zest twist
+glass: Martini
+infos: 
+  Comment: This classic cocktail is smooth and aromatic.
+  source: www.diffordsguide.com (1408)
+ingredients: 
+- - "1 1/2 "
+  - shot
+  - Bombay London dry gin
+- - " 3/4 "
+  - shot
+  - Noilly Prat dry vermouth
+- - " 3/4 "
+  - shot
+  - Martini Rosso sweet vermouth
+- - " 3/4 "
+  - shot
+  - Freshly squeezed orange juice
+- - "2"
+  - dash
+  - Angostura aromatic bitters
+- - " 1/2 "
+  - fresh
+  - Egg white
+method: SHAKE all ingredients with ice and strain into chilled glass.
+name: Noon
+rate: 4.0

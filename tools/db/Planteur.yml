@@ -1,0 +1,19 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Orange slice
+glass: Collins
+infos: 
+  Comment: Handle with extreme care.
+  source: www.diffordsguide.com (1489)
+ingredients: 
+- - "2"
+  - shot
+  - Martinique agricole rum
+- - " 1/4 "
+  - shot
+  - Pomegranate (grenadine) syrup
+- - "3 1/2 "
+  - shot
+  - Freshly squeezed orange juice
+method: SHAKE all ingredients with ice and strain into ice-filled glass.
+name: Planteur
+rate: 4.0

@@ -1,0 +1,17 @@
+--- !ruby/object:DirtyCocktail 
+garnish: 
+glass: Shot
+infos: 
+  Comment: When you get to the end of the beer the shot glass lifts and the whiskey is released as a chaser.
+  Origin: Unknown but in his book 'The Joy of Mixology' Gary Regan credits steelworkers in western Pennsylvania.
+  source: www.diffordsguide.com (282)
+ingredients: 
+- - "1"
+  - shot
+  - Maker's Mark bourbon
+- - "1"
+  - pint
+  - Lager
+method: POUR whiskey to brim of shot glass and then maoeuvre shot glass so it is held tight up against the inside base of an upturned Boston glass. Then quickly flip the Boston glass over so that the boubon is trapped in the now upside-down shot glass. Now pour beer into Boston glass over the whiskey filled shot glass.
+name: Boilermaker
+rate: 5.0

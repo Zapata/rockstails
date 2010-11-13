@@ -1,0 +1,26 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Mint sprig
+glass: Collins
+infos: 
+  Comment: A tequila based Mojito.
+  Origin: Created at Mercadito, New York City, USA.
+  source: www.diffordsguide.com (1342)
+ingredients: 
+- - "12"
+  - fresh
+  - Mint leaves
+- - "2"
+  - shot
+  - Herradura 100% agave tequila
+- - " 3/4 "
+  - shot
+  - Freshly squeezed lime juice
+- - " 1/2 "
+  - shot
+  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- - "1"
+  - top up with
+  - Soda (club soda)
+method: Lightly MUDDLE mint (just to bruise) in base of glass. Add tequila, lime juice and sugar. Half fill glass with crushed ice and CHURN (stir) with bar spoon. Fill glass with more crushed ice and churn some more. TOP with soda, stir and serve.
+name: Mojito de Casa
+rate: 4.0

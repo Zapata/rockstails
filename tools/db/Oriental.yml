@@ -1,0 +1,23 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Orange zest twist
+glass: Martini
+infos: 
+  Comment: Be warned this dry, orangey bourbon based cocktail packs a punch.<br /><br />
+  Origin: "Adapted from 1930 'The Savoy Cocktail Book' in which author Harry Craddock writes of this drink, In August, 1924, an American Engineer nearly died of fever in the Philippines, and only the extraordinary devotion of Dr. B- saved his life. As an act of gratitude the Engineer gave Dr. B- the recipe of this cocktail.\"<br /> "
+  source: www.diffordsguide.com (2532)
+ingredients: 
+- - "2"
+  - shot
+  - Rye whiskey
+- - "1"
+  - shot
+  - Martini Rosso sweet vermouth
+- - "1"
+  - shot
+  - Grand Marnier liqueur
+- - " 1/2 "
+  - shot
+  - Freshly squeezed lime juice
+method: SHAKE all ingredients with ice and fine strain into chilled glass.<br /><br />
+name: Oriental
+rate: 4.0

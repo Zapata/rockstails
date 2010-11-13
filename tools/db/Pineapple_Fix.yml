@@ -1,0 +1,23 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Pineapple wedge<br />
+glass: Old-fashioned
+infos: 
+  Comment: Rum and pineapple are a match made in heaven, here with lemon adding citrus freshness.<br /><br />
+  Origin: <br _moz_editor_bogus_node="TRUE" />
+  source: www.diffordsguide.com (2544)
+ingredients: 
+- - "2"
+  - shot
+  - Zacapa aged rum
+- - "1"
+  - shot
+  - Fresh pressed pineapple juice
+- - "1"
+  - shot
+  - Freshly squeezed lemon juice
+- - " 1/2 "
+  - shot
+  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+method: SHAKE all ingredients with ice and strain into ice-filled glass.
+name: Pineapple Fix
+rate: 4.0

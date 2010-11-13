@@ -1,0 +1,23 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Lime wedge
+glass: Collins
+infos: 
+  AKA: El Burro
+  Comment: A tequila based version of the Moscow Mule.
+  source: www.diffordsguide.com (1306)
+ingredients: 
+- - "1 1/2 "
+  - shot
+  - Herradura 100% agave tequila
+- - " 3/4 "
+  - shot
+  - Freshly squeezed lime juice
+- - " 1/4 "
+  - shot
+  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- - "1"
+  - top up with
+  - Ginger beer
+method: SHAKE first 3 ingredients with ice and strain into ice-filled glass. TOP with ginger beer, lightly stir and serve with straws.
+name: Mexican Mule
+rate: 4.5

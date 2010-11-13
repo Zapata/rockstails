@@ -1,0 +1,26 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Float single raspberry
+glass: Flute
+infos: 
+  Comment: Ja-more of this fruity champagne cocktail you drink, ja-more you'll like it.
+  Origin: Created by Jamie Terrell and Andres Masso in 1998. Named after 'mora', the Spanish for raspberry. The 'j' and 'a' stand for the names of its two creators.
+  source: www.diffordsguide.com (1054)
+ingredients: 
+- - "1"
+  - shot
+  - Ketel One vodka
+- - " 1/2 "
+  - shot
+  - Chambord
+- - " 1/2 "
+  - shot
+  - Freshly squeezed orange juice
+- - " 1/2 "
+  - shot
+  - Pressed apple juice
+- - "1"
+  - top up with
+  - Perrier Jouet brut champagne
+method: SHAKE first 4 ingredients with ice and fine strain into chilled glass. TOP with champagne.
+name: Ja-Mora
+rate: 4.0

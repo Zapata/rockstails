@@ -1,0 +1,20 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Orange zest twist
+glass: Martini
+infos: 
+  Comment: A Sweet Martini made bitter and aromatic by Fernet Branca.
+  Origin: Created in the early 1900s by Ada 'Coley' Coleman at The Savoy's American Bar, London, for actor Sir Charles Hawtrey. He often said to Coley, "I am tired. Give me something with a bit of punch in it." This drink was her answer. After finishing his first one, Charles told Coley, "By Jove! That is the real hanky-panky!" And so it has since been named. Coley was the first Bar Manger of the famous American Bar. She perfected her craft at Claridge's and left to start at the Savoy in July 1903, where she stayed until her retirement in December 1924. The Hanky-Panky is her most famous creation.<br /><br />
+  source: www.diffordsguide.com (930)
+ingredients: 
+- - "1 3/4 "
+  - shot
+  - Bombay London dry gin
+- - "1 3/4 "
+  - shot
+  - Martini Rosso sweet vermouth
+- - " 1/8 "
+  - shot
+  - Fernet Branca
+method: STIR all ingredients with ice and strain into chilled glass.
+name: Hanky-Panky Martini
+rate: 3.0

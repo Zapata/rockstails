@@ -1,0 +1,26 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Strawberry on rim<br />
+glass: Collins (small 8oz)
+infos: 
+  Comment: Fruity and all too easy to drink. Don't hold back, the lack of ice in this tall drink requires you consume while still cold. But responsibly, of course.<br /><br />
+  Origin: This Gin Fizz adaptation was created circa 1880 at the St. Nicholas Hotel, New York City.<br /><br />
+  source: www.diffordsguide.com (2360)
+ingredients: 
+- - "3"
+  - fresh
+  - Strawberries (hulled)
+- - "2"
+  - shot
+  - Old Tom gin
+- - "1"
+  - shot
+  - Freshly squeezed lemon juice
+- - " 1/2 "
+  - shot
+  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- - "1"
+  - top up with
+  - Soda from siphon
+method: MUDDLE strawberries in base of shaker. Add other ingredients apart from soda, SHAKE with ice and fine strain into chilled glass (without ice). TOP with soda.<br /><br />
+name: Crushed Strawberry Fizz
+rate: 3.5

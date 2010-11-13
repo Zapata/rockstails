@@ -1,0 +1,29 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Brandy snap biscuit
+glass: Martini
+infos: 
+  Comment: This Martini may be served chilled but its flavour is distinctly warming.
+  Origin: Discovered in 2003 at Hurricane Bar and Grill, Edinburgh, Scotland.
+  source: www.diffordsguide.com (852)
+ingredients: 
+- - "2"
+  - slice
+  - Fresh root ginger (thumbnail sized)
+- - "2"
+  - shot
+  - Ketel One vodka
+- - " 3/4 "
+  - shot
+  - Stone's green ginger wine
+- - " 3/4 "
+  - shot
+  - Pressed apple juice
+- - " 1/2 "
+  - shot
+  - Freshly squeezed lime juice
+- - " 1/4 "
+  - shot
+  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+method: MUDDLE ginger in base of shaker. Add other ingredients, SHAKE with ice and fine strain into chilled glass.
+name: Ginger Martini
+rate: 4.0

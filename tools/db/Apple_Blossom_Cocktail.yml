@@ -1,0 +1,17 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Apple wedge on rim
+glass: Martini
+infos: 
+  Comment: Stupidly simple to mix but complex to taste - spiced and concentrated apple.
+  Origin: Adapted from Victor Bergeron's 'Trader Vic's Bartender's Guide' (1972 revised edition).
+  source: www.diffordsguide.com (526)
+ingredients: 
+- - "2"
+  - shot
+  - Boulard Grand Solage calvados
+- - "2"
+  - shot
+  - Martini Rosso sweet vermouth
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+name: Apple Blossom Cocktail
+rate: 4.5

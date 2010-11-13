@@ -1,0 +1,23 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Lemon zest twist
+glass: Martini
+infos: 
+  Comment: Chocolate and lemon juice. 21st century tastes have moved on.
+  Origin: Thought to have been created in 1939 by one C.A. Tuck and named after the express train that travelled between New York City and Chicago.
+  source: www.diffordsguide.com (2006)
+ingredients: 
+- - "1 1/2 "
+  - shot
+  - Bombay London dry gin
+- - " 1/2 "
+  - shot
+  - "White cr\xE8me de cacao liqueur"
+- - " 3/4 "
+  - shot
+  - Noilly Prat dry vermouth
+- - " 1/2 "
+  - shot
+  - Freshly squeezed lemon juice
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+name: Twentieth Century Martini
+rate: 3.5

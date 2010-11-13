@@ -1,0 +1,20 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Lime wedge<br />
+glass: Old-fashioned
+infos: 
+  Comment: A flavoursome Daiquiri-style with the subtle spice of Swedish punch. <br /><br />
+  Origin: Created in 2008 by Yours Truly (Simon Difford).
+  source: www.diffordsguide.com (2590)
+ingredients: 
+- - "1 1/2 "
+  - shot
+  - Zacapa aged rum
+- - " 3/4 "
+  - shot
+  - Swedish Punch liqueur
+- - " 1/2 "
+  - shot
+  - Freshly squeezed lime juice
+method: SHAKE all ingredients with ice and strain into ice-filled glass.<br /><br />
+name: Swedish Rum Punch
+rate: 4.0

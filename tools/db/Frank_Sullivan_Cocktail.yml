@@ -1,0 +1,23 @@
+--- !ruby/object:DirtyCocktail 
+garnish: <p>Sugar rim and lemon zest twist</p>
+glass: Martini
+infos: 
+  Comment: <p>A Sidecar made dry with the vermouth. It needs the sweet rim.</p>
+  Origin: <p>Adapted from Harry Craddock's 1930 'The Savoy Cocktail Book'.</p>
+  source: www.diffordsguide.com (2167)
+ingredients: 
+- - "1"
+  - shot
+  - Courvoisier V.S.O.P cognac
+- - "1"
+  - shot
+  - Cointreau triple sec
+- - "1"
+  - shot
+  - Noilly Prat dry vermouth
+- - "1"
+  - shot
+  - Freshly squeezed lemon juice
+method: <p>SHAKE all ingredients with ice and fine strain into chilled glass.</p>
+name: Frank Sullivan Cocktail
+rate: 3.0

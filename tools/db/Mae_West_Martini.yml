@@ -1,0 +1,22 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Melon wedge on rim
+glass: Martini
+infos: 
+  Comment: A ros coloured, semi-sweet concoction with a cherry, chocolate flavour.
+  source: www.diffordsguide.com (1218)
+ingredients: 
+- - "2"
+  - shot
+  - Ketel One vodka
+- - " 1/2 "
+  - shot
+  - Luxardo Amaretto di Saschira
+- - " 1/4 "
+  - shot
+  - Midori green melon liqueur
+- - "1 1/2 "
+  - shot
+  - Ocean Spray cranberry juice
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+name: Mae West Martini
+rate: 4.0

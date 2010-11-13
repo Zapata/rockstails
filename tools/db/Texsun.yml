@@ -1,0 +1,20 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Lemon zest twist
+glass: Martini
+infos: 
+  Comment: Bone dry with fruity herbal hints.
+  Origin: Adapted from a recipe in the 1949 edition of Esquire's Handbook for Hosts.
+  source: www.diffordsguide.com (1943)
+ingredients: 
+- - "1 1/2 "
+  - shot
+  - Maker's Mark bourbon
+- - "1 1/2 "
+  - shot
+  - Noilly Prat dry vermouth
+- - "1 1/2 "
+  - shot
+  - Freshly squeezed grapefruit juice
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+name: Texsun
+rate: 3.5

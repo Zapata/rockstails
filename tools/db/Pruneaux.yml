@@ -1,0 +1,26 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Prunes on a stick
+glass: Martini
+infos: 
+  Comment: Sherried prunes further fortified by gin.
+  Origin: Adapted from a recipe in Harry Craddock's 1930 Savoy Cocktail Book.
+  source: www.diffordsguide.com (1609)
+ingredients: 
+- - "1 1/2 "
+  - shot
+  - Bombay London dry gin
+- - "1"
+  - shot
+  - Amontillado sherry
+- - " 1/2 "
+  - shot
+  - Pedro Ximnez sherry
+- - " 3/4 "
+  - shot
+  - Freshly squeezed orange juice
+- - " 3/4 "
+  - shot
+  - Prune syrup (from tinned fruit)
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+name: Pruneaux
+rate: 4.0

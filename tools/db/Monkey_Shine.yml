@@ -1,0 +1,20 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Cinnamon rim
+glass: Martini
+infos: 
+  Comment: The sweet, tropical fruitiness of this drink is set off by the spicy rim.
+  Origin: An adaptation of a drink discovered in 2003 at the Bellagio Resort &amp; Casino, Las Vegas.
+  source: www.diffordsguide.com (1351)
+ingredients: 
+- - "2"
+  - shot
+  - Bacardi Superior rum
+- - "1"
+  - shot
+  - Malibu coconut rum liqueur
+- - "1"
+  - shot
+  - Fresh pressed pineapple juice
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+name: Monkey Shine
+rate: 4.0

@@ -1,0 +1,23 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Orange zest twist
+glass: Martini
+infos: 
+  Comment: A smooth creamy orangey dessert cocktail.
+  Origin: I created this drink in 2002 after rediscovering advocaat on a trip to Amsterdam.
+  source: www.diffordsguide.com (1442)
+ingredients: 
+- - "2"
+  - shot
+  - Bols advocaat liqueur
+- - "1"
+  - shot
+  - Tuaca liqueur
+- - " 1/2 "
+  - shot
+  - Grand Marnier liqueur
+- - " 1/4 "
+  - shot
+  - Monin Vanilla sugar syrup
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+name: Orange Custard Martini
+rate: 3.5

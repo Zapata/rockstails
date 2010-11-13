@@ -1,0 +1,24 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Immerse length of lime peel in drink.
+glass: Collins (small 8oz)
+infos: 
+  Comment: Clean, sharp and refreshing.
+  Origin: Believed to have been created at the Shoemaker's restaurant in Washington, circa 1900, and named after Colonel Joe Rickey for whom it was invented. Coincidentally or not, Rickey went on to become a major importer of limes into the US.<br />    <br />Many confuse the Rickey and the Collins. For the record a Rickey is made with lime juice and a Collins with lemon juice. A Rickey is also usually served in a shorter glass than a Collins but that difference is secondary.<br /><br />
+  Variant: Gin Rickey, Vodka Rickey, Apricot Rickey
+  source: www.diffordsguide.com (1676)
+ingredients: 
+- - "2"
+  - shot
+  - Brandy, whisk(e)y, gin, rum etc.
+- - " 1/2 "
+  - shot
+  - Freshly squeezed lime juice
+- - " 1/4 "
+  - shot
+  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- - "1"
+  - top up with
+  - Soda (club soda)
+method: SHAKE first 3 ingredients with ice and strain into ice-filled glass. TOP with soda.
+name: Rickey (Generic Name)
+rate: 4.0

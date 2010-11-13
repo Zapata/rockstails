@@ -1,0 +1,20 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Maraschino cherry<br />
+glass: Coupette
+infos: 
+  Comment: Cynar adds its characteristic bittersweet note to the Manhattan-like cocktail.
+  Origin: Created by Audrey Saunders at Pegu Club, New York City, USA.<br />
+  source: www.diffordsguide.com (2819)
+ingredients: 
+- - "2"
+  - shot
+  - Rye whiskey
+- - " 1/2 "
+  - shot
+  - Cynar
+- - " 3/4 "
+  - shot
+  - Martini Rosso sweet vermouth
+method: STIR all ingredients with ice and strain into chilled glass.<br />
+name: "Little Italy #2"
+rate: 4.5

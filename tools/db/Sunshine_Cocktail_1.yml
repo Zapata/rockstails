@@ -1,0 +1,23 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Pineapple wedge on rim
+glass: Martini
+infos: 
+  Comment: Light, fruity and a tad on the sweet side, but could well brighten up your day.
+  Origin: Adapted from a recipe in my 1949 copy of Esquire's Handbook for Hosts.
+  source: www.diffordsguide.com (1902)
+ingredients: 
+- - "1 1/2 "
+  - shot
+  - Bacardi Superior rum
+- - "1 1/2 "
+  - shot
+  - Noilly Prat dry vermouth
+- - "1 1/2 "
+  - shot
+  - Fresh pressed pineapple juice
+- - " 1/8 "
+  - shot
+  - Pomegranate (grenadine) syrup
+method: SHAKE all ingredients with ice and fine strain into chilled glass
+name: "Sunshine Cocktail #1"
+rate: 4.5

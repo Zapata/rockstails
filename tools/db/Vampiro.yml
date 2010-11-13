@@ -1,0 +1,35 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Lime wedge
+glass: Old-fashioned
+infos: 
+  Comment: Something of a supercharged Bloody Mary with tequila and a hint of sweet grenadine.
+  Origin: The national drink of Mexico where it's often made with pomegranate juice in place of tomato juice and without the grenadine.
+  source: www.diffordsguide.com (2024)
+ingredients: 
+- - "2"
+  - shot
+  - Herradura 100% agave tequila
+- - "1"
+  - shot
+  - Tomato juice
+- - "1"
+  - shot
+  - Freshly squeezed orange juice
+- - " 1/2 "
+  - shot
+  - Freshly squeezed lime juice
+- - " 1/2 "
+  - shot
+  - Pomegranate (grenadine) syrup
+- - "7"
+  - drop
+  - Tobasco hot pepper sauce
+- - "1"
+  - pinch
+  - Salt
+- - "1"
+  - grind
+  - Black pepper
+method: SHAKE all ingredients with ice and strain into ice-filled glass.
+name: Vampiro
+rate: 4.0

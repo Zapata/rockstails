@@ -1,0 +1,23 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Orange zest twist<br />
+glass: Coupette
+infos: 
+  Comment: "This smoky cocktail won't be to everybody's taste but an Islay malt fan will most definatly approve.  "
+  Origin: Adapted from a cocktail discovered in 2009 at Dylanbar, Dublin, Ireland.<br />
+  source: www.diffordsguide.com (2855)
+ingredients: 
+- - "2"
+  - shot
+  - Lagavulin 16yo malt whisky
+- - " 1/4 "
+  - shot
+  - Bols apricot brandy liqueur
+- - "1"
+  - spoon
+  - Maple syrup
+- - " 1/4 "
+  - shot
+  - Freshly squeezed orange juice
+method: SHAKE all ingredients with ice and fine strain into chilled glass. <br />
+name: Smoked Maple
+rate: 4.5

@@ -1,0 +1,25 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Mint sprig
+glass: Collins
+infos: 
+  Comment: An anise laced alternative to a Mojito. The name refers to the opaque white colour of the drink after soda is added to the anis.
+  source: www.diffordsguide.com (1318)
+ingredients: 
+- - "12"
+  - fresh
+  - Mint leaves
+- - "2"
+  - shot
+  - Pernod anis
+- - "1"
+  - shot
+  - Freshly squeezed lime juice
+- - " 3/4 "
+  - shot
+  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- - "1"
+  - top up with
+  - Soda (club soda)
+method: Lightly MUDDLE (just to bruise) mint in glass. Fill glass with crushed ice, add other ingredients. TOP with soda, stir and serve with straws.
+name: Milky Mojito
+rate: 3.5

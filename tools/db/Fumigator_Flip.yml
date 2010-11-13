@@ -1,0 +1,29 @@
+--- !ruby/object:DirtyCocktail 
+garnish: <p>Nutmeg &amp; cherry</p>
+glass: Sour or Martini/Coupette
+infos: 
+  Comment: <p>Subtle notes, smoky malt with rum and cherry, smoothed by egg and cream. </p><br />
+  Origin: <p>Created in 2008 by Julian de Feral at Bureau, London, England.</p>
+  source: www.diffordsguide.com (2419)
+ingredients: 
+- - " 1/4 "
+  - shot
+  - Lagavulin 16yo malt whisky
+- - "2"
+  - shot
+  - Zacapa aged rum
+- - "1"
+  - shot
+  - Heering cherry brandy liqueur
+- - " 1/8 "
+  - shot
+  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- - " 1/2 "
+  - shot
+  - Double (heavy) cream
+- - "1"
+  - fresh
+  - Egg yolk
+method: <p>WASH chilled glass with whisky (swirl to coat inside and shake to discard excess). SHAKE other ingredients with ice and fine strain into whisky coated chilled glass.</p><br />
+name: Fumigator Flip
+rate: 3.5

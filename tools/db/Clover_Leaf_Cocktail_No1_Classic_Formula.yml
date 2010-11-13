@@ -1,0 +1,25 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Float clover or mint leaf
+glass: Martini
+infos: 
+  AKA: Without the mint garnish this drink is called a 'Clover Club'.
+  Comment: Smooth, aromatic, fruity and medium sweet.
+  Origin: <br />
+  Variant: With raspberry syrup in place of pomegranate syrup.
+  source: www.diffordsguide.com (446)
+ingredients: 
+- - "2"
+  - shot
+  - Bombay London dry gin
+- - " 1/2 "
+  - shot
+  - Freshly squeezed lemon juice
+- - " 1/4 "
+  - shot
+  - Pomegranate (grenadine) syrup
+- - " 1/2 "
+  - fresh
+  - Egg white
+method: SHAKE all ingredients with ice and  fine strain into chilled glass.
+name: Clover Leaf Cocktail No.1 (Classic Formula)
+rate: 4.0

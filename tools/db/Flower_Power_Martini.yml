@@ -1,0 +1,23 @@
+--- !ruby/object:DirtyCocktail 
+garnish: <p>Orange zest twist</p>
+glass: Martini
+infos: 
+  Comment: <p>A Dry Martini served super-wet with more flower power than Austin Powers. </p>
+  Origin: <p>Created in 2007 by Yours Truly (Simon Difford).</p>
+  source: www.diffordsguide.com (2656)
+ingredients: 
+- - "2"
+  - shot
+  - Bombay London dry gin
+- - " 1/2 "
+  - shot
+  - St-Germain elderflower liqueur
+- - " 1/2 "
+  - shot
+  - Noilly Prat dry vermouth
+- - " 1/4 "
+  - shot
+  - Benoit Serres cr`eme de violette
+method: <p>SHAKE all ingredients with ice and fine strain into chilled glass.</p>
+name: Flower Power Martini
+rate: 4.5

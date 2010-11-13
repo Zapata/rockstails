@@ -1,0 +1,20 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Grapefruit wedge on rim
+glass: Collins
+infos: 
+  Comment: Great balance of sweet and sour flavours.
+  Origin: Named after the Twelve Islands Shipping Company, The Caribbean producers of Malibu.
+  source: www.diffordsguide.com (1028)
+ingredients: 
+- - "2"
+  - shot
+  - Malibu coconut rum liqueur
+- - "2 1/2 "
+  - shot
+  - Ocean Spray cranberry juice
+- - "1 1/2 "
+  - shot
+  - Freshly squeezed grapefruit juice
+method: SHAKE all ingredients with ice and strain into ice-filled glass.
+name: Island Breeze
+rate: 3.5

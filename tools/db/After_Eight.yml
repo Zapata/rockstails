@@ -1,0 +1,19 @@
+--- !ruby/object:DirtyCocktail 
+garnish: None
+glass: Shot
+infos: 
+  Comment: Looks like mouthwash but tastes like liquid After Eight chocolates.
+  source: www.diffordsguide.com (20)
+ingredients: 
+- - " 1/2 "
+  - shot
+  - Ketel One vodka
+- - " 1/2 "
+  - shot
+  - "White cr\xE8me de cacao liqueur"
+- - " 1/2 "
+  - shot
+  - "Green cr\xE8me de menthe liqueur"
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+name: After Eight
+rate: 3.0

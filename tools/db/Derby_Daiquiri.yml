@@ -1,0 +1,22 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Orange zest twist
+glass: Martini
+infos: 
+  Comment: A fruity twist on the Classic Daiquiri.
+  source: www.diffordsguide.com (632)
+ingredients: 
+- - "2"
+  - shot
+  - Bacardi Superior rum
+- - " 3/4 "
+  - shot
+  - Freshly squeezed orange juice
+- - " 1/2 "
+  - shot
+  - Freshly squeezed lime juice
+- - " 1/4 "
+  - shot
+  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+name: Derby Daiquiri
+rate: 4.5

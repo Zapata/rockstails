@@ -1,0 +1,40 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Pineapple wedge
+glass: Hurricane
+infos: 
+  Comment: A heady mix of four different rums with pineapple, orange, lime and grenadine.
+  source: www.diffordsguide.com (2131)
+ingredients: 
+- - " 3/4 "
+  - shot
+  - Bacardi Superior rum
+- - " 3/4 "
+  - shot
+  - Pusser's Navy rum
+- - " 3/4 "
+  - shot
+  - Bacardi Oro golden rum
+- - " 1/2 "
+  - shot
+  - Bols apricot brandy liqueur
+- - " 1/2 "
+  - shot
+  - Grand Marnier liqueur
+- - "2 1/2 "
+  - shot
+  - Freshly squeezed orange juice
+- - "2 1/2 "
+  - shot
+  - Fresh pressed pineapple juice
+- - "1"
+  - shot
+  - Freshly squeezed lime juice
+- - " 1/2 "
+  - shot
+  - Pomegranate (grenadine) syrup
+- - " 1/2 "
+  - shot
+  - Wray & Nephew overproof rum
+method: SHAKE first 9 ingredients with ice and strain into glass filled with crushed ice. FLOAT overproof rum.
+name: "Zombie #3 (Modern Formula)"
+rate: 4.0

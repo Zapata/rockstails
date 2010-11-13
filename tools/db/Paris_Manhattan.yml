@@ -1,0 +1,23 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Maraschino cherry <br />
+glass: Martini
+infos: 
+  Comment: Elderflower replaces sweet vermouth in this 'perfect' and aromatic Manhattan.<br /><br />
+  Origin: Created in 2006 by Yours Truly (Simon Difford), originally titled 'Elderflower Manhattan'.<br /><br />
+  source: www.diffordsguide.com (2536)
+ingredients: 
+- - "2"
+  - shot
+  - Maker's Mark bourbon
+- - "1"
+  - shot
+  - St-Germain elderflower liqueur
+- - " 1/2 "
+  - shot
+  - Noilly Prat dry vermouth
+- - "2"
+  - dash
+  - Angostura aromatic bitters
+method: SHAKE all ingredients with ice and fine strain into chilled glass.<br /><br />
+name: Paris Manhattan
+rate: 4.5

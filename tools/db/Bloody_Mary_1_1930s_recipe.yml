@@ -1,0 +1,33 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Salt &amp; pepper rim
+glass: Old-fashioned
+infos: 
+  Comment: Fiery stuff. The modern version is more user friendly.
+  Origin: A 1933 version of the classic created in 1920 by Fernand Petiot at Harry's New York Bar, Paris, France.
+  Variant: Red Snapper
+  source: www.diffordsguide.com (250)
+ingredients: 
+- - "2"
+  - shot
+  - 100-proof (50% A.B.V.) vodka
+- - "2"
+  - shot
+  - Tomato juice
+- - " 1/4 "
+  - shot
+  - Freshly squeezed lemon juice
+- - "5"
+  - dash
+  - Worcestershire sauce
+- - "4"
+  - pinch
+  - Salt
+- - "2"
+  - pinch
+  - Black pepper
+- - "2"
+  - pinch
+  - Cayenne pepper
+method: SHAKE all ingredients with ice and strain into empty glass.
+name: "Bloody Mary #1 (1930s recipe)"
+rate: 2.5

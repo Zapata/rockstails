@@ -1,0 +1,25 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Apple wedge on rim
+glass: Martini
+infos: 
+  Comment: That's the way the apple crumbles - in this case enhancing the flavour of the Scotch.
+  source: www.diffordsguide.com (76)
+ingredients: 
+- - "2"
+  - shot
+  - Johnnie Walker Scotch Whisky
+- - " 1/4 "
+  - shot
+  - Teichenn butterscotch schnapps
+- - "1"
+  - shot
+  - Pressed apple juice
+- - " 1/2 "
+  - shot
+  - Freshly squeezed lemon juice
+- - " 1/4 "
+  - shot
+  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+name: "Apple Crumble Martini #1"
+rate: 3.5

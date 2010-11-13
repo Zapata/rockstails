@@ -1,0 +1,23 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Float wafer thin apple slice
+glass: Martini
+infos: 
+  Comment: Fresh, fermented and distilled apple juice with a hint of elderflower.
+  Origin: Created in 2006 by Yours Truly (Simon Difford).
+  source: www.diffordsguide.com (610)
+ingredients: 
+- - "2"
+  - shot
+  - Boulard Grand Solage calvados
+- - "1"
+  - shot
+  - Dry cider
+- - " 1/2 "
+  - shot
+  - St-Germain elderflower liqueur
+- - " 3/4 "
+  - shot
+  - Pressed apple juice
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+name: Cyder Press
+rate: 4.0

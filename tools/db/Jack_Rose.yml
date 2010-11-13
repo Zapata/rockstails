@@ -1,0 +1,30 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Lemon wedge on rim
+glass: Martini
+infos: 
+  Comment: An apple brandy sour sweetened with grenadine. Better when shaken with egg white.
+  Origin: Like many great classics this drink is served with numerous plausible origins:<br /><br />1. The Jack Rose is named after the Jacqueminot rose, which in turn takes its name from the French general, Jean-Francois Jacqueminot. According to Albert S. Crockett's 1935 'The Old Waldorf-Astoria Bar Book', it is "So called because of its pink colour, the exact shade of a Jacqueminot rose, when properly concocted."<br /><br />2. Some credit this drink's creation to the Colt's Neck inn in New Jersey, which was originally owned by a member of the Laird's family of applejack distillers. His name was Jack and 'Rose' is said to be a reference to the drink's reddish-pink hue. However, this theory has been discredited by Lisa Laird-Dunn, a ninth generation Laird family ancestor.<br /><br />3. Other simply claim 'Jack' is short for 'applejack' and again hold that 'Rose' a reference to the drink's colour.<br /><br />4. According to the Police Gazette of 1905, Frank J. May, better known as Jack Rose, a wrestling bartender who held bar at Gene Sullivan's Cafe, 187 Pavonia Avenue, Jersey City, New Jersey created this drink.<br /><br />5. However, the most popular theory relates to a late 19th century New York small-time gangster called Jack Rose who was the informant in a notorious 1912 murder case. 'Bald' Jack Rose, whose favourite beverage is said to have been applejack brandy with lemon and grenadine, was heavily implicated in the 1912 the shooting of Herman Rosenthal, the owner of several New York gambling dens who was in throws of blowing the lid on police and municipal links to organised crime. Rosenthal had already squealed to the press and on the evening of July 15, after the lengthily delivery of his affidavit, left D.A. Charles Whitman's office at around midnight. Fatally he then headed to the Metropole Caf at the Hotel Metropole on West 43rd Street, a favourite late night gambler's haunt, for a nightcap. As he exited the Metropole he was killed by four bullets, one to the chest and three to his head. The hit was pinned on a Lieutenant Charles Becker of the NYPD's antigambling squad and Rose was star witness in what was then the trial of the century. Becker went to the electric chair while Rose apparently went into the catering business, lending his name to his favourite drink.<br /><br />6. Or, alternatively, it could be named after 'Jack Rose', an early 20th century brand of small cigars which sold for five cents a pack. Interestingly, these little cigars became known by the nickname 'squealers' after the Rosenthal case.<br /><br />
+  Variant: Made better by adding half fresh egg white (substitute for water).
+  source: www.diffordsguide.com (1039)
+ingredients: 
+- - "2"
+  - shot
+  - Boulard Grand Solage calvados
+- - " 3/4 "
+  - shot
+  - Freshly squeezed lemon juice
+- - " 1/4 "
+  - shot
+  - Pomegranate (grenadine) syrup
+- - " 1/4 "
+  - shot
+  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- - "2"
+  - dash
+  - Angostura aromatic bitters
+- - " 1/2 "
+  - shot
+  - Chilled mineral water
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+name: Jack Rose
+rate: 4.0

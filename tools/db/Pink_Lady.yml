@@ -1,0 +1,24 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Maraschino cherry<br />
+glass: Martini
+infos: 
+  Comment: Despite the colour, this sharp and alcoholic.
+  Origin: A classic cocktail named after a successful 1912 stage play.
+  Variant: With the addition of half a shot apple brandy.
+  source: www.diffordsguide.com (1548)
+ingredients: 
+- - "2"
+  - shot
+  - Bombay London dry gin
+- - " 1/2 "
+  - shot
+  - Freshly squeezed lemon juice
+- - " 1/4 "
+  - shot
+  - Pomegranate (grenadine) syrup
+- - " 1/2 "
+  - fresh
+  - Egg white
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+name: Pink Lady
+rate: 4.5

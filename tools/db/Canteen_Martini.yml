@@ -1,0 +1,23 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Cherry in drink
+glass: Martini
+infos: 
+  Comment: Tangy, sweet and sour - Southern Comfort drinkers will love this.
+  Origin: Originally created by Joey Guerra at Canteen, New York City, and adapted by author and columnist Gary Regan.
+  source: www.diffordsguide.com (367)
+ingredients: 
+- - "1 1/2 "
+  - shot
+  - Bacardi Superior rum
+- - " 1/2 "
+  - shot
+  - Luxardo Amaretto di Saschira
+- - "1 1/2 "
+  - shot
+  - Southern Comfort liqueur
+- - " 1/2 "
+  - shot
+  - Freshly squeezed lime juice
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+name: Canteen Martini
+rate: 3.5

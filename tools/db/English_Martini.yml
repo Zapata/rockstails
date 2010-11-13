@@ -1,0 +1,20 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Rosemary
+glass: Martini
+infos: 
+  Comment: Rosemary and sweet elderflower combine wonderfully with the gin botanicals to make an interesting and approachable Martini.
+  Origin: Adapted from a drink created in 2003 at MJU, Millennium Hotel, London, England.
+  source: www.diffordsguide.com (716)
+ingredients: 
+- - "1"
+  - fresh
+  - Rosemary sprig
+- - "2 1/2 "
+  - shot
+  - Bombay London dry gin
+- - "1"
+  - shot
+  - St-Germain elderflower liqueur
+method: Strip rosemary leaves from stem and MUDDLE in base of shaker. Add other ingredients, SHAKE with ice and fine strain into chilled glass.
+name: English Martini
+rate: 4.5

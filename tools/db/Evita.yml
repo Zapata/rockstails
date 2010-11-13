@@ -1,0 +1,22 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Orange zest twist
+glass: Martini
+infos: 
+  Comment: A tangy, lime green, medium-sweet combination of melon, orange and lime.
+  source: www.diffordsguide.com (732)
+ingredients: 
+- - "2"
+  - shot
+  - Ketel One vodka
+- - " 1/2 "
+  - shot
+  - Midori green melon liqueur
+- - "1"
+  - shot
+  - Freshly squeezed orange juice
+- - " 1/2 "
+  - shot
+  - Freshly squeezed lime juice
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+name: Evita
+rate: 3.5

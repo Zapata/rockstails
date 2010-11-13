@@ -1,0 +1,23 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Lime wedge<br />
+glass: Martini
+infos: 
+  Comment: A lightly peppermint spiced influenced daiquiri.
+  Origin: A simplification of a drink created in 2008 by Erik Lorincz at Purple Bar, Sanderson Hotel, London, England.<br /><br />
+  source: www.diffordsguide.com (2364)
+ingredients: 
+- - "2"
+  - shot
+  - Bacardi Superior rum
+- - " 1/4 "
+  - shot
+  - Galliano L'Autentico liqueur
+- - " 1/2 "
+  - shot
+  - Freshly squeezed lime juice
+- - " 1/4 "
+  - shot
+  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+method: SHAKE all ingredients with ice and fine strain into chilled glass.<br /><br />
+name: Daiquiri Authentico
+rate: 4.5

@@ -1,0 +1,23 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Cherry &amp; orange zest twist (discard twist)
+glass: Martini
+infos: 
+  Comment: The Scotch answer to the Manhattan with added complexity courtesy of Peychaud's aromatic bitters.
+  Origin: This variation on the classic Rob Roy is recommended by author David Embury in his influential Fine Art of Mixing Drinks.
+  source: www.diffordsguide.com (1682)
+ingredients: 
+- - "2"
+  - shot
+  - Johnnie Walker Scotch Whisky
+- - "1"
+  - shot
+  - Martini Rosso sweet vermouth
+- - "2"
+  - dash
+  - Peychaud's aromatic bitters
+- - " 1/2 "
+  - shot
+  - Chilled mineral water
+method: STIR all ingredients with ice and strain into chilled glass.
+name: "Rob Roy #2"
+rate: 4.5

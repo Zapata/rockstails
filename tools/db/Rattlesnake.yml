@@ -1,0 +1,29 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Lemon zest twist
+glass: Martini
+infos: 
+  Comment: To quote Craddock, &quot; So called because it will either cure rattlesnake bite, or kill rattlesnakes, or make you see them.&quot;
+  Origin: Adapted from a recipe purloined from a 1930 edition of The Savoy Cocktail Book by Harry Craddock.
+  source: www.diffordsguide.com (1643)
+ingredients: 
+- - "2"
+  - shot
+  - Maker's Mark bourbon
+- - " 1/4 "
+  - shot
+  - Freshly squeezed lemon juice
+- - " 1/4 "
+  - shot
+  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- - " 1/8 "
+  - shot
+  - "La F\xE9e Parisienne (68%) absinthe"
+- - " 1/2 "
+  - shot
+  - Egg white
+- - " 1/2 "
+  - shot
+  - Chilled mineral water
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+name: Rattlesnake
+rate: 3.5

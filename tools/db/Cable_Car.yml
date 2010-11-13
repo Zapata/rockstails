@@ -1,0 +1,26 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Half cinnamon &amp; sugar rim
+glass: Martini
+infos: 
+  Comment: <p>Vanilla and spice from the rum interact with the orange liqueur in this balanced, Daiquiri style drink.</p>
+  Origin: <p>Created in 1996 by cory Reistad at the Starlight Room, atop San Francisco's Sir Francis Drake Hotel. The Nob Hill cable cars pass by the bar, hence its catchphrase 'between the stars and the cable cars'.</p>
+  source: www.diffordsguide.com (349)
+ingredients: 
+- - "2"
+  - shot
+  - Sailor Jerry spiced rum
+- - "1"
+  - shot
+  - Cointreau triple sec
+- - " 1/2 "
+  - shot
+  - Freshly squeezed lemon juice
+- - " 1/4 "
+  - shot
+  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- - " 1/2 "
+  - fresh
+  - Egg white
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+name: Cable Car
+rate: 4.0

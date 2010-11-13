@@ -1,0 +1,25 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Lemon Slice
+glass: Collins
+infos: 
+  Comment: Long and refreshing with a floral, cherry and citrus flavour.
+  source: www.diffordsguide.com (705)
+ingredients: 
+- - "2"
+  - shot
+  - Ketel One Citroen vodka
+- - " 1/8 "
+  - shot
+  - Luxardo maraschino liqueur
+- - " 1/4 "
+  - shot
+  - St-Germain elderflower liqueur
+- - " 3/4 "
+  - shot
+  - Freshly squeezed lemon juice
+- - "1"
+  - top up with
+  - Soda (club soda)
+method: SHAKE first 4 ingredients with ice and strain into ice-filled glass. TOP with soda.
+name: "Elderflower Collins #2"
+rate: 4.0

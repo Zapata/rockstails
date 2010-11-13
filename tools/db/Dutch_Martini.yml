@@ -1,0 +1,23 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Olive or orange zest twist
+glass: Martini
+infos: 
+  Comment: <br _moz_editor_bogus_node="TRUE" />
+  Origin: A modern twist on the classic Dr Martini inspired by a vintage bartender. In his 1882 'New and Improved Bartender's Manual' Harry Johnson Martini Cocktail recipe calls for &quot;a dash of curacao or absinthe, if required.&quot;<br /><br />
+  source: www.diffordsguide.com (2389)
+ingredients: 
+- - "2"
+  - shot
+  - Ketel One vodka
+- - " 1/4 "
+  - shot
+  - Bokma oude genever
+- - " 1/8 "
+  - shot
+  - Curacao liqueur or Grand Marnier
+- - " 1/8 "
+  - shot
+  - Noilly Prat dry vermouth
+method: STIR all ingredients with ice and strain into chilled glass.
+name: Dutch Martini
+rate: 4.0

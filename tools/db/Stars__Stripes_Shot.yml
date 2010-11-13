@@ -1,0 +1,20 @@
+--- !ruby/object:DirtyCocktail 
+garnish: 
+glass: Shot
+infos: 
+  Comment: The taste is too sweet and the colours aren't quite right. A shame.
+  Origin: Adapted from a recipe in Harry Craddock's 1930 Savoy Cocktail Book.
+  source: www.diffordsguide.com (1869)
+ingredients: 
+- - " 1/2 "
+  - shot
+  - "Cr\xE8me de cassis liqueur"
+- - " 1/2 "
+  - shot
+  - Luxardo maraschino liqueur
+- - " 1/2 "
+  - shot
+  - Chartreuse Green liqueur
+method: Refrigerate ingredients then LAYER in chilled glass by carefully pouring in the following order.
+name: Stars & Stripes Shot
+rate: 2.5

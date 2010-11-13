@@ -1,0 +1,35 @@
+--- !ruby/object:DirtyCocktail 
+garnish: <p>Coriander leaf</p>
+glass: Martini
+infos: 
+  Comment: <p>Bright green and intensely flavoured but considering it is flavoured with absinthe and chartreuse, it is surprisingly subtle. </p><br />
+  Origin: <p>Created in 2003 by Ben Davidson of Elixir Group, Australia.</p><br />
+  source: www.diffordsguide.com (2398)
+ingredients: 
+- - "1"
+  - fresh
+  - Coriander (cilantro)
+- - "1"
+  - shot
+  - Chartreuse Green liqueur
+- - " 1/4 "
+  - shot
+  - "La F\xE9e Parisienne (68%) absinthe"
+- - " 1/8 "
+  - shot
+  - Berentzen Apple schnapps
+- - " 1/2 "
+  - shot
+  - Freshly squeezed lime juice
+- - "1"
+  - shot
+  - Pressed apple juice
+- - " 1/4 "
+  - shot
+  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- - " 1/2 "
+  - shot
+  - Chilled mineral water
+method: <p>Lightly MUDDLE coriander in base of shaker. Add other ingredients, SHAKE with ice and fine strain into chilled glass.</p><br />
+name: Elixir 66
+rate: 3.5

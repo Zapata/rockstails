@@ -1,0 +1,16 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Lemon zest twist
+glass: Goblet
+infos: 
+  Comment: The ultimate 'girlie' drink. To avoid ridicule when diluting a glass of white wine try adding a couple of ice cubes instead.
+  source: www.diffordsguide.com (1862)
+ingredients: 
+- - "3"
+  - shot
+  - Sauvignon blanc wine
+- - "1"
+  - top up with
+  - Soda (club soda)
+method: POUR ingredients into chilled glass and lightly stir. No ice!
+name: Spritzer
+rate: 3.0

@@ -1,0 +1,26 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Mint leaf
+glass: Martini
+infos: 
+  Comment: A flavoursome Daiquiri featuring honey, apple and mint.
+  Origin: Discovered in 2003 at Hush, London, England.
+  source: www.diffordsguide.com (939)
+ingredients: 
+- - "10"
+  - fresh
+  - Mint leaves
+- - "2"
+  - spoon
+  - Runny honey
+- - "2"
+  - shot
+  - Bacardi Superior rum
+- - " 1/2 "
+  - shot
+  - Freshly squeezed lime juice
+- - "1"
+  - shot
+  - Pressed apple juice
+method: Lightly MUDDLE mint (just to bruise) in base of shaker. Add rum and honey and STIR until honey dissolves. Add other ingredients, SHAKE with ice and fine strain into chilled glass.
+name: Havanatheone
+rate: 5.0

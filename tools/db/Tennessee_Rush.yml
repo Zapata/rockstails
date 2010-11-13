@@ -1,0 +1,22 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Lime wedge
+glass: Collins
+infos: 
+  Comment: This ruby red cocktail is long, fruity, refreshing and not too sweet.
+  source: www.diffordsguide.com (1929)
+ingredients: 
+- - "2"
+  - shot
+  - Jack Daniels Tennessee whiskey
+- - "1"
+  - shot
+  - Mandarine Napolon liqueur
+- - "2 1/2 "
+  - shot
+  - Ocean Spray cranberry juice
+- - " 1/2 "
+  - shot
+  - Freshly squeezed lime juice
+method: SHAKE all ingredients with ice and strain into ice-filled glass.
+name: Tennessee Rush
+rate: 3.5

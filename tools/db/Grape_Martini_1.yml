@@ -1,0 +1,20 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Three white grapes on stick
+glass: Martini
+infos: 
+  Comment: Simple but remarkably tasty.
+  Origin: Formula by Yours Truly (Simon Difford) in 2004.
+  source: www.diffordsguide.com (899)
+ingredients: 
+- - "12"
+  - fresh
+  - Seedless white grapes
+- - "2"
+  - shot
+  - Ketel One vodka
+- - " 1/4 "
+  - shot
+  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+method: MUDDLE grapes in base of shaker. Add other ingredients, SHAKE with ice and fine strain into chilled glass.
+name: "Grape Martini #1"
+rate: 4.0

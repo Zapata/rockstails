@@ -1,0 +1,23 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Strawberry on rim
+glass: Martini
+infos: 
+  Comment: Makes strawberries and cream appear very dull.
+  Origin: A popular drink in Cuba where it is known as a Daiquiri de Fresa.
+  source: www.diffordsguide.com (1883)
+ingredients: 
+- - "7"
+  - fresh
+  - Strawberries (hulled)
+- - "2"
+  - shot
+  - Bacardi Superior rum
+- - " 1/2 "
+  - shot
+  - Freshly squeezed lime juice
+- - " 1/4 "
+  - shot
+  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+method: MUDDLE strawberries in base of shaker. Add other ingredients, SHAKE with ice and fine strain into chilled glass.
+name: Strawberry Daiquiri
+rate: 4.0

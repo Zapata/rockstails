@@ -1,0 +1,20 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Bourbon cream biscuit on rim
+glass: Martini
+infos: 
+  Comment: <p>Sweet and rich, with coffee and chocolate - one to chase dessert.</p>
+  Origin: <p>Created in 1999 by Gillian Stanfield at The Atlantic Bar &amp; Grill, London, England.</p>
+  source: www.diffordsguide.com (426)
+ingredients: 
+- - "2"
+  - shot
+  - Courvoisier V.S.O.P cognac
+- - "1"
+  - shot
+  - "Brown cr\xE8me de cacao liqueur"
+- - "1"
+  - shot
+  - Kahla coffee liqueur
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+name: "Chocolate Biscuit "
+rate: 3.5

@@ -1,0 +1,19 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Lemon zest twist<br />
+glass: Martini
+infos: 
+  Comment: A variation on the Negroni. More gin and less Campari, make for an unusual bittersweet Martini.
+  source: www.diffordsguide.com (2758)
+ingredients: 
+- - "2"
+  - shot
+  - Bombay London dry gin
+- - " 1/2 "
+  - shot
+  - Campari Bitter
+- - "1"
+  - shot
+  - Martini Rosso sweet vermouth
+method: STIR all ingredients with ice and strain into a chilled glass.
+name: Valentino
+rate: 4.0

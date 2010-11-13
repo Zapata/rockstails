@@ -1,0 +1,23 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Lemon zest twist
+glass: Martini
+infos: 
+  Comment: Basically a Sidecar spiked with an aniseedy dash of Pernod.
+  Origin: "Adapted from a recipe in 'Cocktail: The Drink's Bible for the 21st Century' by Paul Harrington and Laura Moorhead."
+  source: www.diffordsguide.com (1402)
+ingredients: 
+- - "1"
+  - shot
+  - Courvoisier V.S.O.P cognac
+- - "1"
+  - shot
+  - Cointreau triple sec
+- - " 1/4 "
+  - shot
+  - Pernod anis
+- - "1"
+  - shot
+  - Freshly squeezed lemon juice
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+name: Nicky Finn
+rate: 4.0

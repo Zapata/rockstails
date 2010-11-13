@@ -1,0 +1,22 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Banana slice on rim
+glass: Martini
+infos: 
+  Comment: It's green and, although it doesn't actually contain any tea, has something of the flavour of alcoholic peppermint tea.
+  source: www.diffordsguide.com (916)
+ingredients: 
+- - "2"
+  - shot
+  - Zubrwka bison vodka
+- - " 1/4 "
+  - shot
+  - Pisang Ambon liqueur
+- - " 1/8 "
+  - shot
+  - Giffard Menthe Pastille liqueur
+- - "2"
+  - shot
+  - Pressed apple juice
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+name: "Green Tea Martini #1"
+rate: 4.0

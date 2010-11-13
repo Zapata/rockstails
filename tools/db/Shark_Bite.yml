@@ -1,0 +1,22 @@
+--- !ruby/object:DirtyCocktail 
+garnish: 
+glass: Hurricane
+infos: 
+  Comment: Strong rum and orange juice. A tad sweet but easy to drink.
+  source: www.diffordsguide.com (1816)
+ingredients: 
+- - "2"
+  - shot
+  - Pusser's Navy rum
+- - "3"
+  - shot
+  - Freshly squeezed orange juice
+- - " 1/2 "
+  - shot
+  - Freshly squeezed lime juice
+- - " 3/4 "
+  - shot
+  - Pomegranate (grenadine) syrup
+method: BLEND first 3 ingredients with 18oz scoop crushed ice and pour into glass. POUR grenadine around edge of the drink. Do not stir before stirring.
+name: Shark Bite
+rate: 3.5

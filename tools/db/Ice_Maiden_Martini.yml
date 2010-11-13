@@ -1,0 +1,23 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Orange zest twist
+glass: Martini
+infos: 
+  Comment: A subtle Martini with the honeyed flavours of icewine melding with botanicals in the gin and balanced by the acidity of the white wine.
+  Origin: Created in 2004 by Yours Truly (Simon Difford).
+  source: www.diffordsguide.com (995)
+ingredients: 
+- - "1 1/2 "
+  - shot
+  - Bombay London dry gin
+- - "1"
+  - shot
+  - Icewine
+- - " 3/4 "
+  - shot
+  - Sauvignon blanc wine
+- - " 3/4 "
+  - shot
+  - Chilled mineral water
+method: STIR all ingredients with ice and strain into chilled glass.
+name: Ice Maiden Martini
+rate: 4.0

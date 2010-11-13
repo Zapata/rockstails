@@ -1,0 +1,28 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Lemon zest twist<br />
+glass: Pineapple shell (frozen)
+infos: 
+  Comment: Aptly named fruity drink.
+  source: www.diffordsguide.com (1978)
+ingredients: 
+- - "1 1/2 "
+  - shot
+  - Ketel One vodka
+- - " 3/4 "
+  - shot
+  - "Cr\xE8me de banane liqueur"
+- - " 3/4 "
+  - shot
+  - Galliano L'Autentico liqueur
+- - "1"
+  - shot
+  - Ocean Spray cranberry juice
+- - "1"
+  - shot
+  - Fresh pressed pineapple juice
+- - "1"
+  - shot
+  - Freshly squeezed orange juice
+method: SHAKE all ingredients with ice and strain into ice-filled glass. Serve with straws.
+name: Tootie Fruity Lifesaver
+rate: 3.5

@@ -1,0 +1,21 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Orange zest twist
+glass: Old-fashioned
+infos: 
+  Comment: Basically a Negroni with liqueur replacing sweet vermouth. Like the Italian classic this is both bitter and sweet.
+  Origin: Unknown but brought to my attention in 2005 courtesy of Angus Winchester and alconomics.com.
+  source: www.diffordsguide.com (467)
+  Variant: Negroni
+ingredients: 
+- - "1 1/2 "
+  - shot
+  - Bombay London dry gin
+- - " 3/4 "
+  - shot
+  - Cointreau triple sec
+- - " 3/4 "
+  - shot
+  - Campari Bitter
+method: STIR all ingredients with ice and strain into ice-filled glass.
+name: Copper Illusion
+rate: 4.0

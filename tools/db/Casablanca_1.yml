@@ -1,0 +1,26 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Orange zest twist
+glass: Martini
+infos: 
+  Comment: A rum based variation on the White Lady, with zingy citrus and sweet maraschino.
+  Origin: Named after Michael Curtiz's 1942 classic starring Bogie and Ingrid Bergman.
+  source: www.diffordsguide.com (576)
+ingredients: 
+- - "2"
+  - shot
+  - Bacardi Superior rum
+- - " 3/4 "
+  - shot
+  - Cointreau triple sec
+- - " 3/4 "
+  - shot
+  - Freshly squeezed lime juice
+- - " 1/2 "
+  - shot
+  - Luxardo maraschino liqueur
+- - " 1/2 "
+  - fresh
+  - Egg white
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+name: "Casablanca #1"
+rate: 4.0

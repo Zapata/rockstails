@@ -1,0 +1,23 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Raspberry
+glass: Martini
+infos: 
+  Comment: Rich raspberry flavour, well balanced with bite.
+  Origin: Adapted from a cocktail I found at Soho Grand, New York City, USA.
+  source: www.diffordsguide.com (1922)
+ingredients: 
+- - "2"
+  - shot
+  - Ketel One vodka
+- - " 1/2 "
+  - shot
+  - Chambord
+- - "1 1/2 "
+  - shot
+  - Ocean Spray cranberry juice
+- - "12"
+  - fresh
+  - Raspberries
+method: MUDDLE raspberries in base of shaker. Add other ingredients, SHAKE with ice and fine strain into chilled glass.
+name: Tartini
+rate: 4.0

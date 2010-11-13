@@ -1,0 +1,21 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Lemon zest twist<br />
+glass: Martini
+infos: 
+  Comment: Lime works better than lemon but like the Astor, using a combination of lime and lemon makes for a better drink.<br /><br />
+  Origin: This is the later of the two versions of this vintage cocktail from New York's Waldorf-Astoria Hotel. It appears in the 1939 Caf Royale book and in the 1955 United Kingdom Bartender's Book. Both books offer a choice between using lemon or lime juice. The original recipe calls for two parts Swedish punch to one part gin but with the punches I've tried this makes for an overly sweet drink. <br /><br />
+  Variant: Astor
+  source: www.diffordsguide.com (2601)
+ingredients: 
+- - "2"
+  - shot
+  - Swedish Punch liqueur
+- - "1 1/2 "
+  - shot
+  - Bombay London dry gin
+- - " 3/4 "
+  - shot
+  - Freshly squeezed lime juice
+method: SHAKE all ingredients with ice and fine strain into chilled glass.<br /><br />
+name: Waldorf Cocktail No.2
+rate: 4.0

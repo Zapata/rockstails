@@ -1,0 +1,19 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Float 3 coffee beans
+glass: Old-fashioned
+infos: 
+  Comment: Tequila, coffee and pineapple juice combine in this medium dry short drink.
+  source: www.diffordsguide.com (1275)
+ingredients: 
+- - "1 1/2 "
+  - shot
+  - Herradura 100% agave tequila
+- - " 1/2 "
+  - shot
+  - Kahla coffee liqueur
+- - "2 1/2 "
+  - shot
+  - Fresh pressed pineapple juice
+method: SHAKE all ingredients with ice and strain into ice-filled glass.
+name: Mayan
+rate: 3.0

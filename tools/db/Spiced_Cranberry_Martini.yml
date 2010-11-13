@@ -1,0 +1,26 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Cranberry juice &amp; cinnamon rim
+glass: Martini
+infos: 
+  Comment: The cloves and the colour add a festive note to this notional Martini.
+  Origin: Created in 2003 by Yours Truly (Simon Difford).
+  source: www.diffordsguide.com (1855)
+ingredients: 
+- - "7"
+  - dried
+  - Clove
+- - "1"
+  - shot
+  - Pusser's Navy rum
+- - "1"
+  - shot
+  - Cranberry flavoured vodka
+- - "2"
+  - shot
+  - Ocean Spray cranberry juice
+- - " 1/2 "
+  - shot
+  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+method: MUDDLE cloves in base of shaker. Add other ingredients, SHAKE with ice and fine strain into chilled glass.
+name: Spiced Cranberry Martini
+rate: 4.0

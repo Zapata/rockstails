@@ -1,0 +1,26 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Grapes on stick
+glass: Martini
+infos: 
+  Comment: A rounded, fruity Martini-style drink.
+  Origin: Adapted from a recipe created in 2003 by Chris Setchell at Las Iguanas, UK.
+  source: www.diffordsguide.com (904)
+ingredients: 
+- - "7"
+  - fresh
+  - Seedless white grapes
+- - "2"
+  - shot
+  - Ketel One vodka
+- - " 3/4 "
+  - shot
+  - Sauvignon blanc wine
+- - "1"
+  - shot
+  - Pressed apple juice
+- - " 1/4 "
+  - shot
+  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+method: MUDDLE grapes in base of shaker. Add other ingredients, SHAKE with ice and fine strain into chilled glass.
+name: Grapple Martini
+rate: 4.0

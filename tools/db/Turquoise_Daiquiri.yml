@@ -1,0 +1,25 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Lime wedge on rim
+glass: Martini
+infos: 
+  Comment: A blue-rinsed Daiquiri with orange and pineapple - with tequila instead of rum it would be a twisted Margarita.
+  source: www.diffordsguide.com (2001)
+ingredients: 
+- - "1 1/2 "
+  - shot
+  - Bacardi Superior rum
+- - " 1/2 "
+  - shot
+  - Cointreau triple sec
+- - " 1/2 "
+  - shot
+  - Bols blue curacao liqueur
+- - " 3/4 "
+  - shot
+  - Freshly squeezed lime juice
+- - "1"
+  - shot
+  - Fresh pressed pineapple juice
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+name: Turquoise Daiquiri
+rate: 3.5

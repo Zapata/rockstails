@@ -1,0 +1,25 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Lime wedge
+glass: Martini
+infos: 
+  Comment: Basically an orange and apricot Daiquiri.
+  source: www.diffordsguide.com (1510)
+ingredients: 
+- - "1 1/2 "
+  - shot
+  - Bacardi Superior rum
+- - " 1/2 "
+  - shot
+  - Grand Marnier liqueur
+- - " 1/2 "
+  - shot
+  - Bols apricot brandy liqueur
+- - " 1/2 "
+  - shot
+  - Freshly squeezed lime juice
+- - " 1/2 "
+  - shot
+  - Chilled mineral water
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+name: Periodista Daiquiri
+rate: 4.0

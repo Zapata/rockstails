@@ -1,0 +1,29 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Lemon zest twist
+glass: Old-fashioned
+infos: 
+  Comment: An appropriate name for a most unusually flavoured drink modelled on the Polish Martini.
+  Origin: Created in 2002 by Mark 'Q-Ball' Linnie and Martin Oliver at the Mixing Tin, Leeds, England.
+  source: www.diffordsguide.com (1140)
+ingredients: 
+- - " 3/4 "
+  - shot
+  - Zubrwka bison vodka
+- - " 3/4 "
+  - shot
+  - Ketel One vodka
+- - " 3/4 "
+  - shot
+  - Runny honey
+- - " 1/2 "
+  - shot
+  - Monin Almond (orgeat) syrup
+- - "2"
+  - shot
+  - Pressed apple juice
+- - " 1/8 "
+  - shot
+  - Freshly squeezed lemon juice
+method: SHAKE all ingredients with ice and strain into glass filled with crushed ice.
+name: Lemon Butter Cookie
+rate: 4.0

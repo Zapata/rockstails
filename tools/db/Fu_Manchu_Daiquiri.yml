@@ -1,0 +1,29 @@
+--- !ruby/object:DirtyCocktail 
+garnish: <p>Pineapple wedge on rim</p>
+glass: Collins
+infos: 
+  Comment: <p>A natural Daiquiri with a refreshing, clean, citrussy, minty edge.</p>
+  Origin: <p>Adapted from a recipe by David Embury.</p>
+  source: www.diffordsguide.com (820)
+ingredients: 
+- - "2"
+  - shot
+  - Bacardi Superior rum
+- - "1"
+  - shot
+  - Freshly squeezed lime juice
+- - " 1/2 "
+  - shot
+  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- - " 1/4 "
+  - shot
+  - Cointreau triple sec
+- - " 1/4 "
+  - shot
+  - Giffard Menthe Pastille liqueur
+- - " 3/4 "
+  - shot
+  - Chilled mineral water
+method: <p>SHAKE all ingredients with ice and fine strain into chilled glass.</p>
+name: Fu Manchu Daiquiri
+rate: 4.0

@@ -1,0 +1,23 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Orange zest twist (discard)
+glass: Martini
+infos: 
+  Comment: Basically a Cosmopolitan but made with London dry gin instead of citrus vodka.<br /><br />
+  Origin: A subtle twist on the classic by Simon Difford in 2008 at The Cabinet Room, London, England.<br /><br />
+  source: www.diffordsguide.com (2186)
+ingredients: 
+- - "1"
+  - shot
+  - Bombay London dry gin
+- - "1"
+  - shot
+  - Cointreau triple sec
+- - "1 1/2 "
+  - shot
+  - Ocean Spray cranberry juice
+- - " 1/2 "
+  - shot
+  - Freshly squeezed lime juice
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+name: London Cosmpolitan
+rate: 4.0

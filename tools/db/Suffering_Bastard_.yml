@@ -1,0 +1,29 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Pineapple cubes and cherry on stick, lime wedge, lengthwise strip cucumber peel, mint sprig<br /><br />
+glass: Old-fashioned
+infos: 
+  Comment: Pungent, heavily rum laced yet all too easy.
+  Origin: Adapted from Victor Bergeron's 'Trader Vic's Bartender's Guide' (1972 revised edition).<br /><br />
+  source: www.diffordsguide.com (2588)
+ingredients: 
+- - "1"
+  - shot
+  - Bacardi Superior rum
+- - "2"
+  - shot
+  - Martinique agricole rum
+- - "1"
+  - shot
+  - Lime
+- - " 1/2 "
+  - shot
+  - Curacao liqueur or Grand Marnier
+- - " 1/4 "
+  - shot
+  - Monin Almond (orgeat) syrup
+- - " 1/2 "
+  - shot
+  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+method: SHAKE all ingredients with ice and strain glass filled with crushed ice.<br /><br />
+name: "Suffering Bastard "
+rate: 3.5

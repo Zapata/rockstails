@@ -1,0 +1,19 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Float mandolin cut apple slice <br />
+glass: Coupette
+infos: 
+  Comment: Dry, subtle, and depending on your choice of sake, possibly amazing.
+  source: www.diffordsguide.com (2568)
+ingredients: 
+- - "2"
+  - shot
+  - Bombay London dry gin
+- - "2"
+  - shot
+  - Sake
+- - " 1/8 "
+  - shot
+  - Noilly Prat dry vermouth
+method: STIR all ingredients with ice and fine stain into chilled glass.
+name: Sake Martini
+rate: 4.5

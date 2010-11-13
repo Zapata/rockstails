@@ -1,0 +1,17 @@
+--- !ruby/object:DirtyCocktail 
+garnish: " Lime zest"
+glass: Martini
+infos: 
+  Comment: Delicately spiced and slightly sweetened tequila.
+  Origin: Adapted from a drink created in 2007 by Neyah White, San Francisco, USA. Originally this consisted of equal parts served unchilled in a brandy glass and using anejo tequila.
+  source: www.diffordsguide.com (2264)
+ingredients: 
+- - "2"
+  - shot
+  - Herradura 100% agave tequila
+- - "1"
+  - shot
+  - Bndictine D.O.M.
+method: " SHAKE all ingredients with ice and fine strain into chilled glass."
+name: B & T
+rate: 4.0

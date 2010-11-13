@@ -1,0 +1,22 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Lemon zest twist<br />
+glass: Martini
+infos: 
+  Comment: A herbal medium dry Martini.
+  source: www.diffordsguide.com (2759)
+ingredients: 
+- - "1 1/2 "
+  - shot
+  - Bombay London dry gin
+- - " 3/4 "
+  - shot
+  - Martini Rosso sweet vermouth
+- - " 1/4 "
+  - shot
+  - Bndictine D.O.M.
+- - "1"
+  - dash
+  - Angostura orange bitters
+method: STIR all ingredients with ice and fine strain into chilled glass.
+name: Vancouver
+rate: 3.5

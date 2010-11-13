@@ -1,0 +1,19 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Orange zest twist
+glass: Martini
+infos: 
+  Comment: Hints of sake but retains the Sidecar style.
+  source: www.diffordsguide.com (1896)
+ingredients: 
+- - "1"
+  - shot
+  - Bols apricot brandy liqueur
+- - "2 1/2 "
+  - shot
+  - Sake
+- - " 1/2 "
+  - shot
+  - Freshly squeezed lemon juice
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+name: Sumo In A Sidecar
+rate: 4.5

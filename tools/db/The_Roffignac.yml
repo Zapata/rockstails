@@ -1,0 +1,20 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Lime wedge
+glass: Collins
+infos: 
+  Comment: This bright red, fruity drink is simple but moreish.
+  Origin: This classic cocktail is named after Count Louis Philippe Joseph de Roffignac, Mayor of New Orleans 1820-1828. Roffignac is noted for introducing street lights to the city and laying cobblestones on the roads in the French Quarter.
+  source: www.diffordsguide.com (1686)
+ingredients: 
+- - "2"
+  - shot
+  - Courvoisier V.S.O.P cognac
+- - "1"
+  - shot
+  - "Cr\xE8me de framboise liqueur"
+- - "1"
+  - top up with
+  - Soda (club soda)
+method: SHAKE first 2 ingredients with ice and strain into ice-filled glass. TOP with soda, lightly stir and serve with straws.
+name: The Roffignac
+rate: 4.0

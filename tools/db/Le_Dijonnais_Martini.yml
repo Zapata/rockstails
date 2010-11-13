@@ -1,0 +1,23 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Cocktail onion<br />
+glass: Coupette
+infos: 
+  Comment: A most unusual cocktail based on a most unusual product - mustard liqueur.
+  Origin: Created by Gonzo de Sousa Monteiro, Berlin, Germany.<br />
+  source: www.diffordsguide.com (2876)
+ingredients: 
+- - "1 1/2 "
+  - shot
+  - Galliano L'Autentico liqueur
+- - " 1/2 "
+  - shot
+  - Noilly Prat dry vermouth
+- - " 1/8 "
+  - shot
+  - Bombay London dry gin
+- - " 1/2 "
+  - fresh
+  - Freshly extracted celery juice
+method: STIR all ingredients with ice and fine strain into chilled glass.<br />
+name: Le Dijonnais Martini
+rate: 4.0

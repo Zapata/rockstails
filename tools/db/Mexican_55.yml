@@ -1,0 +1,27 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Lime wedge
+glass: Collins
+infos: 
+  Comment: Suitably hard, yet surprisingly refreshing and sophisticated.
+  Origin: An adaptation of the classic French '75 created in 1988 at La Perla, Paris, France. The name comes from Fidel Castro's statement that bullets, like wine, came in vintages and Mexican '55 was a good year [for bullets].<br /><br />
+  Variant: Orange bitters instead of Angostura, as discovered in 2008 at the Experimental Cocktail Club, Paris.<br /><br />
+  source: www.diffordsguide.com (1301)
+ingredients: 
+- - "1 1/2 "
+  - shot
+  - Herradura 100% agave tequila
+- - "1"
+  - shot
+  - Freshly squeezed lemon juice
+- - " 1/2 "
+  - shot
+  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- - "2"
+  - dash
+  - Angostura aromatic bitters
+- - "1"
+  - top up with
+  - Perrier Jouet brut champagne
+method: SHAKE first 4 ingredients with ice and strain into ice-filled glass. TOP with champagne.
+name: Mexican 55
+rate: 4.0

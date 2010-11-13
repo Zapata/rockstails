@@ -1,0 +1,26 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Pineapple wedge &amp; cherry
+glass: Collins
+infos: 
+  Comment: Tropical, rum laced cooler.
+  Origin: A Tiki drink created in 1963 by Tony Ramos at China Trader, California, USA, fr the cast of the TV series of the same name.
+  source: www.diffordsguide.com (943)
+ingredients: 
+- - "1"
+  - shot
+  - Bacardi Superior rum
+- - "1"
+  - shot
+  - Bacardi Oro golden rum
+- - " 1/2 "
+  - shot
+  - Velvet Falernum liqueur
+- - " 1/2 "
+  - shot
+  - Freshly squeezed lime juice
+- - " 1/2 "
+  - shot
+  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+method: BLEND all ingredients with two 12oz scoops of crushed ice. Serve with straws.
+name: Hawaiian Eye
+rate: 3.5

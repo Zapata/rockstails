@@ -1,0 +1,25 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Lemon slice
+glass: Collins
+infos: 
+  Comment: A long fruity drink for parched palates.
+  source: www.diffordsguide.com (1214)
+ingredients: 
+- - "2"
+  - shot
+  - Bombay London dry gin
+- - " 1/2 "
+  - shot
+  - "Cr\xE8me de cassis liqueur"
+- - " 1/2 "
+  - shot
+  - Noilly Prat dry vermouth
+- - " 1/2 "
+  - shot
+  - Martini Rosso sweet vermouth
+- - "1"
+  - top up with
+  - Soda (club soda)
+method: SHAKE first 4 ingredients with ice and strain into ice-filled glass. TOP with soda.
+name: Macka
+rate: 3.5

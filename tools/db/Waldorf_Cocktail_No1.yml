@@ -1,0 +1,23 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Lemon zest twist<br />
+glass: Martini
+infos: 
+  Comment: A Sweet Manhattan dried by the merest hint of bitter absinthe.<br /><br />
+  Origin: The eponymous cocktail from the Waldorf Hotel occupied a site on New York's Fifth Avenue. The Empire State Building now stands occupies the hotel's original site and what has long been known as the Waldorf-Astoria Hotel now occupies a landmark Art-Deco building at 301 Park Avenue. <br />        <br />Consisting of equal parts whiskey (probably originally rye), sweet vermouth and absinthe with a dash of bitters. This is the earlier of the two classic versions of this vintage cocktail which appeared in Jacques Straub's 1914 book 'Drinks' and later in A. S. Crockett's 1935 The Old Waldorf-Astoria Bar Book. The recipe above is adapted to better suit modern palates and ingredients.<br /><br />
+  source: www.diffordsguide.com (2600)
+ingredients: 
+- - "2"
+  - shot
+  - Maker's Mark bourbon
+- - "1"
+  - shot
+  - Martini Rosso sweet vermouth
+- - " 1/8 "
+  - shot
+  - "La F\xE9e Parisienne (68%) absinthe"
+- - "2"
+  - dash
+  - Angostura aromatic bitters
+method: STIR all ingredients with ice and strain into chilled glass.<br /><br />
+name: Waldorf Cocktail No.1
+rate: 4.0

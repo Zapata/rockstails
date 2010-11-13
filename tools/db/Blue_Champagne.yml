@@ -1,0 +1,26 @@
+--- !ruby/object:DirtyCocktail 
+garnish: 
+glass: Flute
+infos: 
+  Comment: Fortified, citrussy champagne.
+  Variant: With gin in place of vodka.
+  source: www.diffordsguide.com (257)
+ingredients: 
+- - " 3/4 "
+  - shot
+  - Ketel One vodka
+- - " 1/8 "
+  - shot
+  - Cointreau triple sec
+- - " 1/4 "
+  - shot
+  - Bols blue curacao liqueur
+- - " 1/4 "
+  - shot
+  - Freshly squeezed lemon juice
+- - "1"
+  - top up with
+  - Perrier Jouet brut champagne
+method: SHAKE first four ingredients with ice and strain into glass. TOP with champagne.
+name: Blue Champagne
+rate: 3.0

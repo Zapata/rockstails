@@ -1,0 +1,20 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Lime wedge<br />
+glass: Collins
+infos: 
+  Comment: Ginger beer and the length of this drink tame the absinthe within but its presence is most evident.
+  Origin: Created in 1990s by Giovanni Burdi, London, England.
+  source: www.diffordsguide.com (2315)
+ingredients: 
+- - "1"
+  - shot
+  - "La F\xE9e Parisienne (68%) absinthe"
+- - " 1/2 "
+  - shot
+  - Freshly squeezed lime juice
+- - "1"
+  - top up with
+  - Ginger beer
+method: POUR all ingredients into ice-filled glass and lightly stir.
+name: Bohemian Mule
+rate: 3.0

@@ -1,0 +1,35 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Maraschino cherry
+glass: Old-fashioned
+infos: 
+  Comment: This creamy, sweet Tiki number is laced with three different spirits.
+  Origin: Adapted from a drink featured in May 2006 on www.tikibartv.com
+  source: www.diffordsguide.com (1976)
+ingredients: 
+- - " 3/4 "
+  - shot
+  - Bacardi Superior rum
+- - " 3/4 "
+  - shot
+  - Herradura 100% agave tequila
+- - " 3/4 "
+  - shot
+  - Ketel One vodka
+- - " 1/2 "
+  - shot
+  - Coco Lpez cream of coconut
+- - "3"
+  - shot
+  - Fresh pressed pineapple juice
+- - " 1/2 "
+  - shot
+  - Milk
+- - " 1/2 "
+  - shot
+  - Double (heavy) cream
+- - " 1/4 "
+  - shot
+  - Pomegranate (grenadine) syrup
+method: SHAKE all ingredients with ice and strain into glass filled with crushed ice.
+name: Tongue Twister
+rate: 3.5

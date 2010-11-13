@@ -1,0 +1,26 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Grapefruit zest twist<br />
+glass: Martini
+infos: 
+  Comment: Fresh grapefruit and gin soured with a splash of grapefruit and balanced with the merest touch of sugar.
+  Origin: Discovered in 2010 at the Blue Owl, New York City, USA.<br />
+  source: www.diffordsguide.com (2823)
+ingredients: 
+- - "2"
+  - shot
+  - Bombay London dry gin
+- - " 3/4 "
+  - shot
+  - Freshly squeezed grapefruit juice
+- - " 1/2 "
+  - shot
+  - Noilly Prat dry vermouth
+- - " 1/4 "
+  - shot
+  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- - "1"
+  - dash
+  - Fee Brothers grapefruit bitters
+method: SHAKE all ingredients with ice and fine strain into chilled glass.<br />
+name: The Money Penny
+rate: 5.0

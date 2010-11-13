@@ -1,0 +1,29 @@
+--- !ruby/object:DirtyCocktail 
+garnish: <p>Lemon slice</p>
+glass: Collins
+infos: 
+  Comment: <p>Over the decades this recipe has constantly morphed. The inclusion of cold tea is the latest adaptation. </p><br />
+  Origin: <p>Formula by Yours Truly (Simon Difford).</p>
+  source: www.diffordsguide.com (753)
+ingredients: 
+- - "1"
+  - shot
+  - Courvoisier V.S.O.P cognac
+- - "1"
+  - shot
+  - Bacardi Superior rum
+- - "1"
+  - shot
+  - "Cr\xE8me p\xEAche de vigne liqueur"
+- - "1 1/2 "
+  - shot
+  - Cold English breakfast tea
+- - "1"
+  - shot
+  - Freshly squeezed lemon juice
+- - " 1/4 "
+  - shot
+  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+method: <p>SHAKE all ingredients with ice and strain into ice-filled glass.</p>
+name: "Fish House Punch #2"
+rate: 4.5

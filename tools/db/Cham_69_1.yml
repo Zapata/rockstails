@@ -1,0 +1,26 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Berries
+glass: Sling
+infos: 
+  Comment: Medium sweet, long and fruity.
+  Origin: I created this drink back in 1998 and I've noticed it on cocktail menus across Europe. I was something of a beginner with a sweet tooth at the time but this new formulation is better balanced.
+  source: www.diffordsguide.com (391)
+ingredients: 
+- - "2"
+  - shot
+  - Ketel One vodka
+- - " 3/4 "
+  - shot
+  - Luxardo Amaretto di Saschira
+- - " 3/4 "
+  - shot
+  - "Cr\xE8me de cassis liqueur"
+- - " 3/4 "
+  - shot
+  - Freshly squeezed lime juice
+- - "1"
+  - top up with
+  - Lemonade/Sprite/7-Up
+method: SHAKE first 4 ingredients with ice and strain into ice-filled glass. TOP with lemonade, stir and serve with straws.
+name: "Cham 69 #1"
+rate: 3.5

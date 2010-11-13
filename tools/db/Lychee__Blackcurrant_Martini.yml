@@ -1,0 +1,26 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Peeled lychee in glass
+glass: Martini
+infos: 
+  Comment: Light, fragrant and laced with gin.
+  Origin: Created by Yours Truly (Simon Difford) in 2004.
+  source: www.diffordsguide.com (1205)
+ingredients: 
+- - "2"
+  - shot
+  - Bombay London dry gin
+- - " 1/2 "
+  - shot
+  - Soho lychee liqueur
+- - " 1/4 "
+  - shot
+  - "Cr\xE8me de cassis liqueur"
+- - " 1/4 "
+  - shot
+  - Rose's lime cordial
+- - " 3/4 "
+  - scoop
+  - Chilled mineral water
+method: SHAKE in ingredients with ice and fine strain into chilled glass.
+name: Lychee & Blackcurrant Martini
+rate: 4.0

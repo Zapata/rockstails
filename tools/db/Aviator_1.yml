@@ -1,0 +1,26 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Lemon zest twist
+glass: Martini
+infos: 
+  Comment: An Aviation with egg white and a dash of cassis in the bottom but is actually better and more balanced when the cassis is shaken with the other ingredients.
+  Origin: <br />
+  source: www.diffordsguide.com (128)
+ingredients: 
+- - "2"
+  - shot
+  - Bombay London dry gin
+- - " 1/2 "
+  - shot
+  - Luxardo maraschino liqueur
+- - " 1/2 "
+  - shot
+  - Freshly squeezed lemon juice
+- - " 1/2 "
+  - fresh
+  - Egg white
+- - " 1/4 "
+  - shot
+  - "Cr\xE8me de cassis liqueur"
+method: SHAKE first 4 ingredients with ice and fine strain into chilled glass. POUR cassis into to centre of drink (it should sink).
+name: "Aviator #1"
+rate: 4.0

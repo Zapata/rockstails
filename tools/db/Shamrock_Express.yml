@@ -1,0 +1,26 @@
+--- !ruby/object:DirtyCocktail 
+garnish: 
+glass: Old-fashioned
+infos: 
+  Comment: Creamy coffee with the sweetness of butterscotch.
+  Origin: Created in 1999 by Greg Pearson at Mystique, Manchester, England.
+  source: www.diffordsguide.com (1815)
+ingredients: 
+- - "1 1/2 "
+  - shot
+  - Hot espresso coffee
+- - " 3/4 "
+  - shot
+  - Teichenn butterscotch schnapps
+- - "1"
+  - shot
+  - Ketel One vodka
+- - "1"
+  - shot
+  - Baileys Irish cream liqueur
+- - " 1/4 "
+  - shot
+  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+method: SHAKE all ingredients with ice and strain into ice-filled glass.
+name: Shamrock Express
+rate: 3.5

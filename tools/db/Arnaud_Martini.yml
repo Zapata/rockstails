@@ -1,0 +1,20 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Blackberry on rim
+glass: Martini
+infos: 
+  Comment: An interesting balance of blackcurrant, vermouth and gin. Sweet palate and dry finish.
+  Origin: A classic cocktail named after the pre-war stage actress Yvonne Arnaud.
+  source: www.diffordsguide.com (107)
+ingredients: 
+- - "1"
+  - shot
+  - Bombay London dry gin
+- - "1"
+  - shot
+  - "Cr\xE8me de cassis liqueur"
+- - "1"
+  - shot
+  - Noilly Prat dry vermouth
+method: STIR all ingredients with ice and strain into chilled glass.
+name: Arnaud Martini
+rate: 4.0

@@ -1,0 +1,24 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Orange zest twist
+glass: Martini
+infos: 
+  Comment: Smoother, lighter and easier than most classic cocktails - perhaps a little too much so.
+  Origin: Adapted from a recipe in the 1930 edition of the Savoy Cocktail Book by Harry Craddock. The original recipe called for equal parts, including the<br />bitters - surely a mistake.
+  Variant: Substitute Angostura aromatic bitters for peach bitters.
+  source: www.diffordsguide.com (1514)
+ingredients: 
+- - "1"
+  - shot
+  - Bombay London dry gin
+- - "1"
+  - shot
+  - Noilly Prat dry vermouth
+- - "1"
+  - shot
+  - Freshly squeezed orange juice
+- - "3"
+  - dash
+  - Peach bitters
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+name: "Peter Pan Martini #1"
+rate: 3.0

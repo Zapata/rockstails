@@ -1,0 +1,26 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Apple wedge
+glass: Collins
+infos: 
+  Comment: A refreshing long number with a taste reminiscent of cider.
+  Origin: Adapted from a drink created in 2004 by Wayne Collins.
+  source: www.diffordsguide.com (74)
+ingredients: 
+- - "1 1/2 "
+  - shot
+  - Boulard Grand Solage calvados
+- - " 1/2 "
+  - shot
+  - Sour apple liqueur
+- - "1"
+  - shot
+  - Pressed apple juice
+- - " 1/2 "
+  - shot
+  - Freshly squeezed lime juice
+- - "1"
+  - top up with
+  - Ginger ale
+method: SHAKE first 4 ingredients with ice and strain into ice-filled glass. TOP with ginger ale.
+name: Apple Buck
+rate: 4.0

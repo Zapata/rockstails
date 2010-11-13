@@ -1,0 +1,26 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Orange zest twist
+glass: Martini
+infos: 
+  Comment: A sophisticated, complex balance of orange and gin.
+  Origin: Adapted from the Orange Cocktail and Orange Martini Cocktail in the 1930's edition of the Savoy Cocktail Book by Harry Craddock.
+  source: www.diffordsguide.com (1445)
+ingredients: 
+- - "2"
+  - shot
+  - Bombay London dry gin
+- - "1"
+  - shot
+  - Freshly squeezed orange juice
+- - " 1/2 "
+  - shot
+  - Martini Rosso sweet vermouth
+- - " 1/4 "
+  - shot
+  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- - "3"
+  - dash
+  - Angostura orange bitters
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+name: Orange Martini
+rate: 4.0

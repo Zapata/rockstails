@@ -1,0 +1,29 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Pineapple wedge and cherry on rim
+glass: Martini
+infos: 
+  Comment: Easy drinking rum and orange curacao, flavoured with pineapple and raspberry.<br /><br />
+  Origin: Thought to have been created sometime in the mid 19th century at the Knickerbocker Hotel, New York City, USA.<br /><br />
+  source: www.diffordsguide.com (1118)
+ingredients: 
+- - "2"
+  - shot
+  - Bacardi Superior rum
+- - " 1/2 "
+  - shot
+  - Grand Marnier liqueur
+- - " 1/2 "
+  - shot
+  - Fresh pressed pineapple juice
+- - " 1/2 "
+  - shot
+  - Freshly squeezed orange juice
+- - " 1/2 "
+  - shot
+  - Freshly squeezed lemon juice
+- - " 1/4 "
+  - shot
+  - Raspberry syrup (1 juice to 1 sugar)
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+name: Knickerbocker Special
+rate: 4.0

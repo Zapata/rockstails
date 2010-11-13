@@ -1,0 +1,20 @@
+--- !ruby/object:DirtyCocktail 
+garnish: " Mint sprigs<br />"
+glass: Old-fashioned
+infos: 
+  Comment: Sweet and yet bone dry. Drambuie and Chartreuse monastic liqueurs battle to be the most righteous in this Humanist's cocktail.
+  Origin: Created in 2010 by Simon Difford at the Cabinet Room, London, England.<br />
+  source: www.diffordsguide.com (2789)
+ingredients: 
+- - "1 1/2 "
+  - shot
+  - Johnnie Walker Scotch Whisky
+- - " 3/4 "
+  - shot
+  - Drambuie
+- - " 1/4 "
+  - shot
+  - Chartreuse Green liqueur
+method: STIR all ingredients with ice and strain into ice-filled glass.<br />
+name: Carthusian Nail
+rate: 4.5

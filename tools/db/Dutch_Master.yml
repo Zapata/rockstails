@@ -1,0 +1,23 @@
+--- !ruby/object:DirtyCocktail 
+garnish: 2 grapes on stick<br />
+glass: Martini
+infos: 
+  Comment: Created in 2007 by Bruce Borthwick in Fife, Scotland.
+  Origin: It's a vodka and tonic but not like you know it.
+  source: www.diffordsguide.com (2390)
+ingredients: 
+- - "2"
+  - shot
+  - Ketel One vodka
+- - " 1/8 "
+  - shot
+  - Tio Pepe fino sherry
+- - " 1/8 "
+  - shot
+  - St-Germain elderflower liqueur
+- - "1"
+  - shot
+  - Tonic water
+method: STIR all ingredients with ice and strain into chilled glass.<br /><br />
+name: Dutch Master
+rate: 4.0

@@ -1,0 +1,19 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Orange zest twist
+glass: Flute
+infos: 
+  Comment: Dry, aromatic, orange champagne.
+  source: www.diffordsguide.com (1404)
+ingredients: 
+- - " 1/2 "
+  - shot
+  - Grand Marnier liqueur
+- - " 1/2 "
+  - shot
+  - Campari Bitter
+- - "1"
+  - top up with
+  - Perrier Jouet brut champagne
+method: POUR ingredients into chilled glass.
+name: Night & Day
+rate: 3.5

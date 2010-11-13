@@ -1,0 +1,19 @@
+--- !ruby/object:DirtyCocktail 
+garnish: 
+glass: Shot
+infos: 
+  Comment: Frankly - it's a good shot.
+  source: www.diffordsguide.com (1892)
+ingredients: 
+- - " 1/2 "
+  - shot
+  - Cuarenta y Tres (Licor 43) liqueur
+- - " 1/2 "
+  - shot
+  - Heering cherry brandy liqueur
+- - " 1/2 "
+  - shot
+  - Ketel One vodka
+method: Refrigerate ingredients then LAYER in chilled glass by carefully pouring in the following order.
+name: Suitably Frank
+rate: 3.5

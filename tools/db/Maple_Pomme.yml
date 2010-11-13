@@ -1,0 +1,26 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Apple wedge
+glass: Collins
+infos: 
+  Comment: Scotch based drink for warm weather.
+  Origin: Adapted from a short drink created in 2005 by Tonin Kacaj at Maze, London, England.
+  source: www.diffordsguide.com (1251)
+ingredients: 
+- - "2"
+  - shot
+  - Johnnie Walker Scotch Whisky
+- - " 1/2 "
+  - shot
+  - Freshly squeezed lemon juice
+- - "1"
+  - shot
+  - Pressed apple juice
+- - " 1/2 "
+  - shot
+  - Maple syrup
+- - "1"
+  - top up with
+  - Ginger ale
+method: SHAKE first 4 ingredients with ice and strain into ice-filled glass. TOP with ginger ale, lightly stir and serve with straws.
+name: Maple Pomme
+rate: 4.0

@@ -1,0 +1,20 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Orange slice<br />
+glass: Old-fashioned
+infos: 
+  Comment: This light style Negroni has the bitterness but lacks the punch and character of the original.<br _moz_editor_bogus_node="TRUE" />
+  Origin: Pronounced 'spal-yacht-oh' which in Italian means 'mistake', this drink was created in the late 1980s by Mirko Stocchetti at his Bar Basso in Milan when making a Negroni he mistakenly reached for a bottle of spumante instead of gin. They are still served at Basso today in enormous chalice like glasses with single, giant, rectangular ice cube.<br />
+  source: www.diffordsguide.com (2515)
+ingredients: 
+- - "1"
+  - shot
+  - Martini Rosso sweet vermouth
+- - "1"
+  - shot
+  - Campari Bitter
+- - "2"
+  - shot
+  - Spumante (or brut champagne)
+method: POUR all ingredients into ice-filled glass and STIR.
+name: Negroni Sbagliato
+rate: 3.5

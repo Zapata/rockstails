@@ -1,0 +1,22 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Split lime wedge
+glass: Martini
+infos: 
+  Comment: "A drink for the Campari aficionado: bittersweet and strong."
+  source: www.diffordsguide.com (643)
+ingredients: 
+- - "2"
+  - shot
+  - Bombay London dry gin
+- - "1"
+  - shot
+  - Campari Bitter
+- - "1"
+  - shot
+  - Freshly squeezed lime juice
+- - " 1/2 "
+  - shot
+  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+name: Diana's Bitter
+rate: 3.0

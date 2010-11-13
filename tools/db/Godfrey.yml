@@ -1,0 +1,29 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Three blackberries on drink
+glass: Old-fashioned
+infos: 
+  Comment: Well balanced with a rich blackberry flavour.<br />
+  Origin: Created by Salvatore Calabrese at the Library Bar, Lanesborough Hotel, London, England.
+  source: www.diffordsguide.com (865)
+ingredients: 
+- - "6"
+  - fresh
+  - Blackberries
+- - "1 1/2 "
+  - shot
+  - Courvoisier V.S.O.P cognac
+- - " 1/2 "
+  - shot
+  - Grand Marnier liqueur
+- - " 1/4 "
+  - shot
+  - "Cr\xE8me de M\xFBre liqueur"
+- - " 1/4 "
+  - shot
+  - Freshly squeezed lemon juice
+- - " 1/4 "
+  - shot
+  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+method: MUDDLE blackberries in base if shaker. Add other ingredients, SHAKE with ice and fine strain into glass filled with crushed ice.
+name: Godfrey
+rate: 4.0

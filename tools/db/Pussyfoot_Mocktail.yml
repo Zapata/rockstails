@@ -1,0 +1,29 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Orange slice
+glass: Collins
+infos: 
+  Comment: Probably the best non-alcoholic cocktail ever.
+  Origin: Created in 1920 by Robert Vermeire at the Embassy Club, London, England. This non-alcoholic is named after 'Pussyfoot' (William E.) Johnson who was an ardent supporter of prohibition.
+  source: www.diffordsguide.com (1620)
+ingredients: 
+- - "7"
+  - fresh
+  - Mint leaves
+- - "4"
+  - shot
+  - Freshly squeezed orange juice
+- - " 1/2 "
+  - shot
+  - Freshly squeezed lemon juice
+- - " 1/2 "
+  - shot
+  - Freshly squeezed lime juice
+- - " 1/2 "
+  - shot
+  - Pomegranate (grenadine) syrup
+- - "1"
+  - fresh
+  - Egg yolk
+method: MUDDLE mint in base of shaker. Add other ingredients, SHAKE with ice and fine strain into ice-filled glass.
+name: Pussyfoot (Mocktail)
+rate: 4.5

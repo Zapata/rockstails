@@ -1,0 +1,23 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Crystallised stem ginger<br />
+glass: Collins
+infos: 
+  Comment: Whiskey and ginger with a fresh zing of lime.
+  Origin: Adapted from a drink created in 2009 by Eric Alperin at The Varnish, Los Angeles, USA.<br />
+  source: www.diffordsguide.com (2875)
+ingredients: 
+- - "2"
+  - shot
+  - Rye whiskey
+- - " 3/4 "
+  - shot
+  - Monin Ginger syrup
+- - " 1/2 "
+  - shot
+  - Freshly squeezed lime juice
+- - "1"
+  - top up with
+  - Soda from siphon
+method: SHAKE all ingredients with ice and fine strain into ice-filled glass. TOP with soda.<br />
+name: Cablegram
+rate: 4.0

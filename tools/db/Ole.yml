@@ -1,0 +1,19 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Orange wheel on rim
+glass: Martini
+infos: 
+  Comment: Vanilla, orange and brandy combine well.
+  source: www.diffordsguide.com (1431)
+ingredients: 
+- - "2"
+  - shot
+  - Courvoisier V.S.O.P cognac
+- - " 3/4 "
+  - shot
+  - Cuarenta y Tres (Licor 43) liqueur
+- - "1 1/2 "
+  - shot
+  - Freshly squeezed orange juice
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+name: Ole
+rate: 3.5

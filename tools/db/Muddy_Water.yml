@@ -1,0 +1,19 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Float 3 coffee beans
+glass: Old-fashioned
+infos: 
+  Comment: Coffee and whiskey cream with added vodka.
+  source: www.diffordsguide.com (1373)
+ingredients: 
+- - "1"
+  - shot
+  - Ketel One vodka
+- - "1"
+  - shot
+  - Baileys Irish cream liqueur
+- - "1"
+  - shot
+  - Kahla coffee liqueur
+method: SHAKE all ingredients with ice and strain into ice-filled glass.
+name: Muddy Water
+rate: 3.5

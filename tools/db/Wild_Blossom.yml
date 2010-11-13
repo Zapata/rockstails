@@ -1,0 +1,23 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Grapefruit twist<br />
+glass: Martini
+infos: 
+  Comment: Aptly named - It is indeed blossom-like, yet also dry and serious. <br /><br />
+  Origin: Adapted from a drink created in 2007 by James Scarito at BLT Market, New York City, USA. <br /><br />
+  source: www.diffordsguide.com (2608)
+ingredients: 
+- - "2"
+  - shot
+  - Bombay London dry gin
+- - " 3/4 "
+  - shot
+  - St-Germain elderflower liqueur
+- - " 3/4 "
+  - shot
+  - Freshly squeezed grapefruit juice
+- - "1"
+  - shot
+  - Ocean Spray cranberry juice
+method: SHAKE all ingredients with ice and fine strain into chilled glass.<br /><br />
+name: Wild Blossom
+rate: 4.0

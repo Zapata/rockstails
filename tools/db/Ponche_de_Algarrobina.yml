@@ -1,0 +1,23 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Dust with cinnamon
+glass: Goblet
+infos: 
+  Comment: A creamy frozen drink with real character.<br /><br /><span >Tip:</span> It pays to add the condensed milk and<br />Algarrobo (or malt extract) after starting the blender.<br />
+  Origin: A traditional Peruvian drink I discovered at Tito's Restaurant, London, England. Algarrobo is extracted from the fruits of the tree of the same<br />name. It is a sticky honey-like liquid which I find tastes a little like malt extract.
+  source: www.diffordsguide.com (1585)
+ingredients: 
+- - "2"
+  - shot
+  - Macchu pisco
+- - "1"
+  - fresh
+  - Egg yolk
+- - "1"
+  - shot
+  - Condensed milk
+- - "1"
+  - spoon
+  - Algarrobo extract (or malt extract from healthfood shops)
+method: BLEND all ingredients with 12oz scoop crushed ice. Serve with straws.
+name: Ponche de Algarrobina
+rate: 3.5

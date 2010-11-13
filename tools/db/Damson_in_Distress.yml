@@ -1,0 +1,20 @@
+--- !ruby/object:DirtyCocktail 
+garnish: 
+glass: Shot
+infos: 
+  Comment: Damson and amaretto sharpened by lemon juice.
+  Origin: Discovered in 2003 at Hush, London, England.
+  source: www.diffordsguide.com (616)
+ingredients: 
+- - "1 1/2 "
+  - shot
+  - Damson gin liqueur
+- - " 1/2 "
+  - shot
+  - Luxardo Amaretto di Saschira
+- - " 1/4 "
+  - shot
+  - Freshly squeezed lemon juice
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+name: Damson in Distress
+rate: 4.0

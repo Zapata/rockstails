@@ -1,0 +1,19 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Orange zest twist
+glass: Martini
+infos: 
+  Comment: This mustard coloured, medium dry, cognac-based drink harnesses the uniquely herbal edge of Bndictine.
+  source: www.diffordsguide.com (103)
+ingredients: 
+- - "2"
+  - shot
+  - Courvoisier V.S.O.P cognac
+- - " 1/2 "
+  - shot
+  - Bndictine D.O.M.
+- - "1 1/2 "
+  - shot
+  - Freshly squeezed orange juice
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+name: April Shower
+rate: 4.0

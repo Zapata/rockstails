@@ -1,0 +1,20 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Lemon zest twist<br />
+glass: Old-fashioned
+infos: 
+  Comment: Simple yet complex. Dry and aromatic.
+  Origin: A classic that was popular in Britain during the 1920s.
+  source: www.diffordsguide.com (2387)
+ingredients: 
+- - "1 1/2 "
+  - shot
+  - Bombay London dry gin
+- - "1 1/2 "
+  - shot
+  - Dubonnet Red (French made)
+- - " 1/4 "
+  - shot
+  - Freshly squeezed lemon juice
+method: STIR all ingredients with ice and strain into ice-filled glass.
+name: "The Dubonnet Cocktail #1"
+rate: 4.0

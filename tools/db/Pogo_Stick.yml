@@ -1,0 +1,26 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Mint sprig
+glass: Martini
+infos: 
+  Comment: To quote Trader Vic, &quot;A refreshing blend of gin with pineapple and grapefruit juice... a real romper&quot;.
+  Origin: Adapted from a recipe in the 1947-72 Trader Vic's Bartender's Guide by Victor Bergeron.
+  source: www.diffordsguide.com (1577)
+ingredients: 
+- - "2"
+  - shot
+  - Bombay London dry gin
+- - " 1/2 "
+  - shot
+  - Fresh pressed pineapple juice
+- - " 1/2 "
+  - shot
+  - Freshly squeezed grapefruit juice
+- - " 1/2 "
+  - shot
+  - Freshly squeezed lime juice
+- - " 1/2 "
+  - shot
+  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+method: BLEND all ingredients with 12oz scoop crushed ice. Serve with straws.
+name: Pogo Stick
+rate: 4.0

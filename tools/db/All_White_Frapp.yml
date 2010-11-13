@@ -1,0 +1,22 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Lemon zest
+glass: Old-fashioned
+infos: 
+  Comment: Aniseed, chocolate, peppermint and lemon juice are an unlikely but tasty combination for summer afternoons.
+  source: www.diffordsguide.com (45)
+ingredients: 
+- - "1"
+  - shot
+  - Luxardo sambuca dei cesari
+- - "1"
+  - shot
+  - "White cr\xE8me de cacao liqueur"
+- - "1"
+  - shot
+  - Giffard Menthe Pastille liqueur
+- - "1"
+  - shot
+  - Freshly squeezed lemon juice
+method: BLEND ingredients with 6oz scoop of crushed ice. Pour into glass and serve with short straws.
+name: All White Frapp
+rate: 3.5

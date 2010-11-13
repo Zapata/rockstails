@@ -1,0 +1,19 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Lemon zest twist
+glass: Martini
+infos: 
+  Comment: Take a classic Sidecar and add some love interest - apples!
+  source: www.diffordsguide.com (1820)
+ingredients: 
+- - "2"
+  - shot
+  - Boulard Grand Solage calvados
+- - "1"
+  - shot
+  - Berentzen Apple schnapps
+- - "1"
+  - shot
+  - Freshly squeezed lemon juice
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+name: Sidecar Named Desire
+rate: 4.0

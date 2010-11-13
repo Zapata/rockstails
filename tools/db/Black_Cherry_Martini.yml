@@ -1,0 +1,16 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Fresh or maraschino cherry
+glass: Martini
+infos: 
+  Comment: Subtle berry fruit tames vodka's sting.
+  source: www.diffordsguide.com (550)
+ingredients: 
+- - "2 1/2 "
+  - shot
+  - Ketel One vodka
+- - "1"
+  - shot
+  - "Cr\xE8me de cassis liqueur"
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+name: Black Cherry Martini
+rate: 4.0

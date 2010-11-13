@@ -1,0 +1,29 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Berries on stick
+glass: Martini
+infos: 
+  Comment: Tequila predominates in this rusty coloured drink, which also features orange and berry fruit.
+  Origin: Adapted from a cocktail discovered in 2002 at the Merc Bar, New York City, where the original name was listed as simply 'Love'.
+  source: www.diffordsguide.com (1197)
+ingredients: 
+- - "1 1/2 "
+  - shot
+  - Herradura 100% agave tequila
+- - " 1/2 "
+  - shot
+  - Cointreau triple sec
+- - " 1/2 "
+  - shot
+  - Chambord
+- - " 1/2 "
+  - shot
+  - Freshly squeezed lime juice
+- - "1"
+  - shot
+  - Freshly squeezed orange juice
+- - " 1/4 "
+  - shot
+  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+name: Loved Up
+rate: 3.5

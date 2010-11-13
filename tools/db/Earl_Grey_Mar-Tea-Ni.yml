@@ -1,0 +1,23 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Lemon zest twist
+glass: Martini
+infos: 
+  Comment: A fantastic and very English drink created by a New Yorker. The gin botanicals combine wonderfully with the flavours and tannins of the tea.
+  Origin: Adapted from a drink created in 2000 by Audrey Saunders at Bemelmans Bar at the Carlyle, New York City.
+  source: www.diffordsguide.com (685)
+ingredients: 
+- - "2"
+  - shot
+  - Bombay London dry gin
+- - " 3/4 "
+  - shot
+  - Freshly squeezed lemon juice
+- - " 1/2 "
+  - fresh
+  - Egg white
+- - " 1/2 "
+  - shot
+  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+name: Earl Grey Mar-Tea-Ni
+rate: 4.5

@@ -1,0 +1,20 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Orange zest twist
+glass: Martini
+infos: 
+  Comment: Canadian whisky with French accents of aromatised wine - tr`es Quebecois.
+  Origin: Created in 2004 by Goncalo de Sousa Monteiro at Victoria Bar, Berlin, Germany.
+  source: www.diffordsguide.com (1623)
+ingredients: 
+- - "2"
+  - shot
+  - Canadian whisky
+- - "2"
+  - shot
+  - Dubonnet Red (French made)
+- - "2"
+  - dash
+  - Angostura orange bitters
+method: STIR all ingredients and strain into chilled glass.
+name: Quebec
+rate: 4.0

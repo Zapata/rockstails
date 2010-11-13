@@ -1,0 +1,22 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Orange zest twist
+glass: Martini
+infos: 
+  Comment: A straight up Harvey Wallbanger with Cointreau
+  source: www.diffordsguide.com (1508)
+ingredients: 
+- - "1"
+  - shot
+  - Ketel One vodka
+- - " 3/4 "
+  - shot
+  - Cointreau triple sec
+- - " 1/4 "
+  - shot
+  - Galliano L'Autentico liqueur
+- - "1 1/2 "
+  - shot
+  - Freshly squeezed orange juice
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+name: Perfect John
+rate: 4.0
