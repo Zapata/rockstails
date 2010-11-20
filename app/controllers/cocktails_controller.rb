@@ -1,4 +1,5 @@
 class CocktailsController < ApplicationController
+
   # GET /cocktails
   # GET /cocktails.xml
   def index
@@ -15,6 +16,7 @@ class CocktailsController < ApplicationController
   def show
     @cocktail = Cocktail.find(params[:id])
     @ingredients = @cocktail.ingredients
+    puts @ingredients
     respond_to do |format|
       format.html # show.html.erb
       format.xml  { render :xml => @cocktail }
@@ -74,9 +76,7 @@ class CocktailsController < ApplicationController
   # GET /cocktail/1/select_ingredient
   def select_ingredient
     @cocktail = Cocktail.find(params[:id])
-    @ingredients = Ingredient.find(:all)
-    puts @cocktail
-    puts @ingredients
+    @ingredients = Ingredient.all
   end
 
   # PUT /cocktail/1/add_ingredient
