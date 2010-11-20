@@ -1,0 +1,23 @@
+--- !ruby/object:DirtyCocktail 
+garnish: <p>Float wafer thin apple slice</p>
+glass: Martini
+infos: 
+  Comment: <p>Dry, subtle apple with a delicate hint of elderflower.</p>
+  Origin: <p>Created in 2006 by Yours Truly (Simon Difford).</p>
+  source: www.diffordsguide.com (2659)
+ingredients: 
+- - " 3/4 "
+  - shot
+  - Ketel One vodka
+- - " 3/4 "
+  - shot
+  - Apple flavoured vodka
+- - "1"
+  - shot
+  - St-Germain elderflower liqueur
+- - " 1/4 "
+  - shot
+  - Noilly Prat dry vermouth
+method: <p>SHAKE all ingredients with ice and fine strain into chilled glass.</p>
+name: "French Apple Martini "
+rate: 4.0

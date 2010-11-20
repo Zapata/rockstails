@@ -1,0 +1,26 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Pineapple wedge on rim
+glass: Martini
+infos: 
+  Comment: The pineapple and egg white ensure that this delightful Daiquiri has an appropriately white frothy head.
+  Origin: My adaptation of a classic cocktail.
+  source: www.diffordsguide.com (1787)
+ingredients: 
+- - "2"
+  - shot
+  - Bacardi Superior rum
+- - " 1/2 "
+  - shot
+  - Fresh pressed pineapple juice
+- - " 1/2 "
+  - shot
+  - Freshly squeezed lime juice
+- - " 1/4 "
+  - shot
+  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- - " 1/2 "
+  - fresh
+  - Egg white
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+name: Snow White Daiquiri
+rate: 4.0

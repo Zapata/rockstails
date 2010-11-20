@@ -1,0 +1,19 @@
+--- !ruby/object:DirtyCocktail 
+garnish: 
+glass: Shot
+infos: 
+  Comment: The latest and scariest of the B-something range of layered shots.
+  source: www.diffordsguide.com (136)
+ingredients: 
+- - " 1/2 "
+  - shot
+  - Kahla coffee liqueur
+- - " 1/2 "
+  - shot
+  - Baileys Irish cream liqueur
+- - " 1/2 "
+  - shot
+  - "La F\xE9e Parisienne (68%) absinthe"
+method: Refrigerate ingredients then LAYER in chilled glass by carefully pouring in the following order.
+name: B-55 Shot
+rate: 3.0

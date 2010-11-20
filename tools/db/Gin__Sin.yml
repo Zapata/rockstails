@@ -1,0 +1,25 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Orange zest twist
+glass: Martini
+infos: 
+  Comment: This is one of those drinks that benefits from a little dilution to prevent the citrus and gin becoming too aggressive.
+  source: www.diffordsguide.com (834)
+ingredients: 
+- - "2"
+  - shot
+  - Bombay London dry gin
+- - "1"
+  - shot
+  - Freshly squeezed orange juice
+- - " 1/2 "
+  - shot
+  - Freshly squeezed lemon juice
+- - " 1/4 "
+  - shot
+  - Pomegranate (grenadine) syrup
+- - " 1/2 "
+  - shot
+  - Chilled mineral water
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+name: Gin & Sin
+rate: 4.0

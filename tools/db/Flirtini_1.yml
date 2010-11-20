@@ -1,0 +1,21 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Pineapple wedge on rim
+glass: Martini
+infos: 
+  AKA: French Martini
+  Comment: It's a French Martini - hard not to like.
+  Origin: Made famous on television's Sex and the City. Said to have been created in 2003 for Sarah Jessica Parker at Guastavinos, New York City, USA.
+  source: www.diffordsguide.com (763)
+ingredients: 
+- - "2"
+  - shot
+  - Ketel One vodka
+- - " 1/4 "
+  - shot
+  - Chambord
+- - "1 1/2 "
+  - shot
+  - Fresh pressed pineapple juice
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+name: "Flirtini #1"
+rate: 4.0

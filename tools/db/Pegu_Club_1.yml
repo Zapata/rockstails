@@ -1,0 +1,32 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Lime wedge on rim
+glass: Martini
+infos: 
+  Comment: I've added a dash of sugar to the original recipe to reduce the tartness of this gin based Margarita-like concoction.
+  Origin: Created in the 1920s at the Pegu Club, an expat gentlemen's club in British colonial Rangoon, Burma. <br /><br />The recipe was first published in Harry MacElhone's 1927 'Barflies and Cocktails'.  In his seminal 1930 Savoy Cocktail, Harry Craddock notes of this drink, &quot;The favourite cocktail at the Pegu Club, Burma, and one that has travelled, and is asked for, round the world.&quot;
+  source: www.diffordsguide.com (1503)
+ingredients: 
+- - "2"
+  - shot
+  - Bombay London dry gin
+- - "1"
+  - shot
+  - Cointreau triple sec
+- - " 1/2 "
+  - shot
+  - Freshly squeezed lime juice
+- - " 1/4 "
+  - shot
+  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- - "1"
+  - dash
+  - Angostura aromatic bitters
+- - "1"
+  - dash
+  - Angostura orange bitters
+- - " 1/2 "
+  - shot
+  - Chilled mineral water
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+name: "Pegu Club #1"
+rate: 4.0

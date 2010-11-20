@@ -1,0 +1,20 @@
+--- !ruby/object:DirtyCocktail 
+garnish: " Orange zest twist<br />"
+glass: Coupette
+infos: 
+  Comment: Go easy on the bitters and this is a complex and rewarding Martini-style drink.
+  Origin: In W.J. Tarling's (Bill Tarling) 1937 Caf Royal Cocktail Book Coronation edition the creation of this drink is credited to one A. Mackintosh. Originally made with a brand of port called Clubland, hence this drink's name.<br /><br />
+  source: www.diffordsguide.com (2347)
+ingredients: 
+- - "1 1/2 "
+  - shot
+  - Ketel One vodka
+- - "1 1/2 "
+  - shot
+  - Taylor's Chip dry white port
+- - "1"
+  - dash
+  - Angostura aromatic bitters
+method: " STIR all ingredients with ice and fine strain into chilled glass."
+name: Clubland Cocktail
+rate: 4.0

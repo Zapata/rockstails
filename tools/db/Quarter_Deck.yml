@@ -1,0 +1,23 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Orange zest twist
+glass: Martini
+infos: 
+  Comment: Hints of prune, toffee and maple syrup. Very complex.
+  Origin: Long lost classic.
+  source: www.diffordsguide.com (1621)
+ingredients: 
+- - "2"
+  - shot
+  - Bacardi Superior rum
+- - "1"
+  - shot
+  - Pedro Ximnez sherry
+- - " 1/4 "
+  - shot
+  - Freshly squeezed lemon juice
+- - " 3/4 "
+  - shot
+  - Chilled mineral water
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+name: Quarter Deck
+rate: 4.0

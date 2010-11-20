@@ -1,0 +1,29 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Lime zest twist
+glass: Martini
+infos: 
+  Comment: A rust coloured drink with a delicately sour flavour.
+  Origin: I created and named this drink after the British Naval tradition of mixing lime juice with spirits in an attempt to prevent scurvy. This practice gained British sailors the nickname 'limeys'.
+  source: www.diffordsguide.com (1165)
+ingredients: 
+- - "2"
+  - shot
+  - Lime flavoured vodka
+- - " 1/2 "
+  - shot
+  - Freshly squeezed lime juice
+- - " 1/2 "
+  - shot
+  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- - " 1/8 "
+  - shot
+  - Rose's lime cordial
+- - "3"
+  - dash
+  - Angostura aromatic bitters
+- - " 1/2 "
+  - shot
+  - Chilled mineral water
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+name: Limey
+rate: 3.5

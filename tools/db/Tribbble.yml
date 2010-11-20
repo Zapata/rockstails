@@ -1,0 +1,20 @@
+--- !ruby/object:DirtyCocktail 
+garnish: 
+glass: Shot
+infos: 
+  Comment: "Named Tribbble with three 'B's' due to its three layers: butterscotch, banana and Baileys."
+  Origin: A drink created by  bartenders at TGI Friday's UK in 2002.
+  source: www.diffordsguide.com (1986)
+ingredients: 
+- - " 1/2 "
+  - shot
+  - Teichenn butterscotch schnapps
+- - " 1/2 "
+  - shot
+  - "Cr\xE8me de banane liqueur"
+- - " 1/2 "
+  - shot
+  - Baileys Irish cream liqueur
+method: Refrigerate ingredients then LAYER in chilled glass by carefully pouring in the following order.
+name: Tribbble
+rate: 4.0

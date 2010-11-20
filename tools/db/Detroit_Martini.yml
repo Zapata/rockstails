@@ -1,0 +1,24 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Float mint sprig
+glass: Martini
+infos: 
+  Comment: Vodka doused mint with the merest hint of lime. Clean and flavoursome.
+  Origin: Created by Dick Bradsell in the mid 90s and based on his Cowboy Hoof Martini.
+  Variant: Cowboy Hoof Martini
+  source: www.diffordsguide.com (636)
+ingredients: 
+- - "7"
+  - fresh
+  - Mint leaves
+- - "3"
+  - shot
+  - Ketel One vodka
+- - " 1/2 "
+  - shot
+  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- - " 1/8 "
+  - shot
+  - Freshly squeezed lime juice
+method: SHAKE all ingredients (including mint) with ice and fine strain into chilled glass.
+name: Detroit Martini
+rate: 4.0

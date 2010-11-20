@@ -1,0 +1,22 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Lime zest twist
+glass: Martini
+infos: 
+  Comment: If you like tequila and strong drinks - this is for you.
+  source: www.diffordsguide.com (1937)
+ingredients: 
+- - "2"
+  - shot
+  - Herradura 100% agave tequila
+- - "1"
+  - shot
+  - Noilly Prat dry vermouth
+- - " 1/2 "
+  - shot
+  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- - "3"
+  - dash
+  - Angostura aromatic bitters
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+name: Tequila'tini
+rate: 3.5

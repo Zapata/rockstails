@@ -1,0 +1,23 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Float basil leaf
+glass: Martini
+infos: 
+  Comment: Basil adds dry vegetable notes to this outstanding classic drink.
+  Origin: Formula by Yours Truly (Simon Difford) in 2005.
+  source: www.diffordsguide.com (176)
+ingredients: 
+- - "2"
+  - spoon
+  - Runny honey
+- - "2 1/2 "
+  - shot
+  - Bacardi Superior rum
+- - "3"
+  - fresh
+  - Torn basil leaves
+- - " 1/2 "
+  - shot
+  - Freshly squeezed lime juice
+method: STIR honey and rum in base of shaker until honey dissolves. Add other ingredients, SHAKE with ice and fine strain into chilled glass.
+name: Basil & Honey Daiquiri
+rate: 5.0

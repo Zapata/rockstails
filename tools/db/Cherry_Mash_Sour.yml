@@ -1,0 +1,23 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Lemon twist &amp; cherry
+glass: Old-fashioned
+infos: 
+  Comment: The rich flavour of Tennessee whiskey soured with lemon and sweetened with cherry liqueur.
+  Origin: Created by Dale DeGroff when Beverage Manager at the Rainbow Room Promenade Bar, New York City, USA.
+  source: www.diffordsguide.com (409)
+ingredients: 
+- - "2"
+  - shot
+  - Jack Daniels Tennessee whiskey
+- - " 1/2 "
+  - shot
+  - Heering cherry brandy liqueur
+- - " 3/4 "
+  - shot
+  - Freshly squeezed lemon juice
+- - " 1/2 "
+  - shot
+  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+method: SHAKE all ingredients with ice and strain into ice-filled glass.
+name: Cherry Mash Sour
+rate: 3.5

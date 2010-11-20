@@ -1,0 +1,23 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Orange zest twist
+glass: Martini
+infos: 
+  Comment: Approach with caution. Due diligence reveals a dangerous base of gin and absinthe.
+  Origin: Created in the late 1920's by Harry MacElhone at his Harry's New York Bar in Paris, France. The Monkey Gland takes its name from the work of Dr Serge Voronoff, who attempted to delay the ageing process by transplanting monkey testicles.
+  source: www.diffordsguide.com (1349)
+ingredients: 
+- - "2"
+  - shot
+  - Bombay London dry gin
+- - " 1/4 "
+  - shot
+  - "La F\xE9e Parisienne (68%) absinthe"
+- - "1 1/2 "
+  - shot
+  - Freshly squeezed orange juice
+- - " 1/4 "
+  - shot
+  - Pomegranate (grenadine) syrup
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+name: "Monkey Gland #1"
+rate: 4.0

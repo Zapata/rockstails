@@ -1,0 +1,23 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Lemon slice
+glass: Collins
+infos: 
+  Comment: A light, satisfying cooler.
+  Origin: Based on a recipe believed to date back to the 1950s.
+  source: www.diffordsguide.com (1993)
+ingredients: 
+- - "1"
+  - shot
+  - Bndictine D.O.M.
+- - "2"
+  - shot
+  - Sauvignon blanc wine
+- - "2"
+  - shot
+  - Freshly squeezed grapefruit juice
+- - " 1/2 "
+  - shot
+  - Freshly squeezed lemon juice
+method: SHAKE all ingredients with ice and strain into ice-fileld glass.
+name: Tropic
+rate: 4.5

@@ -1,0 +1,29 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Lemon &amp; ginger slice<br />
+glass: Martini
+infos: 
+  Comment: I set out to make an Aviation - but ginger cries out for cognac so I also ended up with this Sidecar twist.
+  Origin: Created in 2008 by Simon Difford, The Cabinet Room, London, England.<br />As a kid I was a Biggles reader and fan and I was working on a theme (see Biggles Aviation).
+  source: www.diffordsguide.com (2296)
+ingredients: 
+- - "2"
+  - shot
+  - Courvoisier V.S.O.P cognac
+- - " 1/2 "
+  - shot
+  - Domaine de Canton ginger liqueur
+- - " 1/2 "
+  - shot
+  - Freshly squeezed lemon juice
+- - " 1/4 "
+  - shot
+  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- - "1"
+  - dash
+  - Peychaud's aromatic bitters
+- - " 1/2 "
+  - shot
+  - Chilled mineral water
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+name: Biggles Sidecar
+rate: 4.5

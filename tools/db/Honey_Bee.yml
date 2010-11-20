@@ -1,0 +1,23 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Lemon zest twist
+glass: Martini
+infos: 
+  Comment: Honey balances lemon juice in this vodka cocktail.
+  Origin: Adapted from 1949 copy of Esquire's 'Handbook for Hosts'.
+  source: www.diffordsguide.com (962)
+ingredients: 
+- - "2"
+  - shot
+  - Bacardi Superior rum
+- - "3"
+  - spoon
+  - Runny honey
+- - " 1/2 "
+  - shot
+  - Freshly squeezed lemon juice
+- - " 3/4 "
+  - shot
+  - Chilled mineral water
+method: STIR honey with vodka in base of shaker until honey dissolves. Add other ingredients, SHAKE with ice and fine strain into chilled glass.
+name: Honey Bee
+rate: 4.0

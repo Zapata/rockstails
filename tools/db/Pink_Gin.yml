@@ -1,0 +1,20 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Lemon zest twist
+glass: Martini
+infos: 
+  Comment: Normally I'd advocate liberal use of bitters but this refined and subtle drink benefits from frugality.<br /><br />
+  Origin: Gin was a favourite of the Royal Navy - along with rum, which was served as a daily ration right up until the 70s. It was often mixed with healthy ingredients to make them more palatable. Pink gin was originally used against stomach upsets, as Angostura aromatic bitters were considered medicinal. Traditionally this drink was made in a bitters swashed glass without the use of ice.<br /><br />
+  source: www.diffordsguide.com (1544)
+ingredients: 
+- - "2"
+  - shot
+  - Bombay London dry gin
+- - "2"
+  - shot
+  - Chilled mineral water
+- - "1"
+  - dash
+  - Angostura aromatic bitters
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+name: Pink Gin
+rate: 4.0

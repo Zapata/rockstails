@@ -1,0 +1,30 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Orange zest twist &amp; maraschino cherry
+glass: Old-fashioned
+infos: 
+  Comment: This drink is often mixed in the glass in which it is to be served. Shaking better incorporates the flavours produced by muddling and fine straining removes the orange peel and cherry skin.<br /><br />
+  Origin: "In the US orange segments and sometimes even a maraschino cherry are regularly muddled in this drink: the practice probably originated during Prohibition as a means of disguising rough spirits. This practice is almost unknown in England and as Crosby Gaige wrote in 1944, \"Serious-minded persons omit fruit salad from Old Fashioneds.\"<br /><br />"
+  Variant: "Old Fashioned #1 (Classic Version)"
+  source: www.diffordsguide.com (1428)
+ingredients: 
+- - "2"
+  - whole
+  - Maraschino cherries & syrup
+- - "1"
+  - slice
+  - Fresh orange
+- - "2"
+  - shot
+  - Maker's Mark bourbon
+- - " 1/8 "
+  - shot
+  - Maraschino syrup (from cherry jar)
+- - " 1/4 "
+  - shot
+  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- - "2"
+  - dash
+  - Angostura aromatic bitters
+method: MUDDLE orange and cherries in base of shaker. Add other ingredients, SHAKE with ice and fine strain into ice-filled glass.
+name: "Old Fashioned #2 (US version)"
+rate: 4.5

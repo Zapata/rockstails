@@ -1,0 +1,32 @@
+--- !ruby/object:DirtyCocktail 
+garnish: " None"
+glass: Martini
+infos: 
+  Comment: |-
+    <span lang="EN-US" >Herbal
+    liqueurs heavily influence this Daiquiri twist.</span>
+  Origin: " <span lang=\"EN-US\" >Created\r\n\
+    in 2008 by Lewis Jaffrey, Drambuie's Global Brand Ambassador and according to\r\n\
+    Lewis it is so named due to the ingredients having a combined age over 650\r\n\
+    years.</span>"
+  source: www.diffordsguide.com (2247)
+ingredients: 
+- - "1"
+  - shot
+  - Bacardi Superior rum
+- - " 1/2 "
+  - shot
+  - Drambuie
+- - " 1/2 "
+  - shot
+  - Chartreuse Green liqueur
+- - " 3/4 "
+  - shot
+  - Freshly squeezed lime juice
+- - " 1/4 "
+  - shot
+  - Monin Vanilla sugar syrup
+method: " <span ;mso-bidi-font-family:georgia;=\"\" lang=\"EN-US\" mso-ansi-language:en-us;mso-fareast-language:en-us;mso-bidi-language:en-us=\"\" new=\"\" roman=\"\"  times=\"\">SHAKE\r\n\
+  all ingredients with ice and fine strain into chilled glass."
+name: "The Ancient Daiquir "
+rate: 3.0

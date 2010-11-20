@@ -1,0 +1,23 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Mint sprig
+glass: Collins
+infos: 
+  Comment: Basically a Margarita lengthened with cranberry juice.
+  Origin: Adapted from a drink created by Victor Bergeron (Trader Vic).
+  source: www.diffordsguide.com (1389)
+ingredients: 
+- - "2"
+  - shot
+  - Herradura 100% agave tequila
+- - "2"
+  - shot
+  - Ocean Spray cranberry juice
+- - "1"
+  - shot
+  - Freshly squeezed lime juice
+- - " 1/2 "
+  - shot
+  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+method: SHAKE all ingredients with ice and strain into ice-filled glass. Serve with straws.
+name: Nautilus
+rate: 4.5

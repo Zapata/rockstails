@@ -1,0 +1,22 @@
+--- !ruby/object:DirtyCocktail 
+garnish: " Maraschino cherry on stick<br />"
+glass: Coupette
+infos: 
+  Comment: One of the Manhattan variations named after New York's many neighbourhoods.
+  source: www.diffordsguide.com (2785)
+ingredients: 
+- - "1 1/2 "
+  - shot
+  - Rye whiskey
+- - " 1/2 "
+  - shot
+  - Noilly Prat dry vermouth
+- - " 1/4 "
+  - shot
+  - Amer Picon
+- - " 1/4 "
+  - shot
+  - Luxardo maraschino liqueur
+method: " STIR all ingredients with ice and strain into chilled glass.<br />"
+name: Brooklyn Cocktail
+rate: 4.5

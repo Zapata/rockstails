@@ -1,0 +1,37 @@
+--- !ruby/object:DirtyCocktail 
+garnish: " <span ;mso-bidi-font-family:georgia;=\"\" lang=\"EN-US\" mso-ansi-language:en-us;mso-fareast-language:en-us;mso-bidi-language:en-us=\"\" new=\"\" roman=\"\"  times=\"\">Lemon\r\n\
+  zest twist (discarded) and cherry</span>"
+glass: Martini
+infos: 
+  AKA: Golden Glow
+  Comment: |-
+    <p class="MsoNormal" ><span lang="EN-US" >Serious and packed with bold
+    flavours. Fellow Chartreuse fans will approve.<o:p /></span></p>
+  Origin: " <span ;mso-bidi-font-family:georgia;=\"\" lang=\"EN-US\" mso-ansi-language:en-us;mso-fareast-language:en-us;mso-bidi-language:en-us=\"\" new=\"\" roman=\"\"  times=\"\">This\r\n\
+    vintage cocktail originated from a layered or 'pousse-caf' style drink called\r\n\
+    a Bijou. This original drink was so named after the French word meaning 'jewel'\r\n\
+    due to its trio of ingredients being coloured after the three most precious\r\n\
+    jewels: diamond (gin), ruby (sweet vermouth) and emerald (Green Chartreuse).\r\n\
+    Shaken rather than layered and the colours combine to make this aptly named\r\n\
+    amber coloured drink.</span>"
+  source: www.diffordsguide.com (2243)
+ingredients: 
+- - "1 1/2 "
+  - shot
+  - Bombay London dry gin
+- - " 1/2 "
+  - shot
+  - Chartreuse Green liqueur
+- - " 1/2 "
+  - shot
+  - Martini Rosso sweet vermouth
+- - "2"
+  - dash
+  - Angostura orange bitters
+- - " 1/2 "
+  - shot
+  - Chilled mineral water
+method: " <span ;mso-bidi-font-family:georgia;=\"\" lang=\"EN-US\" mso-ansi-language:en-us;mso-fareast-language:en-us;mso-bidi-language:en-us=\"\" new=\"\" roman=\"\"  times=\"\">SHAKE\r\n\
+  all ingredients with ice and fine strain into chilled glass."
+name: "Amber Room  #1"
+rate: 4.5

@@ -1,0 +1,23 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Orange zest twist
+glass: Martini
+infos: 
+  Comment: Fino adds a nutty saltiness to this very wet, aromatic Martini.
+  Origin: <br />
+  source: www.diffordsguide.com (2004)
+ingredients: 
+- - "1 1/2 "
+  - shot
+  - Bombay London dry gin
+- - "1 1/2 "
+  - shot
+  - Noilly Prat dry vermouth
+- - " 1/2 "
+  - shot
+  - Tio Pepe fino sherry
+- - "1"
+  - dash
+  - Angostura orange bitters
+method: STIR all ingredients with ice and fine strain into chilled glass.
+name: Tuxedo Martini
+rate: 4.5

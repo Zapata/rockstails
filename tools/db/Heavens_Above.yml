@@ -1,0 +1,23 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Pineapple wedge on rim
+glass: Collins
+infos: 
+  Comment: Slightly sweet, fruity rum - hard not to like.
+  Origin: A Tiki style drink adapted from a drink featured in Jeff Berry's 'Intoxica' and originally created circa 1970 at Top of Toronto, CN Tower, Toronto, Canada.
+  source: www.diffordsguide.com (951)
+ingredients: 
+- - "2"
+  - shot
+  - Bacardi Superior rum
+- - " 1/4 "
+  - shot
+  - "Brown cr\xE8me de cacao liqueur"
+- - " 1/4 "
+  - shot
+  - Kahla coffee liqueur
+- - "3"
+  - shot
+  - Fresh pressed pineapple juice
+method: SHAKE all ingredients with ice and strain into glass filled with crushed ice.
+name: Heavens Above
+rate: 3.5

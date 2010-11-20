@@ -1,0 +1,20 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Lemon zest twist<br />
+glass: Martini
+infos: 
+  Comment: Many bartenders advocate that a Martini should be stirred and not shaken, some citing the ridiculous argument that shaking will "bruise the gin". If you like your Martinis shaken (as I do) then avoid the possible look of distaste from your server and order a Vesper. This Martini is always shaken, an action that aerates the drink, and makes it colder and more dilute than simply stirring. It also gives the drink a slightly clouded appearance and can leave small shards of ice on the surface of the drink. This is easily prevented by the use of a fine strainer when pouring.<br /><br />
+  Origin: "This variation on the Dry Martini is said to have been created by Gilberto Preti at Duke's Hotel, London, for the author Ian Fleming. He liked it so much that he included it in his first James Bond novel, Casino Royale, published in 1951.<br />        <br />In chapter seven Bond explains to a Casino bartender exactly how to make and serve the drink: \"In a deep champagne goblet. Three measures of Gordon's, one of vodka, half a measure of Kina Lillet [now called Lillet Blanc]. Shake it very well until it's ice-cold, then add a large slice of lemon peel.\"<br />        <br />When made, 007 compliments the bartender, but tells him it would be better made with a grain-based vodka. He also explains his Martini to Felix Leiter, the CIA man, saying, &quot;This drink's my own invention. I'm going to patent it when I can think of a good name.&quot;<br />        <br />In chapter eight, Bond meets the beautiful agent Vesper Lynd. She explains why her parents named her Vesper and Bond asks if she'd mind if he called his favourite Martini after her. Like so many of Bond's love interests Vesper turns out to be a double agent and the book closes with his words, \"The bitch is dead now.\"<br /><br />"
+  source: www.diffordsguide.com (2597)
+ingredients: 
+- - "3"
+  - shot
+  - Bombay London dry gin
+- - "1"
+  - shot
+  - Ketel One vodka
+- - " 1/2 "
+  - shot
+  - Lillet Blanc
+method: SHAKE all ingredients with ice and fine strain into chilled glass.<br /><br />
+name: Vesper Martini
+rate: 5.0

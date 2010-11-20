@@ -1,0 +1,22 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Lemon zest (discarded) &amp; blueberries on stick
+glass: Martini
+infos: 
+  Comment: Rich blueberry fruit fortified with grainy vodka. Not too sweet.
+  source: www.diffordsguide.com (275)
+ingredients: 
+- - "20"
+  - fresh
+  - Blueberries
+- - "2"
+  - shot
+  - Ketel One vodka
+- - " 1/4 "
+  - shot
+  - "Cr\xE8me de myrtille liqueur"
+- - " 1/8 "
+  - shot
+  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+method: MUDDLE blueberries in base of shaker. Add other ingredients, SHAKE with ice and fine strain into chilled glass.
+name: "Blueberry Martini #1"
+rate: 3.5

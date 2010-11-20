@@ -1,0 +1,23 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Orange zest twist
+glass: Old-fashioned
+infos: 
+  Comment: Herbal bananas and cognac. Be warned, the subtle sweetness conceals its strength.
+  Origin: Adapted from a drink discovered in 2006 at English Bar, Regina Hotel, Paris, France.
+  source: www.diffordsguide.com (2717)
+ingredients: 
+- - "2"
+  - shot
+  - Courvoisier V.S.O.P cognac
+- - " 3/4 "
+  - shot
+  - Chartreuse Yellow liqueur
+- - " 3/4 "
+  - shot
+  - "Cr\xE8me de banane liqueur"
+- - "1"
+  - dash
+  - Angostura orange bitters
+method: STIR all ingredients with ice and strain into ice-filled glass.
+name: Nathalia
+rate: 3.5

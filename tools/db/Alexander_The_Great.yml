@@ -1,0 +1,25 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Dust with freshly grated nutmeg
+glass: Martini
+infos: 
+  Comment: A tasty combination of coffee, chocolate and cream, laced with vodka.
+  source: www.diffordsguide.com (36)
+ingredients: 
+- - "1 1/2 "
+  - shot
+  - Ketel One vodka
+- - " 1/2 "
+  - shot
+  - Kahla coffee liqueur
+- - " 1/2 "
+  - shot
+  - "White cr\xE8me de cacao liqueur"
+- - " 3/4 "
+  - shot
+  - Double (heavy) cream
+- - " 3/4 "
+  - shot
+  - Milk
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+name: Alexander The Great
+rate: 3.5

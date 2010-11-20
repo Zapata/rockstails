@@ -1,0 +1,26 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Apple slice
+glass: Collins
+infos: 
+  Comment: A long version of the popular Sour Apple Martini.
+  Origin: Created by Wayne Collins, London, England.
+  source: www.diffordsguide.com (2066)
+ingredients: 
+- - "2"
+  - shot
+  - Ketel One vodka
+- - " 1/2 "
+  - shot
+  - Sour apple liqueur
+- - "3"
+  - shot
+  - Pressed apple juice
+- - " 1/4 "
+  - shot
+  - Freshly squeezed lime juice
+- - " 1/4 "
+  - shot
+  - Pomegranate (grenadine) syrup
+method: SHAKE first 4 ingredients with ice and fine strain into ice-filled glass. DRIZZLE grenadine over drink. Serve with straws.
+name: Washington Apple
+rate: 4.5

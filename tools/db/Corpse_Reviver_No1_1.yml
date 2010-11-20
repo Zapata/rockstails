@@ -1,0 +1,23 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Orange zest twist
+glass: Martini
+infos: 
+  Comment: Dry and potent. A 'pick-me-up' hangover cure - or possibly put-you-right-back-down-again!
+  Origin: Created by Frank Meier, Ritz Bar, Paris, France. This recipe was adapted from Harry Craddock's 1930 'The Savoy Cocktail Book', where he writes, &quot;To be taken before 11am, or whenever steam or energy are needed.&quot;
+  source: www.diffordsguide.com (471)
+ingredients: 
+- - "1 1/2 "
+  - shot
+  - Courvoisier V.S.O.P cognac
+- - " 3/4 "
+  - shot
+  - Boulard Grand Solage calvados
+- - " 3/4 "
+  - shot
+  - Martini Rosso sweet vermouth
+- - " 1/2 "
+  - shot
+  - Chilled mineral water
+method: STIR ingredients with ice and strain into chilled glass.
+name: "Corpse Reviver No.1 #1"
+rate: 3.5

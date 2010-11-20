@@ -1,0 +1,20 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Cherries
+glass: Collins
+infos: 
+  Comment: A punch-like long drink.
+  Origin: Popular in the French Alpine ski resorts.
+  source: www.diffordsguide.com (373)
+ingredients: 
+- - "3"
+  - shot
+  - Shiraz red wine
+- - " 1/2 "
+  - shot
+  - Grand Marnier liqueur
+- - "1"
+  - top up with
+  - Coca-cola
+method: POUR ingredients into ice-filled glass. Stir and serve with straws.
+name: Caravan
+rate: 3.0

@@ -1,0 +1,20 @@
+--- !ruby/object:DirtyCocktail 
+garnish: 
+glass: Shot
+infos: 
+  Comment: The Scandinavian answer to Irish coffee.
+  Origin: A huge drink in Scandinavia during the early 90s.
+  source: www.diffordsguide.com (986)
+ingredients: 
+- - " 3/4 "
+  - shot
+  - Galliano L'Autentico liqueur
+- - " 3/4 "
+  - shot
+  - Hot espresso coffee
+- - " 1/2 "
+  - shot
+  - Double (heavy) cream
+method: LAYER by carefully pouring ingredients in the following order.
+name: Hot Shot
+rate: 3.0

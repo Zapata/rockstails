@@ -1,0 +1,29 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Lemon zest twist<br />
+glass: Martini
+infos: 
+  Comment: This zesty, silky smooth and easy drink is laced with light rum.
+  Origin: Created in 2008 by James Tait, UK.
+  source: www.diffordsguide.com (2382)
+ingredients: 
+- - "1 1/2 "
+  - shot
+  - Bacardi Superior rum
+- - " 1/2 "
+  - shot
+  - St-Germain elderflower liqueur
+- - " 1/2 "
+  - shot
+  - Noilly Prat dry vermouth
+- - " 1/4 "
+  - shot
+  - Freshly squeezed lemon juice
+- - " 1/4 "
+  - shot
+  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- - " 1/2 "
+  - fresh
+  - Egg white
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+name: Don Daisy
+rate: 4.5

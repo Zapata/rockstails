@@ -1,0 +1,23 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Maraschino cherry<br />
+glass: Martini
+infos: 
+  Comment: A wet Martini with balanced hints of maraschino and absinthe.
+  Origin: Adapted from a recipe in the 1930 Savoy Cocktail Book by Harry Craddock.
+  source: www.diffordsguide.com (1371)
+ingredients: 
+- - "1 1/2 "
+  - shot
+  - Bombay London dry gin
+- - " 1/2 "
+  - shot
+  - Luxardo maraschino liqueur
+- - "1"
+  - shot
+  - Noilly Prat dry vermouth
+- - " 1/8 "
+  - shot
+  - "La F\xE9e Parisienne (68%) absinthe"
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+name: Moonshine Martini
+rate: 4.5

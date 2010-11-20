@@ -1,0 +1,22 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Peach wedge
+glass: Martini
+infos: 
+  Comment: Peachy, peachy, peachy! Based on the Bellini, funnily enough.
+  source: www.diffordsguide.com (203)
+ingredients: 
+- - "2"
+  - shot
+  - Ketel One vodka
+- - " 1/2 "
+  - shot
+  - Peach Tree peach schnapps
+- - "2"
+  - shot
+  - Boiron peach pure
+- - "3"
+  - dash
+  - Peach bitters
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+name: Bellini-Tini
+rate: 4.0

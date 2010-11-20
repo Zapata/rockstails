@@ -1,0 +1,26 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Dust with cocoa powder
+glass: Martini
+infos: 
+  Comment: Dessert by name and dessert by nature. Wonderfully moreish, naughty but very nice.
+  Origin: Created in 2002 at Hush, London, England.
+  source: www.diffordsguide.com (228)
+ingredients: 
+- - "2"
+  - shot
+  - Ketel One vodka
+- - " 3/4 "
+  - shot
+  - Chambord
+- - " 3/4 "
+  - shot
+  - "Cr\xE8me de fraise du bois liqueur"
+- - " 1/4 "
+  - shot
+  - "Cr\xE8me de cassis liqueur"
+- - "1"
+  - shot
+  - Double (heavy) cream
+method: SHAKE first 4 ingredients with ice and strain into chilled glass. FLOAT cream on drink.
+name: Black Forest Gateau Martini
+rate: 4.5

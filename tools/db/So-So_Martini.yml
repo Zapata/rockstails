@@ -1,0 +1,23 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Float wafer thin apple slice.
+glass: Martini
+infos: 
+  Comment: This beautifully balanced, appley drink is so much more than so-so.
+  Origin: Adapted from a recipe in Harry Craddock's 1930 Savoy Cocktail Book. Harry McElhone's 1929 'ABC of Cocktails' credits this drink to "Mr P. Soso, the popular manager of Kit-Kat Club, London."<br /><br />
+  source: www.diffordsguide.com (1794)
+ingredients: 
+- - "1"
+  - shot
+  - Bombay London dry gin
+- - "1"
+  - shot
+  - Noilly Prat dry vermouth
+- - " 1/2 "
+  - shot
+  - Boulard Grand Solage calvados
+- - " 1/2 "
+  - shot
+  - Pomegranate (grenadine) syrup
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+name: So-So Martini
+rate: 4.0

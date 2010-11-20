@@ -1,0 +1,23 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Lemon zest twist
+glass: Martini
+infos: 
+  Comment: Tangy, rich cherry and hints of vanilla fortified with brandy.
+  Origin: Adapted from a recipe in Harry Craddock's 1930 Savoy Cocktail Book.
+  source: www.diffordsguide.com (2025)
+ingredients: 
+- - "2 1/4 "
+  - shot
+  - Courvoisier V.S.O.P cognac
+- - " 3/4 "
+  - shot
+  - Heering cherry brandy liqueur
+- - " 1/8 "
+  - shot
+  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- - "2"
+  - dash
+  - Angostura aromatic bitters
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+name: Vanderbilt
+rate: 4.5

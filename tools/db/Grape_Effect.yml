@@ -1,0 +1,19 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Grapes on stick
+glass: Martini
+infos: 
+  Comment: Delicately flavoured and heavily laced with rum.
+  source: www.diffordsguide.com (897)
+ingredients: 
+- - "12"
+  - fresh
+  - Seedless white grapes
+- - "2"
+  - shot
+  - Bacardi Superior rum
+- - "1"
+  - shot
+  - St-Germain elderflower liqueur
+method: MUDDLE grapes in base of shaker. Add other ingredients, SHAKE with ice and fine strain into chilled glass.
+name: Grape Effect
+rate: 4.0

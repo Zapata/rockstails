@@ -1,0 +1,20 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Orange zest twist
+glass: Martini
+infos: 
+  Comment: In Craddock's word, &quot;Brandy gives you courage and K"ummel makes you cautious, thus giving you the perfect mixture of bravery and caution, with the bravery predominating.&quot;
+  Origin: Adapted from a recipe in the 1930 Savoy Cocktail Book by Harry Craddock.
+  source: www.diffordsguide.com (1625)
+ingredients: 
+- - "2"
+  - shot
+  - Courvoisier V.S.O.P cognac
+- - " 1/2 "
+  - shot
+  - Kummel
+- - " 3/4 "
+  - shot
+  - Chilled mineral water
+method: STIR all ingredients with ice and fine strain into chilled glass.
+name: Quelle Vie
+rate: 3.5

@@ -1,0 +1,16 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Berries
+glass: Flute
+infos: 
+  Comment: A pleasant blend of fruit and champagne to rival the Kir Royale.
+  source: www.diffordsguide.com (2149)
+ingredients: 
+- - " 1/2 "
+  - shot
+  - Chambord
+- - "1"
+  - top up with
+  - Perrier Jouet brut champagne
+method: POUR liqueur into chilled glass and TOP with champagne.
+name: Cham Cham
+rate: 3.5

@@ -1,0 +1,23 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Lemon zest twist
+glass: Martini
+infos: 
+  Comment: One of London's contemporary classics. Far from a proper Martini, this is fruity and sweet, but not overly so.
+  Origin: Created in 1997 by Giovanni Burdi at Match EC1, London, England.
+  source: www.diffordsguide.com (1338)
+ingredients: 
+- - "2"
+  - shot
+  - Zubrwka bison vodka
+- - "1"
+  - shot
+  - Pressed apple juice
+- - " 1/4 "
+  - shot
+  - Peach Tree peach schnapps
+- - " 1/4 "
+  - shot
+  - Passion fruit syrup
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+name: Mitch Martini
+rate: 4.0

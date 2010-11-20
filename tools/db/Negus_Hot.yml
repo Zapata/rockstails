@@ -1,0 +1,24 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Dust with freshly ground nutmeg.
+glass: Toddy
+infos: 
+  Comment: A tangy, citrussy hot drink.
+  Origin: Colonel Francis Negus was the MP for Ipswich from 1717 to 1732. He created this diluted version of the original Bishop.
+  Variant: Bishop
+  source: www.diffordsguide.com (1393)
+ingredients: 
+- - "3"
+  - shot
+  - Warre's Otima tawny port
+- - "1"
+  - shot
+  - Freshly squeezed lemon juice
+- - " 1/2 "
+  - shot
+  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- - "1"
+  - top up with
+  - Boiling water
+method: Place bar spoon in warmed glass. POUR all ingredients into glass and STIR.
+name: Negus (Hot)
+rate: 4.0

@@ -1,0 +1,20 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Flamed orange zest twist
+glass: Martini
+infos: 
+  Comment: String, rich and chocolatey.
+  Origin: Adapted from a drink created in 2002 by Dick Bradsell at Downstairs at Alfred's, London, England.
+  source: www.diffordsguide.com (968)
+ingredients: 
+- - "1 1/4 "
+  - shot
+  - Bacardi Superior rum
+- - "1 1/4 "
+  - shot
+  - Tuaca liqueur
+- - "1 1/4 "
+  - shot
+  - "Brown cr\xE8me de cacao liqueur"
+method: STIR all ingredients with ice and strain into chilled glass.
+name: Honey Wall
+rate: 4.0

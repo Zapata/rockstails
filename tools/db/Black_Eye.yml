@@ -1,0 +1,29 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Berries &amp; mint sprig<br />
+glass: Old-fashioned
+infos: 
+  Comment: A fruity Rusty Nail variation.
+  Origin: Created in 2008 by Simon Lamont at Jardine, Cape Town, South Africa.
+  source: www.diffordsguide.com (2301)
+ingredients: 
+- - "2"
+  - fresh
+  - Blackberries
+- - "5"
+  - fresh
+  - Raspberries
+- - "5"
+  - fresh
+  - Mint leaves
+- - "2"
+  - shot
+  - Jameson Irish whiskey
+- - " 3/4 "
+  - shot
+  - Drambuie
+- - " 1/4 "
+  - shot
+  - "Cr\xE8me de cassis liqueur"
+method: MUDDLE first 3 ingredients in base of shaker. Add other ingredients, SHAKE with ice and strain into ice-filled glass.
+name: Black Eye
+rate: 3.5

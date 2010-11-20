@@ -1,0 +1,26 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Dust with freshly ground nutmeg.
+glass: Martini
+infos: 
+  Comment: As custardy as the name would suggest but surprisingly potent.
+  Origin: Created in 2002 by Alex Kammerling, London, England.
+  source: www.diffordsguide.com (696)
+ingredients: 
+- - "1 1/2 "
+  - shot
+  - Ketel One vodka
+- - "1"
+  - shot
+  - Bols advocaat liqueur
+- - " 1/2 "
+  - shot
+  - Vanilla-infused Ketel One vodka
+- - " 1/2 "
+  - shot
+  - Maker's Mark bourbon
+- - " 1/4 "
+  - shot
+  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+name: Egg Custard Martini
+rate: 3.5

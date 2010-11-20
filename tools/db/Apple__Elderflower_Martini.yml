@@ -1,0 +1,20 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Float wafer thin apple slice
+glass: Martini
+infos: 
+  Comment: Light and easy - apple and elderflower laced with vodka.
+  Origin: Created in 2006 by yours truly.
+  source: www.diffordsguide.com (525)
+ingredients: 
+- - "1 3/4 "
+  - shot
+  - Ketel One vodka
+- - "1"
+  - shot
+  - St-Germain elderflower liqueur
+- - "1 1/4 "
+  - shot
+  - Pressed apple juice
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+name: Apple & Elderflower Martini
+rate: 4.0

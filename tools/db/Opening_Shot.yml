@@ -1,0 +1,20 @@
+--- !ruby/object:DirtyCocktail 
+garnish: 
+glass: Shot
+infos: 
+  Comment: Basically a miserly Sweet Manhattan.
+  source: www.diffordsguide.com (1436)
+  Variant: Double the quantities and strain into a Martini glass and you have the 1920s classic I based this drink on.
+ingredients: 
+- - "1"
+  - shot
+  - Maker's Mark bourbon
+- - " 1/2 "
+  - shot
+  - Martini Rosso sweet vermouth
+- - " 1/8 "
+  - shot
+  - Pomegranate (grenadine) syrup
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+name: Opening Shot
+rate: 3.5

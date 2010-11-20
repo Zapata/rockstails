@@ -1,0 +1,26 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Lemon slice
+glass: Collins
+infos: 
+  Comment: Light and refreshing - akin to alcoholic real lemonade.
+  Origin: "This is a version of the drink for which Limmer's Hotel in London was most famed: a Captain Gronow recalled it in his 1860s memoirs as one of the top, if filthy and seedy, sporting hangouts of 1814, thanks in part to its 'famous gin-punch'. A bartender named John Collins worked there later in the 19th century, and was famous enough to inspire a limerick, so many believe he created the Collins, which is similar to gin punch, although the drink is not named in the rhyme which goes as follows:<br />My name is John Collins,<br />  head waiter at Limmer's,<br />Corner of Conduit Street,<br />  Hanover Square,<br />My chief occupation is filling<br />  brimmers<br />For all the young gentlemen<br />  frequenters there.<br /><br />"
+  source: www.diffordsguide.com (2174)
+ingredients: 
+- - "2"
+  - shot
+  - Bombay London dry gin
+- - " 3/4 "
+  - shot
+  - Freshly squeezed lemon juice
+- - " 3/4 "
+  - shot
+  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- - "2"
+  - shot
+  - Chilled mineral water
+- - "1"
+  - dash
+  - Angostura aromatic bitters
+method: SHAKE all ingredients with ice and stain into ice-filled glass.
+name: "Gin Punch  #1"
+rate: 4.5

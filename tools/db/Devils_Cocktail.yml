@@ -1,0 +1,20 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Lemon zest twist
+glass: Martini
+infos: 
+  Comment: Lemon predominates with the richness of port fighting to be heard.
+  Origin: Vintage cocktail of unknown origin.
+  source: www.diffordsguide.com (2375)
+ingredients: 
+- - "2"
+  - shot
+  - Warre's Otima tawny port
+- - "1 1/2 "
+  - shot
+  - Noilly Prat dry vermouth
+- - " 1/4 "
+  - shot
+  - Freshly squeezed lemon juice
+method: SHAKE all ingredients with ice and fine strain into a chilled glass.
+name: Devil's Cocktail
+rate: 3.5

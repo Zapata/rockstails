@@ -1,0 +1,33 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Lemon zest twist
+glass: Martini
+infos: 
+  Comment: A Sidecar with extra interest courtesy of Chartreuse, pineapple and Calvados.<br /><br />
+  Origin: Adapted from a drink created by Audrey Saunders at Bemelmans Bar at The Carlyle Hotel, New York City, USA.
+  source: www.diffordsguide.com (1918)
+  Variant: Omit calvados and replace with an extra half shot cognac. An adaptation demonstrated by Audrey at a Cognac Summit on 22 January 2008.<br /><br />
+ingredients: 
+- - "1"
+  - shot
+  - Courvoisier V.S.O.P cognac
+- - " 1/2 "
+  - shot
+  - Boulard Grand Solage calvados
+- - " 1/2 "
+  - shot
+  - Cointreau triple sec
+- - " 1/4 "
+  - shot
+  - Chartreuse Green liqueur
+- - " 1/4 "
+  - shot
+  - Fresh pressed pineapple juice
+- - " 1/2 "
+  - shot
+  - Freshly squeezed lemon juice
+- - " 1/4 "
+  - shot
+  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+name: Tantris Sidecar No.1
+rate: 4.0

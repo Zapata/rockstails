@@ -1,0 +1,26 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Lemon zest twist
+glass: Martini
+infos: 
+  Comment: Sharp but fresh tasting and moreish.
+  Origin: Adapted from a drink created by Willy Shine and Aisha Sharpe at Bed Bar, New York City, USA,
+  source: www.diffordsguide.com (2076)
+ingredients: 
+- - "1 1/2 "
+  - shot
+  - Bombay London dry gin
+- - " 1/2 "
+  - shot
+  - Bols apricot brandy liqueur
+- - "1"
+  - shot
+  - St-Germain elderflower liqueur
+- - "1"
+  - shot
+  - Pressed apple juice
+- - " 3/4 "
+  - shot
+  - Freshly squeezed lemon juice
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+name: The Wet Spot
+rate: 4.0

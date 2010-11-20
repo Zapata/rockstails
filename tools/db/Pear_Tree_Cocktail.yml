@@ -1,0 +1,19 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Pear wedge on rim<br />
+glass: Martini
+infos: 
+  Comment: Aromatic pear vodka and elderflower liqueur paired with biscuity champagne.
+  source: www.diffordsguide.com (2727)
+ingredients: 
+- - "1 1/2 "
+  - shot
+  - Pear flavoured vodka
+- - "1 1/2 "
+  - shot
+  - St-Germain elderflower liqueur
+- - "1"
+  - top up with
+  - Perrier Jouet brut champagne
+method: SHAKE first 2 ingredients with ice and fine strain into chilled glass. TOP with champagne.
+name: Pear Tree Cocktail
+rate: 4.5

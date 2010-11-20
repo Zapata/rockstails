@@ -1,0 +1,19 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Sugar coated slice of lemon
+glass: Shot
+infos: 
+  Comment: Lemon and orange combine to make a fresh tasting citrus shot.
+  source: www.diffordsguide.com (1143)
+ingredients: 
+- - " 1/2 "
+  - shot
+  - Ketel One vodka
+- - " 1/2 "
+  - shot
+  - Cointreau triple sec
+- - " 1/2 "
+  - shot
+  - Freshly squeezed lemon juice
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+name: Lemon Drop
+rate: 3.5

@@ -1,0 +1,21 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Orange zest twist
+glass: Martini
+infos: 
+  Comment: Crole Shrubb is an unusual liqueur made my infusing orange peel in casks of mature Martinique rum.
+  Origin: I conceived this drink in 1998, after visiting the company which was then importing Crole Shrubb. I took a bottle to London's Met Bar and Ben Reed made me my first Orange Daiquiri.
+  Variant: Derby Daiquiri
+  source: www.diffordsguide.com (1444)
+ingredients: 
+- - "2"
+  - shot
+  - Clment Creole Shrubb liqueur
+- - " 1/2 "
+  - shot
+  - Freshly squeezed lime juice
+- - " 3/4 "
+  - shot
+  - Chilled mineral water
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+name: "Orange Daiquiri #2"
+rate: 4.5

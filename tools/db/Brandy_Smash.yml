@@ -1,0 +1,20 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Mint sprig
+glass: Old-fashioned
+infos: 
+  Comment: Sweetened cognac flavoured with mint. Simple but beautiful.
+  Origin: A classic from the 1850s.
+  source: www.diffordsguide.com (315)
+ingredients: 
+- - "7"
+  - fresh
+  - Mint leaves
+- - "2"
+  - shot
+  - Courvoisier V.S.O.P cognac
+- - " 1/4 "
+  - shot
+  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+method: Lightly MUDDLE mint in base of shaker just enough to bruise. Add other ingredients, SHAKE with ice and fine strain into ice-filled glass.
+name: Brandy Smash
+rate: 4.0

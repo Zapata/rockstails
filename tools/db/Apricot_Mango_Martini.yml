@@ -1,0 +1,26 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Mango slice
+glass: Martini
+infos: 
+  Comment: A simple, great tasting variation on the fresh fruit Martini.
+  Variant: Use one-and-a-half shots of mango pure in place of fresh mango and halve amount of sugar syrup.
+  source: www.diffordsguide.com (101)
+ingredients: 
+- - "1"
+  - cupful
+  - Fresh diced mango
+- - "2"
+  - shot
+  - Bombay London dry gin
+- - "1"
+  - shot
+  - Bols apricot brandy liqueur
+- - " 3/4 "
+  - shot
+  - Freshly squeezed lemon juice
+- - " 1/2 "
+  - shot
+  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+method: MUDDLE mango in base of shaker. Add other ingredients, SHAKE with ice and fine strain into glass.
+name: Apricot Mango Martini
+rate: 4.0

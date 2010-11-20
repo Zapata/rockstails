@@ -1,0 +1,23 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Three raspberries on stick
+glass: Martini
+infos: 
+  Comment: Great raspberry flavour integrated with gin.
+  Origin: Created in 1997 by Dick Bradsell, London, England.
+  source: www.diffordsguide.com (1636)
+ingredients: 
+- - "7"
+  - fresh
+  - Raspberries
+- - "2"
+  - shot
+  - Bombay London dry gin
+- - "1"
+  - shot
+  - "Cr\xE8me de framboise liqueur"
+- - "2"
+  - dash
+  - Angostura orange bitters
+method: MUDDLE raspberries in base of shaker. Add other ingredients, SHAKE with ice and fine strain into chilled glass.
+name: "Raspberry Martini #2"
+rate: 4.0

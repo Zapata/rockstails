@@ -1,0 +1,31 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Apricot slice
+glass: Martini
+infos: 
+  Comment: |-
+    The apricot preserve adds a flavoursome tang to the contemporary
+    classic.
+  Origin: Created in 2004 at Aura Kitchen &amp; Bar, London, England.
+  source: www.diffordsguide.com (98)
+ingredients: 
+- - "2"
+  - shot
+  - Ketel One vodka
+- - "1"
+  - spoon
+  - Apricot jam (preserve)
+- - "1"
+  - shot
+  - Ocean Spray cranberry juice
+- - " 1/4 "
+  - shot
+  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- - " 1/2 "
+  - shot
+  - Freshly squeezed lime juice
+- - "2"
+  - dash
+  - Angostura orange bitters
+method: STIR apricot preserve with vodka until preserve dissolves. Add other ingredients, SHAKE with ice and fine strain into chilled glass.
+name: Apricot Cosmo
+rate: 4.5

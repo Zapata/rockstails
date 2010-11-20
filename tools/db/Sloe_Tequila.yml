@@ -1,0 +1,19 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Lime wedge
+glass: Old-fashioned
+infos: 
+  Comment: Berry fruit and tequila with a surprisingly tart, bitter finish.
+  source: www.diffordsguide.com (1781)
+ingredients: 
+- - "1"
+  - shot
+  - Sloe Gin liqueur
+- - "1"
+  - shot
+  - Herradura 100% agave tequila
+- - "1"
+  - shot
+  - Rose's lime cordial
+method: SHAKE all ingredients with ice and strain into ice-filled glass.
+name: Sloe Tequila
+rate: 3.5

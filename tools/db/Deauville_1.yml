@@ -1,0 +1,30 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Lemon zest twist
+glass: Martini
+infos: 
+  Comment: A well-balanced appley twist on the classic Sidecar.
+  Origin: A classic drink of unknown origin.
+  source: www.diffordsguide.com (624)
+  Variant: Apple Cart, Calvados Sidecar.
+ingredients: 
+- - "1"
+  - shot
+  - Boulard Grand Solage calvados
+- - "1"
+  - shot
+  - Courvoisier V.S.O.P cognac
+- - " 3/4 "
+  - shot
+  - Cointreau triple sec
+- - " 1/2 "
+  - shot
+  - Freshly squeezed lemon juice
+- - " 1/8 "
+  - shot
+  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- - " 1/2 "
+  - shot
+  - Chilled mineral water
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+name: "Deauville #1"
+rate: 4.0

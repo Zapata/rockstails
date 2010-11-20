@@ -1,0 +1,29 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Maraschino cherry
+glass: Martini
+infos: 
+  Comment: Fresh, fragrant and balanced.
+  Origin: Adapted from a recipe in Harry Craddock's 1930 Savoy Cocktail Book.
+  source: www.diffordsguide.com (1808)
+ingredients: 
+- - "12"
+  - fresh
+  - Mint leaves
+- - "2"
+  - shot
+  - Bombay London dry gin
+- - " 3/4 "
+  - shot
+  - Luxardo maraschino liqueur
+- - " 3/4 "
+  - shot
+  - Freshly squeezed lemon juice
+- - " 1/8 "
+  - shot
+  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- - " 1/2 "
+  - shot
+  - Chilled mineral water
+method: Lightly MUDDLE mint (just to bruise) in base of shaker. Add other ingredients, SHAKE with ice and fine strain into chilled glass.
+name: Sensation
+rate: 4.0

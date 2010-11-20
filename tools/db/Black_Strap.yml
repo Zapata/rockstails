@@ -1,0 +1,23 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Orange zest twist<br />
+glass: Martini
+infos: 
+  Comment: This drink benefits from the dilution, which comes with a lengthy stir.
+  Origin: Adapted from a recipe created in 2007 by Neyah White, San Francisco, USA.
+  source: www.diffordsguide.com (2303)
+ingredients: 
+- - "2"
+  - shot
+  - Gosling's Black Seal rum
+- - " 1/2 "
+  - shot
+  - Bndictine D.O.M.
+- - " 1/2 "
+  - shot
+  - "Brown cr\xE8me de cacao liqueur"
+- - "2"
+  - drop
+  - Tobasco hot pepper sauce
+method: STIR all ingredients with ice and strain into chilled glass.
+name: Black Strap
+rate: 4.0

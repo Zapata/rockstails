@@ -1,0 +1,23 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Orange zest twist
+glass: Martini
+infos: 
+  Comment: Gin, lemon and Chartreuse. Not to everybody's taste.
+  Origin: In W.J. Tarling's 1937 Caf Royal Cocktail Book Coronation Edition the invention of this cocktail is credited to G. Bongarzoni.<br /><br />
+  source: www.diffordsguide.com (2428)
+ingredients: 
+- - "2"
+  - shot
+  - Bombay London dry gin
+- - "1"
+  - shot
+  - Dubonnet Red (French made)
+- - " 1/4 "
+  - shot
+  - Freshly squeezed lemon juice
+- - " 1/2 "
+  - shot
+  - Chartreuse Yellow liqueur
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+name: Goody-Goody
+rate: 3.0

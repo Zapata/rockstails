@@ -1,0 +1,23 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Lemon zest twist<br />
+glass: Martini
+infos: 
+  Comment: Lightly spiced and slightly on the sweet side.
+  Origin: Vintage cocktail of unknown origin.
+  source: www.diffordsguide.com (2440)
+ingredients: 
+- - "2"
+  - shot
+  - Swedish Punch liqueur
+- - "1"
+  - shot
+  - Maker's Mark bourbon
+- - " 1/4 "
+  - shot
+  - Freshly squeezed lemon juice
+- - " 1/2 "
+  - shot
+  - Chilled mineral water
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+name: "Hesitation "
+rate: 3.5

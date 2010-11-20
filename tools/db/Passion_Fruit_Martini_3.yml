@@ -1,0 +1,26 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Float passion fruit half
+glass: Martini
+infos: 
+  Comment: Full-on passion fruit with gin and citrus hints.
+  Origin: Formula by Yours Truly (Simon Difford) in 2004.
+  source: www.diffordsguide.com (1484)
+ingredients: 
+- - "2"
+  - fresh
+  - Passion fruit
+- - "2"
+  - shot
+  - Bombay London dry gin
+- - " 1/2 "
+  - shot
+  - Cointreau triple sec
+- - " 1/4 "
+  - shot
+  - Freshly squeezed lemon juice
+- - " 1/2 "
+  - shot
+  - Passion fruit syrup
+method: Cut passion fruit in half and scoop out flesh into shaker. Add other ingredients, SHAKE with ice and fine strain into chilled glass.
+name: "Passion Fruit Martini #3"
+rate: 4.0

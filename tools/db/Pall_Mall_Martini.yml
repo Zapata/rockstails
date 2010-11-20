@@ -1,0 +1,25 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Orange zest twist
+glass: Martini
+infos: 
+  Comment: A classic Martini served 'perfect' with the tiniest hint of chocolate.
+  source: www.diffordsguide.com (1458)
+ingredients: 
+- - "1"
+  - shot
+  - Bombay London dry gin
+- - "1"
+  - shot
+  - Noilly Prat dry vermouth
+- - "1"
+  - shot
+  - Martini Rosso sweet vermouth
+- - " 1/4 "
+  - shot
+  - "White cr\xE8me de cacao liqueur"
+- - "1"
+  - dash
+  - Angostura orange bitters
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+name: Pall Mall Martini
+rate: 4.0

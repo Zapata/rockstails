@@ -1,0 +1,22 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Dust with freshly grated nutmeg
+glass: Martini
+infos: 
+  Comment: Surprisingly potent and spicy, despite the ladylike name.
+  source: www.diffordsguide.com (39)
+ingredients: 
+- - "1 1/2 "
+  - shot
+  - Pusser's Navy rum
+- - "1"
+  - shot
+  - Kahla coffee liqueur
+- - " 3/4 "
+  - shot
+  - Milk
+- - " 3/4 "
+  - shot
+  - Double (heavy) cream
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+name: Alexandra
+rate: 3.5

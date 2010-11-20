@@ -1,0 +1,22 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Raspberries on stick plus lemon zest twist
+glass: Martini
+infos: 
+  Comment: <p>Fruity but not too sweet.</p>
+  source: www.diffordsguide.com (2148)
+ingredients: 
+- - "1"
+  - shot
+  - Bombay London dry gin
+- - "1"
+  - shot
+  - Courvoisier V.S.O.P cognac
+- - "1"
+  - shot
+  - "Cr\xE8me de cassis liqueur"
+- - " 1/8 "
+  - shot
+  - Freshly squeezed lemon juice
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+name: "Adam & Eve #2"
+rate: 3.5

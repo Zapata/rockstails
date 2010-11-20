@@ -1,0 +1,26 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Lime wedge on rim<br />
+glass: Old-fashioned
+infos: 
+  Comment: A Daiquiri No.1 with a tang of grapefruit and hint of maraschino. Essentially a Hemingway Special Daiquiri (Papa Doble Daiquiri) for folk without the great author's constitution or love of the sours.<br /><br />
+  Origin: Thought to have been created by Constantino (Constante) Ribalaigua Vert at the Floridita bar in Havana, Cuba, circa 1915. If this was invented as early as 1915, then this was the predecessor of the Hemingway Daiquiri, since Hemingway did not arrive in Cuba until 1928.<br /><br />
+  source: www.diffordsguide.com (2367)
+ingredients: 
+- - "2"
+  - shot
+  - Bacardi Superior rum
+- - " 1/2 "
+  - shot
+  - Freshly squeezed lime juice
+- - " 1/2 "
+  - shot
+  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- - " 1/4 "
+  - shot
+  - Freshly squeezed pink grapefruit juice
+- - " 1/8 "
+  - shot
+  - Luxardo maraschino liqueur
+method: SHAKE all ingredients with ice and strain into glass filled with crushed ice. Serve with short straws.<br /><br />
+name: Daiquiri No.3
+rate: 5.0

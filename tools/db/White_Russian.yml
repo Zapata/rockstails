@@ -1,0 +1,24 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Dust with grated nutmeg
+glass: Old-fashioned
+infos: 
+  Comment: A Black Russian smoothed with cream.<br /><br /><br />
+  Origin: Unknown but popularised by the 1998 film 'The Big Lebowski' in which this drink is the favoured tipple of 'The Dude' character.<br />
+  Variant: Shake and strain vodka and coffee liqueur, then float cream.<br />
+  source: www.diffordsguide.com (2093)
+ingredients: 
+- - "2"
+  - shot
+  - Ketel One vodka
+- - "1"
+  - shot
+  - Kahla coffee liqueur
+- - " 1/2 "
+  - shot
+  - Milk
+- - " 1/2 "
+  - shot
+  - Double (heavy) cream
+method: SHAKE all ingredients with ice and strain into ice-filled glass.
+name: White Russian
+rate: 4.0

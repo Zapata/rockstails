@@ -1,0 +1,21 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Orange zest twist
+glass: Old-fashioned
+infos: 
+  Comment: Bitter and dry, but very tasty. This no namby-pamby drink is traditionally assembled and mixed directly in the glass. There is something about this drink that does not suit fussing about with mixing glasses and strainers. To garnish with a lemon slice is a heinous crime.<br /><br />
+  Origin: This drink takes its name from Count Camillo Negroni. In the mid-1920's, while drinking at the Casoni Bar in Florence, Italy, he is said to have asked for an Americano 'with a bit more kick'.
+  source: www.diffordsguide.com (1392)
+  Variant: Americano
+ingredients: 
+- - "1 1/2 "
+  - shot
+  - Bombay London dry gin
+- - "1 1/2 "
+  - shot
+  - Campari Bitter
+- - "1 1/2 "
+  - shot
+  - Martini Rosso sweet vermouth
+method: POUR all ingredients into ice-filled glass and STIR.
+name: Negroni
+rate: 4.5

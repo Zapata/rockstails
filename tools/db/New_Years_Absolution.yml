@@ -1,0 +1,22 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Mint sprig
+glass: Old-fashioned
+infos: 
+  Comment: The green fairy, tamed with honey and spiced with ginger.
+  source: www.diffordsguide.com (1397)
+ingredients: 
+- - "2"
+  - spoon
+  - Runny honey
+- - "1"
+  - shot
+  - "La F\xE9e Parisienne (68%) absinthe"
+- - "1"
+  - shot
+  - Pressed apple juice
+- - "1"
+  - top up with
+  - Ginger ale
+method: STIR honey with absinthe in base of shaker until honey dissolves. Add apple juice, SHAKE with ice and strain into ice-filled glass. Top with ginger ale and stir.
+name: New Year's Absolution
+rate: 3.5

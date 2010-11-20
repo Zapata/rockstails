@@ -1,0 +1,30 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Orange zest twist
+glass: Martini
+infos: 
+  Comment: Peachy almond with gin.
+  Origin: This classic drink from the 1930s originally called for cr`eme de noyaux.
+  Variant: Some old books, including 'The Fine Art of Drinks', describe the Jockey Club as a Manhattan with maraschino.
+  source: www.diffordsguide.com (1067)
+ingredients: 
+- - "2"
+  - shot
+  - Bombay London dry gin
+- - " 1/2 "
+  - shot
+  - Luxardo Amaretto di Saschira
+- - " 1/2 "
+  - shot
+  - Freshly squeezed lemon juice
+- - " 3/4 "
+  - shot
+  - Chilled mineral water
+- - "1"
+  - dash
+  - Angostura orange bitters
+- - "1"
+  - dash
+  - Angostura aromatic bitters
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+name: Jockey Club
+rate: 4.0

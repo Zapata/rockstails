@@ -1,0 +1,23 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Cherry on rim
+glass: Martini
+infos: 
+  Comment: A fine example of an alcoholic liquid pudding.
+  Origin: Adapted from a drink created in 2002 by Yannick Miseriaux at the Fifth Floor Bar, London, England.
+  source: www.diffordsguide.com (663)
+ingredients: 
+- - "1"
+  - shot
+  - Luxardo Amaretto di Saschira
+- - "1"
+  - shot
+  - Heering cherry brandy liqueur
+- - "1"
+  - shot
+  - "Brown cr\xE8me de cacao liqueur"
+- - "1"
+  - shot
+  - Double (heavy) cream
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+name: Donna's Creamy'Tini
+rate: 3.5

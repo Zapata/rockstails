@@ -1,0 +1,19 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Float 3 coffee beans
+glass: Martini
+infos: 
+  Comment: Richly flavoured with a pleasantly bitter finish.
+  source: www.diffordsguide.com (1023)
+ingredients: 
+- - "2"
+  - shot
+  - Baileys Irish cream liqueur
+- - "1 1/4 "
+  - shot
+  - Vanilla-infused Ketel One vodka
+- - "1 1/4 "
+  - shot
+  - Hot espresso coffee
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+name: Irish Espresso'tini
+rate: 4.5

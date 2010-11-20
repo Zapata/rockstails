@@ -1,0 +1,23 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Three raspberries on stick
+glass: Martini
+infos: 
+  Comment: Sweet chocolate and raspberry tempered by dry coffee and vodka
+  Origin: Discovered in 2002 at Lot 61, New York City, USA
+  source: www.diffordsguide.com (1637)
+ingredients: 
+- - "1 1/2 "
+  - shot
+  - Raspberry flavoured vodka
+- - " 3/4 "
+  - shot
+  - "Brown cr\xE8me de cacao liqueur"
+- - " 3/4 "
+  - shot
+  - "Cr\xE8me de framboise liqueur"
+- - "1"
+  - shot
+  - Hot espresso coffee
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+name: Raspberry Mocha'tini
+rate: 4.0

@@ -1,0 +1,17 @@
+--- !ruby/object:DirtyCocktail 
+garnish: 
+glass: Shot
+infos: 
+  Comment: The ingredients go surprisingly well together.
+  source: www.diffordsguide.com (1019)
+  Variant: Float Bailey's on cr`eme de menthe.
+ingredients: 
+- - " 3/4 "
+  - shot
+  - Baileys Irish cream liqueur
+- - " 3/4 "
+  - shot
+  - Giffard Menthe Pastille liqueur
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+name: Irish Charlie
+rate: 3.0

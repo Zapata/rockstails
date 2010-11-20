@@ -1,0 +1,33 @@
+--- !ruby/object:DirtyCocktail 
+garnish: <p>None</p>
+glass: Collins (small 8oz)
+infos: 
+  Comment: "<p>Note: The so called 'dry shake' allows the cream and egg white to emulsify thus giving this drink its legendary silky mouth feel without the over dilution which would result from such a prolonged shake with ice.</p><br /><p>A delicate floral drink that is so creamy smooth that it is almost fluffy.</p><br />"
+  Origin: <p>An adaptation of the Ramos Fizz. In his 1939 'the gentleman's Companion', Charles H. Baker Jr. credits this drinks creation to Ahmed Soliman a manufacturer and seller of Perfume Essences in the Khan el Kalili Bazaar, Cairo.</p><br />
+  Variant: <p>Blend rather than shake.</p>
+  source: www.diffordsguide.com (2409)
+ingredients: 
+- - "1 1/2 "
+  - shot
+  - Old Tom gin
+- - " 1/4 "
+  - shot
+  - Benoit Serres cr`eme de violette
+- - "1"
+  - shot
+  - Freshly squeezed lemon juice
+- - " 1/2 "
+  - shot
+  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- - "1"
+  - shot
+  - Double (heavy) cream
+- - "1"
+  - shot
+  - Egg white
+- - "1"
+  - top up with
+  - Soda from siphon
+method: "<p>1/ Flash BLEND first 6 ingredients without ice (to emulsify mix). Then pour contents of blender into shaker and SHAKE with ice. Strain into chilled glass (no ice in glass) and TOP with soda from siphon. ALTERNATIVELY: 2/ Vigorously DRY SHAKE first 6 ingredients WITHOUT ice until bored/tired. Add ice to shaker, SHAKE again and strain into chilled glass (no ice). TOP with soda water from siphon.</p><br />"
+name: Fizz  la Violette
+rate: 4.0

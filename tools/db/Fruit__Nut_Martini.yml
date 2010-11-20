@@ -1,0 +1,26 @@
+--- !ruby/object:DirtyCocktail 
+garnish: <p>Orange zest twist &amp; almond flakes</p>
+glass: Martini
+infos: 
+  Comment: <p>A rich Christmas pudding of a Martini.</p>
+  Origin: <p>Created by Yours Truly (Simon Difford) in 2004.</p>
+  source: www.diffordsguide.com (814)
+ingredients: 
+- - "1"
+  - shot
+  - Ketel One vodka
+- - " 1/2 "
+  - shot
+  - Pedro Ximnez sherry
+- - "1"
+  - shot
+  - Hazelnut liqueur
+- - "1"
+  - shot
+  - Ocean Spray cranberry juice
+- - " 1/2 "
+  - shot
+  - Freshly squeezed orange juice
+method: <p>SHAKE all ingredients with ice and fine strain into chilled glass.</p>
+name: Fruit & Nut Martini
+rate: 4.0

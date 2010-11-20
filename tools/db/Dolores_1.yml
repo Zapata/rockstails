@@ -1,0 +1,20 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Lemon zest twist
+glass: Martini
+infos: 
+  Comment: Aromatic and well balanced, provided you use French-made Dubonnet.
+  Origin: A classic. Some recipes include a splash of orange juice.
+  source: www.diffordsguide.com (660)
+ingredients: 
+- - "2"
+  - shot
+  - Zacapa aged rum
+- - "2"
+  - shot
+  - Dubonnet Red (French made)
+- - "1"
+  - shot
+  - Tio Pepe fino sherry
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+name: "Dolores #1"
+rate: 4.0

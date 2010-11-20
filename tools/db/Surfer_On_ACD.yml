@@ -1,0 +1,19 @@
+--- !ruby/object:DirtyCocktail 
+garnish: 
+glass: Shot
+infos: 
+  Comment: The spirity herbal topping counters the sweet coconut and pineapple base.
+  source: www.diffordsguide.com (1906)
+ingredients: 
+- - " 1/2 "
+  - shot
+  - Malibu coconut rum liqueur
+- - " 1/4 "
+  - shot
+  - Jagermeister
+- - " 3/4 "
+  - shot
+  - Fresh pressed pineapple juice
+method: SHAKE first 2 ingredients with ice and fine strain into chilled glass. FLOAT Jagermeister.
+name: Surfer On A.C.D.
+rate: 3.5

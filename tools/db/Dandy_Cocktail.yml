@@ -1,0 +1,23 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Lemon and orange zest twists
+glass: Martini
+infos: 
+  Comment: This complex Manhattan variant is a well balanced combo of spirit, liqueur and aromatic wine.
+  Origin: Adapted from Harry Craddock's 1930 'The Savoy Cocktail Book'.
+  source: www.diffordsguide.com (617)
+ingredients: 
+- - "1 1/2 "
+  - shot
+  - Maker's Mark bourbon
+- - " 1/2 "
+  - shot
+  - Cointreau triple sec
+- - "1 1/2 "
+  - shot
+  - Dubonnet Red (French made)
+- - "1"
+  - dash
+  - Angostura aromatic bitters
+method: STIR all ingredients with ice and strain into chilled glass.
+name: Dandy Cocktail
+rate: 4.5

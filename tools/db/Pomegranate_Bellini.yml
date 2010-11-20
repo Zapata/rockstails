@@ -1,0 +1,23 @@
+--- !ruby/object:DirtyCocktail 
+garnish: 
+glass: Flute
+infos: 
+  Comment: This red drink is drier and more adult than it looks.
+  Origin: Created in 2005 by Yours Truly (Simon Difford).
+  source: www.diffordsguide.com (1581)
+ingredients: 
+- - "1"
+  - shot
+  - Pomegranate juice
+- - " 1/2 "
+  - shot
+  - Cuarenta y Tres (Licor 43) liqueur
+- - " 1/8 "
+  - shot
+  - Freshly squeezed lemon juice
+- - "1"
+  - top up with
+  - Prosecco sparkling wine
+method: SHAKE first 3 ingredients with ice and fine strain into chilled glass. TOP with sparkling wine.
+name: Pomegranate Bellini
+rate: 3.5

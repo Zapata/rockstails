@@ -1,0 +1,25 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Star anise
+glass: Martini
+infos: 
+  Comment: A most unusual Daiquiri.
+  source: www.diffordsguide.com (917)
+ingredients: 
+- - "2"
+  - shot
+  - Bacardi Superior rum
+- - " 1/4 "
+  - shot
+  - Luxardo maraschino liqueur
+- - " 1/2 "
+  - shot
+  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- - "1"
+  - shot
+  - Freshly squeezed lime juice
+- - " 1/8 "
+  - shot
+  - Pernod anis
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+name: Greta Garbo
+rate: 4.0

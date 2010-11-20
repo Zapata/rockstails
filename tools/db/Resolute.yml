@@ -1,0 +1,23 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Lemon zest twist
+glass: Martini
+infos: 
+  Comment: Simple but tasty. All three flavours work in harmony.
+  Origin: Adapted from a recipe purloined from a 1930 edition of 'The Savoy Cocktail Book' by Harry Craddock.
+  source: www.diffordsguide.com (1670)
+ingredients: 
+- - "2"
+  - shot
+  - Bombay London dry gin
+- - "1"
+  - shot
+  - Bols apricot brandy liqueur
+- - " 1/2 "
+  - shot
+  - Freshly squeezed lemon juice
+- - " 3/4 "
+  - shot
+  - Chilled mineral water
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+name: Resolute
+rate: 4.0

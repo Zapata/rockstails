@@ -1,0 +1,25 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Lime wedge
+glass: Collins
+infos: 
+  Comment: The fruity alternative to a Moscow Mule.
+  source: www.diffordsguide.com (1638)
+ingredients: 
+- - "12"
+  - fresh
+  - Raspberries
+- - "2"
+  - shot
+  - Ketel One vodka
+- - "1"
+  - shot
+  - Freshly squeezed lime juice
+- - " 1/2 "
+  - shot
+  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- - "1"
+  - top up with
+  - Ginger beer
+method: MUDDLE raspberries in base of shaker. Add next 3 ingredients, SHAKE with ice and fine strain into ice-filled glass. TOP with ginger beer, lightly stir and serve with straws.
+name: Raspberry Mule
+rate: 4.0

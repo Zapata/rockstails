@@ -1,0 +1,23 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Apple slice &amp; mint sprig
+glass: Martini
+infos: 
+  Comment: Subtle combination of cachaca, fresh lime, apple juice and elderflower.<br /><br />
+  Origin: Adapted from a recipe created in 2007 by Jamie Terrell, New York, USA and originally based of Sagatiba cachaca. Mac~a means apple in Portuguese.<br /><br />
+  source: www.diffordsguide.com (2478)
+ingredients: 
+- - "2"
+  - shot
+  - Leblon cachaca
+- - " 1/2 "
+  - shot
+  - St-Germain elderflower liqueur
+- - "1 1/2 "
+  - shot
+  - Pressed apple juice
+- - " 1/2 "
+  - shot
+  - Freshly squeezed lime juice
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+name: "Mac~a "
+rate: 4.0

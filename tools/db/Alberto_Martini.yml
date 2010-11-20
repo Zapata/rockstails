@@ -1,0 +1,29 @@
+--- !ruby/object:DirtyCocktail 
+garnish: "Orange zest twist "
+glass: Coupette
+infos: 
+  Comment: |-
+    <span ;mso-bidi-font-family:georgia;="" lang="EN-US" mso-ansi-language:en-us;mso-fareast-language:en-us;mso-bidi-language:en-us="" new="" roman="" times="">Dry,
+    complex and aromatic. An equal parts gin and vermouth Martini with a good dose
+    of fino sherry and a splash of triple sec.</span>
+  Origin: " <span ;mso-bidi-font-family:georgia;=\"\" lang=\"EN-US\" mso-ansi-language:en-us;mso-fareast-language:en-us;mso-bidi-language:en-us=\"\" new=\"\" roman=\"\" times=\"\">In\r\n\
+    W.J. Tarling's 1937 Caf Royal Cocktail Book the invention of this cocktail is\r\n\
+    credited to A.J. Smith.</span>"
+  source: www.diffordsguide.com (2238)
+ingredients: 
+- - "1 1/4 "
+  - shot
+  - Bombay London dry gin
+- - "1 1/4 "
+  - shot
+  - Noilly Prat dry vermouth
+- - "1"
+  - shot
+  - Tio Pepe fino sherry
+- - " 1/2 "
+  - shot
+  - Cointreau triple sec
+method: " <span class=\"Apple-style-span\">STIR all ingredients with ice\r\n\
+  and strain into chilled glass."
+name: Alberto Martini
+rate: 4.0

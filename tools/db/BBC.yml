@@ -1,0 +1,23 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Dust with freshly grated nutmeg
+glass: Martini
+infos: 
+  Comment: Brandy and Bndictine (a classic combo) smoothed with cream. Drier than you might expect.
+  Origin: Thought to have originated in the UK in the late 1970s and named, not after the British Broadcasting Company, but brandy, Bndictine and cream.
+  source: www.diffordsguide.com (187)
+ingredients: 
+- - "1 1/4 "
+  - shot
+  - Courvoisier V.S.O.P cognac
+- - "1"
+  - shot
+  - Bndictine D.O.M.
+- - " 3/4 "
+  - shot
+  - Double (heavy) cream
+- - " 3/4 "
+  - shot
+  - Milk
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+name: BBC
+rate: 3.5

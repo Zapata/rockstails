@@ -1,0 +1,23 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Lemon slice
+glass: Collins (small 8oz)
+infos: 
+  Comment: Why top a Fizz with soda when you can use champagne?
+  Origin: A long lost classic.
+  source: www.diffordsguide.com (642)
+ingredients: 
+- - "2"
+  - shot
+  - Bombay London dry gin
+- - "1"
+  - shot
+  - Freshly squeezed lemon juice
+- - " 1/2 "
+  - shot
+  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- - "1"
+  - top up with
+  - Perrier Jouet brut champagne
+method: SHAKE first three ingredients with ice and strain into chilled glass. TOP with champagne.
+name: Diamond Fizz
+rate: 4.0

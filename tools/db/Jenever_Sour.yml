@@ -1,0 +1,22 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Maraschino cherry
+glass: Old-fashioned
+infos: 
+  Comment: One of the more delicately flavoured sours.
+  source: www.diffordsguide.com (1063)
+ingredients: 
+- - "2"
+  - shot
+  - Bokma oude genever
+- - "1"
+  - shot
+  - Freshly squeezed lemon juice
+- - " 1/2 "
+  - shot
+  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- - " 1/2 "
+  - fresh
+  - Egg white
+method: SHAKE all ingredients with ice and strain into ice-filled glass.
+name: Jenever Sour
+rate: 4.0

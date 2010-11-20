@@ -1,0 +1,23 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Lemon zest twist
+glass: Martini
+infos: 
+  Comment: Craddock describes this as "a very dry cocktail". It is, but pleasantly so.
+  Origin: Adapted from a recipe in Harry Craddock's 1930 Savoy Cocktail Book.
+  source: www.diffordsguide.com (2714)
+ingredients: 
+- - "1 1/2 "
+  - shot
+  - Bombay London dry gin
+- - " 1/4 "
+  - shot
+  - Kirschwasser eau de vie
+- - "1"
+  - shot
+  - Sauvignon blanc wine
+- - "1 1/4 "
+  - shot
+  - Freshly squeezed grapefruit juice
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+name: Moonlight Martini
+rate: 4.0

@@ -1,0 +1,26 @@
+--- !ruby/object:DirtyCocktail 
+garnish: <p>Grapefruit wedge on rim</p>
+glass: Martini
+infos: 
+  Comment: <p>The oomph of rum, the sourness of grapefruit and the richness of maple syrup, all aromatised by bitters.</p>
+  Origin: <p>My version of an old brick drink created by Herb Smith and popularised by his friend Oscar at the Waldorf, New York City. The drink was named in honour of the Duke of Windsor and his bride, formerly Wallis Warfield Simpson. The four 'W's stand for Wallis Warfield Windsor Wallop.</p>
+  source: www.diffordsguide.com (783)
+ingredients: 
+- - "2"
+  - shot
+  - Bacardi Oro golden rum
+- - "1 1/2 "
+  - shot
+  - Freshly squeezed grapefruit juice
+- - "2"
+  - dash
+  - Angostura aromatic bitters
+- - " 3/4 "
+  - shot
+  - Maple syrup
+- - " 1/2 "
+  - shot
+  - Chilled mineral water
+method: <p>SHAKE all ingredients with ice and fine strain into chilled glass.</p>
+name: Four W Daiquiri
+rate: 4.0

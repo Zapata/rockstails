@@ -1,0 +1,19 @@
+--- !ruby/object:DirtyCocktail 
+garnish: " Mint Sprig"
+glass: Martini
+infos: 
+  Comment: Richly flavoured and on the sweet side. One to chase a hearty dinner.
+  source: www.diffordsguide.com (2265)
+ingredients: 
+- - "5"
+  - fresh
+  - Mint leaves
+- - "2"
+  - shot
+  - Warre's Otima tawny port
+- - "1"
+  - shot
+  - "Cr\xE8me de framboise liqueur"
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+name: Babo Natale
+rate: 3.5

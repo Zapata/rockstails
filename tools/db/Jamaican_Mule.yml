@@ -1,0 +1,22 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Lime wedge
+glass: Collins
+infos: 
+  Comment: A long, rum based drink with a spicy ginger taste.
+  source: www.diffordsguide.com (1050)
+ingredients: 
+- - "2"
+  - shot
+  - Sailor Jerry spiced rum
+- - " 1/2 "
+  - shot
+  - Freshly squeezed lime juice
+- - " 1/2 "
+  - shot
+  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- - "1"
+  - top up with
+  - Ginger beer
+method: POUR ingredients into ice-filled glass and lightly stir.
+name: Jamaican Mule
+rate: 3.5

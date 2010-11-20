@@ -1,0 +1,28 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Lemon zest twist
+glass: Martini
+infos: 
+  Comment: This scarlet cocktail combines gin, apricot and lemon juice.
+  source: www.diffordsguide.com (102)
+ingredients: 
+- - "1 1/2 "
+  - shot
+  - Bombay London dry gin
+- - "1"
+  - shot
+  - Bols apricot brandy liqueur
+- - " 1/8 "
+  - shot
+  - Pomegranate (grenadine) syrup
+- - " 1/4 "
+  - shot
+  - Freshly squeezed lemon juice
+- - "3"
+  - dash
+  - Angostura aromatic bitters
+- - " 3/4 "
+  - shot
+  - Chilled mineral water
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+name: Apricot Martini
+rate: 3.0

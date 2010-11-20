@@ -1,0 +1,20 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Peeled lychee in drink
+glass: Old-fashioned
+infos: 
+  Comment: Peaty Scotch with sweet lychee and hot ginger.
+  Origin: Created by yours truly in 2004.
+  source: www.diffordsguide.com (1208)
+ingredients: 
+- - "2 1/4 "
+  - shot
+  - Johnnie Walker Scotch Whisky
+- - "1"
+  - shot
+  - Soho lychee liqueur
+- - " 3/4 "
+  - shot
+  - Stone's green ginger wine
+method: SHAKE all ingredients with ice and strain into ice-filled glass.
+name: Lychee Mac
+rate: 3.5

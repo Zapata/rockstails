@@ -1,0 +1,19 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Lemon zest twist
+glass: Martini
+infos: 
+  Comment: Campari lovers only need apply.
+  source: www.diffordsguide.com (1769)
+ingredients: 
+- - "1 1/2 "
+  - shot
+  - Campari Bitter
+- - " 1/4 "
+  - shot
+  - Freshly squeezed lemon juice
+- - " 1/4 "
+  - shot
+  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+name: Shakerato
+rate: 3.5

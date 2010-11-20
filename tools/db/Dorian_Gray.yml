@@ -1,0 +1,23 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Orange zest twist
+glass: Martini
+infos: 
+  Comment: Fruity and rum laced, not overly sweet.
+  Origin: Discovered in 1999 at One Aldwych, London, England. This cocktail takes its name from Oscar Wilde's novel, in which a socialite's wish to remain as young and charming as his own portrait is granted. Allured by his depraved friend Lord Henry Wotton, Dorian Gray assumes a life of perversion and sin. But every time he sins the painting ages, while Gray stays young and healthy.
+  source: www.diffordsguide.com (664)
+ingredients: 
+- - "1 1/2 "
+  - shot
+  - Bacardi Superior rum
+- - " 3/4 "
+  - shot
+  - Grand Marnier liqueur
+- - "1"
+  - shot
+  - Freshly squeezed orange juice
+- - " 3/4 "
+  - shot
+  - Ocean Spray cranberry juice
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+name: Dorian Gray
+rate: 3.5

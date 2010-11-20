@@ -1,0 +1,17 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Mint sprig
+glass: Old-fashioned
+infos: 
+  Comment: A refreshing peppermint and cognac digestif.
+  Origin: In the classic film 'High Society', Bing Crosby explains to Grace Kelly how the Stinger gained its name. &quot;It's a Stinger. It removes the sting.&quot;
+  source: www.diffordsguide.com (1874)
+ingredients: 
+- - "2"
+  - shot
+  - Courvoisier V.S.O.P cognac
+- - " 3/4 "
+  - shot
+  - Giffard Menthe Pastille liqueur
+method: SHAKE all ingredients with ice and strain into glass filled with crushed ice. Serve with straws.
+name: Stinger
+rate: 4.0

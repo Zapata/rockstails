@@ -1,0 +1,23 @@
+--- !ruby/object:DirtyCocktail 
+garnish: 
+glass: Old-fashioned
+infos: 
+  Comment: A fruity twist on the popular Caipirinha.
+  Variant: Substitute other berries and fruits for raspberries. Add raspberry liqueur in place of sugar. Use rum in place of cachaca to make a Raspberry Caipirissima.
+  source: www.diffordsguide.com (1630)
+ingredients: 
+- - " 3/4 "
+  - fresh
+  - Lime
+- - "8"
+  - fresh
+  - Raspberries
+- - "2"
+  - shot
+  - Leblon cachaca
+- - " 3/4 "
+  - shot
+  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+method: MUDDLE lime and raspberries in base of glass. Add the other ingredients and fill glass with crushed ice. CHURN drink with barspoon and serve with short straws.
+name: Raspberry Caipirinha
+rate: 4.0

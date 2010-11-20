@@ -1,0 +1,32 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Mint sprig
+glass: Pineapple shell (frozen)
+infos: 
+  Comment: To quote Trader Vic, &quot;Lethal but smooth - pineapple at its best&quot;.
+  Origin: Adapted from a recipe in the 1947-72 Trader Vic's Bartender's Guide by Victor Bergeron.
+  source: www.diffordsguide.com (1554)
+ingredients: 
+- - "1"
+  - shot
+  - Bacardi Superior rum
+- - "1"
+  - shot
+  - Ketel One vodka
+- - " 1/2 "
+  - shot
+  - Cointreau triple sec
+- - "2"
+  - shot
+  - Fresh pressed pineapple juice
+- - " 1/2 "
+  - shot
+  - Freshly squeezed lime juice
+- - " 1/4 "
+  - shot
+  - Freshly squeezed lemon juice
+- - " 1/2 "
+  - shot
+  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+method: BLEND all ingredients with 12oz scoop crushed ice. POUR into glass (or pineapple shell) and serve with straws. If using a pineapple shell, serve with ice cubes.
+name: Pino Pepe
+rate: 4.0

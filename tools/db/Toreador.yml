@@ -1,0 +1,20 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Lime zest twist
+glass: Martini
+infos: 
+  Comment: Apricot brandy replaces triple sec in what otherwise follows the same recipe to a classic Margarita.
+  Origin: This twist in the Margarita was published in W. J. Tarling's 1937 Cafe Royal Cocktail Book, 16 years before the first written reference to a Margarita. He also lists another drink called a Picador which is identical to the later Margarita.
+  source: www.diffordsguide.com (2207)
+ingredients: 
+- - "2"
+  - shot
+  - Herradura 100% agave tequila
+- - "1"
+  - shot
+  - Bols apricot brandy liqueur
+- - "1"
+  - shot
+  - Freshly squeezed lime juice
+method: SHAKE all ingredients with ice and fine strain into chilled glas.
+name: Toreador
+rate: 4.0

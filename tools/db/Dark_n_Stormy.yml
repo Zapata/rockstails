@@ -1,0 +1,23 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Lime wedge
+glass: Collins
+infos: 
+  Comment: This deliciously spicy drink is part of the Mule family - but is distinctive due to the strong flavour of the rum.
+  Origin: The national drink of Bermuda, where ginger beer and Gosling's rum are produced.
+  source: www.diffordsguide.com (619)
+ingredients: 
+- - "2"
+  - shot
+  - Gosling's Black Seal rum
+- - "1"
+  - shot
+  - Freshly squeezed lime juice
+- - " 1/2 "
+  - shot
+  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- - "1"
+  - top up with
+  - Ginger beer
+method: SHAKE first 3 ingredients with ice and strain into ice-filled glass. TOP with ginger beer, stir and serve with straws.
+name: Dark 'n' Stormy
+rate: 4.0

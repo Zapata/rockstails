@@ -1,0 +1,23 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Lemon zest twist
+glass: Martini
+infos: 
+  Comment: Salmon pink and reminiscent of a Daiquiri with a splash of gin.
+  Origin: Adapted from a recipe in Harry Craddock's 1930 Savoy Cocktail Book.
+  source: www.diffordsguide.com (1867)
+ingredients: 
+- - "1 1/2 "
+  - shot
+  - Bombay London dry gin
+- - "1 1/2 "
+  - shot
+  - Bacardi Superior rum
+- - " 1/2 "
+  - shot
+  - Freshly squeezed lemon juice
+- - " 1/2 "
+  - shot
+  - Pomegranate (grenadine) syrup
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+name: Stanley Cocktail
+rate: 4.0

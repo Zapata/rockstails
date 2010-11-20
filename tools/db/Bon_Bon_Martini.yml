@@ -1,0 +1,29 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Lemon zest twist (or a Bon Bon)
+glass: Martini
+infos: 
+  Comment: Relive your youth and the taste of those big round sweets in this bitter-sweet, lemony cocktail.
+  Origin: Adapted from a drink discovered in 2001 at Lab Bar, London, England.
+  source: www.diffordsguide.com (288)
+ingredients: 
+- - "1"
+  - shot
+  - Ketel One vodka
+- - " 1/2 "
+  - shot
+  - Teichenn butterscotch schnapps
+- - " 3/4 "
+  - shot
+  - Luxardo limoncello liqueur
+- - " 3/4 "
+  - shot
+  - Freshly squeezed lemon juice
+- - " 1/4 "
+  - shot
+  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- - " 1/2 "
+  - shot
+  - Chilled mineral water
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+name: Bon Bon Martini
+rate: 4.0

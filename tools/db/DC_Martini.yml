@@ -1,0 +1,26 @@
+--- !ruby/object:DirtyCocktail 
+garnish: None
+glass: Martini
+infos: 
+  Comment: Vanilla, chocolate and a hint of nut. Add more sugar to taste.
+  Origin: Discovered in 2000 at Teatro, London, England.
+  source: www.diffordsguide.com (620)
+ingredients: 
+- - "2"
+  - shot
+  - Bacardi Superior rum
+- - " 1/4 "
+  - shot
+  - Hazelnut liqueur
+- - " 1/4 "
+  - shot
+  - "White cr\xE8me de cacao liqueur"
+- - " 1/4 "
+  - shot
+  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- - " 1/2 "
+  - shot
+  - Chilled mineral water
+method: STIR all ingredients with ice and strain into chilled glass.
+name: DC Martini
+rate: 4.0

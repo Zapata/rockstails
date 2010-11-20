@@ -1,0 +1,23 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Lemon slice
+glass: Sling
+infos: 
+  Comment: Sugar balances the citrus juice, the spirit fortifies and the carbonate lengthens.<br /><br />
+  Origin: The word 'Sling' comes from the German 'schlingen', meaning 'to swallow', and Slings based on a spirit mixed with sugar and water were popularly drunk in the late 1800s.<br /><br />Slings are similar to Toddies and like Toddies can be served hot. (Toddies, however, are never served cold.) The main difference between a Toddy and a Sling is that Slings are not flavoured by the addition of spices. Also, Toddies tend to be made with plain water, while Slings are charged with water, soda water or ginger ale.<br /><br />The earliest known definition of 'cocktail' describes it as a bittered sling.<br /><br />
+  source: www.diffordsguide.com (1830)
+ingredients: 
+- - "2"
+  - shot
+  - Brandy, whisk(e)y, gin, rum etc.
+- - " 1/2 "
+  - shot
+  - Freshly squeezed lemon juice
+- - " 1/4 "
+  - shot
+  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- - "1"
+  - top up with
+  - Soda (club soda)
+method: SHAKE first three ingredients with ice and strain into ice-filled glass. TOP with soda or ginger ale.
+name: Sling (Generic Name)
+rate: 4.0

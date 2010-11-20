@@ -1,0 +1,26 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Lemon zest twist
+glass: Martini
+infos: 
+  Comment: This balanced sweet and sour could put a smile on anyone's face. Unless one is not amused!
+  Origin: Purloined from David Embury's classic book, The Fine Art of Mixing Drinks.
+  source: www.diffordsguide.com (1704)
+ingredients: 
+- - "1"
+  - shot
+  - Bombay London dry gin
+- - "1"
+  - shot
+  - Boulard Grand Solage calvados
+- - " 1/2 "
+  - shot
+  - Freshly squeezed lemon juice
+- - " 1/4 "
+  - shot
+  - Pomegranate (grenadine) syrup
+- - " 1/2 "
+  - shot
+  - Chilled mineral water
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+name: Royal Smile
+rate: 4.0

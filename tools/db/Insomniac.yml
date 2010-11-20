@@ -1,0 +1,29 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Float three coffee beans
+glass: Martini
+infos: 
+  Comment: Wonderfully balanced, creamy and caffeine laced.
+  Variant: Espresso Martini
+  source: www.diffordsguide.com (1015)
+ingredients: 
+- - " 3/4 "
+  - shot
+  - Ketel One vodka
+- - " 3/4 "
+  - shot
+  - Hazelnut liqueur
+- - " 3/4 "
+  - shot
+  - Kahla coffee liqueur
+- - "1"
+  - shot
+  - Hot espresso coffee
+- - " 1/2 "
+  - shot
+  - Double (heavy) cream
+- - " 1/2 "
+  - shot
+  - Milk
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+name: Insomniac
+rate: 4.5

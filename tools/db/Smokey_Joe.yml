@@ -1,0 +1,23 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Beef flavoured hula hoops<br />
+glass: Martini
+infos: 
+  Comment: Sake sweetened with Sauternes and flavoured with cognac and Islay whisky.
+  Origin: Created in August 2008 by Simon Difford at The Cabinet Room, London, England.<br /><br />
+  source: www.diffordsguide.com (2581)
+ingredients: 
+- - "2"
+  - shot
+  - Sake
+- - " 1/2 "
+  - shot
+  - Courvoisier V.S.O.P cognac
+- - " 1/4 "
+  - shot
+  - Lagavulin 16yo malt whisky
+- - "1"
+  - shot
+  - Sauternes dessert wine
+method: STIR all ingredients with ice and strain into chilled glass.
+name: Smokey Joe
+rate: 5.0

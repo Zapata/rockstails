@@ -1,0 +1,21 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Lemon zest twist<br />
+glass: Martini
+infos: 
+  Comment: Honeyed rum with herbal and citrus nuances.
+  Origin: Named after the MacKinnon family, the makers of Drambuie.
+  Variant: Serve long over ice with soda.
+  source: www.diffordsguide.com (2710)
+ingredients: 
+- - "2"
+  - shot
+  - Bacardi Oro golden rum
+- - "1"
+  - shot
+  - Drambuie
+- - " 1/2 "
+  - shot
+  - Freshly squeezed lemon juice
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+name: The Mackinnon
+rate: 4.0

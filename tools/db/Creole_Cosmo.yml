@@ -1,0 +1,22 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Lime zest twist
+glass: Martini
+infos: 
+  Comment: Dry tangy and more sophisticated than your bog-standard Cosmo.
+  source: www.diffordsguide.com (598)
+ingredients: 
+- - "1"
+  - shot
+  - Martinique agricole rum
+- - "1"
+  - shot
+  - Clment Creole Shrubb liqueur
+- - "1"
+  - shot
+  - Ocean Spray cranberry juice
+- - " 1/2 "
+  - shot
+  - Freshly squeezed lime juice
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+name: Creole Cosmo
+rate: 4.5

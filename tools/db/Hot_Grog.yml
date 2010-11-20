@@ -1,0 +1,23 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Lemon peel twist
+glass: Toddy
+infos: 
+  Comment: Warming, honeyed, pungent rum with a hint of lime.
+  Variant: Black Stripe, with molasses replacing the honey.
+  source: www.diffordsguide.com (982)
+ingredients: 
+- - "3"
+  - spoon
+  - Runny honey
+- - "1"
+  - shot
+  - Pusser's Navy rum
+- - " 1/4 "
+  - shot
+  - Freshly squeezed lime juice
+- - "2 1/2 "
+  - shot
+  - Boiling water
+method: Place bar spoon loaded with honey in warmed glass. Add other ingredients and STIR until honey dissolves.
+name: Hot Grog
+rate: 4.0

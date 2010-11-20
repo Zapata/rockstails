@@ -1,0 +1,19 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Maraschino cherry
+glass: Martini
+infos: 
+  Comment: The flavours of rum and grapefruit combine perfectly - clean and fresh.
+  source: www.diffordsguide.com (900)
+ingredients: 
+- - "2"
+  - shot
+  - Bacardi Superior rum
+- - "1 1/2 "
+  - shot
+  - Freshly squeezed grapefruit juice
+- - " 3/4 "
+  - shot
+  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+name: "Grapefruit Daiquiri #1"
+rate: 4.0

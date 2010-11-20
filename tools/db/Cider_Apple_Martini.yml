@@ -1,0 +1,26 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Apple wedge
+glass: Martini
+infos: 
+  Comment: As the name suggests, rich cider flavours with a sharp finish.
+  Origin: Created in 1998 by Jamie Terrell at Lab, London, England.
+  source: www.diffordsguide.com (434)
+ingredients: 
+- - "1 1/2 "
+  - shot
+  - Boulard Grand Solage calvados
+- - " 3/4 "
+  - shot
+  - Berentzen Apple schnapps
+- - " 3/4 "
+  - shot
+  - Freshly squeezed lemon juice
+- - "1"
+  - shot
+  - Pressed apple juice
+- - " 1/4 "
+  - shot
+  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+name: Cider Apple Martini
+rate: 4.0

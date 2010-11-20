@@ -1,0 +1,20 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Lemon zest twist<br />
+glass: Coupette
+infos: 
+  Comment: "As the name implies, this Martini is a good helping of smoky peat. If you like that kind of thing, it's equally dreamy. "
+  Origin: Adapted from a recipe created by Audrey Saunders in 2003 at Beacon restaurant, New York, USA.<br />
+  source: www.diffordsguide.com (2797)
+ingredients: 
+- - "2"
+  - shot
+  - Ketel One vodka
+- - " 1/2 "
+  - shot
+  - Lagavulin 16yo malt whisky
+- - " 1/2 "
+  - spoon
+  - Pernod anis
+method: STIR all ingredients with ice and strain into chilled glass.<br />
+name: Dreamy Dorini Smoking Martini
+rate: 4.0

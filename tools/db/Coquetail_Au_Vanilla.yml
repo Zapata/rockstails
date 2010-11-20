@@ -1,0 +1,17 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Maraschino cherry
+glass: Old-fashioned
+infos: 
+  Comment: This drink may look fluffy and sweet but it's dry and lightly spiced. Perfect for a sunny afternoon.
+  Origin: My adaptation of a classic.
+  source: www.diffordsguide.com (592)
+ingredients: 
+- - "2"
+  - shot
+  - Vanilla-infused Bacardi rum
+- - " 1/4 "
+  - shot
+  - Velvet Falernum liqueur
+method: SHAKE all ingredients with ice and strain into glass filled with crushed ice. Serve with straws.
+name: Coquetail Au Vanilla
+rate: 4.5

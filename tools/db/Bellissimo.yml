@@ -1,0 +1,23 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Orange slice
+glass: Old-fashioned
+infos: 
+  Comment: An unusual meld of flavours, but Campari lovers should give this a try.
+  Origin: Adapted from drink created in 2003 by Ben Davidson at Posh Lounge, Sydney, Australia.
+  source: www.diffordsguide.com (204)
+ingredients: 
+- - "1"
+  - shot
+  - Hazelnut liqueur
+- - "1"
+  - shot
+  - Campari Bitter
+- - "1"
+  - shot
+  - Luxardo limoncello liqueur
+- - " 1/2 "
+  - shot
+  - Freshly squeezed lemon juice
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+name: Bellissimo
+rate: 3.0

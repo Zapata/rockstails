@@ -1,0 +1,23 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Strawberry on rim
+glass: Old-fashioned
+infos: 
+  Comment: A light, fruity drink for a summer afternoon.
+  Origin: Created in 2001 by Francis Timmons at Detroit, London, England.
+  source: www.diffordsguide.com (734)
+ingredients: 
+- - "3"
+  - fresh
+  - Strawberries (hulled)
+- - "2"
+  - shot
+  - Macchu pisco
+- - "2"
+  - shot
+  - Pressed apple juice
+- - " 3/4 "
+  - shot
+  - Passion fruit syrup
+method: MUDDLE strawberries in base of shaker. Add other ingredients, SHAKE with ice and fine strain into ice-filled glass.
+name: Extradition
+rate: 4.0

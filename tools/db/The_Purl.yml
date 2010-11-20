@@ -1,0 +1,17 @@
+--- !ruby/object:DirtyCocktail 
+garnish: None <br />
+glass: Pint
+infos: 
+  Comment: Somebody seems to have spiked my beer!<br _moz_editor_bogus_node="TRUE" />
+  Origin: In 18th century London Gin tended to be mixed two to one with water and sold by the quarter pint. The Purl, simply gin and ale was another popular mix. Sometimes the beer was warmed first to make a 'hot purl', apparently popular with Thames boatman of the day.<br /><br />
+  source: www.diffordsguide.com (2552)
+ingredients: 
+- - "2"
+  - shot
+  - Old Tom gin
+- - "1"
+  - top up with
+  - British cask conditioned ale
+method: POUR ingredients into chilled glass.
+name: The Purl
+rate: 3.0

@@ -1,0 +1,23 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Lime zest twist
+glass: Martini
+infos: 
+  Comment: This Martini-style drink doesn't take any prisoners. Go easy.
+  Origin: Created in 2008 by Jamie Boudreau at Vessel, Seattle, USA.
+  source: www.diffordsguide.com (2676)
+ingredients: 
+- - "2"
+  - shot
+  - Courvoisier V.S.O.P cognac
+- - " 3/4 "
+  - shot
+  - Chartreuse Green liqueur
+- - " 1/4 "
+  - shot
+  - "White cr\xE8me de cacao liqueur"
+- - "2"
+  - dash
+  - Angostura aromatic bitters
+method: STIR all ingredients with ice and strain into chilled glass.
+name: Green Glazier
+rate: 4.0

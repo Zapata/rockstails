@@ -1,0 +1,23 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Lemon zest twist<br />
+glass: Coupette
+infos: 
+  Comment: A delicately flavoured and lightly balanced genever based drink with hints of Kirsh and aromatic Peychard's bitters.
+  Origin: Adapted from a drink created in 2009 by Jim Meehan at PDT, New York City, USA.<br />
+  source: www.diffordsguide.com (2827)
+ingredients: 
+- - "2"
+  - shot
+  - Bokma oude genever
+- - "1"
+  - shot
+  - Kirschwasser eau de vie
+- - "1"
+  - spoon
+  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- - "2"
+  - dash
+  - Peychaud's aromatic bitters
+method: STIR all ingredients with ice and fine strain into chilled glass.<br />
+name: New Amsterdam
+rate: 4.5

@@ -1,0 +1,20 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Cranberries
+glass: Martini
+infos: 
+  Comment: This rich berry Martini can be varied by using other berry liqueurs in the Lapponia range - try using two with half a shot of each.
+  Origin: I created this in 2002 after a trip to Finland with Finlandia vodka.
+  source: www.diffordsguide.com (749)
+ingredients: 
+- - "2"
+  - shot
+  - Cranberry flavoured vodka
+- - "2"
+  - shot
+  - Ocean Spray cranberry juice
+- - "1"
+  - shot
+  - Lapponia cloudberry liqueur
+method: SHAKE all ingredients with ice and fine stain into chilled glass.
+name: Finnberry Martini
+rate: 4.0

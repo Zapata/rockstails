@@ -1,0 +1,29 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Pineapple wedge on rim
+glass: Martini
+infos: 
+  Comment: A fruity complex taste with a hint of tequila.
+  Origin: This cocktail was created in 1997 by Wayne Collins at Navajo Joe, London, England. The name translate as a 'Beach of the Sea'.
+  source: www.diffordsguide.com (1569)
+ingredients: 
+- - "1"
+  - shot
+  - Herradura 100% agave tequila
+- - " 1/2 "
+  - shot
+  - Cointreau triple sec
+- - "1"
+  - shot
+  - Ocean Spray cranberry juice
+- - " 3/4 "
+  - shot
+  - Fresh pressed pineapple juice
+- - " 1/2 "
+  - shot
+  - Freshly squeezed lime juice
+- - " 1/4 "
+  - shot
+  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+name: Playa del Mar
+rate: 4.0

@@ -1,0 +1,25 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Pomegranate seeds in drink
+glass: Martini
+infos: 
+  Comment: With the right amount of quality pomegranate syrup, this is a great drink.
+  source: www.diffordsguide.com (743)
+ingredients: 
+- - "1"
+  - shot
+  - Bacardi Superior rum
+- - "1"
+  - shot
+  - Boulard Grand Solage calvados
+- - "1"
+  - shot
+  - Noilly Prat dry vermouth
+- - " 1/8 "
+  - shot
+  - Freshly squeezed lime juice
+- - " 1/8 "
+  - shot
+  - Pomegranate (grenadine) syrup
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+name: Fiesta
+rate: 4.0

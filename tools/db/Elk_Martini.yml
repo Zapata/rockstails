@@ -1,0 +1,20 @@
+--- !ruby/object:DirtyCocktail 
+garnish: <p>Lemon zest twist</p>
+glass: Martini
+infos: 
+  Comment: <p>Craddock calls for this drink to be shaken, but in this instance stirring seems more in order.</p>
+  Origin: <p>Adapted from Harry Craddock's 1930 'The Savoy Cocktail Book'.</p>
+  source: www.diffordsguide.com (2645)
+ingredients: 
+- - "1"
+  - shot
+  - Bombay London dry gin
+- - "1"
+  - shot
+  - La Vieille Prune plum brandy
+- - " 1/4 "
+  - shot
+  - Noilly Prat dry vermouth
+method: <p>STIR all ingredients with ice and fine strain into chilled glass.</p>
+name: Elk Martini
+rate: 3.5

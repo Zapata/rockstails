@@ -1,0 +1,22 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Grate nutmeg over drink
+glass: Martini
+infos: 
+  Comment: Creamy and sweet with orangey, herbal notes.
+  source: www.diffordsguide.com (672)
+ingredients: 
+- - "1"
+  - shot
+  - Tuaca liqueur
+- - "1"
+  - shot
+  - Grand Marnier liqueur
+- - "1"
+  - shot
+  - Baileys Irish cream liqueur
+- - "1"
+  - shot
+  - Milk
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+name: Dramatic Martini
+rate: 3.5

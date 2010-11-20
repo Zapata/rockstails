@@ -1,0 +1,35 @@
+--- !ruby/object:DirtyCocktail 
+garnish: <p>Berries on stick</p>
+glass: Collins
+infos: 
+  Comment: <p>Long and fruity with something of a bite.</p>
+  Origin: <p>Created in 2001 by Andres Masso at Lab Bar, London, England.</p>
+  source: www.diffordsguide.com (781)
+ingredients: 
+- - "4"
+  - fresh
+  - Blueberries
+- - "4"
+  - fresh
+  - Blackberries
+- - "4"
+  - fresh
+  - Raspberries
+- - "4"
+  - fresh
+  - Strawberries (hulled)
+- - "2"
+  - shot
+  - Bacardi Superior rum
+- - "1"
+  - shot
+  - Freshly squeezed lime juice
+- - " 1/2 "
+  - shot
+  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- - "1"
+  - top up with
+  - Ginger beer
+method: <p>MUDDLE berries in base of shaker. Add next 3 ingredients, SHAKE with ice and strain into glass filled with crushed ice. TOP with ginger beer.</p>
+name: Forbidden Fruits
+rate: 4.0

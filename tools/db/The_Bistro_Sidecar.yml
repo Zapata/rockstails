@@ -1,0 +1,26 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Lemon zest twist
+glass: Martini
+infos: 
+  Comment: Although significantly twisted from the classic, this is still recognisably a Sidecar in style.
+  Origin: Adapted form a recipe by chef Kathy Casey Food Studios, Seattle, USA. Kathy's original recipe called for a sugar rim and tangerine juice.
+  source: www.diffordsguide.com (548)
+ingredients: 
+- - "1 1/2 "
+  - shot
+  - Courvoisier V.S.O.P cognac
+- - " 1/2 "
+  - shot
+  - Tuaca liqueur
+- - " 1/2 "
+  - shot
+  - Hazelnut liqueur
+- - " 1/4 "
+  - shot
+  - Freshly squeezed lemon juice
+- - " 1/4 "
+  - shot
+  - Freshly squeezed orange juice
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+name: The Bistro Sidecar
+rate: 4.0

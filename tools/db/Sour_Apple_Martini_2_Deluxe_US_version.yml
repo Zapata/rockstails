@@ -1,0 +1,25 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Float wafer thin apple slice
+glass: Martini
+infos: 
+  Comment: A sophisticated version of a contemporary classic.
+  source: www.diffordsguide.com (1797)
+ingredients: 
+- - "2"
+  - shot
+  - Ketel One vodka
+- - "1"
+  - shot
+  - Sour apple liqueur
+- - " 1/2 "
+  - shot
+  - Freshly squeezed lime juice
+- - " 1/4 "
+  - shot
+  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- - " 1/2 "
+  - fresh
+  - Egg white
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+name: "Sour Apple Martini #2 (Deluxe US version)"
+rate: 4.5

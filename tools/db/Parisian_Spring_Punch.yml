@@ -1,0 +1,25 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Lemon zest knot
+glass: Collins
+infos: 
+  Comment: Dry apple and champagne - like upmarket cider.
+  source: www.diffordsguide.com (1471)
+ingredients: 
+- - "1"
+  - shot
+  - Boulard Grand Solage calvados
+- - " 1/2 "
+  - shot
+  - Noilly Prat dry vermouth
+- - " 1/4 "
+  - shot
+  - Freshly squeezed lemon juice
+- - " 1/4 "
+  - shot
+  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- - "1"
+  - top up with
+  - Perrier Jouet brut champagne
+method: SHAKE first 4 ingredients with ice and strain into ice-filled glass. TOP with champagne and serve with straws.
+name: Parisian Spring Punch
+rate: 4.0

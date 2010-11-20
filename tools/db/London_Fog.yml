@@ -1,0 +1,19 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Orange zest twist
+glass: Old-fashioned
+infos: 
+  Comment: Pernod clouds this drink and adds its distinctive aniseed flavour.<br /><br />
+  source: www.diffordsguide.com (1186)
+ingredients: 
+- - "1"
+  - shot
+  - Bombay London dry gin
+- - "2"
+  - shot
+  - Chilled mineral water
+- - "1"
+  - shot
+  - Pernod anis
+method: Fill glass with ice. Add ingredients in the following order and STIR. Add more ice to fill.
+name: London Fog
+rate: 2.5

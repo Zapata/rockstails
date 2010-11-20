@@ -1,0 +1,20 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Lemon zest twist<br />
+glass: Coupette
+infos: 
+  Comment: Vermouth based and bitter-sweet with hints of liquorice and malty, smoky notes.
+  Origin: Adapted from a recipe by Gary 'Gaz' Regan, Ardent Spirits, New York.<br />
+  source: www.diffordsguide.com (2810)
+ingredients: 
+- - "2"
+  - shot
+  - Martini Rosso sweet vermouth
+- - " 3/4 "
+  - shot
+  - Johnnie Walker Scotch Whisky
+- - " 1/4 "
+  - dash
+  - Pernod anis
+method: STIR all ingredients with ice and strain into a chilled glass.<br />
+name: Islander
+rate: 4.5

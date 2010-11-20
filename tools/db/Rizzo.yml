@@ -1,0 +1,29 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Float thin apple slice
+glass: Martini
+infos: 
+  Comment: The tangy, sharp grapefruit reveals hints of apple spirit smoothed by grenadine.
+  Origin: Created in 2006 by Gregor de Gruyther at Ronnie Scott's, London, England, and named for Betty Rizzo, the leader of the Pink Ladies in the film Grease.
+  source: www.diffordsguide.com (2741)
+ingredients: 
+- - "1"
+  - shot
+  - Boulard Grand Solage calvados
+- - "1"
+  - shot
+  - Bombay London dry gin
+- - " 3/4 "
+  - shot
+  - Freshly squeezed grapefruit juice
+- - " 1/2 "
+  - shot
+  - Freshly squeezed lime juice
+- - " 1/4 "
+  - shot
+  - Passion fruit syrup
+- - " 1/4 "
+  - shot
+  - Pomegranate (grenadine) syrup
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+name: Rizzo
+rate: 4.0

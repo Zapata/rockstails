@@ -1,0 +1,32 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Strawberry on rim
+glass: Martini
+infos: 
+  Comment: A fruity twist on the classic Mojito.
+  Origin: Adapted from a drink created in 2005 by Simon 'Ginger' Warneford at Blanch House, Brighton, England.
+  source: www.diffordsguide.com (1888)
+ingredients: 
+- - "5"
+  - fresh
+  - Strawberries (hulled)
+- - "2"
+  - shot
+  - Bacardi Superior rum
+- - " 3/4 "
+  - shot
+  - Freshly squeezed lime juice
+- - " 1/4 "
+  - shot
+  - Balsamic vinegar
+- - " 1/2 "
+  - shot
+  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- - "12"
+  - fresh
+  - Mint leaves
+- - "1"
+  - top up with
+  - Soda (club soda)
+method: MUDDLE strawberries in base of shaker. Add other ingredients, SHAKE with ice and fine strain into chilled glass.
+name: "Strawberry & Balsamic Mojito #1"
+rate: 4.0

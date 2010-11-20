@@ -1,0 +1,22 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Apple slice
+glass: Martini
+infos: 
+  Comment: Hints of cinnamon and apple - an interesting tipple, if a tad sweet.
+  source: www.diffordsguide.com (869)
+ingredients: 
+- - " 3/4 "
+  - shot
+  - Goldschlager cinnamon schnapps
+- - " 3/4 "
+  - shot
+  - Teichenn butterscotch schnapps
+- - " 3/4 "
+  - shot
+  - Berentzen Apple schnapps
+- - "2 1/4 "
+  - shot
+  - Pressed apple juice
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+name: Gold Member
+rate: 4.0

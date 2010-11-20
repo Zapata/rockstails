@@ -1,0 +1,22 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Orange zest twist
+glass: Martini
+infos: 
+  Comment: Blasts of fruit cut through this soft creamy drink.
+  source: www.diffordsguide.com (1863)
+ingredients: 
+- - "1"
+  - shot
+  - Ketel One vodka
+- - "1"
+  - shot
+  - Peach Tree peach schnapps
+- - "1 1/2 "
+  - shot
+  - Freshly squeezed orange juice
+- - "1"
+  - shot
+  - Double (heavy) cream
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+name: "Sputnik #1"
+rate: 3.5

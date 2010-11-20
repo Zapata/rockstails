@@ -1,0 +1,22 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Lemon slice
+glass: Collins (small 8oz)
+infos: 
+  Comment: "A refreshing and tasty dry drink: cognac and lemon balanced with a little sugar and lengthened with soda."
+  source: www.diffordsguide.com (312)
+ingredients: 
+- - "2"
+  - shot
+  - Courvoisier V.S.O.P cognac
+- - " 1/2 "
+  - shot
+  - Freshly squeezed lemon juice
+- - " 1/4 "
+  - shot
+  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- - "1"
+  - top up with
+  - Soda from siphon
+method: SHAKE first three ingredients with ice and fine strain into chilled glass (without ice). TOP with soda.
+name: Brandy Fizz
+rate: 4.0

@@ -1,0 +1,19 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Lemon slice<br />
+glass: Old-fashioned
+infos: 
+  Comment: A surprisingly workable combination.
+  source: www.diffordsguide.com (494)
+ingredients: 
+- - "1 1/2 "
+  - shot
+  - Ketel One vodka
+- - "1 1/2 "
+  - shot
+  - Jagermeister
+- - "1"
+  - shot
+  - Chambord
+method: SHAKE ingredients with ice and strain into ice-filled glass.
+name: Crown Stag
+rate: 3.5

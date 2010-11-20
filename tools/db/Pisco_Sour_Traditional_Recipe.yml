@@ -1,0 +1,24 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Three drops of Angostura bitters
+glass: Goblet
+infos: 
+  Comment: One of the few really brilliant blended drinks.
+  Origin: The national drink of both Peru and Chile and both countries lay claim to the origins of the drink and the spirit it is made from. The Pisco Sour is said to have been created in the early 1920s at Bar Morris located, 847 Calle Boza, Jiron de la Union, Lima, Peru. The drinks recent popularity outside of its native Peru and Chile is attributed to Joe Baum who promoted the drink in the 1960s at La Fonda Del Sol in New York.<br /><br /><br />
+  Variant: Dust with cinnamon powder.
+  source: www.diffordsguide.com (1562)
+ingredients: 
+- - "2"
+  - shot
+  - Macchu pisco
+- - "1"
+  - shot
+  - Freshly squeezed lime juice
+- - "1"
+  - shot
+  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- - " 1/2 "
+  - fresh
+  - Egg white
+method: BLEND all ingredients with 12oz scoop crushed ice and serve with straws.
+name: Pisco Sour (Traditional Recipe)
+rate: 4.5

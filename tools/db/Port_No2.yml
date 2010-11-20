@@ -1,0 +1,23 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Orange zest twist<br />
+glass: Martini
+infos: 
+  Comment: Sangria for grown-ups.
+  Origin: Vintage cocktail of unknown origin.
+  source: www.diffordsguide.com (2545)
+ingredients: 
+- - "2"
+  - shot
+  - Warre's Otima tawny port
+- - " 1/2 "
+  - shot
+  - Curacao liqueur or Grand Marnier
+- - "2"
+  - dash
+  - Angostura orange bitters
+- - "1"
+  - dash
+  - Angostura aromatic bitters
+method: STIR all ingredients with ice and strain into chilled glass.
+name: Port No.2
+rate: 3.5

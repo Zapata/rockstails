@@ -1,0 +1,20 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Lemon zest twist
+glass: Martini
+infos: 
+  Comment: Rich and slightly sweet with hints of apricot fruit.
+  Origin: Adapted from a recipe purloined form David Embury's classic book, The Fine Art of Mixing Drinks,
+  source: www.diffordsguide.com (2111)
+ingredients: 
+- - "2"
+  - shot
+  - Bacardi Oro golden rum
+- - " 1/4 "
+  - shot
+  - Bols apricot brandy liqueur
+- - "1"
+  - shot
+  - Martini Rosso sweet vermouth
+method: STIR all ingredients with ice and strain into chilled glass.
+name: Yacht Club
+rate: 3.5

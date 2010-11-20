@@ -1,0 +1,26 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Lemon peel twist
+glass: Martini
+infos: 
+  Comment: Pale pink, subtle and light.
+  Origin: Adapted from a recipe in Harry Craddock's 1930 Savoy Cocktail Book.
+  source: www.diffordsguide.com (1222)
+ingredients: 
+- - "2"
+  - shot
+  - Bombay London dry gin
+- - " 1/2 "
+  - shot
+  - Cointreau triple sec
+- - " 1/2 "
+  - shot
+  - Pomegranate (grenadine) syrup
+- - " 1/4 "
+  - shot
+  - Freshly squeezed lemon juice
+- - " 1/2 "
+  - shot
+  - Chilled mineral water
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+name: Maiden's Blush
+rate: 4.5

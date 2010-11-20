@@ -1,0 +1,22 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Float sage leaf
+glass: Martini
+infos: 
+  Comment: Delicate sage and a hint of apple, dried with vermouth and fortified with vodka.
+  source: www.diffordsguide.com (1723)
+ingredients: 
+- - "3"
+  - fresh
+  - Sage leaves
+- - "1 1/2 "
+  - shot
+  - Ketel One vodka
+- - "1 1/2 "
+  - shot
+  - Noilly Prat dry vermouth
+- - " 3/4 "
+  - shot
+  - Pressed apple juice
+method: Lightly MUDDLE (just to bruise) sage in base of shaker. Add other ingredients, SHAKE with ice and fine strain into chilled  glass.
+name: Sage Martini
+rate: 4.0

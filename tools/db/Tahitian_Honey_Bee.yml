@@ -1,0 +1,20 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Lemon zest twist
+glass: Martini
+infos: 
+  Comment: Basically a honey Daiquiri - very tasty it is too.
+  Origin: Adapted from Victor Bergeron's 'Trader Vic's Bartender's Guide' (1972 revised edition).
+  source: www.diffordsguide.com (2204)
+ingredients: 
+- - "2"
+  - shot
+  - Bacardi Superior rum
+- - "2"
+  - spoon
+  - Runny honey
+- - " 1/2 "
+  - shot
+  - Freshly squeezed lemon juice
+method: STIR honey with rum in base of shaker so as to dissolve honey. Add lemon juice, SHAKE with ice and fine strain into chilled glass.
+name: Tahitian Honey Bee
+rate: 4.0

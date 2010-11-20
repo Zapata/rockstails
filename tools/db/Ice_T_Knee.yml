@@ -1,0 +1,20 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Lemon zest twist
+glass: Martini
+infos: 
+  Comment: Honeyed palate topped off with tannin and jasmine. <br />
+  Origin: Created by Yours Truly (Simon Difford) in 2004. <br />
+  source: www.diffordsguide.com (996)
+ingredients: 
+- - "2"
+  - shot
+  - Ketel One vodka
+- - "1 1/2 "
+  - shot
+  - Cold jasmine tea
+- - " 3/4 "
+  - shot
+  - Icewine
+method: STIR all ingredients with ice and strain into chilled glass.
+name: Ice 'T' Knee
+rate: 4.5

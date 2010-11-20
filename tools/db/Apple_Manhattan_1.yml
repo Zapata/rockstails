@@ -1,0 +1,20 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Apple slice on rim
+glass: Martini
+infos: 
+  Comment: Rusty gold in colour, this is a flavoursome number for bourbon lovers.
+  Origin: My take on a drink created by David Marsden at First on First in New York City and latterly popularised by Dale DeGroff. Traditionalists may want to stir it.
+  source: www.diffordsguide.com (80)
+ingredients: 
+- - "2"
+  - shot
+  - Maker's Mark bourbon
+- - "1 1/2 "
+  - shot
+  - Berentzen Apple schnapps
+- - " 1/2 "
+  - shot
+  - Martini Rosso sweet vermouth
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+name: "Apple Manhattan #1"
+rate: 4.0

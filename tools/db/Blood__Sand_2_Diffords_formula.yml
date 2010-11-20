@@ -1,0 +1,23 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Orange zest twist
+glass: Martini
+infos: 
+  Comment: A dry, more spirited Blood &amp; Sand for those who like Scotch.
+  Origin: Formula by Yours Truly (Simon Difford) in 2006.
+  source: www.diffordsguide.com (556)
+ingredients: 
+- - "1 1/2 "
+  - shot
+  - Johnnie Walker Scotch Whisky
+- - " 3/4 "
+  - shot
+  - Heering cherry brandy liqueur
+- - " 3/4 "
+  - shot
+  - Martini Rosso sweet vermouth
+- - " 3/4 "
+  - shot
+  - Freshly squeezed orange juice
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+name: "Blood & Sand #2 (Difford's formula)"
+rate: 4.5

@@ -1,0 +1,19 @@
+--- !ruby/object:DirtyCocktail 
+garnish: 
+glass: Shot
+infos: 
+  Comment: <p>The aquamarine shooter goes down a treat.</p>
+  source: www.diffordsguide.com (1619)
+ingredients: 
+- - " 1/2 "
+  - shot
+  - Herradura 100% agave tequila
+- - " 1/2 "
+  - shot
+  - Sloe Gin liqueur
+- - " 1/2 "
+  - shot
+  - Bols blue curacao liqueur
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+name: Purple Turtle
+rate: 3.5

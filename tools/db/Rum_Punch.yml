@@ -1,0 +1,25 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Orange slice &amp; cherry (sail)
+glass: Collins
+infos: 
+  Comment: The classic proportions of this drink (followed above) are 'one of sour, two of sweet, three of strong and four of weak' - referring to lime juice, sugar syrup, rum and water respectively. In Jamaica, the spiritual home of the Rum Punch, they like their rum overproof (more than 57% alc./vol) and serving over crushed dilutes and tames this very strong.
+  source: www.diffordsguide.com (1712)
+ingredients: 
+- - "2 1/4 "
+  - shot
+  - Wray & Nephew overproof rum
+- - " 3/4 "
+  - shot
+  - Freshly squeezed lime juice
+- - "1 1/2 "
+  - shot
+  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- - "3"
+  - dash
+  - Angostura aromatic bitters
+- - "3"
+  - shot
+  - Chilled mineral water
+method: SHAKE all ingredients with ice and fine strain into glass filled with crushed ice.
+name: Rum Punch
+rate: 5.0

@@ -1,0 +1,20 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Apple wedge on rim
+glass: Martini
+infos: 
+  Comment: Rich apricot and apple with a backbone of botanical gin. Balanced rather than dry or sweet.
+  Origin: Adapted from Harry Craddock's 1930 'The Savoy Cocktail Book'.
+  source: www.diffordsguide.com (521)
+ingredients: 
+- - "1"
+  - shot
+  - Bombay London dry gin
+- - "1"
+  - shot
+  - Boulard Grand Solage calvados
+- - "1"
+  - shot
+  - Bols apricot brandy liqueur
+method: SHAKE all ingredients with ice and fine strain into a chilled glass.
+name: Angel Face
+rate: 4.5

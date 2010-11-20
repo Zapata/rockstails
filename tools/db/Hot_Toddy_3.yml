@@ -1,0 +1,22 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Lemon slice &amp; cinnamon stick
+glass: Toddy
+infos: 
+  Comment: Warms the cockles with cognac with cognac and a good dose of citrus.
+  source: www.diffordsguide.com (2181)
+ingredients: 
+- - "2"
+  - shot
+  - Courvoisier V.S.O.P cognac
+- - " 1/2 "
+  - shot
+  - Freshly squeezed lemon juice
+- - " 1/4 "
+  - shot
+  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- - "1"
+  - top up with
+  - Boiling water
+method: Place bar spoon in warmed glass. Add ingredients and STIR.
+name: "Hot Toddy #3"
+rate: 3.5

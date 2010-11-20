@@ -1,0 +1,23 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Orange zest twist
+glass: Martini
+infos: 
+  AKA: Golden Brown
+  Comment: Cr`eme de banane and cognac go shockingly well together.
+  source: www.diffordsguide.com (159)
+ingredients: 
+- - "2"
+  - shot
+  - Courvoisier V.S.O.P cognac
+- - "1"
+  - shot
+  - "Cr\xE8me de banane liqueur"
+- - " 1/2 "
+  - shot
+  - Chilled mineral water
+- - "2"
+  - dash
+  - Angostura orange bitters
+method: STIR all ingredients with ice and strain into chilled glass.
+name: Banana Bliss
+rate: 3.5

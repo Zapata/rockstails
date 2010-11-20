@@ -1,0 +1,22 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Kumquat
+glass: Martini
+infos: 
+  Comment: Smooth, gin laced fruit for a summer's day.
+  source: www.diffordsguide.com (1895)
+ingredients: 
+- - "1 1/2 "
+  - shot
+  - Bombay London dry gin
+- - "1"
+  - shot
+  - Grand Marnier liqueur
+- - " 1/4 "
+  - shot
+  - Pomegranate (grenadine) syrup
+- - "1 1/2 "
+  - shot
+  - Freshly squeezed orange juice
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+name: Summer Time Martini
+rate: 3.5

@@ -1,0 +1,19 @@
+--- !ruby/object:DirtyCocktail 
+garnish: 
+glass: Shot
+infos: 
+  Comment: Sweet, sticky and strong.
+  source: www.diffordsguide.com (1497)
+ingredients: 
+- - " 1/2 "
+  - shot
+  - Ketel One Citroen vodka
+- - " 1/2 "
+  - shot
+  - Soho lychee liqueur
+- - " 1/2 "
+  - shot
+  - Belle de Brillet pear liqueur
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+name: Pear Drop
+rate: 3.5

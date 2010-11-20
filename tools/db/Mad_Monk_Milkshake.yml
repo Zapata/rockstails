@@ -1,0 +1,26 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Tie chord around glass
+glass: Collins
+infos: 
+  Comment: Long, creamy and slightly sweet with hazelnut and coffee.
+  Variant: Blend instead of shaking and serve frozen.
+  source: www.diffordsguide.com (1215)
+ingredients: 
+- - "1"
+  - shot
+  - Baileys Irish cream liqueur
+- - "2"
+  - shot
+  - Hazelnut liqueur
+- - " 1/4 "
+  - shot
+  - Kahla coffee liqueur
+- - "2"
+  - shot
+  - Milk
+- - "1"
+  - shot
+  - Double (heavy) cream
+method: SHAKE all ingredients with ice and strain into ice-filled glass.
+name: Mad Monk Milkshake
+rate: 3.5

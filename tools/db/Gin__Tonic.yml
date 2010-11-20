@@ -1,0 +1,19 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Run lime wedge around rim of glass. Squeeze and drop into drink.
+glass: Collins
+infos: 
+  Comment: This might not be considered a cocktail by most, but it is actually classified as a Highball. Whatever, it's one of the simplest and best drinks ever devised, hence its lasting popularity.
+  Origin: |-
+    The precise origin of the G&amp;T is lost in the mists of time. Gin (or at least a grain based juniper spirit) was drunk for medicinal reasons from the 1600s onwards. Quinine, the pungent bark extract which gives tonic its distinctive bitterness, had been used against malaria for even longer. The first known quinine-based tonics were marketed during the 1850's.
+    <br /><br />The popularity of tonic in the British colonies, especially India, is clear. Schweppes launched their first carbonated quinine tonic in 1870, branding it Indian Tonic Water. The ladies and gentlemen of the Raj also drank phenomenal quantities of gin. It is therefore accepted that gin and tonic emerged in India during the second half of the nineteenth century and was drunk partly to ward off malaria.
+  source: www.diffordsguide.com (835)
+ingredients: 
+- - "2"
+  - shot
+  - Bombay London dry gin
+- - "1"
+  - top up with
+  - Tonic water
+method: POUR ingredients into ice-filled glass, stir and serve without straws.
+name: Gin & Tonic
+rate: 4.5

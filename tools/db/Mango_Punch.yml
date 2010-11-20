@@ -1,0 +1,23 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Mango slice (dried or fresh)
+glass: Collins
+infos: 
+  Comment: A distinctly tropical cocktail flavoured with mango.
+  Origin: Formula by Yours Truly (Simon Difford) in 2004.
+  source: www.diffordsguide.com (1243)
+ingredients: 
+- - "2"
+  - shot
+  - Wray & Nephew overproof rum
+- - "3"
+  - shot
+  - Mango pure
+- - " 3/4 "
+  - shot
+  - Freshly squeezed lime juice
+- - " 3/4 "
+  - shot
+  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+method: SHAKE all ingredients with ice and fine strain into glass filled with crushed ice.
+name: Mango Punch
+rate: 4.0

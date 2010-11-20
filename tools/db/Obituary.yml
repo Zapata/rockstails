@@ -1,0 +1,19 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Olive in stick<br />
+glass: Martini
+infos: 
+  Comment: What a way to go. A Dry Martini with a dash of the green fairy.
+  source: www.diffordsguide.com (2720)
+ingredients: 
+- - "2"
+  - shot
+  - Bombay London dry gin
+- - " 1/8 "
+  - shot
+  - "La F\xE9e Parisienne (68%) absinthe"
+- - " 1/4 "
+  - shot
+  - Noilly Prat dry vermouth
+method: STIR all ingredients with ice and strain into chilled glass.<br />
+name: Obituary
+rate: 4.0

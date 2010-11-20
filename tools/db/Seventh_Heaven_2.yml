@@ -1,0 +1,20 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Mint leaf
+glass: Martini
+infos: 
+  Comment: Drink this and you'll be there.
+  Origin: Adapted from the Seventh Heaven No.2 recipe in Harry Craddock's 1930 Savoy Cocktail Book.
+  source: www.diffordsguide.com (1764)
+ingredients: 
+- - "2 1/4 "
+  - shot
+  - Bombay London dry gin
+- - " 3/4 "
+  - shot
+  - Luxardo maraschino liqueur
+- - "1 1/2 "
+  - shot
+  - Freshly squeezed grapefruit juice
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+name: "Seventh Heaven #2"
+rate: 4.5

@@ -1,0 +1,26 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Mint sprig
+glass: Collins
+infos: 
+  Comment: A fruit-led long drink for gin-loving Bowie fans.
+  Origin: Adapted from a drink created in 2002 by Wayne Collins, UK.
+  source: www.diffordsguide.com (842)
+ingredients: 
+- - "8"
+  - fresh
+  - Mint leaves
+- - "1 1/2 "
+  - shot
+  - Bombay London dry gin
+- - "1"
+  - shot
+  - Sloe Gin liqueur
+- - "1"
+  - shot
+  - Freshly squeezed lemon juice
+- - " 1/2 "
+  - shot
+  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+method: Lightly MUDDLE mint in base of shaker (just to bruise). Add other ingredients, SHAKE with ice and strain into glass filled with crushed ice.
+name: Gin Genie
+rate: 4.0

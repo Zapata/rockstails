@@ -1,0 +1,32 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Lemon zest twist
+glass: Martini
+infos: 
+  Comment: To quote Vic, &quot;You know that adios means good-bye. You drink two or three of these, and it's adios, believe me, it's adios.&quot;
+  Origin: Adapted from Victor Bergeron's 'Trader Vic's Bartender's Guide' (1972 revised edition).
+  source: www.diffordsguide.com (512)
+ingredients: 
+- - "1"
+  - shot
+  - Bacardi Superior rum
+- - " 1/2 "
+  - shot
+  - Courvoisier V.S.O.P cognac
+- - " 1/2 "
+  - shot
+  - Bombay London dry gin
+- - " 1/2 "
+  - shot
+  - Noilly Prat dry vermouth
+- - " 1/4 "
+  - shot
+  - Freshly squeezed lime juice
+- - " 1/4 "
+  - shot
+  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- - " 1/2 "
+  - shot
+  - Chilled mineral water
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+name: Adios Amigos Cocktail
+rate: 3.5

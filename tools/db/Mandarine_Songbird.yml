@@ -1,0 +1,22 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Orange slice
+glass: Collins
+infos: 
+  Comment: Long, spicy orange.
+  source: www.diffordsguide.com (1233)
+ingredients: 
+- - "2"
+  - shot
+  - Mandarine Napolon liqueur
+- - " 1/2 "
+  - shot
+  - Freshly squeezed lemon juice
+- - " 3/4 "
+  - shot
+  - Freshly squeezed orange juice
+- - "1"
+  - top up with
+  - Ginger beer
+method: SHAKE first 3 ingredients with ice and fine strain into ice-filled glass. TOP with ginger beer.
+name: Mandarine Songbird
+rate: 3.0

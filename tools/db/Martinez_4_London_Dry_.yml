@@ -1,0 +1,25 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Orange zest twist<br />
+glass: Martini
+infos: 
+  Comment: Aromatic, complex and very dry.
+  source: www.diffordsguide.com (2490)
+ingredients: 
+- - "2"
+  - shot
+  - Bombay London dry gin
+- - " 1/2 "
+  - shot
+  - Martini Rosso sweet vermouth
+- - " 1/4 "
+  - shot
+  - Noilly Prat dry vermouth
+- - " 1/8 "
+  - shot
+  - Luxardo maraschino liqueur
+- - "1"
+  - dash
+  - Angostura aromatic bitters
+method: STIR ingredients with ice and fine strain into chilled glass.
+name: "Martinez #4 (London Dry) "
+rate: 4.0

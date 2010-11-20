@@ -1,0 +1,22 @@
+--- !ruby/object:DirtyCocktail 
+garnish: 
+glass: Collins
+infos: 
+  Comment: Dark spirits tamed by thick maple syrup and milk.
+  source: www.diffordsguide.com (337)
+ingredients: 
+- - "1"
+  - shot
+  - Bacardi Superior rum
+- - "1 1/2 "
+  - shot
+  - Courvoisier V.S.O.P cognac
+- - "4"
+  - shot
+  - Milk
+- - " 1/2 "
+  - shot
+  - Maple syrup
+method: SHAKE all ingredients with ice and strain into ice-filled glass.
+name: Bull's Milk
+rate: 3.5

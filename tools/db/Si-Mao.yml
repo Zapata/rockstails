@@ -1,0 +1,23 @@
+--- !ruby/object:DirtyCocktail 
+garnish: <br _moz_editor_bogus_node="TRUE" />
+glass: Shot
+infos: 
+  Comment: A whiskey laced shot(s) with a hint of banana.
+  Origin: Adapted from a drink discovered in 2010 at Nobu Berkeley, London, England.<br />
+  source: www.diffordsguide.com (2850)
+ingredients: 
+- - "1"
+  - shot
+  - Jack Daniels Tennessee whiskey
+- - " 1/2 "
+  - fresh
+  - Banana (peeled)
+- - " 1/4 "
+  - shot
+  - Freshly squeezed orange juice
+- - " 1/4 "
+  - shot
+  - Freshly squeezed lemon juice
+method: SHAKE all ingredients with ice and fine strain into chilled glass.<br />
+name: Si-Mao
+rate: 3.5

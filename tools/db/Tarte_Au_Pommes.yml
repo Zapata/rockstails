@@ -1,0 +1,26 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Apple chevron
+glass: Collins
+infos: 
+  Comment: Rich in flavour and well balanced
+  Origin: Created in 2001 by Jamie Stephenson at The Lock, Manchester, England.
+  source: www.diffordsguide.com (1920)
+ingredients: 
+- - "1"
+  - shot
+  - Boulard Grand Solage calvados
+- - " 1/2 "
+  - shot
+  - "Cr\xE8me de cassis liqueur"
+- - " 1/4 "
+  - shot
+  - Goldschlager cinnamon schnapps
+- - "4"
+  - shot
+  - Ocean Spray cranberry juice
+- - "3"
+  - dash
+  - Angostura aromatic bitters
+method: SHAKE all ingredients with ice and strain into ice-filled glass.
+name: Tarte Au Pommes
+rate: 4.0

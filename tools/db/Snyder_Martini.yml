@@ -1,0 +1,20 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Orange zest twist
+glass: Martini
+infos: 
+  Comment: Dry, hardcore and yet mellow.
+  Origin: Adapted from a recipe in Harry Craddock's 1930 Savoy Cocktail Book.
+  source: www.diffordsguide.com (1788)
+ingredients: 
+- - "2"
+  - shot
+  - Bombay London dry gin
+- - "1"
+  - shot
+  - Noilly Prat dry vermouth
+- - " 1/4 "
+  - shot
+  - Grand Marnier liqueur
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+name: Snyder Martini
+rate: 4.0

@@ -1,0 +1,16 @@
+--- !ruby/object:DirtyCocktail 
+garnish: 
+glass: Collins
+infos: 
+  Comment: Simple but pleasant.
+  source: www.diffordsguide.com (1352)
+ingredients: 
+- - "2"
+  - shot
+  - Bacardi Oro golden rum
+- - "1"
+  - top up with
+  - Freshly squeezed grapefruit juice
+method: POUR rum into ice-filled glass. Top with grapefruit juice, stir and serve with straws.
+name: Monkey Wrench
+rate: 3.5

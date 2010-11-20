@@ -1,0 +1,26 @@
+--- !ruby/object:DirtyCocktail 
+garnish: Dust with nutmeg<br />
+glass: Old-fashioned
+infos: 
+  Comment: Spicy, fruity tequila served in a style synonymous with the Crescent City - full on!
+  Origin: "Adapted from a drink created in 2005 at Pirates Alley Caf, New Orleans, and named after the hurricane which devastated the city in 2005. The name is an acronym of its original ingredients: Kahla, Absinthe, Tequila,  Raspberry, Ice, Nutmeg and Apple juice."
+  source: www.diffordsguide.com (2703)
+ingredients: 
+- - "2"
+  - shot
+  - Herradura 100% agave tequila
+- - " 1/4 "
+  - shot
+  - Kahla coffee liqueur
+- - " 1/8 "
+  - shot
+  - "La F\xE9e Parisienne (68%) absinthe"
+- - " 1/4 "
+  - shot
+  - Chambord
+- - "1"
+  - shot
+  - Pressed apple juice
+method: SHAKE all ingredients with ice and fine strain into chilled glass. No ice!
+name: Katrina Cocktail
+rate: 3.0
