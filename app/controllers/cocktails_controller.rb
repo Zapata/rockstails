@@ -15,8 +15,6 @@ class CocktailsController < ApplicationController
   # GET /cocktails/1.xml
   def show
     @cocktail = Cocktail.find(params[:id])
-    @ingredients = @cocktail.ingredients
-    puts @ingredients
     respond_to do |format|
       format.html # show.html.erb
       format.xml  { render :xml => @cocktail }

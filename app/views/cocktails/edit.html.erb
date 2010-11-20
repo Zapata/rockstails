@@ -13,7 +13,7 @@
 <% end %>
 
 <h2>Ingredients</h2>
-
+<%= render :partial => "ingredients/ingredient", :collection => @cocktail.ingredients %>
 
 <%= link_to 'Select ingredient to add', select_ingredient_cocktail_path(@cocktail) %> |
 <%= link_to 'Show', @cocktail %> |
