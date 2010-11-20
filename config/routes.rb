@@ -1,4 +1,6 @@
 ActionController::Routing::Routes.draw do |map|
+  map.resources :welcome
+
   map.resources :ingredients
 
   map.resources :cocktails, :member => {:select_ingredient => :get, :add_ingredient => :put}
