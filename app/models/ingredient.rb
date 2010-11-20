@@ -1,3 +1,5 @@
-class Ingredient < ActiveRecord::Base
-  has_many :compositions, :dependent => :delete_all
+class Ingredient
+  include MongoMapper::Document
+
+  key :name,  String, :require => true
 end

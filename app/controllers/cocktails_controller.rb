@@ -74,7 +74,9 @@ class CocktailsController < ApplicationController
   # GET /cocktail/1/select_ingredient
   def select_ingredient
     @cocktail = Cocktail.find(params[:id])
-    @ingredients = Ingredient.find(:all, :order => "name")
+    @ingredients = Ingredient.find(:all)
+    puts @cocktail
+    puts @ingredients
   end
 
   # PUT /cocktail/1/add_ingredient
