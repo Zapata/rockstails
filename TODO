@@ -1,0 +1,61 @@
+Rules
+===============
+- keep it in order of priority, 
+- higher priority tasks are more described than lower priority taks
+- estimate tasks in story points (complexity)
+- describes entries as user stories (who can do what)
+
+Product Backlog
+===============
+* Developper can acess a database with all cocktails in it
+* User could get a cocktail from his name
+* User could list all cocktails avaiable
+* User could filter cocktails by ingredients (list), glass, rate, ...
+* User could sort cocktails by ingredients, glass, rate, ...
+* User could list ingredients
+* User could see statistics (nb of cocktails, sum of rate, ...) 
+  on each ingredient
+* User could see statistics on list of ingredients
+* User could sort ingredients using a statistic value
+* User could sort ingredients using a customized formula
+* Developper could add bars (list of ingredients avaiable)
+* User could list all cocktails avaiable using a bar context
+* User could list all ingredients avaible using a bar context
+* User could see statistics on ingredients using a context
+* User could see overall statistics of a bar
+* User could get the ingredient that improve the more the given 
+  (even costumized) overall statistic of the bar
+* User could have the best (given a statistic) subset of a bar 
+  limiting the number of ingredients
+* User could fix some ingredients when calculated the best subset
+* Developper could clean all cocktails to have nice volumes 
+ (no more top up with...)
+* User could see the volume of each cocktail
+* Developper could add prices and lot size for all ingredients
+* User could see the price of a cocktail 
+* User could limit the price when searching the best subset
+* User should be able to use a statistic based on a ratio stat/price
+  on search/sort using a statistic 
+
+Ideas
+===============
+ prix d'un cocktail
+ meilleur ingredient a acheter en nb de cocktails, en note
+ meilleur ingredient pour completer un cocktail, en nb de cocktails, en note
+ meilleur ensemble d'ingredients (en note, en nb de cocktails)
+ meilleur ensemble d'ingredients parmis un nombre limite d'ingredients
+ pouvoir inserer et enregistrer un bar
+ pouvoir utilise un bar enregistre pour les recherches
+ calculer le nb de centilitres d'un cocktail
+ pouvoir ajouter un cocktail manuellement
+ nettoyer les donnes pour que toutes les dozes imprecises soit precises
+ pouvoir mettre des quantites dans le bar
+ calculer le nb de bouteilles necessaire pour une quantitee de cocktail donnee
+ calculer la quantite de cocktails possibles (parmis une liste) avec un bar donne
+ pouvoir avoir plusieurs prix par ingredients
+ pouvoir hierarchiser les ingredients
+ proposer des ingredients alternatifs au cocktails
+ inserer les prix des ingredients
+ pouvoir chercher les cocktails faisable pour un bar donne
+ pouvoir chercher un cocktail par liste d'ingredients, note, type de verre, ...
+ 
