@@ -44,4 +44,4 @@ Rails::Initializer.run do |config|
 
 end
 
-MongoMapper.database = "myappname-#{Rails.env}"
+MongoMapper.database = "rockstails-#{Rails.env}"
