@@ -6,7 +6,7 @@
 </p>
 
 <h2>Ingredients</h2>
-<%= render "ingredients/ingredient", :collection => @cocktail.ingredients %> 
+<%= render :partial => "ingredients/ingredient", :collection => @cocktail.ingredients %> 
 
 <%= link_to 'Edit', edit_cocktail_path(@cocktail) %> |
 <%= link_to 'Back', cocktails_path %>
