@@ -1,4 +1,6 @@
-class Cocktail < ActiveRecord::Base
-  has_many :compositions, :dependent => :delete_all
-  has_many :ingredients, :through => :compositions
+class Cocktail
+  include MongoMapper::Document
+
+  key :name,  String, :require => true
+  many :ingredients
 end
