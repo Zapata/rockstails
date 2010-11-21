@@ -1,3 +1,5 @@
-tmp
-log
-*.sqlite3
+.bundle
+db/*.sqlite3
+log/*.log
+tmp/**/*
+Gemfile.lock
