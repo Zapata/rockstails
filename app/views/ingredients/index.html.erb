@@ -3,11 +3,14 @@
 <table>
   <tr>
     <th>Name</th>
+    <th></th>
+    <th></th>
+    <th></th>
   </tr>
 
 <% @ingredients.each do |ingredient| %>
   <tr>
-    <td><%=h ingredient.name %></td>
+    <td><%= ingredient.name %></td>
     <td><%= link_to 'Show', ingredient %></td>
     <td><%= link_to 'Edit', edit_ingredient_path(ingredient) %></td>
     <td><%= link_to 'Destroy', ingredient, :confirm => 'Are you sure?', :method => :delete %></td>
@@ -17,4 +20,4 @@
 
 <br />
 
-<%= link_to 'New ingredient', new_ingredient_path %>
+<%= link_to 'New Ingredient', new_ingredient_path %>

@@ -1,0 +1,14 @@
+development:
+  adapter: mongodb
+  host: localhost
+  database: rockstails
+
+test: &TEST
+  adapter: mongodb
+  host: localhost
+  database: rockstails_test
+
+production:
+  adapter: mongodb
+  host: localhost
+  database: rockstails

@@ -44,8 +44,7 @@ class IngredientsController < ApplicationController
 
     respond_to do |format|
       if @ingredient.save
-        flash[:notice] = 'Ingredient was successfully created.'
-        format.html { redirect_to(@ingredient) }
+        format.html { redirect_to(@ingredient, :notice => 'Ingredient was successfully created.') }
         format.xml  { render :xml => @ingredient, :status => :created, :location => @ingredient }
       else
         format.html { render :action => "new" }
@@ -61,8 +60,7 @@ class IngredientsController < ApplicationController
 
     respond_to do |format|
       if @ingredient.update_attributes(params[:ingredient])
-        flash[:notice] = 'Ingredient was successfully updated.'
-        format.html { redirect_to(@ingredient) }
+        format.html { redirect_to(@ingredient, :notice => 'Ingredient was successfully updated.') }
         format.xml  { head :ok }
       else
         format.html { render :action => "edit" }

@@ -3,7 +3,12 @@ Rockstails::Application.routes.draw do
 
   resources :ingredients
 
-  resources :cocktails, :member => {:select_ingredient => :get, :add_ingredient => :put}
+  resources :cocktails do
+    member do
+      get :select_ingredient
+      put :add_ingredient
+    end
+  end
 
   # The priority is based upon order of creation:
   # first created -> highest priority.

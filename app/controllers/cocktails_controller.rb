@@ -1,5 +1,4 @@
 class CocktailsController < ApplicationController
-
   # GET /cocktails
   # GET /cocktails.xml
   def index
@@ -15,6 +14,7 @@ class CocktailsController < ApplicationController
   # GET /cocktails/1.xml
   def show
     @cocktail = Cocktail.find(params[:id])
+
     respond_to do |format|
       format.html # show.html.erb
       format.xml  { render :xml => @cocktail }
@@ -44,8 +44,7 @@ class CocktailsController < ApplicationController
 
     respond_to do |format|
       if @cocktail.save
-        flash[:notice] = 'Cocktail was successfully created.'
-        format.html { redirect_to(@cocktail) }
+        format.html { redirect_to(@cocktail, :notice => 'Cocktail was successfully created.') }
         format.xml  { render :xml => @cocktail, :status => :created, :location => @cocktail }
       else
         format.html { render :action => "new" }
@@ -61,8 +60,7 @@ class CocktailsController < ApplicationController
 
     respond_to do |format|
       if @cocktail.update_attributes(params[:cocktail])
-        flash[:notice] = 'Cocktail was successfully updated.'
-        format.html { redirect_to(@cocktail) }
+        format.html { redirect_to(@cocktail, :notice => 'Cocktail was successfully updated.') }
         format.xml  { head :ok }
       else
         format.html { render :action => "edit" }

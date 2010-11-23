@@ -1,16 +1,6 @@
-<h1>Editing cocktail: <%= @cocktail.name %></h1>
+<h1>Editing cocktail</h1>
 
-<% form_for(@cocktail) do |f| %>
-  <%= f.error_messages %>
-
-  <p>
-    <%= f.label :name %><br />
-    <%= f.text_field :name %>
-  </p>
-  <p>
-    <%= f.submit 'Update' %>
-  </p>
-<% end %>
+<%= render 'form' %>
 
 <h2>Ingredients</h2>
 <%= render :partial => "ingredients/ingredient", :collection => @cocktail.ingredients %>
