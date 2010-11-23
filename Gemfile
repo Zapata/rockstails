@@ -2,9 +2,13 @@ source 'http://rubygems.org'
 
 gem 'rails', '3.0.3'
 
+# Additive rails 3 generators
+gem 'rails3-generators'
+
 # Use mongoDB
-#gem 'bson_ext'
+gem 'bson_ext'
 gem 'mongo_mapper'
+# gem 'machinist_mongo'
 
 # Deploy with Heroku
 gem 'heroku'
