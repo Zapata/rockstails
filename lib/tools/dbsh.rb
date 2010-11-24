@@ -1,7 +1,8 @@
 #! /usr/bin/env ruby
 
 require 'yaml'
-require 'facets/array/combination'
+# not needed in ruby 1.9
+# require 'facets/array/combination'
 require 'pp'
 require 'lib/dirty_cocktail'
 
