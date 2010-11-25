@@ -1,9 +1,10 @@
-require 'test_helper'
+# TODO: why is this needed and not in CocktailsControllerTest?
+require 'functional/abstract_controller_test'
 
-class IngredientsControllerTest < ActionController::TestCase
-  setup do
-    @ingredient = ingredients(:one)
-  end
+class IngredientsControllerTest < AbstractControllerTest
+#  setup do
+#    @ingredient = ingredients(:one)
+#  end
 
   test "should get index" do
     get :index

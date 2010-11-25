@@ -1,11 +1,4 @@
-require 'test_helper'
-
-class CocktailsControllerTest < ActionController::TestCase
-  setup do
-    @request.env["HTTP_AUTHORIZATION"] = "Basic " + Base64::encode64("cocktail:french75")
-    init_cocktails()
-    @cocktail = @cocktails.first
-  end
+class CocktailsControllerTest < AbstractControllerTest
 
   test "should get index" do
     get :index
