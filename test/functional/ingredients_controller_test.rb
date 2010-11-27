@@ -2,9 +2,6 @@
 require 'functional/abstract_controller_test'
 
 class IngredientsControllerTest < AbstractControllerTest
-#  setup do
-#    @ingredient = ingredients(:one)
-#  end
 
   test "should get index" do
     get :index
@@ -19,7 +16,7 @@ class IngredientsControllerTest < AbstractControllerTest
 
   test "should create ingredient" do
     assert_difference('Ingredient.count') do
-      post :create, :ingredient => @ingredient.attributes
+      post :create, :ingredient => { :name => "Test" }
     end
 
     assert_redirected_to ingredient_path(assigns(:ingredient))

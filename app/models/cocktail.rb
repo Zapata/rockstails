@@ -24,7 +24,9 @@ private
       if(existing_ingredient)
         self.ingredients << existing_ingredient
       else
-        self.ingredients << Ingredient.new.copy_from(dirty_ingredient)
+        ing = Ingredient.new
+        ing.copy_from(dirty_ingredient)
+        self.ingredients << ing
       end
     end
   end

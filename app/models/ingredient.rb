@@ -5,6 +5,7 @@ class Ingredient
 
   def copy_from ingredient
     # dirty cocktail ingredients : [ amount, doze, ingredient_name ]
-    @name = ingredient[2]
+    # convert it from yaml's iso to mongo's utf-8
+    @name = Iconv.conv('utf-8', 'ISO-8859-1', ingredient[2])
   end
 end

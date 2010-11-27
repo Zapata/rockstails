@@ -5,3 +5,9 @@
 #
 #   cities = City.create([{ :name => 'Chicago' }, { :name => 'Copenhagen' }])
 #   Mayor.create(:name => 'Daley', :city => cities.first)
+require 'yaml'
+require 'tools/lib/dirty_cocktail'
+
+Dir[Rails.root.join("lib/tools/db", "**", "*.yml")].each do |f|
+  Cocktail.new.copy_from(YAML::load_file(f))
+end

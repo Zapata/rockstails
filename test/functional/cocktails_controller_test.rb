@@ -13,7 +13,7 @@ class CocktailsControllerTest < AbstractControllerTest
 
   test "should create cocktail" do
     assert_difference('Cocktail.count') do
-      post :create, :cocktail => @cocktail.attributes
+      post :create, :cocktail => { :name => "Toto" }
     end
 
     assert_redirected_to cocktail_path(assigns(:cocktail))
