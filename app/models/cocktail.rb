@@ -9,16 +9,24 @@ class Cocktail
     @name = dirty_cocktail.name
 
     # ingredients
+    # TODO: whis is @ingredients nil? for the moment deactivated
+    copy_ingredients_from dirty_cocktail 
+    return self
+  end
+
+private
+  def copy_ingredients_from dirty_cocktail
     dirty_cocktail.ingredients.each do |dirty_ingredient|
       # dirty cocktail ingredients : [ amount, doze, ingredient_name ]
       existing_ingredient = Ingredient.first( :name => dirty_ingredient[2] )
-      # TODO: whis is @ingredients nil?
+      
+      # use self to use MongoMapper interceptors
       if(existing_ingredient)
-        @ingredients << existing_ingredient
+        self.ingredients << existing_ingredient
       else
-        @ingredients << Ingredient.new.copy_from(dirty_ingredient)
+        self.ingredients << Ingredient.new.copy_from(dirty_ingredient)
       end
     end
-    return self
   end
+
 end
