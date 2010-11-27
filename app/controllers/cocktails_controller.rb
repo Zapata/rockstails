@@ -13,7 +13,7 @@ class CocktailsController < ApplicationController
   # GET /cocktails/1
   # GET /cocktails/1.xml
   def show
-    @cocktail = Cocktail.first([ params[:id] ])
+    @cocktail = Cocktail.find(params[:id])
 
     respond_to do |format|
       format.html # show.html.erb
@@ -34,7 +34,7 @@ class CocktailsController < ApplicationController
 
   # GET /cocktails/1/edit
   def edit
-    @cocktail = Cocktail.first([ params[:id] ])
+    @cocktail = Cocktail.find(params[:id])
   end
 
   # POST /cocktails
@@ -56,7 +56,7 @@ class CocktailsController < ApplicationController
   # PUT /cocktails/1
   # PUT /cocktails/1.xml
   def update
-    @cocktail = Cocktail.first([ params[:id] ])
+    @cocktail = Cocktail.find(params[:id])
 
     respond_to do |format|
       if @cocktail.update_attributes(params[:cocktail])
@@ -71,15 +71,16 @@ class CocktailsController < ApplicationController
 
   # GET /cocktail/1/select_ingredient
   def select_ingredient
-    @cocktail = Cocktail.first([ params[:id] ])
+    @cocktail = Cocktail.find(params[:id])
     @ingredients = Ingredient.all
+    @cocktail.toto
   end
 
   # PUT /cocktail/1/add_ingredient
   # PUT /cocktail/1/add_ingredient.xml
   def add_ingredient
-    @cocktail = Cocktail.first([ params[:id] ])
-    @ingredient = Ingredient.first([ params["ingredient"]["id"] ])
+    @cocktail = Cocktail.find(params[:id])
+    @ingredient = Ingredient.find(params["ingredient"]["id"])
 
     respond_to do |format|
       if @cocktail.ingredients << @ingredient
@@ -96,7 +97,7 @@ class CocktailsController < ApplicationController
   # DELETE /cocktails/1
   # DELETE /cocktails/1.xml
   def destroy
-    @cocktail = Cocktail.first([ params[:id] ])
+    @cocktail = Cocktail.find(params[:id])
     @cocktail.destroy
 
     respond_to do |format|

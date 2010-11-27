@@ -13,7 +13,7 @@ class IngredientsController < ApplicationController
   # GET /ingredients/1
   # GET /ingredients/1.xml
   def show
-    @ingredient = Ingredient.first([ params[:id] ])
+    @ingredient = Ingredient.find(params[:id])
 
     respond_to do |format|
       format.html # show.html.erb
@@ -34,7 +34,7 @@ class IngredientsController < ApplicationController
 
   # GET /ingredients/1/edit
   def edit
-    @ingredient = Ingredient.first([ params[:id] ])
+    @ingredient = Ingredient.find(params[:id])
   end
 
   # POST /ingredients
@@ -56,7 +56,7 @@ class IngredientsController < ApplicationController
   # PUT /ingredients/1
   # PUT /ingredients/1.xml
   def update
-    @ingredient = Ingredient.first([ params[:id] ])
+    @ingredient = Ingredient.find(params[:id])
 
     respond_to do |format|
       if @ingredient.update_attributes(params[:ingredient])
@@ -72,7 +72,7 @@ class IngredientsController < ApplicationController
   # DELETE /ingredients/1
   # DELETE /ingredients/1.xml
   def destroy
-    @ingredient = Ingredient.first([ params[:id] ])
+    @ingredient = Ingredient.find(params[:id])
     @ingredient.destroy
 
     respond_to do |format|
