@@ -1,13 +1,16 @@
 <h1>Select one ingredient to add</h1>
 
-<% form_tag(add_ingredient_cocktail_path, :method=>'put') do %>
-  <p>
-    Ingredient:<br />
-    <%= collection_select(:ingredient, :id, @ingredients, :id, :name, :class => "ingredient") %>
-  </p>
-  <p>
-    <%= submit_tag 'Add' %>
-  </p>
+<%= form_for @composition, :url => 'add_ingredient', :html => { :method => :put }  do |f| %>
+    <%= f.label :amount %>:
+    <%= f.text_field :amount %><br />
+
+    <%= f.label :doze %>:
+    <%= f.text_field :doze %><br />
+
+    <%= f.label :ingredient %>:
+    <%= collection_select(:ingredient, :id, @ingredients, :id, :name, :class => "ingredient") %><br />
+
+    <%= f.submit %>
 <% end %>
 
 <%= link_to 'Back', @cocktail %>
