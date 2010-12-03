@@ -9,7 +9,6 @@ class Cocktail
     @name = dirty_cocktail.name
 
     # ingredients
-    # TODO: whis is @ingredients nil? for the moment deactivated
     copy_ingredients_from dirty_cocktail 
     return self
   end
