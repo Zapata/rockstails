@@ -4,6 +4,7 @@
   <p>
     Ingredient:<br />
     <%= collection_select(:ingredient, :id, @ingredients, :id, :name, :class => "ingredient") %>
+  </p>
   <p>
     <%= submit_tag 'Add' %>
   </p>
