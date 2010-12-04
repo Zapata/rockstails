@@ -1,7 +1,7 @@
 class Cocktail
   include MongoMapper::Document
 
-  key :name,  String, :require => true
+  key :name,  String, :require => true, :index => true
   many :compositions
 
   def copy_from dirty_cocktail

@@ -2,7 +2,11 @@ class CocktailsController < ApplicationController
   # GET /cocktails
   # GET /cocktails.xml
   def index
-    @cocktails = Cocktail.all
+
+    @pager = Paginator.new(Cocktail.count, 20) do |offset, per_page|
+	    Cocktail.all(:offset => offset, :limit => per_page, :order => 'name asc')
+	  end
+	  @cocktails = @pager.page(params[:page])
 
     respond_to do |format|
       format.html # index.html.erb

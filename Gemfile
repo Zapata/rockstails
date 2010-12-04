@@ -9,6 +9,7 @@ gem 'rails3-generators'
 gem 'bson_ext'
 gem 'mongo_mapper'
 # gem 'machinist_mongo'
+gem 'paginator'
 
 # Deploy with Heroku
 gem 'heroku'

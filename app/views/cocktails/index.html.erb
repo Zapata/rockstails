@@ -20,4 +20,10 @@
 
 <br />
 
+Page <%= @cocktails.number %> -
+<%= link_to("Prev", cocktails_path(:page => @cocktails.prev.number)) if @cocktails.prev? %>
+<%= link_to("Next", cocktails_path(:page => @cocktails.next.number)) if @cocktails.next? %>
+<br />
+
+
 <%= link_to 'New Cocktail', new_cocktail_path %>
