@@ -1,4 +1,5 @@
 Rockstails::Application.routes.draw do
+  root :to => 'welcome#index'
   match '/welcome' => 'welcome#index'
 
   resources :ingredients
