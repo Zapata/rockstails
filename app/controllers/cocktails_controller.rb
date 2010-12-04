@@ -1,3 +1,6 @@
+require 'yaml'
+require 'tools/lib/dirty_cocktail'
+
 class CocktailsController < ApplicationController
   # GET /cocktails
   # GET /cocktails.xml
@@ -107,6 +110,21 @@ class CocktailsController < ApplicationController
   def destroy
     @cocktail = Cocktail.find(params[:id])
     @cocktail.destroy
+
+    respond_to do |format|
+      format.html { redirect_to(cocktails_url) }
+      format.xml  { head :ok }
+    end
+  end
+
+  def add_ten_random
+
+    files = Dir[Rails.root.join("lib/tools/db", "**", "*.yml")]
+
+    10.times do
+      nb = rand(files.length)
+      Cocktail.new.copy_from(YAML::load_file(files[nb])).save
+    end   
 
     respond_to do |format|
       format.html { redirect_to(cocktails_url) }

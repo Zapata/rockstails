@@ -4,6 +4,9 @@ Rockstails::Application.routes.draw do
   resources :ingredients
 
   resources :cocktails do
+    collection do
+      get :add_ten_random
+    end
     member do
       get :select_ingredient
       put :add_ingredient

@@ -1,6 +1,6 @@
 require 'test_helper'
-require 'yaml'
-require 'tools/lib/dirty_cocktail'
+# require 'yaml'
+# require 'tools/lib/dirty_cocktail'
 
 class AbstractControllerTest < ActionController::TestCase
   setup do
