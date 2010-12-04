@@ -45,12 +45,13 @@ private
       doze = dirty_ingredient[1]
       ingredient_name = to_utf8 dirty_ingredient[2]
 
-      existing_ingredient = Ingredient.first( :name => ingredient_name )
+      # "dirty cocktails" come from difford's cocktails
+      existing_ingredient = Ingredient.first( :diffords_name => ingredient_name )
 
       if(existing_ingredient)
         ingredient = existing_ingredient
       else
-        ingredient = Ingredient.new(:name => ingredient_name)
+        ingredient = Ingredient.new(:name => ingredient_name, :diffords_name => ingredient_name)
         ingredient.save
       end
 
