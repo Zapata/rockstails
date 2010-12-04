@@ -31,6 +31,10 @@ class Cocktail
     copy_ingredients_from dirty_cocktail 
     return self
   end
+  
+  def compo_summary
+    "#{compositions[0..2].join(', ')} #{compositions.length > 2 ? '...' : ''}"
+  end
 
 private
   def to_utf8 iso

@@ -6,5 +6,9 @@ class Composition
 
   belongs_to :ingredient
   key :ingredient_id, ObjectId, :require => true
+  
+  def to_s
+    ingredient.name
+  end
 end
 

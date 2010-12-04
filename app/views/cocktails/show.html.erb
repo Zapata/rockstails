@@ -47,4 +47,5 @@
 
 <%= link_to 'Select ingredient to add', select_ingredient_cocktail_path(@cocktail) %> |
 <%= link_to 'Edit', edit_cocktail_path(@cocktail) %> |
+<%= link_to 'Destroy', @cocktail, :confirm => 'Are you sure?', :method => :delete %> |
 <%= link_to 'Back', cocktails_path %>
