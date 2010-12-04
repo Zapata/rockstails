@@ -2,7 +2,10 @@ class IngredientsController < ApplicationController
   # GET /ingredients
   # GET /ingredients.xml
   def index
-    @ingredients = Ingredient.all
+    @pager = Paginator.new(Ingredient.count, 20) do |offset, per_page|
+	    Ingredient.all(:offset => offset, :limit => per_page, :order => 'name asc')
+	  end
+	  @ingredients = @pager.page(params[:page])
 
     respond_to do |format|
       format.html # index.html.erb

@@ -20,4 +20,9 @@
 
 <br />
 
+Page <%= @ingredients.number %> -
+<%= link_to("Prev", ingredients_path(:page => @ingredients.prev.number)) if @ingredients.prev? %>
+<%= link_to("Next", ingredients_path(:page => @ingredients.next.number)) if @ingredients.next? %>
+<br />
+
 <%= link_to 'New Ingredient', new_ingredient_path %>
