@@ -13,28 +13,30 @@
   <%= @cocktail.aka %>
 </p>
 <p>
-  <b>Comment:</b>
-  <%= @cocktail.comment %>
-</p>
-<p>
-  <b>Origin:</b>
-  <%= @cocktail.origin %>
-</p>
-<p>
-  <b>Source:</b>
-  <%= @cocktail.source %>
-</p>
-<p>
-  <b>Method:</b>
-  <%= @cocktail.method %>
-</p>
-<p>
   <b>Rate:</b>
   <%= @cocktail.rate %>
 </p>
+<fieldset>
+  <p>
+    <b>Method:</b>
+  </p>
+    <%= raw(@cocktail.method) %>
+  <p>
+    <b>Comment:</b>
+  </p>
+    <%= raw(@cocktail.comment) %>
+  <p>
+    <b>Origin:</b>
+  </p>
+    <%= raw(@cocktail.origin) %>
+  <p>
+    <b>Garnish:</b>
+  </p>
+    <%= raw(@cocktail.garnish) %>
+</fieldset>
 <p>
-  <b>Garnish:</b>
-  <%= @cocktail.garnish %>
+  <b>Source:</b>
+  <%= @cocktail.source %>
 </p>
 <h2>Ingredients</h2>
 <%= render :partial => "compositions/composition", :collection => @cocktail.compositions %>
