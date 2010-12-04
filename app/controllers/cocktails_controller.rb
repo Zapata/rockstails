@@ -117,6 +117,7 @@ class CocktailsController < ApplicationController
     end
   end
 
+  # PUT /cocktails/add_ten_random
   def add_ten_random
 
     files = Dir[Rails.root.join("lib/tools/db", "**", "*.yml")]

@@ -53,4 +53,10 @@ class CocktailsControllerTest < AbstractControllerTest
     put :add_ingredient, :id => @cocktail.to_param, :ingredient => @ingredient.attributes, :composition => { :amount => "1", :doze => "oz" }
     assert_redirected_to cocktail_path(assigns(:cocktail))
   end
+
+  test "should add ten random cocktails" do
+    assert_difference('Cocktail.count', 10) do
+      put :add_ten_random
+    end
+  end
 end
