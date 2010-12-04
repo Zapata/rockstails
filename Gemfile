@@ -6,7 +6,8 @@ gem 'rails', '3.0.3'
 gem 'rails3-generators'
 
 # Use mongoDB
-gem 'bson_ext'
+# No extensions avaiable for windows...
+# gem 'bson_ext'
 gem 'mongo_mapper'
 # gem 'machinist_mongo'
 gem 'paginator'
