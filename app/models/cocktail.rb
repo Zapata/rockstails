@@ -10,6 +10,7 @@ class Cocktail
   key :method, String
   key :rate, Float, :index => true
   key :garnish, String
+  key :variant, String
 
   many :compositions
 
@@ -24,6 +25,7 @@ class Cocktail
     @comment = to_utf8 dirty_cocktail.infos['Comment']
     @origin = to_utf8 dirty_cocktail.infos['Origin']
     @source = to_utf8 dirty_cocktail.infos['source']
+    @variant = to_utf8 dirty_cocktail.infos['variant']
 
     # ingredients
     copy_ingredients_from dirty_cocktail 
