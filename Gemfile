@@ -6,9 +6,11 @@ gem 'rails', '3.0.3'
 gem 'rails3-generators'
 
 # Use mongoDB
-# No extensions avaiable for windows...
-# gem 'bson_ext'
 gem 'mongo_mapper'
+if(!RUBY_PLATFORM.downcase.include?("mswin"))
+  # Not available for windows...
+  gem 'bson_ext'
+end
 # gem 'machinist_mongo'
 gem 'paginator'
 
