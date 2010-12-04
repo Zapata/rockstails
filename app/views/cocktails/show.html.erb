@@ -4,7 +4,38 @@
   <b>Name:</b>
   <%= @cocktail.name %>
 </p>
-
+<p>
+  <b>Glass:</b>
+  <%= @cocktail.glass %>
+</p>
+<p>
+  <b>AKA:</b>
+  <%= @cocktail.aka %>
+</p>
+<p>
+  <b>Comment:</b>
+  <%= @cocktail.comment %>
+</p>
+<p>
+  <b>Origin:</b>
+  <%= @cocktail.origin %>
+</p>
+<p>
+  <b>Source:</b>
+  <%= @cocktail.source %>
+</p>
+<p>
+  <b>Method:</b>
+  <%= @cocktail.method %>
+</p>
+<p>
+  <b>Rate:</b>
+  <%= @cocktail.rate %>
+</p>
+<p>
+  <b>Garnish:</b>
+  <%= @cocktail.garnish %>
+</p>
 <h2>Ingredients</h2>
 <%= render :partial => "compositions/composition", :collection => @cocktail.compositions %>
 
