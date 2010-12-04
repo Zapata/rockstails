@@ -1,3 +1,5 @@
+require 'rbconfig'
+
 source 'http://rubygems.org'
 
 gem 'rails', '3.0.3'
@@ -7,8 +9,8 @@ gem 'rails3-generators'
 
 # Use mongoDB
 gem 'mongo_mapper'
-if(!RUBY_PLATFORM.downcase.include?("mswin"))
-  # Not available for windows...
+
+if RbConfig::CONFIG['host_os'] =~ /mswin|windows|cygwin/i
   gem 'bson_ext'
 end
 # gem 'machinist_mongo'
