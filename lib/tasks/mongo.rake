@@ -16,4 +16,13 @@ namespace :db do
       Cocktail.new.copy_from(YAML::load_file(f)).save
     end
   end
+  
+  desc 'Clean database'
+  task :drop => :environment do
+    load(Rails.root + 'config/initializers/mongo.rb')
+    MongoMapper.connection.drop_database(MongoMapper.database.name)
+  end
+  
+  desc 'Reset database to a clean set of datas'
+  task :reset => [:drop, :seed]
 end

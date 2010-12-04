@@ -1,4 +1,3 @@
-# TODO: why is this needed and not in CocktailsControllerTest?
 require 'functional/abstract_controller_test'
 
 class IngredientsControllerTest < AbstractControllerTest

@@ -1,3 +1,5 @@
+require 'functional/abstract_controller_test'
+
 class CocktailsControllerTest < AbstractControllerTest
 
   test "should get index" do
