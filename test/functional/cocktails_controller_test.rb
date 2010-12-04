@@ -43,4 +43,14 @@ class CocktailsControllerTest < AbstractControllerTest
 
     assert_redirected_to cocktails_path
   end
+
+  test "should propose ingredients for cocktail" do
+    get :select_ingredient, :id => @cocktail.to_param
+    assert_response :success
+  end
+
+  test "should add ingredient to cocktail" do
+    put :add_ingredient, :id => @cocktail.to_param, :ingredient => @ingredient.attributes, :composition => { :amount => "1", :doze => "oz" }
+    assert_redirected_to cocktail_path(assigns(:cocktail))
+  end
 end
