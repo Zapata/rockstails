@@ -3,39 +3,42 @@ require 'tools/lib/dirty_cocktail'
 
 class CocktailsController < ApplicationController
   # GET /cocktails
-  # GET /cocktails.xml
+  # GET /cocktails.yaml
   def index
-
-    @pager = Paginator.new(Cocktail.count, 20) do |offset, per_page|
-	    Cocktail.all(:offset => offset, :limit => per_page, :order => 'name asc')
-	  end
-	  @cocktails = @pager.page(params[:page])
-
     respond_to do |format|
-      format.html # index.html.erb
-      format.xml  { render :xml => @cocktails }
+      format.html {
+        @pager = Paginator.new(Cocktail.count, 20) do |offset, per_page|
+	        Cocktail.all(:offset => offset, :limit => per_page, :order => 'name asc')
+	      end
+	      @cocktails = @pager.page(params[:page])
+        # index.html.erb
+      }
+      format.yaml  {
+        @cocktails = Cocktail.all(:limit => 20)
+        render :text => @cocktails.to_yaml, :content_type => 'text/yaml'
+      }
     end
   end
 
   # GET /cocktails/1
-  # GET /cocktails/1.xml
+  # GET /cocktails/1.yaml
   def show
     @cocktail = Cocktail.find(params[:id])
 
     respond_to do |format|
       format.html # show.html.erb
-      format.xml  { render :xml => @cocktail }
+      format.yaml  { render :text => @cocktail.to_yaml, :content_type => 'text/yaml' }
     end
   end
 
   # GET /cocktails/new
-  # GET /cocktails/new.xml
+  # GET /cocktails/new.yaml
   def new
     @cocktail = Cocktail.new
 
     respond_to do |format|
       format.html # new.html.erb
-      format.xml  { render :xml => @cocktail }
+      format.yaml  { render :text => @cocktail.to_yaml, :content_type => 'text/yaml' }
     end
   end
 
@@ -45,33 +48,33 @@ class CocktailsController < ApplicationController
   end
 
   # POST /cocktails
-  # POST /cocktails.xml
+  # POST /cocktails.yaml
   def create
     @cocktail = Cocktail.new(params[:cocktail])
 
     respond_to do |format|
       if @cocktail.save
         format.html { redirect_to(@cocktail, :notice => 'Cocktail was successfully created.') }
-        format.xml  { render :xml => @cocktail, :status => :created, :location => @cocktail }
+        format.yaml  { render :text => @cocktail.to_yaml, :content_type => 'text/yaml', :status => :created, :location => @cocktail }
       else
         format.html { render :action => "new" }
-        format.xml  { render :xml => @cocktail.errors, :status => :unprocessable_entity }
+        format.yaml  { render :text => @cocktail.errors, :content_type => 'text/yaml', :status => :unprocessable_entity }
       end
     end
   end
 
   # PUT /cocktails/1
-  # PUT /cocktails/1.xml
+  # PUT /cocktails/1.yaml
   def update
     @cocktail = Cocktail.find(params[:id])
 
     respond_to do |format|
       if @cocktail.update_attributes(params[:cocktail])
         format.html { redirect_to(@cocktail, :notice => 'Cocktail was successfully updated.') }
-        format.xml  { head :ok }
+        format.yaml  { head :ok }
       else
         format.html { render :action => "edit" }
-        format.xml  { render :xml => @cocktail.errors, :status => :unprocessable_entity }
+        format.yaml  { render :text => @cocktail.errors, :content_type => 'text/yaml', :status => :unprocessable_entity }
       end
     end
   end
@@ -84,7 +87,7 @@ class CocktailsController < ApplicationController
   end
 
   # PUT /cocktail/1/add_ingredient
-  # PUT /cocktail/1/add_ingredient.xml
+  # PUT /cocktail/1/add_ingredient.yaml
   def add_ingredient
     @cocktail = Cocktail.find(params[:id])
     @cocktail.compositions << Composition.new(
@@ -97,23 +100,23 @@ class CocktailsController < ApplicationController
       if @cocktail.save
         flash[:notice] = 'Cocktail was successfully updated.'
         format.html { redirect_to(@cocktail) }
-        format.xml  { head :ok }
+        format.yaml  { head :ok }
       else
         format.html { render :action => "select_ingredient" }
-        format.xml  { render :xml => @cocktail.errors, :status => :unprocessable_entity }
+        format.yaml  { render :yaml => @cocktail.errors, :content_type => 'text/yaml', :status => :unprocessable_entity }
       end
     end
   end
 
   # DELETE /cocktails/1
-  # DELETE /cocktails/1.xml
+  # DELETE /cocktails/1.yaml
   def destroy
     @cocktail = Cocktail.find(params[:id])
     @cocktail.destroy
 
     respond_to do |format|
       format.html { redirect_to(cocktails_url) }
-      format.xml  { head :ok }
+      format.yaml  { head :ok }
     end
   end
 
@@ -129,7 +132,7 @@ class CocktailsController < ApplicationController
 
     respond_to do |format|
       format.html { redirect_to(cocktails_url) }
-      format.xml  { head :ok }
+      format.yaml  { head :ok }
     end
   end
 end
