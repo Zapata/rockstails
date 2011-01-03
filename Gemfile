@@ -10,7 +10,7 @@ gem 'rails3-generators'
 # Use mongoDB
 gem 'mongo_mapper'
 
-if RbConfig::CONFIG['host_os'] =~ /mswin|windows|cygwin/i
+unless RbConfig::CONFIG['host_os'] =~ /mswin|windows|cygwin/i
   gem 'bson_ext'
 end
 # gem 'machinist_mongo'
