@@ -1,8 +1,6 @@
 require 'yaml'
 require_relative 'dirty_cocktail'
 
-YAML::ENGINE.yamler='psych'
-
 class CocktailDB
   def CocktailDB.load(db_path)
     beginning_time = Time.now

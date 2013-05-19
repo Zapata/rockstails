@@ -152,8 +152,6 @@ def get_unique(symbol)
   return unique
 end
 
-
-
 clean_all
 
 #write_to_file(get_unique(:glass), 'glass.yml')
