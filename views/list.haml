@@ -1,0 +1,6 @@
+%h2= "Cocktails found with criteria '#{criteria}' : #{cocktails.size}"
+%ul
+  - cocktails.each do |c|
+    %li
+      %a{:href => url('/view/' + c.name)}= c.name
+      = "(#{c.ingredient_names.join(', ')})"

@@ -1,0 +1,26 @@
+#sazerac {
+    background-color: #000000;
+   	background-image: url("../img/whiskey.jpg");
+   	background-size: contain;
+    background-position: 50% top;
+    background-repeat: no-repeat;
+    text-align: left;
+    background-position: right;
+    height: 300px;
+	margin-bottom: 30px;
+    padding: 60px;
+}
+
+#search {	
+    align: center;
+	margin: 10% 20%;
+}
+
+.btn {
+	color: #662B00;
+	background-color: #FACC5D;
+}
+
+h1 {
+    color: #935600
+}

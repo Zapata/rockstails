@@ -1,0 +1,7 @@
+@bodyBackground = #FACC5D
+@textColor = #662B00
+@inputBackground = #FACC5D
+@inputBorder = #935600
+@dropdownBackground = #FACC5D
+@dropdownLinkColorHover = #FACC5D
+@formActionsBackground = #FACC5D
