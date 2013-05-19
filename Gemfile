@@ -1,5 +1,7 @@
 source "https://rubygems.org"
 
-gem 'sinatra', '1.4.2'
-gem 'sinatra-contrib', '1.4.0'
-gem 'haml', '4.0.2'
+ruby '1.9.3', engine: 'jruby', engine_version: '1.7.3'
+
+gem 'sinatra'
+gem 'sinatra-contrib'
+gem 'haml'

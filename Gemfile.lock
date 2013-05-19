@@ -27,6 +27,6 @@ PLATFORMS
   java
 
 DEPENDENCIES
-  haml (= 4.0.2)
-  sinatra (= 1.4.2)
-  sinatra-contrib (= 1.4.0)
+  haml
+  sinatra
+  sinatra-contrib
