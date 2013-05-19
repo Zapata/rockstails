@@ -33,7 +33,7 @@ class Bar
     cocktails.find_all do |c|
       c.ingredient_names.all? do |i|
         @ingredients.one? do |k|
-          i =~ /\b#{k}\b/i
+          i =~ /\b#{k.encode('UTF-8', 'UTF-8', :invalid => :replace)}\b/i
         end
       end
     end
