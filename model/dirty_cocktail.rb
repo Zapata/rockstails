@@ -1,4 +1,3 @@
-
 class DirtyCocktail
   attr_accessor :name, :garnish, :glass, :method
   attr_accessor :ingredients, :infos, :rate, :source
@@ -12,7 +11,7 @@ class DirtyCocktail
     @ingredients = []
   end  
   
-  def get_ingredients()
+  def ingredient_names()
     ingredients.collect { |i| i[IDX_INGREDIENT]}
   end
 end

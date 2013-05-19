@@ -21,7 +21,7 @@ class CocktailCleaner
     unless (@cocktail.ingredients.all? {|i| i.size == 3})
       clean_ingredient_size()
     end
-    ingredients = @cocktail.get_ingredients
+    ingredients = @cocktail.ingredient_names
     unless (ingredients.size == ingredients.uniq.size)
       clean_ingredient_duplicate()
     end
@@ -124,9 +124,9 @@ end
 
 
 def clean_all()
-  ingredients = YAML::load_file('datas/ingredients.yml')
-  dozes = YAML::load_file('datas/dozes.yml')
-  Dir['db/*.yml'].each do |f|
+  ingredients = YAML::load_file('../datas/ingredients.yml')
+  dozes = YAML::load_file('../datas/dozes.yml')
+  Dir['../db/*.yml'].each do |f|
     cc = CocktailCleaner.new(f)
     cc.clean!(ingredients, dozes)
   end
@@ -134,7 +134,7 @@ end
 
 def get_unique_from_ingredients(index)
   unique = Set.new
-  Dir['db/*.yml'].each do |f|
+  Dir['../db/*.yml'].each do |f|
     c = YAML::load_file(f)
     c.ingredients.each do |i|
       unique << i[index]
@@ -145,7 +145,7 @@ end
 
 def get_unique(symbol)
   unique = Set.new
-  Dir['db/*.yml'].each do |f|
+  Dir['../db/*.yml'].each do |f|
     c = YAML::load_file(f)
     unique << c.send(symbol)
   end
