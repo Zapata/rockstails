@@ -18,7 +18,7 @@ class Bar
   end
 
   def add(ingredient_name)
-    @ingredients << ingredient_name
+    @ingredients << ingredient_name.encode('UTF-8', 'UTF-8', :invalid => :replace)
   end
 
   def save()
