@@ -29,7 +29,7 @@ end
 
 get '/search' do
   criteria = params[:criteria]
-  logger.info 'Searching cocktails with criteria: #{criteria}.'
+  logger.info "Searching cocktails with criteria: #{criteria}."
   found_cocktails =  db.search(criteria);
   found_cocktails = bar.filter(found_cocktails) if params[:usebar] == "yes"
   haml :list, :locals =>  { :criteria => criteria, :cocktails => found_cocktails }
