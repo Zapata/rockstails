@@ -1,6 +1,6 @@
 !!! XML
 !!! 1.1
-%html{ :xmlns => "http://www.w3.org/1999/xhtml"}
+%html{ :lang => "en", :xmlns => "http://www.w3.org/1999/xhtml"}
   %head
     %title= @title
     %meta{:name => "author", :content => "Marco Tessari"}
@@ -8,19 +8,21 @@
     %link{:href => url("css/bootstrap.min.css"), :rel => "stylesheet", :media => "screen" }
     %link{:href => url("css/rockstails.css"), :rel => "stylesheet"}
   %body
-    #sazerac
-      %h1= @title
-      %h3 Easely find a tasty cocktail to mix.
-      #search.container
-        %form.form-search{:action => url("/search"), :method => "get"}
-          .input-prepend
-            %a.btn.btn-warning{:type => "submit"} 
-              %i.icon-glass
-              Search
-            %input.span2.search-query{:type => "text", :name => "criteria", :placeholder => "name or ingredients"}
-          %select.input-small{:name => "usebar"}
-            %option{:value => "no"} No bar
-            %option{:value => "yes"} Marco
-    #content.container= yield
+    .row#sazerac
+      .span12
+        %h1= @title
+        %h3 Easely find a tasty cocktail to mix.
+        #search.row
+          .span6.offset2
+            %form.form-search{:action => url("/search"), :method => "get"}
+              .input-prepend
+                %a.btn.btn-warning{:href => "#", :onclick => "$(this).closest('form').submit();"} 
+                  %i.icon-glass
+                  Search
+                %input.span2.search-query{:type => "text", :name => "criteria", :placeholder => "name or ingredients"}
+              %select.input-small{:name => "usebar"}
+                %option{:value => "no"} No bar
+                %option{:value => "yes"} Marco
+    #content= yield
     %script{:src => url("js/jquery.js")}
     %script{:src => url("js/bootstrap.min.js")}
