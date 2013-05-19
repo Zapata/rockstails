@@ -1,5 +1,5 @@
 require 'sinatra'
-require 'sinatra/reloader'
+require 'sinatra/reloader' if development?
 require 'haml'
 require_relative 'model/cocktail_db'
 require_relative 'model/bar'
