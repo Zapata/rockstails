@@ -1,6 +1,16 @@
-%h2= "Cocktails found with criteria '#{criteria}' : #{cocktails.size}"
-%ul
-  - cocktails.each do |c|
-    %li
-      %a{:href => url('/view/' + c.name)}= c.name
-      = "(#{c.ingredient_names.join(', ')})"
+.alert
+  Cocktails found with criteria '
+  %strong= criteria
+  ' : 
+  %strong= cocktails.size
+  %button.close{:type=>"button", 'data-dismiss'=>"alert"} &times;
+- cocktails.each_slice(3) do |row_cocktails|
+  .row-fluid
+    - row_cocktails.each do |c|
+      .span4
+        %h3= c.name
+        %ul
+          - c.ingredient_names.each do |ingredient_name|
+            %li= ingredient_name
+        %a.btn.btn-mini{:href => url('/view/' + c.name)} View Details >>
+  

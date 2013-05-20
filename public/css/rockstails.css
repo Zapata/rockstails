@@ -1,24 +1,30 @@
-#sazerac {
+.hero-unit {
     background-color: #000000;
    	background-size: contain;
     background-repeat: no-repeat;
     background-position: right;
    	background-image: url("../img/whiskey.jpg");
-    text-align: left;
-	margin-bottom: 30px;
-    padding: 60px;
+}
+
+.hero-unit h1 {
+  	font-size: 35px;
+	color: #F89406;
 }
 
 #search {	
-	margin-top: 30px;
+	margin-top: 60px;
 	align: center;
 }
 
 .btn {
-	color: #662B00;
+  	color: inherit;
 	background-color: #FACC5D;
 }
 
-h1 {
-    color: #F89406
+select {
+	border-radius: 12px;
+}
+
+#content {
+	margin: 5%;
 }
