@@ -28,7 +28,7 @@ get '/search' do
   logger.info "Searching cocktails with criteria: #{@criteria}."
   found_cocktails =  @db.search(@criteria);
   @usebar = params[:usebar] == "yes"
-  found_cocktails = bar.filter(found_cocktails) if @usebar
+  found_cocktails = @bar.filter(found_cocktails) if @usebar
   haml :list, :locals =>  { :cocktails => found_cocktails }
 end
 
