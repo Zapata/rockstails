@@ -1,26 +1,26 @@
-%h2= cocktail.name
-%div#ingredients
+%h1#cocktail= cocktail.name
+%div#reciepe
   %table.table
     - cocktail.ingredients.each do |volume, doze, name|
       %tr
-        %th= volume
-        %th= doze
-        %th= name
+        %td= volume
+        %td= doze
+        %td= name
 %div#infos
-  %table.table
+  %table.table.table-condensed
     %tr
-      %th Glass
-      %th= cocktail.glass
+      %td Glass
+      %td= cocktail.glass
     %tr
-      %th Garnish
-      %th= cocktail.garnish
+      %td Garnish
+      %td= cocktail.garnish
     %tr
-      %th Method
-      %th= cocktail.method
+      %td Method
+      %td= cocktail.method
     - cocktail.infos.each do |key, value|
       %tr
-        %th= key
-        %th= value
+        %td= key
+        %td= value
     %tr
-      %th Rate
-      %th= cocktail.rate
+      %td Rate
+      %td= cocktail.rate

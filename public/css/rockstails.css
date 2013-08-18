@@ -37,6 +37,10 @@ select {
 	font-family: 'Nothing You Could Do', cursive;
 }
 
-#ingredients {
+#ingredients, #infos {
   	font-size: 12px;
+}
+
+.table td, .table th {
+	border-style: none	
 }
