@@ -11,16 +11,12 @@ configure do
   set :bar => Bar.load('datas/my_bar_content.yaml')
 end
 
-def db
-  settings.db
-end
-
-def bar
-  settings.bar
-end
-
 before do
   @title = "Rock's Tails : Cocktails that rocks!"
+  @db = settings.db
+  @bar = settings.bar
+  @criteria = nil
+  @usebar = false
 end
 
 get '/' do
@@ -28,29 +24,30 @@ get '/' do
 end
 
 get '/search' do
-  criteria = params[:criteria]
-  logger.info "Searching cocktails with criteria: #{criteria}."
-  found_cocktails =  db.search(criteria);
-  found_cocktails = bar.filter(found_cocktails) if params[:usebar] == "yes"
-  haml :list, :locals =>  { :criteria => criteria, :cocktails => found_cocktails }
+  @criteria = params[:criteria]
+  logger.info "Searching cocktails with criteria: #{@criteria}."
+  found_cocktails =  @db.search(@criteria);
+  @usebar = params[:usebar] == "yes"
+  found_cocktails = bar.filter(found_cocktails) if @usebar
+  haml :list, :locals =>  { :cocktails => found_cocktails }
 end
 
 get '/view/:name' do
-  cocktail = db.get(params[:name])
+  cocktail = @db.get(params[:name])
   haml :view, :locals =>  { :cocktail => cocktail }
 end
 
 get '/bar' do
-  haml :bar, :locals => {:bar => bar}
+  haml :bar, :locals => {:bar => @bar}
 end
 
 put '/bar/add/:ingredient' do
-  bar.add(params[:ingredient])
-  bar.save
+  @bar.add(params[:ingredient])
+  @bar.save
   redirect back
 end
 
 get '/bar/reload' do
-  bar.reload
+  @bar.reload
   redirect back
 end

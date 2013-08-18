@@ -1,7 +1,7 @@
 /*!
  * Bootstrap v2.3.2
  *
- * Copyright 2012 Twitter, Inc
+ * Copyright 2013 Twitter, Inc
  * Licensed under the Apache License v2.0
  * http://www.apache.org/licenses/LICENSE-2.0
  *
@@ -205,11 +205,11 @@ textarea {
 }
 body {
   margin: 0;
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: 'Bitter', serif;
   font-size: 14px;
   line-height: 20px;
   color: #662b00;
-  background-color: #F1E2AE;
+  background-color: #f1e2ae;
 }
 a {
   color: #0088cc;
@@ -978,7 +978,7 @@ table {
   border-top: 2px solid #dddddd;
 }
 .table .table {
-  background-color: #F1E2AE;
+  background-color: #f1e2ae;
 }
 .table-condensed th,
 .table-condensed td {
@@ -1214,7 +1214,7 @@ input,
 button,
 select,
 textarea {
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: 'Bitter', serif;
 }
 label {
   display: block;
@@ -1273,7 +1273,7 @@ input[type="search"],
 input[type="tel"],
 input[type="color"],
 .uneditable-input {
-  background-color: #F1E2AE;
+  background-color: #f1e2ae;
   border: 1px solid #935600;
   -webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075);
   -moz-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075);
@@ -1341,7 +1341,7 @@ input[type="file"] {
 select {
   width: 220px;
   border: 1px solid #935600;
-  background-color: #F1E2AE;
+  background-color: #f1e2ae;
 }
 select[multiple],
 select[size] {
@@ -1358,7 +1358,7 @@ input[type="checkbox"]:focus {
 .uneditable-input,
 .uneditable-textarea {
   color: #999999;
-  background-color: #faca58;
+  background-color: #f0e0aa;
   border-color: #935600;
   -webkit-box-shadow: inset 0 1px 2px rgba(0, 0, 0, 0.025);
   -moz-box-shadow: inset 0 1px 2px rgba(0, 0, 0, 0.025);
@@ -1708,7 +1708,7 @@ select:focus:invalid:focus {
   padding: 19px 20px 20px;
   margin-top: 20px;
   margin-bottom: 20px;
-  background-color: #F1E2AE;
+  background-color: #f1e2ae;
   border-top: 1px solid #e5e5e5;
   *zoom: 1;
 }
@@ -3209,7 +3209,7 @@ input[type="submit"].btn.btn-mini {
 .nav-tabs > .active > a:hover,
 .nav-tabs > .active > a:focus {
   color: #555555;
-  background-color: #F1E2AE;
+  background-color: #f1e2ae;
   border: 1px solid #ddd;
   border-bottom-color: transparent;
   cursor: default;
@@ -3573,7 +3573,7 @@ input[type="submit"].btn.btn-mini {
 .navbar-search .search-query {
   margin-bottom: 0;
   padding: 4px 14px;
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: 'Bitter', serif;
   font-size: 13px;
   font-weight: normal;
   line-height: 1;
@@ -3746,7 +3746,7 @@ input[type="submit"].btn.btn-mini {
   display: inline-block;
   border-left: 6px solid transparent;
   border-right: 6px solid transparent;
-  border-bottom: 6px solid #F1E2AE;
+  border-bottom: 6px solid #f1e2ae;
   position: absolute;
   top: -6px;
   left: 10px;
@@ -3759,7 +3759,7 @@ input[type="submit"].btn.btn-mini {
   top: auto;
 }
 .navbar-fixed-bottom .nav > li > .dropdown-menu:after {
-  border-top: 6px solid #F1E2AE;
+  border-top: 6px solid #f1e2ae;
   border-bottom: 0;
   bottom: -6px;
   top: auto;
@@ -4846,7 +4846,7 @@ a.thumbnail:focus {
   padding: 5px 0;
   margin: 2px 0 0;
   list-style: none;
-  background-color: #F1E2AE;
+  background-color: #f1e2ae;
   border: 1px solid #ccc;
   border: 1px solid rgba(0, 0, 0, 0.2);
   *border-right-width: 2px;
@@ -4888,7 +4888,7 @@ a.thumbnail:focus {
 .dropdown-submenu:hover > a,
 .dropdown-submenu:focus > a {
   text-decoration: none;
-  color: #F1E2AE;
+  color: #f1e2ae;
   background-color: #0081c2;
   background-image: -moz-linear-gradient(top, #0088cc, #0077b3);
   background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#0088cc), to(#0077b3));
@@ -4989,12 +4989,12 @@ a.thumbnail:focus {
   border-color: transparent;
   border-style: solid;
   border-width: 5px 0 5px 5px;
-  border-left-color: #eaa707;
+  border-left-color: #e2c357;
   margin-top: 5px;
   margin-right: -10px;
 }
 .dropdown-submenu:hover > a:after {
-  border-left-color: #F1E2AE;
+  border-left-color: #f1e2ae;
 }
 .dropdown-submenu.pull-left {
   float: none;

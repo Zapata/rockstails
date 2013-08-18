@@ -5,3 +5,5 @@
 @dropdownBackground = #F1E2AE
 @dropdownLinkColorHover = #F1E2AE
 @formActionsBackground = #F1E2AE
+@sansFontFamily = 'Bitter', serif;
+@serifFontFamily = 'Nothing You Could Do', cursive;

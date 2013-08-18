@@ -11,6 +11,10 @@
 	color: #F89406;
 }
 
+.hero-unit h3 {
+	font-family: 'Nothing You Could Do', cursive;
+}
+
 #search {	
 	margin-top: 60px;
 	align: center;
@@ -27,4 +31,12 @@ select {
 
 #content {
 	margin: 5%;
+}
+
+#cocktail {
+	font-family: 'Nothing You Could Do', cursive;
+}
+
+#ingredients {
+  	font-size: 12px;
 }

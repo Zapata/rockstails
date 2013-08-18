@@ -12,9 +12,9 @@ Visit [http://rockstails.herokuapp.com/](http://rockstails.herokuapp.com/) to tr
 Technical stuff
 ---------------
 
-Run on (j)ruby.
-Build with Sinatra, Haml, Yaml Bootstrap and JQuery.
-Cocktail database in Yaml from Difford's website.
+- Run on (J)ruby.
+- Build with Sinatra, Haml, Yaml Bootstrap and JQuery.
+- Cocktail database in Yaml from Difford's website.
 
   
 Thanks

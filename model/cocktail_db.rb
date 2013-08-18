@@ -20,7 +20,7 @@ class CocktailDB
   def search(criteria)
     return @cocktails if criteria.empty?
     found_cocktails = []
-    keywords = criteria.split(',')
+    keywords = criteria.split(' ')
     @cocktails.each do |c|
       ingredients = c.ingredient_names
       found_cocktails << c if keywords.all? do |k|
@@ -33,7 +33,7 @@ class CocktailDB
 
   def get(name)
     @cocktails.each do |c|
-      return c if c.name =~ /#{name}/i
+      return c if c.name == name
     end
   end
     
