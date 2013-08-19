@@ -1,4 +1,6 @@
-.hero-unit {
+.jumbotron {
+	letter-spacing: -1px;
+	border-radius: 8px 8px 8px 8px;
     background-color: #000000;
    	background-size: contain;
     background-repeat: no-repeat;
@@ -6,27 +8,28 @@
    	background-image: url("../img/whiskey.jpg");
 }
 
-.hero-unit h1 {
+.jumbotron h1 {
+	font-family: 'Bitter', serif;
+	font-weight: bold;
   	font-size: 35px;
 	color: #F89406;
 }
 
-.hero-unit h3 {
-	font-family: 'Nothing You Could Do', cursive;
+.jumbotron h3 {
+	font-weight: bold;
 }
 
 #search {	
-	margin-top: 60px;
-	align: center;
+	margin-top: 10%;
 }
 
 .btn {
   	color: inherit;
-	background-color: #FACC5D;
 }
 
-select {
-	border-radius: 12px;
+.btn#detail {
+	font-weight: normal;
+	align: center;
 }
 
 #content {
@@ -34,7 +37,7 @@ select {
 }
 
 #cocktail {
-	font-family: 'Nothing You Could Do', cursive;
+	font-weight: bold;
 }
 
 #ingredients, #infos {

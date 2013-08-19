@@ -5,12 +5,10 @@
   %strong= cocktails.size
   %button.close{:type=>"button", 'data-dismiss'=>"alert"} &times;
 - cocktails.each_slice(3) do |row_cocktails|
-  .row-fluid
-    - row_cocktails.each do |c|
-      .span4
-        %h3#cocktail= c.name
-        %ul#ingredients
-          - c.ingredient_names.each do |ingredient_name|
-            %li= ingredient_name
-        %a.btn.btn-mini{:href => url('/view/' + c.name)} View Details >>
-  
+  - row_cocktails.each_with_index do |c, i|
+    .col-md-4.col-sm-6.col-xs-12
+      %h3#cocktail= c.name
+      %ul#ingredients
+        - c.ingredient_names.each do |ingredient_name|
+          %li= ingredient_name
+      %a.btn.btn-default.btn-xs#detail{:href => url('/view/' + c.name)} View Details >>

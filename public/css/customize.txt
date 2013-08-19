@@ -1,3 +1,4 @@
+# Bootstrap 2
 @bodyBackground = #F1E2AE
 @textColor = #662B00
 @inputBackground = #F1E2AE
@@ -7,3 +8,16 @@
 @formActionsBackground = #F1E2AE
 @sansFontFamily = 'Bitter', serif;
 @serifFontFamily = 'Nothing You Could Do', cursive;
+
+
+# Bootstrap 3
+No JQuery plugin
+@bodyBackground = #F1E2AE
+@font-family-serif = 'Bitter', serif
+@font-family-base = @font-family-serif 
+@headings-font-family = 'Nothing You Could Do', cursive
+@text-color = #662B00
+@input-bg = #F1E2AE
+@input-border = #935600
+@dropdown-bg = #F1E2AE
+@dropdown-link-hover-color = #F1E2AE
