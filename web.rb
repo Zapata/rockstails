@@ -8,7 +8,7 @@ configure do
   enable :logging
   set :haml, :format => :html5
   set :db => CocktailDB.load('db')
-  set :bar => Bar.load('datas/my_bar_content.yaml')
+  set :bar => Bar.load('datas/my_bar_content.yml')
 end
 
 before do
@@ -17,6 +17,16 @@ before do
   @bar = settings.bar
   @criteria = nil
   @usebar = false
+end
+
+helpers do
+  def h(text)
+    Rack::Utils.escape(text)
+  end
+
+  def u(text)
+    Rack::Utils.unescape(text)
+  end
 end
 
 get '/' do
@@ -33,7 +43,9 @@ get '/search' do
 end
 
 get '/view/:name' do
-  cocktail = @db.get(params[:name])
+  name = u(params[:name])
+  cocktail = @db.get(name)
+  redirect to('/') if cocktail.nil?
   haml :view, :locals =>  { :cocktail => cocktail }
 end
 

@@ -3,6 +3,7 @@ GEM
   specs:
     backports (3.3.0)
     eventmachine (1.0.3-java)
+    eventmachine (1.0.3-x86-mingw32)
     haml (4.0.2)
       tilt
     rack (1.5.2)
@@ -25,6 +26,7 @@ GEM
 
 PLATFORMS
   java
+  x86-mingw32
 
 DEPENDENCIES
   haml

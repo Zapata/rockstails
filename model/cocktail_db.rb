@@ -35,6 +35,7 @@ class CocktailDB
     @cocktails.each do |c|
       return c if c.name == name
     end
+    return nil
   end
     
   def size

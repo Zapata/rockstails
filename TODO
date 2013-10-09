@@ -5,11 +5,14 @@ Rules
 - estimate tasks in story points (complexity)
 - describes entries as user stories (who can do what)
 
+On Going
+========
+- Add icon to search botton, and correct color, Reduce size of "bar" selector
+- Remove background glass image if small device
+
+
 Product Backlog
 ===============
-* Developper can acess a database with all cocktails in it
-* User could get a cocktail from his name
-* User could list all cocktails avaiable
 * User could filter cocktails by ingredients (list), glass, rate, ...
 * User could sort cocktails by ingredients, glass, rate, ...
 * User could list ingredients
@@ -56,6 +59,4 @@ Ideas
  pouvoir hierarchiser les ingredients
  proposer des ingredients alternatifs au cocktails
  inserer les prix des ingredients
- pouvoir chercher les cocktails faisable pour un bar donne
- pouvoir chercher un cocktail par liste d'ingredients, note, type de verre, ...
  

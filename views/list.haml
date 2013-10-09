@@ -4,11 +4,14 @@
   ' : 
   %strong= cocktails.size
   %button.close{:type=>"button", 'data-dismiss'=>"alert"} &times;
-- cocktails.each_slice(3) do |row_cocktails|
-  - row_cocktails.each_with_index do |c, i|
-    .col-md-4.col-sm-6.col-xs-12
-      %h3#cocktail= c.name
-      %ul#ingredients
-        - c.ingredient_names.each do |ingredient_name|
-          %li= ingredient_name
-      %a.btn.btn-default.btn-xs#detail{:href => url('/view/' + c.name)} View Details >>
+- cocktails.each_with_index do |c, i|
+  - if i % 2 == 0
+    .clearfix.visible-sm
+  - if i % 3 == 0
+    .clearfix.visible-md
+  .col-md-4.col-sm-6
+    %h3#cocktail= c.name
+    %ul#ingredients
+      - c.ingredient_names.each do |ingredient_name|
+        %li= ingredient_name
+    %a.btn.btn-default.btn-xs#detail{:href => url('/view/' + h(c.name))} View Details >>

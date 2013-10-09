@@ -12,7 +12,7 @@ class Bar
   attr_reader :ingredients
 
   def initialize(bar_file=nil)
-    @bar_file = bar_file || "my_bar_content.yaml"
+    @bar_file = bar_file || "my_bar_content.yml"
     @ingredients = []
     @ingredients.concat(YAML::load_file(bar_file)) unless bar_file.nil?
   end
