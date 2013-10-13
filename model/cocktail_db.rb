@@ -32,12 +32,13 @@ class CocktailDB
   end
 
   def get(name)
-    @cocktails.each do |c|
-      return c if c.name == name
-    end
-    return nil
+    return @cocktails.find { |c| c.name == name }
   end
-    
+  
+  def all_ingredients()
+    @cocktails.each_with_object(Set.new) { |c, s| s.merge(c.ingredient_names) }
+  end
+  
   def size
     @cocktails.size
   end

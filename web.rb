@@ -29,10 +29,7 @@ helpers do
   end
   
   def find_bar(bar_name)
-    @bars.each do |bar|
-      return bar if bar.name == bar_name
-    end
-    return nil
+    return @bars.find { |bar| bar.name == bar_name }
   end
   
   def bar_names
@@ -63,7 +60,7 @@ end
 
 get '/bar/:name' do
   bar = find_bar(u(params[:name]))
-  haml :bar, :locals => {:bar => bar}
+  haml :bar, :locals => { :bar => bar }
 end
 
 put '/bar/:name/add/:ingredient' do
@@ -78,4 +75,9 @@ get '/bar/reload' do
   bar.reload
   redirect back
 end
+
+get '/ingredients' do
+  haml :ingredients, :locals => { :ingredients => @db.all_ingredients.to_a }
+end
+
 
