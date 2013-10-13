@@ -7,9 +7,13 @@ Rules
 
 On Going
 ========
-- Add icon to search botton, and correct color, Reduce size of "bar" selector
-- Remove background glass image if small device
-
+- Migrate region on Heroku (US -> Europe).
+- Clean ingredients name in cocktail database
+- Have category in bar ingredients
+- Store bars in database
+- Display variation (depending of bar content) in cocktail view
+- Put cocktail on elastic search and improve search
+- Highlight mode 
 
 Product Backlog
 ===============

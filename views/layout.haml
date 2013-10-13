@@ -28,8 +28,9 @@
                     %span.glyphicon.glyphicon-glass
                 %input.form-control#search-criteria{:type => "text", :name => "criteria", :value => @criteria, :placeholder => "name or ingredients"}
                 %select.form-control#bar-criteria{:name => "usebar"}
-                  %option{:value => "no", :selected => @usebar} No Bar
-                  %option{:value => "yes", :selected => @usebar} Marco
+                  - bar_names.each do |bar_name|
+                    %option{:value => bar_name}
+                      =bar_name
     #content= yield
     %script{:src => url("js/jquery.js")}
     %script{:src => url("js/bootstrap.min.js")}
@@ -40,4 +41,5 @@
           $(this).closest('form').submit();
         }
       });
+      $('#bar-criteria').val('#{@selected_bar}').select
 

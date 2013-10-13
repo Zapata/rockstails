@@ -8,15 +8,15 @@ configure do
   enable :logging
   set :haml, :format => :html5
   set :db => CocktailDB.load('db')
-  set :bar => Bar.load('datas/my_bar_content.yml')
+  set :bars => Bar.load('datas/bar')
 end
 
 before do
   @title = "Rock's Tails : Cocktails that rocks!"
   @db = settings.db
-  @bar = settings.bar
+  @bars = settings.bars
   @criteria = nil
-  @usebar = false
+  @selected_bar = "No bar"
 end
 
 helpers do
@@ -27,6 +27,17 @@ helpers do
   def u(text)
     Rack::Utils.unescape(text)
   end
+  
+  def find_bar(bar_name)
+    @bars.each do |bar|
+      return bar if bar.name == bar_name
+    end
+    return nil
+  end
+  
+  def bar_names
+    return ["No bar"] + @bars.collect { |bar| bar.name }
+  end
 end
 
 get '/' do
@@ -35,10 +46,11 @@ end
 
 get '/search' do
   @criteria = params[:criteria]
+  @selected_bar = params[:usebar]
   logger.info "Searching cocktails with criteria: #{@criteria}."
   found_cocktails =  @db.search(@criteria);
-  @usebar = params[:usebar] == "yes"
-  found_cocktails = @bar.filter(found_cocktails) if @usebar
+  bar = find_bar(@selected_bar)
+  found_cocktails = bar.filter(found_cocktails) unless bar.nil?
   haml :list, :locals =>  { :cocktails => found_cocktails }
 end
 
@@ -63,3 +75,4 @@ get '/bar/reload' do
   @bar.reload
   redirect back
 end
+
