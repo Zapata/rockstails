@@ -61,18 +61,21 @@ get '/view/:name' do
   haml :view, :locals =>  { :cocktail => cocktail }
 end
 
-get '/bar' do
-  haml :bar, :locals => {:bar => @bar}
+get '/bar/:name' do
+  bar = find_bar(u(params[:name]))
+  haml :bar, :locals => {:bar => bar}
 end
 
-put '/bar/add/:ingredient' do
-  @bar.add(params[:ingredient])
-  @bar.save
+put '/bar/:name/add/:ingredient' do
+  bar = find_bar(u(params[:name]))
+  bar.add(params[:ingredient])
+  bar.save
   redirect back
 end
 
 get '/bar/reload' do
-  @bar.reload
+  bar = find_bar(u(params[:name]))
+  bar.reload
   redirect back
 end
 
