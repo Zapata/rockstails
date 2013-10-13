@@ -5,7 +5,12 @@
    	background-size: contain;
     background-repeat: no-repeat;
     background-position: right;
-   	background-image: url("../img/whiskey.jpg");
+}
+
+@media (min-width: 768px) {
+	.jumbotron {
+	   	background-image: url("../img/whiskey.jpg");
+	}
 }
 
 .jumbotron h1 {
@@ -25,6 +30,7 @@
 
 #drink-btn {
 	border-radius: 8px 0px 0px 8px;
+	background-color: #F89406;
 }
 
 #search-criteria {

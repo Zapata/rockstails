@@ -16,13 +16,16 @@
           %h1= @title
           %h3 Easely find a tasty cocktail to mix.
       .row
-        .col-sm-6
-          %form.col-sm-6#search{:action => url("/search"), :method => "get"}
+        .col-sm-6.col-xs-12
+          %form.col-xs-6#search{:action => url("/search"), :method => "get"}
             .input-group
               .input-group-btn
                 %button.btn.btn-warning#drink-btn{:type => "button", :href => "#", :onclick => "$(this).closest('form').submit();"} 
-                  %span.glyphicon.glyphicon-glass
-                  Drink!
+                  .hidden-xs
+                    %span.glyphicon.glyphicon-glass
+                    Drink!
+                  .visible-xs
+                    %span.glyphicon.glyphicon-glass
                 %input.form-control#search-criteria{:type => "text", :name => "criteria", :value => @criteria, :placeholder => "name or ingredients"}
                 %select.form-control#bar-criteria{:name => "usebar"}
                   %option{:value => "no", :selected => @usebar} No Bar
