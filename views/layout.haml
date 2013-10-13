@@ -12,24 +12,26 @@
   %body.container
     .jumbotron
       .row
-        .col-xs-9
+        .col-sm-9
           %h1= @title
           %h3 Easely find a tasty cocktail to mix.
-          #search.row
-            %form{:action => url("/search"), :method => "get"}
-              .row.col-xs-6.input-group
-                .span.input-group-btn
-                  %button.btn.btn-warning{:type => "button", :href => "#", :onclick => "$(this).closest('form').submit();"} 
-                    %span.glyphicon.glyphicon-glass
-                    Search
-                  %input.form-control{:type => "text", :name => "criteria", :value => @criteria, :placeholder => "name or ingredients"}
-                  %select.form-control{:name => "usebar"}
-                    %option{:value => "no", :selected => @usebar} No bar
-                    %option{:value => "yes", :selected => @usebar} Marco
+      .row
+        .col-sm-6
+          %form.col-sm-6#search{:action => url("/search"), :method => "get"}
+            .input-group
+              .input-group-btn
+                %button.btn.btn-warning#drink-btn{:type => "button", :href => "#", :onclick => "$(this).closest('form').submit();"} 
+                  %span.glyphicon.glyphicon-glass
+                  Drink!
+                %input.form-control#search-criteria{:type => "text", :name => "criteria", :value => @criteria, :placeholder => "name or ingredients"}
+                %select.form-control#bar-criteria{:name => "usebar"}
+                  %option{:value => "no", :selected => @usebar} No Bar
+                  %option{:value => "yes", :selected => @usebar} Marco
     #content= yield
     %script{:src => url("js/jquery.js")}
+    %script{:src => url("js/bootstrap.min.js")}
     :javascript
-      $("[name=usebar]").keypress(function(event) {
+      $('[name=usebar]').keypress(function(event) {
         if (event.which == 13) {
           event.preventDefault();
           $(this).closest('form').submit();

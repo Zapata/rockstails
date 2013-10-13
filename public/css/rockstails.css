@@ -23,6 +23,21 @@
 	margin-top: 10%;
 }
 
+#drink-btn {
+	border-radius: 8px 0px 0px 8px;
+}
+
+#search-criteria {
+    width: 130%;
+}
+
+#bar-criteria {
+    width: 70%;
+    padding-right: 2px;
+    padding-left: 2px;
+}
+
+
 .btn {
   	color: inherit;
 }
