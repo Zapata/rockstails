@@ -12,4 +12,8 @@ class Cocktail < ActiveRecord::Base
   validates_associated :recipe_steps
   
   has_many :ingredients, through: :recipe_steps
+  
+  def ingredient_names
+    return ingredients.collect { |i| i.name }
+  end
 end

@@ -11,7 +11,7 @@ class DirtyCocktail
     @ingredients = []
   end  
   
-  def ingredient_names()
-    ingredients.collect { |i| i[IDX_INGREDIENT].encode('UTF-8', 'UTF-8', :invalid => :replace) }
+  def ingredient_names
+    return ingredients.collect { |i| i[IDX_INGREDIENT].encode('UTF-8', 'UTF-8', :invalid => :replace) }
   end
 end

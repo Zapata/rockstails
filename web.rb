@@ -3,26 +3,23 @@ require 'sinatra/reloader' if development?
 require 'haml'
 require "sinatra/activerecord"
 require_relative 'model/activerecord/active_record_db'
-require_relative 'model/file/cocktail_db'
+require_relative 'model/file/file_db'
 require_relative 'model/file/bar'
 
 configure do
   enable :logging
   set :haml, :format => :html5
   if ENV['DATABASE_URL'].nil? or ENV['DATABASE_URL'].empty? then
-    set :db => CocktailDB.load('datas/cocktails')
-    set :bars => Bar.load('datas/bar')
+    set :db => FileDB.new('datas')
   else
     set :database, ENV['DATABASE_URL']
     set :db => ActiveRecordDB.new
-    set :bars => Bar.load('datas/bar')
   end
 end
 
 before do
   @title = "Rock's Tails : Cocktails that rocks!"
   @db = settings.db
-  @bars = settings.bars
   @criteria = nil
   @selected_bar = "No bar"
 end
@@ -37,11 +34,11 @@ helpers do
   end
   
   def find_bar(bar_name)
-    return @bars.find { |bar| bar.name == bar_name }
+    return @db.bar(bar_name)
   end
   
   def bar_names
-    return ["No bar"] + @bars.collect { |bar| bar.name }
+    return ["No bar"] + @db.bar_names
   end
 end
 
@@ -53,9 +50,7 @@ get '/search' do
   @criteria = params[:criteria]
   @selected_bar = params[:usebar]
   logger.info "Searching cocktails with criteria: #{@criteria}."
-  found_cocktails =  @db.search(@criteria);
-  bar = find_bar(@selected_bar)
-  found_cocktails = bar.filter(found_cocktails) unless bar.nil?
+  found_cocktails =  @db.search(@criteria, @selected_bar);
   haml :list, :locals =>  { :cocktails => found_cocktails }
 end
 
@@ -67,20 +62,12 @@ get '/view/:name' do
 end
 
 get '/bar/:name' do
-  bar = find_bar(u(params[:name]))
+  bar = @db.bar(u(params[:name]))
   haml :bar, :locals => { :bar => bar }
 end
 
 put '/bar/:name/add/:ingredient' do
-  bar = find_bar(u(params[:name]))
-  bar.add(params[:ingredient])
-  bar.save
-  redirect back
-end
-
-get '/bar/reload' do
-  bar = find_bar(u(params[:name]))
-  bar.reload
+  @db.add_ingredient_to_bar(u(params[:name]), params[:ingredient])
   redirect back
 end
 

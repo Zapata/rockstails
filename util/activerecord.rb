@@ -4,6 +4,7 @@ require_relative '../model/file/dirty_cocktail'
 require_relative '../model/activerecord/cocktail'
 require_relative '../model/activerecord/ingredient'
 require_relative '../model/activerecord/recipe_step'
+require_relative '../model/activerecord/bar'
 require_relative '../model/activerecord/active_record_db'
 
 
@@ -41,6 +42,22 @@ def import_cocktails
   p dynamic_fields
 end
 
-ActiveRecord::Base.logger = Logger.new(STDOUT)
-db = ActiveRecordDB.new
-p db.search('Martini')
+def import_bar
+  Bar.delete_all
+  
+  Dir['datas/bar/*.yml'].each do |f|
+    yml_bar = YAML::load_file(f)
+    bar = Bar.new
+    bar.name = File.basename(f, ".yml").capitalize
+    puts "Processing #{bar.name}..."
+    yml_bar.each do |i|
+      ingredients = Ingredient.where("lower(name) like ?", "%#{i.downcase}%")
+      bar.ingredients << ingredients
+    end
+    puts "  added #{bar.ingredients.size} ingredients"
+    bar.save!
+  end
+  
+end
+
+import_bar

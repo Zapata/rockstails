@@ -1,18 +1,6 @@
 require 'yaml'
 
 class Bar
-  def Bar.load(bar_path)
-    bars = []
-    Dir[bar_path + '/*.yml'].each do |bar_file|
-          beginning_time = Time.now
-          bar = Bar.new(bar_file)
-          end_time = Time.now
-          puts "Bar #{bar.name} loaded in #{end_time - beginning_time} seconds with #{bar.ingredients.size} ingredients."
-          bars << bar
-        end
-    return bars
-  end
-
   attr_reader :ingredients
 
   def initialize(bar_file)
