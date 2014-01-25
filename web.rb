@@ -1,14 +1,22 @@
 require 'sinatra'
 require 'sinatra/reloader' if development?
 require 'haml'
-require_relative 'model/cocktail_db'
-require_relative 'model/bar'
+require "sinatra/activerecord"
+require_relative 'model/activerecord/active_record_db'
+require_relative 'model/file/cocktail_db'
+require_relative 'model/file/bar'
 
 configure do
   enable :logging
   set :haml, :format => :html5
-  set :db => CocktailDB.load('db')
-  set :bars => Bar.load('datas/bar')
+  if ENV['DATABASE_URL'].nil? or ENV['DATABASE_URL'].empty? then
+    set :db => CocktailDB.load('datas/cocktails')
+    set :bars => Bar.load('datas/bar')
+  else
+    set :database, ENV['DATABASE_URL']
+    set :db => ActiveRecordDB.new
+    set :bars => Bar.load('datas/bar')
+  end
 end
 
 before do
@@ -77,7 +85,7 @@ get '/bar/reload' do
 end
 
 get '/ingredients' do
-  haml :ingredients, :locals => { :ingredients => @db.all_ingredients.to_a }
+  haml :ingredients, :locals => { :ingredients => @db.all_ingredients_names.to_a }
 end
 
 

@@ -64,3 +64,11 @@ Ideas
  proposer des ingredients alternatifs au cocktails
  inserer les prix des ingredients
  
+ Database Free on Heroku compare:
+   - heroku pg : SQL Postgres, works with activerecord, 10000 row mqx
+   - justonedb : (New)SQL (distributed sql on postgres), works with activerecord, 50MB max
+   - cleardb: SQL (MySQL), 5MB max
+   - cloudant: NoSQL, JSON + Javascript for Map Reduce, fulltext search (based on Lucene), 1GB max, 100 000 queries max
+   - mongolab: NoSQL (Mongodb), 496MB
+   - mongohq: NoSQL (Mongodb), 512MB
+ 

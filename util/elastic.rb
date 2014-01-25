@@ -35,7 +35,7 @@ def load_cocktails
             type: 'string',
             index: 'analyzed'
           },
-          reciepe: {
+          recipe: {
             properties: {
               ingredient: {
                 type: 'multi_field',
@@ -69,7 +69,7 @@ def load_cocktails
       json.infos cocktail.infos.reject {|key, value| key == 'source'}
       json.source cocktail.infos['source']
       json.rate cocktail.rate
-      json.reciepe cocktail.ingredients do |ingredient|
+      json.recipe cocktail.ingredients do |ingredient|
         json.quantity ingredient[DirtyCocktail::IDX_AMOUNT].strip
         json.doze ingredient[DirtyCocktail::IDX_DOZE].strip
         json.ingredient ingredient[DirtyCocktail::IDX_INGREDIENT]
@@ -86,11 +86,11 @@ end
 def search(words)
   query = {
     fields: [
-      "name", "reciepe.ingredient"
+      "name", "recipe.ingredient"
     ], 
     query: {
       query_string: {
-        fields: [ 'name^2', 'reciepe.ingredient.indexed'], 
+        fields: [ 'name^2', 'recipe.ingredient.indexed'], 
         query: words,
         default_operator: 'AND'
       }
@@ -119,7 +119,7 @@ def list_ingredients()
     facets: {
       tag: {
           terms: {
-              field: 'reciepe.ingredient.untouched',
+              field: 'recipe.ingredient.untouched',
               global: true,
               size: 1000
           }

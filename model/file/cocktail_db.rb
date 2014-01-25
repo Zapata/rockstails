@@ -35,7 +35,7 @@ class CocktailDB
     return @cocktails.find { |c| c.name == name }
   end
   
-  def all_ingredients()
+  def all_ingredients_names()
     @cocktails.each_with_object(Set.new) { |c, s| s.merge(c.ingredient_names) }
   end
   
