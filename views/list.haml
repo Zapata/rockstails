@@ -3,6 +3,9 @@
   %strong= @criteria
   ' : 
   %strong= cocktails.size
+  (in 
+  %strong= elapsed_time
+  ms).
   %button.close{:type=>"button", 'data-dismiss'=>"alert"} &times;
 - cocktails.each_with_index do |c, i|
   - if i % 2 == 0

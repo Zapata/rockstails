@@ -1,26 +1,17 @@
 %h1#cocktail= cocktail.name
 %div#recipe
   %table.table
-    - cocktail.ingredients.each do |volume, doze, name|
+    - cocktail.recipe_steps.each do |step|
       %tr
-        %td= volume
-        %td= doze
-        %td= name
+        %td= step.amount
+        %td= step.doze
+        %td= step.ingredient.name
 %div#infos
   %table.table.table-condensed
-    %tr
-      %td Glass
-      %td= cocktail.glass
-    %tr
-      %td Garnish
-      %td= cocktail.garnish
-    %tr
-      %td Method
-      %td= cocktail.method
-    - cocktail.infos.each do |key, value|
-      %tr
-        %td= key
-        %td= value
-    %tr
-      %td Rate
-      %td= cocktail.rate
+    - [:method, :glass, :garnish, :rate, :aka, :variant, :comment, :origin, :source].each do |info|
+      - value = cocktail.send(info)
+      - unless value.nil? or value.blank?
+        %tr
+          %td= info.to_s.capitalize
+          %td= value
+      

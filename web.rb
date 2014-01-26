@@ -50,20 +50,23 @@ get '/search' do
   @criteria = params[:criteria]
   @selected_bar = params[:usebar]
   logger.info "Searching cocktails with criteria: #{@criteria}."
+  beginning_time = Time.now
   found_cocktails =  @db.search(@criteria, @selected_bar);
-  haml :list, :locals =>  { :cocktails => found_cocktails }
+  end_time = Time.now
+  elapsed_time = (end_time - beginning_time) * 1000
+  haml :list, locals:  { cocktails: found_cocktails, elapsed_time: elapsed_time.to_i }
 end
 
 get '/view/:name' do
   name = u(params[:name])
   cocktail = @db.get(name)
   redirect to('/') if cocktail.nil?
-  haml :view, :locals =>  { :cocktail => cocktail }
+  haml :view, locals: { cocktail: cocktail }
 end
 
 get '/bar/:name' do
   bar = @db.bar(u(params[:name]))
-  haml :bar, :locals => { :bar => bar }
+  haml :bar, locals: { bar: bar }
 end
 
 put '/bar/:name/add/:ingredient' do
@@ -72,7 +75,7 @@ put '/bar/:name/add/:ingredient' do
 end
 
 get '/ingredients' do
-  haml :ingredients, :locals => { :ingredients => @db.all_ingredients_names.to_a }
+  haml :ingredients, locals: { ingredients: @db.all_ingredients_names.to_a }
 end
 
 
