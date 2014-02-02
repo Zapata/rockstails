@@ -7,11 +7,13 @@ configure do
   enable :logging
   set :haml, :format => :html5
   unless ENV['DATABASE_URL'].nil? or ENV['DATABASE_URL'].strip.empty? then
+    puts "Use SQL database due to ENV '#{ENV['DATABASE_URL']}'"
     require 'sinatra/activerecord'
     require_relative 'model/activerecord/active_record_db'
     set :database, ENV['DATABASE_URL']
     set :db => ActiveRecordDB.new
   else
+    puts "Use file due to ENV '#{ENV['DATABASE_URL']}'"
     require_relative 'model/file/file_db'
     set :db => FileDB.new('datas')
   end
