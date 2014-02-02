@@ -1,19 +1,18 @@
 require 'sinatra'
 require 'sinatra/reloader' if development?
 require 'haml'
-require 'sinatra/activerecord'
 require 'shellwords'
-require_relative 'model/activerecord/active_record_db'
-require_relative 'model/file/file_db'
-require_relative 'model/file/bar'
 
 configure do
   enable :logging
   set :haml, :format => :html5
-  unless ENV['DATABASE_URL'].nil? or ENV['DATABASE_URL'].empty? then
+  unless ENV['DATABASE_URL'].nil? or ENV['DATABASE_URL'].strip.empty? then
+    require 'sinatra/activerecord'
+    require_relative 'model/activerecord/active_record_db'
     set :database, ENV['DATABASE_URL']
     set :db => ActiveRecordDB.new
   else
+    require_relative 'model/file/file_db'
     set :db => FileDB.new('datas')
   end
 end
