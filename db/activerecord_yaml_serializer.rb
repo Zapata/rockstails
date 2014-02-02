@@ -16,7 +16,7 @@ module ActiveModel
 
       # Same thing as as_json, but returns yaml instead of a hash (unless you include the as_hash:true option)
       def as_yaml(options = nil)
-        as_hash = options.delete(:as_hash)
+        as_hash = !options.nil? && options.delete(:as_hash)
         hash = serializable_hash(options)
 
         if include_root_in_json
