@@ -1,25 +1,28 @@
---- !ruby/object:DirtyCocktail 
+---
+name: D'Artagnan
+method: SHAKE first 4 ingredients with ice and fine strain into chilled glass. TOP
+  with champagne.
+rate: 3.5
 garnish: Lemon zest twist<br />
 glass: Martini
-infos: 
-  Comment: Use genuine freshly pressed juice and you'll have a tasty Mimosa-style drink.
-  source: www.diffordsguide.com (2620)
-ingredients: 
-- - " 1/2 "
-  - shot
-  - Armagnac
-- - " 1/2 "
-  - shot
-  - Grand Marnier liqueur
-- - "2"
-  - shot
-  - Freshly squeezed orange juice
-- - " 1/4 "
-  - shot
-  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
-- - "1"
-  - top up with
-  - Perrier Jouet brut champagne
-method: SHAKE first 4 ingredients with ice and fine strain into chilled glass. TOP with champagne.
-name: D'Artagnan
-rate: 3.5
+comment: Use genuine freshly pressed juice and you'll have a tasty Mimosa-style drink.
+aka: 
+variant: 
+origin: 
+source: www.diffordsguide.com (2620)
+recipe_steps:
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- amount: '2'
+  doze: shot
+  ingredient_name: Freshly squeezed orange juice
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Grand Marnier liqueur
+- amount: '1'
+  doze: top up with
+  ingredient_name: Perrier Jouet brut champagne
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Armagnac

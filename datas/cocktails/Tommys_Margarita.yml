@@ -1,20 +1,24 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Tommy's Margarita
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 5.0
 garnish: Lime wedge
 glass: Margarita
-infos: 
-  Comment: The flavour of agave is king in this simple Margarita, made without the traditional orange liqueur.
-  Origin: Created by Julio Bermejo and named after his family's Mexican restaurant and bar in San Francisco. Julio is legendary for his Margaritas and his knowledge of tequila.
-  source: www.diffordsguide.com (1975)
-ingredients: 
-- - "2"
-  - shot
-  - Herradura 100% agave tequila
-- - "1"
-  - shot
-  - Freshly squeezed lime juice
-- - " 1/2 "
-  - shot
-  - Agave nectar
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: Tommy's Margarita
-rate: 5.0
+comment: The flavour of agave is king in this simple Margarita, made without the traditional
+  orange liqueur.
+aka: 
+variant: 
+origin: Created by Julio Bermejo and named after his family's Mexican restaurant and
+  bar in San Francisco. Julio is legendary for his Margaritas and his knowledge of
+  tequila.
+source: www.diffordsguide.com (1975)
+recipe_steps:
+- amount: '1'
+  doze: shot
+  ingredient_name: Freshly squeezed lime juice
+- amount: '2'
+  doze: shot
+  ingredient_name: Herradura 100% agave tequila
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Agave nectar

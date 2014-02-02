@@ -1,23 +1,25 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Poet's Dream
+method: STIR all ingredients with ice and strain into chilled glass.
+rate: 4.5
 garnish: Squeezed lemon zest twist
 glass: Martini
-infos: 
-  Comment: Subtle, honeyed and herbal.
-  Origin: Adapted from an original recipe in the 1949 edition of Esquire's Handbook for Hosts.
-  source: www.diffordsguide.com (1576)
-ingredients: 
-- - "1"
-  - shot
-  - Bombay London dry gin
-- - "1"
-  - shot
-  - Bénédictine D.O.M.
-- - "1"
-  - shot
-  - Noilly Prat dry vermouth
-- - " 3/4 "
-  - shot
-  - Chilled mineral water
-method: STIR all ingredients with ice and strain into chilled glass.
-name: Poet's Dream
-rate: 4.5
+comment: Subtle, honeyed and herbal.
+aka: 
+variant: 
+origin: Adapted from an original recipe in the 1949 edition of Esquire's Handbook
+  for Hosts.
+source: www.diffordsguide.com (1576)
+recipe_steps:
+- amount: '1'
+  doze: shot
+  ingredient_name: Noilly Prat dry vermouth
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Chilled mineral water
+- amount: '1'
+  doze: shot
+  ingredient_name: Bombay London dry gin
+- amount: '1'
+  doze: shot
+  ingredient_name: Bénédictine D.O.M.

@@ -1,22 +1,25 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Green Horn
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 3.5
 garnish: Pineapple wedge &amp; cherry
 glass: Martini
-infos: 
-  Comment: Far more interesting and serious than the green hue from the melon liqueur would suggest.
-  source: www.diffordsguide.com (2677)
-ingredients: 
-- - "1 1/2 "
-  - shot
-  - Zacapa aged rum
-- - "1"
-  - shot
-  - Fresh pressed pineapple juice
-- - "1"
-  - shot
-  - Midori green melon liqueur
-- - " 1/2 "
-  - fresh
-  - Egg white
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: Green Horn
-rate: 3.5
+comment: Far more interesting and serious than the green hue from the melon liqueur
+  would suggest.
+aka: 
+variant: 
+origin: 
+source: www.diffordsguide.com (2677)
+recipe_steps:
+- amount: '1'
+  doze: shot
+  ingredient_name: Fresh pressed pineapple juice
+- amount: '1'
+  doze: shot
+  ingredient_name: Midori green melon liqueur
+- amount: ' 1/2 '
+  doze: fresh
+  ingredient_name: Egg white
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Zacapa aged rum

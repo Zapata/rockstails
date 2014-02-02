@@ -1,20 +1,21 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Empire Cocktail
+method: <p>SHAKE all ingredients with ice and fine strain into chilled glass.</p>
+rate: 3.0
 garnish: <p>Apricot slice on rim</p>
 glass: Martini
-infos: 
-  Comment: <p>Apricot dried by gin and apple brandy. </p>
-  Origin: <p>Adapted from Harry Craddock's 1930 'The Savoy Cocktail Book'.</p>
-  source: www.diffordsguide.com (2647)
-ingredients: 
-- - "1 1/2 "
-  - shot
-  - Bombay London dry gin
-- - " 3/4 "
-  - shot
-  - Boulard Grand Solage calvados
-- - " 3/4 "
-  - shot
-  - Bols apricot brandy liqueur
-method: <p>SHAKE all ingredients with ice and fine strain into chilled glass.</p>
-name: Empire Cocktail
-rate: 3.0
+comment: <p>Apricot dried by gin and apple brandy. </p>
+aka: 
+variant: 
+origin: <p>Adapted from Harry Craddock's 1930 'The Savoy Cocktail Book'.</p>
+source: www.diffordsguide.com (2647)
+recipe_steps:
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Boulard Grand Solage calvados
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Bols apricot brandy liqueur
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Bombay London dry gin

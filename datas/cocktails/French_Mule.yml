@@ -1,25 +1,29 @@
---- !ruby/object:DirtyCocktail 
+---
+name: French Mule
+method: SHAKE first 4 ingredients with ice and strain into ice-filled glass. TOP with
+  ginger beer, stir and serve with straws.
+rate: 4.0
 garnish: Sprig of mint
 glass: Collins
-infos: 
-  Comment: This French answer to the vodka based Moscow Mule uses cognac to make a more flavoursome, long, refreshing drink.
-  source: www.diffordsguide.com (800)
-ingredients: 
-- - "2"
-  - shot
-  - Courvoisier V.S.O.P cognac
-- - "1"
-  - shot
-  - Freshly squeezed lime juice
-- - "1"
-  - shot
-  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
-- - "3"
-  - dash
-  - Angostura aromatic bitters
-- - "1"
-  - top up with
-  - Ginger beer
-method: SHAKE first 4 ingredients with ice and strain into ice-filled glass. TOP with ginger beer, stir and serve with straws.
-name: French Mule
-rate: 4.0
+comment: This French answer to the vodka based Moscow Mule uses cognac to make a more
+  flavoursome, long, refreshing drink.
+aka: 
+variant: 
+origin: 
+source: www.diffordsguide.com (800)
+recipe_steps:
+- amount: '1'
+  doze: shot
+  ingredient_name: Freshly squeezed lime juice
+- amount: '1'
+  doze: shot
+  ingredient_name: Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- amount: '3'
+  doze: dash
+  ingredient_name: Angostura aromatic bitters
+- amount: '2'
+  doze: shot
+  ingredient_name: Courvoisier V.S.O.P cognac
+- amount: '1'
+  doze: top up with
+  ingredient_name: Ginger beer

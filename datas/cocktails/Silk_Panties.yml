@@ -1,20 +1,22 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Silk Panties
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 3.0
 garnish: Peach wedge on rim<br />
 glass: Martini
-infos: 
-  Comment: This drink may be sweet but despite the silly name it is more serious than you might expect.
-  Origin: Created sometime in the 1980s.
-  source: www.diffordsguide.com (2750)
-ingredients: 
-- - "2"
-  - shot
-  - Ketel One vodka
-- - "1"
-  - shot
-  - Peach Tree peach schnapps
-- - "2"
-  - dash
-  - Peach bitters
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: Silk Panties
-rate: 3.0
+comment: This drink may be sweet but despite the silly name it is more serious than
+  you might expect.
+aka: 
+variant: 
+origin: Created sometime in the 1980s.
+source: www.diffordsguide.com (2750)
+recipe_steps:
+- amount: '2'
+  doze: shot
+  ingredient_name: Ketel One vodka
+- amount: '1'
+  doze: shot
+  ingredient_name: Peach Tree peach schnapps
+- amount: '2'
+  doze: dash
+  ingredient_name: Peach bitters

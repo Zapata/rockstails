@@ -1,22 +1,26 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Scotch Sour
+method: DRY SHAKE all ingredients (without ice). Add ice, SHAKE again and strain into
+  ice-filled glass.<br />
+rate: 5.0
 garnish: Lemon and orange zest twists<br />
 glass: Old-fashioned
-infos: 
-  Comment: This drink is sadly often overlooked in favour of the bourbon based Whiskey Sour.
-  source: www.diffordsguide.com (2848)
-ingredients: 
-- - "2"
-  - shot
-  - Johnnie Walker Scotch Whisky
-- - "1"
-  - shot
-  - Freshly squeezed lemon juice
-- - " 1/2 "
-  - shot
-  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
-- - " 1/2 "
-  - shot
-  - Egg white
-method: DRY SHAKE all ingredients (without ice). Add ice, SHAKE again and strain into ice-filled glass.<br />
-name: Scotch Sour
-rate: 5.0
+comment: This drink is sadly often overlooked in favour of the bourbon based Whiskey
+  Sour.
+aka: 
+variant: 
+origin: 
+source: www.diffordsguide.com (2848)
+recipe_steps:
+- amount: '1'
+  doze: shot
+  ingredient_name: Freshly squeezed lemon juice
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Egg white
+- amount: '2'
+  doze: shot
+  ingredient_name: Johnnie Walker Scotch Whisky

@@ -1,22 +1,24 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Illusion
+method: SHAKE all ingredients with ice and strain into ice-filled glass.
+rate: 4.0
 garnish: Watermelon wedge on rim
 glass: Collins
-infos: 
-  Comment: This medium-sweet, lime green drink is one for a summer's day by the pool.
-  source: www.diffordsguide.com (1007)
-ingredients: 
-- - "2"
-  - shot
-  - Ketel One vodka
-- - " 3/4 "
-  - shot
-  - Cointreau triple sec
-- - " 3/4 "
-  - shot
-  - Midori green melon liqueur
-- - "2 1/2 "
-  - shot
-  - Fresh pressed pineapple juice
-method: SHAKE all ingredients with ice and strain into ice-filled glass.
-name: Illusion
-rate: 4.0
+comment: This medium-sweet, lime green drink is one for a summer's day by the pool.
+aka: 
+variant: 
+origin: 
+source: www.diffordsguide.com (1007)
+recipe_steps:
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Cointreau triple sec
+- amount: '2'
+  doze: shot
+  ingredient_name: Ketel One vodka
+- amount: '2 1/2 '
+  doze: shot
+  ingredient_name: Fresh pressed pineapple juice
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Midori green melon liqueur

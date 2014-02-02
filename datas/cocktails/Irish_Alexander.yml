@@ -1,19 +1,21 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Irish Alexander
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 3.5
 garnish: Crumbled Cadbury's Flake bar
 glass: Martini
-infos: 
-  Comment: Rich, thick, creamy and yummy.
-  source: www.diffordsguide.com (1018)
-ingredients: 
-- - "1 1/2 "
-  - shot
-  - Baileys Irish cream liqueur
-- - "1 1/2 "
-  - shot
-  - Courvoisier V.S.O.P cognac
-- - "1"
-  - shot
-  - Double (heavy) cream
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: Irish Alexander
-rate: 3.5
+comment: Rich, thick, creamy and yummy.
+aka: 
+variant: 
+origin: 
+source: www.diffordsguide.com (1018)
+recipe_steps:
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Baileys Irish cream liqueur
+- amount: '1'
+  doze: shot
+  ingredient_name: Double (heavy) cream
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Courvoisier V.S.O.P cognac

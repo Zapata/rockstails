@@ -1,26 +1,29 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Tabu
+method: BLEND all ingredients with 12oz scoop crushed ice.
+rate: 3.5
 garnish: Pineapple cubes &amp; cherry on stick, mint sprig
 glass: Coconut shell
-infos: 
-  Comment: Ice-cold fresh pineapple laced with rum and vodka with a splash of citrus.<br /><br />
-  Origin: Adapted from Victor Bergeron's 'Trader Vic's Bartender's Guide' (1972 revised edition) where Vic states the drink "originated in Seattle".<br /><br />
-  source: www.diffordsguide.com (2203)
-ingredients: 
-- - "1"
-  - shot
-  - Bacardi Superior rum
-- - "1"
-  - shot
-  - Ketel One vodka
-- - "1 1/2 "
-  - shot
-  - Fresh pressed pineapple juice
-- - " 1/2 "
-  - shot
-  - Freshly squeezed lemon juice
-- - " 1/4 "
-  - shot
-  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
-method: BLEND all ingredients with 12oz scoop crushed ice.
-name: Tabu
-rate: 3.5
+comment: Ice-cold fresh pineapple laced with rum and vodka with a splash of citrus.<br
+  /><br />
+aka: 
+variant: 
+origin: Adapted from Victor Bergeron's 'Trader Vic's Bartender's Guide' (1972 revised
+  edition) where Vic states the drink "originated in Seattle".<br /><br />
+source: www.diffordsguide.com (2203)
+recipe_steps:
+- amount: '1'
+  doze: shot
+  ingredient_name: Ketel One vodka
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Freshly squeezed lemon juice
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- amount: '1'
+  doze: shot
+  ingredient_name: Bacardi Superior rum
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Fresh pressed pineapple juice

@@ -1,26 +1,28 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Bitter Sweet Symphony
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 3.5
 garnish: Apricot slice
 glass: Martini
-infos: 
-  Comment: This roller coaster ride of bitter and sweet mainly features apricot and grapefruit.
-  Origin: Adapted from a drink created in 2003 by Wayne Collins for Maxxium UK.
-  source: www.diffordsguide.com (220)
-ingredients: 
-- - " 1/2 "
-  - shot
-  - Ketel One vodka
-- - "1"
-  - shot
-  - Cointreau triple sec
-- - "1"
-  - shot
-  - Bols apricot brandy liqueur
-- - " 1/2 "
-  - shot
-  - Freshly squeezed lime juice
-- - "1 1/2 "
-  - shot
-  - Freshly squeezed grapefruit juice
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: Bitter Sweet Symphony
-rate: 3.5
+comment: This roller coaster ride of bitter and sweet mainly features apricot and
+  grapefruit.
+aka: 
+variant: 
+origin: Adapted from a drink created in 2003 by Wayne Collins for Maxxium UK.
+source: www.diffordsguide.com (220)
+recipe_steps:
+- amount: '1'
+  doze: shot
+  ingredient_name: Cointreau triple sec
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Freshly squeezed lime juice
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Ketel One vodka
+- amount: '1'
+  doze: shot
+  ingredient_name: Bols apricot brandy liqueur
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Freshly squeezed grapefruit juice

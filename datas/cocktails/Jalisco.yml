@@ -1,23 +1,27 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Jalisco
+method: MUDDLE grapes in base of shaker. Add other ingredients, SHAKE with ice and
+  fine strain into chilled glass.
+rate: 4.0
 garnish: Grapes on stick
 glass: Martini
-infos: 
-  Comment: It's amazing how well grapes combine with tequila.
-  Origin: Created in 2003 by Shelim Islam at GE Club, London, England. Pronounced 'Hal-is-co', this cocktail takes its name from the Mexican state that is home to the town of Tequila and the spirit of the same name.
-  source: www.diffordsguide.com (1047)
-ingredients: 
-- - "12"
-  - fresh
-  - Seedless white grapes
-- - "2 1/2 "
-  - shot
-  - Herradura 100% agave tequila
-- - " 1/2 "
-  - shot
-  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
-- - "3"
-  - dash
-  - Angostura orange bitters
-method: MUDDLE grapes in base of shaker. Add other ingredients, SHAKE with ice and fine strain into chilled glass.
-name: Jalisco
-rate: 4.0
+comment: It's amazing how well grapes combine with tequila.
+aka: 
+variant: 
+origin: Created in 2003 by Shelim Islam at GE Club, London, England. Pronounced 'Hal-is-co',
+  this cocktail takes its name from the Mexican state that is home to the town of
+  Tequila and the spirit of the same name.
+source: www.diffordsguide.com (1047)
+recipe_steps:
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- amount: '2 1/2 '
+  doze: shot
+  ingredient_name: Herradura 100% agave tequila
+- amount: '3'
+  doze: dash
+  ingredient_name: Angostura orange bitters
+- amount: '12'
+  doze: fresh
+  ingredient_name: Seedless white grapes

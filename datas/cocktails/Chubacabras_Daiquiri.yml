@@ -1,29 +1,36 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Chubacabras Daiquiri
+method: SHAKE all ingredients with ice and fine-strain into chilled glass.
+rate: 3.0
 garnish: Maraschino cherry
 glass: Martini
-infos: 
-  Comment: Absinthe, almond, maraschino and orange flower blossom water make for a highly flavoured daiquiri.<br /><br />
-  Origin: Created in 2008 by Marcis Dzelzainis, Quo Vadis, London, England. The name literally translates as 'goat sucker' and is the name given to a Latin American 'monster' that is said to kill goats and other small animals to then suck the blood out of them. The first reported incidences were in Puerto Rico during 1995 and more recently the band Super Furry Animals had a hit record with their ode to the chupacabra.<br /><br />
-  source: www.diffordsguide.com (2339)
-ingredients: 
-- - "2"
-  - shot
-  - Bacardi Superior rum
-- - " 3/4 "
-  - shot
-  - Freshly squeezed lime juice
-- - " 1/4 "
-  - shot
-  - Monin Almond (orgeat) syrup
-- - " 1/8 "
-  - shot
-  - Luxardo maraschino liqueur
-- - " 1/8 "
-  - shot
-  - "La F\xE9e Parisienne (68%) absinthe"
-- - " 1/8 "
-  - shot
-  - Orange flower water
-method: SHAKE all ingredients with ice and fine-strain into chilled glass.
-name: Chubacabras Daiquiri
-rate: 3.0
+comment: Absinthe, almond, maraschino and orange flower blossom water make for a highly
+  flavoured daiquiri.<br /><br />
+aka: 
+variant: 
+origin: Created in 2008 by Marcis Dzelzainis, Quo Vadis, London, England. The name
+  literally translates as 'goat sucker' and is the name given to a Latin American
+  'monster' that is said to kill goats and other small animals to then suck the blood
+  out of them. The first reported incidences were in Puerto Rico during 1995 and more
+  recently the band Super Furry Animals had a hit record with their ode to the chupacabra.<br
+  /><br />
+source: www.diffordsguide.com (2339)
+recipe_steps:
+- amount: ' 1/8 '
+  doze: shot
+  ingredient_name: La Fée Parisienne (68%) absinthe
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Freshly squeezed lime juice
+- amount: '2'
+  doze: shot
+  ingredient_name: Bacardi Superior rum
+- amount: ' 1/8 '
+  doze: shot
+  ingredient_name: Luxardo maraschino liqueur
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Monin Almond (orgeat) syrup
+- amount: ' 1/8 '
+  doze: shot
+  ingredient_name: Orange flower water

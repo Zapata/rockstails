@@ -1,23 +1,26 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Fresa Batida
+method: MUDDLE strawberries in base of shaker. Add other ingredients, SHAKE with ice
+  and strain into glass filled with crushed ice.
+rate: 3.5
 garnish: Strawberry
 glass: Collins (small 8oz)
-infos: 
-  Comment: A long, very refreshing strawberry drink laced with cachaca.
-  Origin: The Batida is a traditional Brazilian style of drink and 'Fresa' means strawberry in Portuguese, the official language of Brazil.
-  source: www.diffordsguide.com (803)
-ingredients: 
-- - "2 1/2 "
-  - shot
-  - Leblon cachaca
-- - " 1/2 "
-  - shot
-  - Freshly squeezed lemon juice
-- - " 1/2 "
-  - shot
-  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
-- - "7"
-  - fresh
-  - Strawberries (hulled)
-method: MUDDLE strawberries in base of shaker. Add other ingredients, SHAKE with ice and strain into glass filled with crushed ice.
-name: Fresa Batida
-rate: 3.5
+comment: A long, very refreshing strawberry drink laced with cachaca.
+aka: 
+variant: 
+origin: The Batida is a traditional Brazilian style of drink and 'Fresa' means strawberry
+  in Portuguese, the official language of Brazil.
+source: www.diffordsguide.com (803)
+recipe_steps:
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Freshly squeezed lemon juice
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- amount: '7'
+  doze: fresh
+  ingredient_name: Strawberries (hulled)
+- amount: '2 1/2 '
+  doze: shot
+  ingredient_name: Leblon cachaca

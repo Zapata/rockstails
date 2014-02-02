@@ -1,17 +1,19 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Depth Charge
+method: POUR lager into Boston glass. POUR vodka into shot glass. DROP shot glass
+  into lager and consume.
+rate: 2.0
 garnish: None
 glass: Boston & shot
-infos: 
-  Comment: One way to ruin a good beer.
-  source: www.diffordsguide.com (631)
-  Variant: Boilermaker.
-ingredients: 
-- - "1 1/2 "
-  - shot
-  - Ketel One vodka
-- - "1"
-  - pint
-  - Lager
-method: POUR lager into Boston glass. POUR vodka into shot glass. DROP shot glass into lager and consume.
-name: Depth Charge
-rate: 2.0
+comment: One way to ruin a good beer.
+aka: 
+variant: Boilermaker.
+origin: 
+source: www.diffordsguide.com (631)
+recipe_steps:
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Ketel One vodka
+- amount: '1'
+  doze: pint
+  ingredient_name: Lager

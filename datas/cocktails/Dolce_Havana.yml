@@ -1,29 +1,31 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Dolce Havana
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 4.0
 garnish: None
 glass: Martini
-infos: 
-  Comment: A melange of Mediterranean fruit.
-  Origin: Created by Fabrizio Musorella in 2000 at the Library Bar, Lanesborough Hotel, London, England.
-  source: www.diffordsguide.com (659)
-ingredients: 
-- - "1 1/4 "
-  - shot
-  - Bacardi Superior rum
-- - " 1/2 "
-  - shot
-  - Cointreau triple sec
-- - " 1/2 "
-  - shot
-  - Campari Bitter
-- - "1 1/4 "
-  - shot
-  - Freshly squeezed orange juice
-- - "1 1/4 "
-  - shot
-  - Freshly squeezed lime juice
-- - " 1/8 "
-  - shot
-  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: Dolce Havana
-rate: 4.0
+comment: A melange of Mediterranean fruit.
+aka: 
+variant: 
+origin: Created by Fabrizio Musorella in 2000 at the Library Bar, Lanesborough Hotel,
+  London, England.
+source: www.diffordsguide.com (659)
+recipe_steps:
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Cointreau triple sec
+- amount: '1 1/4 '
+  doze: shot
+  ingredient_name: Freshly squeezed lime juice
+- amount: ' 1/8 '
+  doze: shot
+  ingredient_name: Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- amount: '1 1/4 '
+  doze: shot
+  ingredient_name: Bacardi Superior rum
+- amount: '1 1/4 '
+  doze: shot
+  ingredient_name: Freshly squeezed orange juice
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Campari Bitter

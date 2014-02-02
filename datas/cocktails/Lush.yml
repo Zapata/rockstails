@@ -1,20 +1,22 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Lush
+method: POUR vodka and liqueur into chilled glass, TOP with champagne and lightly
+  stir.
+rate: 3.5
 garnish: Raspberry in glass
 glass: Flute
-infos: 
-  Comment: It is, are you?
-  Origin: Created in 1999 by Spike Marchant at Alphabet, London, England.
-  source: www.diffordsguide.com (1200)
-ingredients: 
-- - "1"
-  - shot
-  - Ketel One vodka
-- - " 1/2 "
-  - shot
-  - Chambord
-- - "1"
-  - top up with
-  - Perrier Jouet brut champagne
-method: POUR vodka and liqueur into chilled glass, TOP with champagne and lightly stir.
-name: Lush
-rate: 3.5
+comment: It is, are you?
+aka: 
+variant: 
+origin: Created in 1999 by Spike Marchant at Alphabet, London, England.
+source: www.diffordsguide.com (1200)
+recipe_steps:
+- amount: '1'
+  doze: shot
+  ingredient_name: Ketel One vodka
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Chambord
+- amount: '1'
+  doze: top up with
+  ingredient_name: Perrier Jouet brut champagne

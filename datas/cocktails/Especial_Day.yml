@@ -1,29 +1,31 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Especial Day
+method: <p>MUDDLE blackberries in base of shaker. Add other ingredients, SHAKE with
+  ice and fine strain into chilled glass.</p>
+rate: 4.5
 garnish: <p>Blackberry &amp; discarded lemon zest twist</p>
 glass: Martini
-infos: 
-  Comment: <p>Beautifully balanced, aromatic, rum laced and fruity.</p>
-  Origin: <p>Created in 2005 by Tonin Kacaj at Maze, London, England.</p>
-  source: www.diffordsguide.com (723)
-ingredients: 
-- - "3"
-  - fresh
-  - Blackberries
-- - "2"
-  - shot
-  - Bacardi Superior rum
-- - " 1/2 "
-  - shot
-  - Martini Rosso sweet vermouth
-- - " 3/4 "
-  - shot
-  - "Cr\xE8me de M\xFBre liqueur"
-- - " 1/2 "
-  - shot
-  - Fresh pressed pineapple juice
-- - "3"
-  - dash
-  - Peychaud's aromatic bitters
-method: <p>MUDDLE blackberries in base of shaker. Add other ingredients, SHAKE with ice and fine strain into chilled glass.</p>
-name: Especial Day
-rate: 4.5
+comment: <p>Beautifully balanced, aromatic, rum laced and fruity.</p>
+aka: 
+variant: 
+origin: <p>Created in 2005 by Tonin Kacaj at Maze, London, England.</p>
+source: www.diffordsguide.com (723)
+recipe_steps:
+- amount: '2'
+  doze: shot
+  ingredient_name: Bacardi Superior rum
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Fresh pressed pineapple juice
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Crème de Mûre liqueur
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Martini Rosso sweet vermouth
+- amount: '3'
+  doze: fresh
+  ingredient_name: Blackberries
+- amount: '3'
+  doze: dash
+  ingredient_name: Peychaud's aromatic bitters

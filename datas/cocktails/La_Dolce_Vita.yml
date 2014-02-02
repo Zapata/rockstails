@@ -1,26 +1,29 @@
---- !ruby/object:DirtyCocktail 
+---
+name: La Dolce Vita
+method: 'MUDDLE grapes in base of shaker. Add vodka, honey and bitters, SHAKE with
+  ice and fine strain into chilled glass. TOP with prosecco.<br /> '
+rate: 4.5
 garnish: Lemon zest twist<br />
 glass: Martini
-infos: 
-  Comment: Complex, yet easy to quaff with grape juice, vodka, honey and a touch of fizz.
-  Origin: Created in 2002 by Tony Conigliaro at Isola, London, England
-  source: www.diffordsguide.com (2381)
-ingredients: 
-- - "4"
-  - fresh
-  - Seedless white grapes
-- - "1"
-  - shot
-  - Ketel One vodka
-- - "1"
-  - spoon
-  - Runny honey
-- - "1"
-  - dash
-  - Angostura orange bitters
-- - "1"
-  - top up with
-  - Prosecco sparkling wine
-method: "MUDDLE grapes in base of shaker. Add vodka, honey and bitters, SHAKE with ice and fine strain into chilled glass. TOP with prosecco.<br /> "
-name: La Dolce Vita
-rate: 4.5
+comment: Complex, yet easy to quaff with grape juice, vodka, honey and a touch of
+  fizz.
+aka: 
+variant: 
+origin: Created in 2002 by Tony Conigliaro at Isola, London, England
+source: www.diffordsguide.com (2381)
+recipe_steps:
+- amount: '1'
+  doze: shot
+  ingredient_name: Ketel One vodka
+- amount: '1'
+  doze: spoon
+  ingredient_name: Runny honey
+- amount: '1'
+  doze: dash
+  ingredient_name: Angostura orange bitters
+- amount: '4'
+  doze: fresh
+  ingredient_name: Seedless white grapes
+- amount: '1'
+  doze: top up with
+  ingredient_name: Prosecco sparkling wine

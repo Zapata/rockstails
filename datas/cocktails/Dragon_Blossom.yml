@@ -1,22 +1,24 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Dragon Blossom
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 3.0
 garnish: Maraschino cherry in drink
 glass: Martini
-infos: 
-  Comment: Light, aromatic, semi-sweet and distinctly oriental in style.
-  source: www.diffordsguide.com (671)
-ingredients: 
-- - "1 3/4 "
-  - shot
-  - Lanique rose petal liqueur
-- - " 1/4 "
-  - shot
-  - Soho lychee liqueur
-- - " 1/4 "
-  - shot
-  - Maraschino syrup (from cherry jar)
-- - "1 3/4 "
-  - shot
-  - Ocean Spray cranberry juice
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: Dragon Blossom
-rate: 3.0
+comment: Light, aromatic, semi-sweet and distinctly oriental in style.
+aka: 
+variant: 
+origin: 
+source: www.diffordsguide.com (671)
+recipe_steps:
+- amount: '1 3/4 '
+  doze: shot
+  ingredient_name: Ocean Spray cranberry juice
+- amount: '1 3/4 '
+  doze: shot
+  ingredient_name: Lanique rose petal liqueur
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Soho lychee liqueur
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Maraschino syrup (from cherry jar)

@@ -1,28 +1,32 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Ginger Punch
+method: MUDDLE ginger in base of shaker. Add honey and rum and STIR until honey is
+  dissolved. Add lime juice and sugar, SHAKE with ice and fine strain into ice-filled
+  glass. TOP with ginger ale.
+rate: 3.5
 garnish: Lime wedge
 glass: Collins
-infos: 
-  Comment: A ginger spiced rum punch.
-  source: www.diffordsguide.com (855)
-ingredients: 
-- - "2"
-  - slice
-  - Fresh root ginger (thumbnail sized)
-- - "2"
-  - spoon
-  - Runny honey
-- - "2 1/2 "
-  - shot
-  - Bacardi Oro golden rum
-- - " 3/4 "
-  - shot
-  - Freshly squeezed lime juice
-- - " 1/4 "
-  - shot
-  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
-- - "1"
-  - top up with
-  - Ginger ale
-method: MUDDLE ginger in base of shaker. Add honey and rum and STIR until honey is dissolved. Add lime juice and sugar, SHAKE with ice and fine strain into ice-filled glass. TOP with ginger ale.
-name: Ginger Punch
-rate: 3.5
+comment: A ginger spiced rum punch.
+aka: 
+variant: 
+origin: 
+source: www.diffordsguide.com (855)
+recipe_steps:
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Freshly squeezed lime juice
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- amount: '2 1/2 '
+  doze: shot
+  ingredient_name: Bacardi Oro golden rum
+- amount: '2'
+  doze: spoon
+  ingredient_name: Runny honey
+- amount: '1'
+  doze: top up with
+  ingredient_name: Ginger ale
+- amount: '2'
+  doze: slice
+  ingredient_name: Fresh root ginger (thumbnail sized)

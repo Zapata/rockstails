@@ -1,16 +1,19 @@
---- !ruby/object:DirtyCocktail 
+---
+name: B. J. Shot
+method: Refrigerate ingredients then LAYER in chilled glass by carefully pouring in
+  the following order.
+rate: 3.0
 garnish: Thin layer of single cream
 glass: Shot
-infos: 
-  Comment: You know what the letters stand for - tastes better!
-  source: www.diffordsguide.com (139)
-ingredients: 
-- - " 1/2 "
-  - shot
-  - Grand Marnier liqueur
-- - " 1/2 "
-  - shot
-  - Baileys Irish cream liqueur
-method: Refrigerate ingredients then LAYER in chilled glass by carefully pouring in the following order.
-name: B. J. Shot
-rate: 3.0
+comment: You know what the letters stand for - tastes better!
+aka: 
+variant: 
+origin: 
+source: www.diffordsguide.com (139)
+recipe_steps:
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Grand Marnier liqueur
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Baileys Irish cream liqueur

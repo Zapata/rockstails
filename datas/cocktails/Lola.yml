@@ -1,26 +1,27 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Lola
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 3.5
 garnish: Orange zest twist
 glass: Martini
-infos: 
-  Comment: Strong, creamy orange.
-  Origin: Created in 1999 by Jamie Terrell, London, England.
-  source: www.diffordsguide.com (1182)
-ingredients: 
-- - "1 1/2 "
-  - shot
-  - Bacardi Oro golden rum
-- - " 1/2 "
-  - shot
-  - Mandarine Napolon liqueur
-- - " 1/2 "
-  - shot
-  - "White cr\xE8me de cacao liqueur"
-- - "1"
-  - shot
-  - Freshly squeezed orange juice
-- - " 1/2 "
-  - shot
-  - Double (heavy) cream
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: Lola
-rate: 3.5
+comment: Strong, creamy orange.
+aka: 
+variant: 
+origin: Created in 1999 by Jamie Terrell, London, England.
+source: www.diffordsguide.com (1182)
+recipe_steps:
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Mandarine Napolon liqueur
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Bacardi Oro golden rum
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: White crème de cacao liqueur
+- amount: '1'
+  doze: shot
+  ingredient_name: Freshly squeezed orange juice
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Double (heavy) cream

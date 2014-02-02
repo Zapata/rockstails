@@ -1,29 +1,31 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Pilgrim Cocktail
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 4.0
 garnish: Dust with grated nutmeg
 glass: Martini
-infos: 
-  Comment: Whether you serve this hot or cold, it's a delicately spiced drink to warm the cockles.
-  Variant: Can also be served hot by simmering ingredients gently in a saucepan.
-  source: www.diffordsguide.com (1521)
-ingredients: 
-- - "1 1/2 "
-  - shot
-  - Bacardi Oro golden rum
-- - " 1/2 "
-  - shot
-  - Grand Marnier liqueur
-- - "1"
-  - shot
-  - Freshly squeezed orange juice
-- - " 3/4 "
-  - shot
-  - Freshly squeezed lime juice
-- - " 1/4 "
-  - shot
-  - Berry Hill pimento allspice liqueur
-- - "3"
-  - dash
-  - Angostura aromatic bitters
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: Pilgrim Cocktail
-rate: 4.0
+comment: Whether you serve this hot or cold, it's a delicately spiced drink to warm
+  the cockles.
+aka: 
+variant: Can also be served hot by simmering ingredients gently in a saucepan.
+origin: 
+source: www.diffordsguide.com (1521)
+recipe_steps:
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Freshly squeezed lime juice
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Bacardi Oro golden rum
+- amount: '1'
+  doze: shot
+  ingredient_name: Freshly squeezed orange juice
+- amount: '3'
+  doze: dash
+  ingredient_name: Angostura aromatic bitters
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Grand Marnier liqueur
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Berry Hill pimento allspice liqueur

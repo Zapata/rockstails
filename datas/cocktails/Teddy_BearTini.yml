@@ -1,23 +1,25 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Teddy Bear'Tini
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 4.0
 garnish: Pear slice
 glass: Martini
-infos: 
-  Comment: Beautifully balanced apple and pear with a hint of cinnamon spice.
-  Origin: Created in 2002 at The Borough, Edinburgh, Scotland. Originally named after a well-known cockney duo but renamed after the cockney rhyming slang for pear.
-  source: www.diffordsguide.com (1926)
-ingredients: 
-- - "1 1/2 "
-  - shot
-  - Belle de Brillet pear liqueur
-- - " 3/4 "
-  - shot
-  - Berentzen Apple schnapps
-- - "1 1/2 "
-  - shot
-  - Pressed apple juice
-- - "1"
-  - pinch
-  - Ground cinnamon
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: Teddy Bear'Tini
-rate: 4.0
+comment: Beautifully balanced apple and pear with a hint of cinnamon spice.
+aka: 
+variant: 
+origin: Created in 2002 at The Borough, Edinburgh, Scotland. Originally named after
+  a well-known cockney duo but renamed after the cockney rhyming slang for pear.
+source: www.diffordsguide.com (1926)
+recipe_steps:
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Berentzen Apple schnapps
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Pressed apple juice
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Belle de Brillet pear liqueur
+- amount: '1'
+  doze: pinch
+  ingredient_name: Ground cinnamon

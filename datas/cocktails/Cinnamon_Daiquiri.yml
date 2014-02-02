@@ -1,20 +1,21 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Cinnamon Daiquiri
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 3.5
 garnish: Dust with cinnamon powder
 glass: Martini
-infos: 
-  Comment: A subtle spicy cinnamon taste with tangy length.
-  Origin: Created in 1999 by Porik at Che, London, England.
-  source: www.diffordsguide.com (436)
-ingredients: 
-- - "2"
-  - shot
-  - Bacardi Superior rum
-- - " 1/2 "
-  - shot
-  - Goldschlager cinnamon schnapps
-- - " 1/2 "
-  - shot
-  - Freshly squeezed lime juice
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: Cinnamon Daiquiri
-rate: 3.5
+comment: A subtle spicy cinnamon taste with tangy length.
+aka: 
+variant: 
+origin: Created in 1999 by Porik at Che, London, England.
+source: www.diffordsguide.com (436)
+recipe_steps:
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Freshly squeezed lime juice
+- amount: '2'
+  doze: shot
+  ingredient_name: Bacardi Superior rum
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Goldschlager cinnamon schnapps

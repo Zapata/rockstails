@@ -1,26 +1,28 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Orchard Breeze
+method: SHAKE all ingredients with ice and strain into ice-filled glass.
+rate: 4.5
 garnish: Apple slice on rim
 glass: Collins
-infos: 
-  Comment: A refreshing, summery combination of white wine, apple, lime and elderflower laced with vodka.
-  Origin: Created in 2002 by Wayne Collins for Maxximum UK.
-  source: www.diffordsguide.com (1448)
-ingredients: 
-- - "2"
-  - shot
-  - Ketel One vodka
-- - "1"
-  - shot
-  - St-Germain elderflower liqueur
-- - "1"
-  - shot
-  - Sauvignon blanc wine
-- - "2 1/2 "
-  - shot
-  - Pressed apple juice
-- - " 1/4 "
-  - shot
-  - Freshly squeezed lime juice
-method: SHAKE all ingredients with ice and strain into ice-filled glass.
-name: Orchard Breeze
-rate: 4.5
+comment: A refreshing, summery combination of white wine, apple, lime and elderflower
+  laced with vodka.
+aka: 
+variant: 
+origin: Created in 2002 by Wayne Collins for Maxximum UK.
+source: www.diffordsguide.com (1448)
+recipe_steps:
+- amount: '1'
+  doze: shot
+  ingredient_name: Sauvignon blanc wine
+- amount: '1'
+  doze: shot
+  ingredient_name: St-Germain elderflower liqueur
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Freshly squeezed lime juice
+- amount: '2'
+  doze: shot
+  ingredient_name: Ketel One vodka
+- amount: '2 1/2 '
+  doze: shot
+  ingredient_name: Pressed apple juice

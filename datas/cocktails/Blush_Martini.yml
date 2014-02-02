@@ -1,29 +1,30 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Blush Martini
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 3.5
 garnish: Dust with cinnamon powder
 glass: Martini
-infos: 
-  Comment: Drier than it looks, but still one to follow the dessert trolley.
-  Origin: Created by Colin William Crowden, Mashed Bar, Leicester, England
-  source: www.diffordsguide.com (278)
-ingredients: 
-- - "1"
-  - shot
-  - Ketel One vodka
-- - " 3/4 "
-  - shot
-  - Vanilla schnapps
-- - " 1/2 "
-  - shot
-  - Luxardo Amaretto di Saschira
-- - " 3/4 "
-  - shot
-  - Double (heavy) cream
-- - " 3/4 "
-  - shot
-  - Milk
-- - " 1/4 "
-  - shot
-  - Ocean Spray cranberry juice
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: Blush Martini
-rate: 3.5
+comment: Drier than it looks, but still one to follow the dessert trolley.
+aka: 
+variant: 
+origin: Created by Colin William Crowden, Mashed Bar, Leicester, England
+source: www.diffordsguide.com (278)
+recipe_steps:
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Ocean Spray cranberry juice
+- amount: '1'
+  doze: shot
+  ingredient_name: Ketel One vodka
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Double (heavy) cream
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Milk
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Luxardo Amaretto di Saschira
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Vanilla schnapps

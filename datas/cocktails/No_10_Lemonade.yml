@@ -1,26 +1,28 @@
---- !ruby/object:DirtyCocktail 
+---
+name: No. 10 Lemonade
+method: MUDDLE blueberries in base of shaker. Add next 3 ingredients, SHAKE with ice
+  and fine strain into ice-filled glass. TOP with soda.
+rate: 4.5
 garnish: Lemon slice
 glass: Collins
-infos: 
-  Comment: Basically a long blueberry Daiquiri.
-  Origin: Adapted from a drink discovered in 2006 at Double Seven, New York City, USA.
-  source: www.diffordsguide.com (1414)
-ingredients: 
-- - "12"
-  - fresh
-  - Blueberries
-- - "2"
-  - shot
-  - Bacardi Superior rum
-- - "1 1/2 "
-  - shot
-  - Freshly squeezed lemon juice
-- - " 3/4 "
-  - shot
-  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
-- - "1"
-  - top up with
-  - Soda (club soda)
-method: MUDDLE blueberries in base of shaker. Add next 3 ingredients, SHAKE with ice and fine strain into ice-filled glass. TOP with soda.
-name: No. 10 Lemonade
-rate: 4.5
+comment: Basically a long blueberry Daiquiri.
+aka: 
+variant: 
+origin: Adapted from a drink discovered in 2006 at Double Seven, New York City, USA.
+source: www.diffordsguide.com (1414)
+recipe_steps:
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Freshly squeezed lemon juice
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- amount: '1'
+  doze: top up with
+  ingredient_name: Soda (club soda)
+- amount: '2'
+  doze: shot
+  ingredient_name: Bacardi Superior rum
+- amount: '12'
+  doze: fresh
+  ingredient_name: Blueberries

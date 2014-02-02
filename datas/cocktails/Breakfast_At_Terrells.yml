@@ -1,26 +1,29 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Breakfast At Terrell's
+method: SHAKE first 4 ingredients with ice and strain into chilled glass. TOP with
+  champagne.
+rate: 4.0
 garnish: Kumquat half
 glass: Flute
-infos: 
-  Comment: This creamy orange champagne cocktail is almost as smooth as a Sgroppino.
-  Origin: Created by Jamie Terrell for Philip Holzberg at Vinexpo, Bordeaux, France, 1999.
-  source: www.diffordsguide.com (321)
-ingredients: 
-- - " 3/4 "
-  - shot
-  - Double (heavy) cream
-- - " 3/4 "
-  - shot
-  - Mandarine Napolon liqueur
-- - " 3/4 "
-  - shot
-  - Freshly squeezed orange juice
-- - " 1/8 "
-  - shot
-  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
-- - "1"
-  - top up with
-  - Perrier Jouet brut champagne
-method: SHAKE first 4 ingredients with ice and strain into chilled glass. TOP with champagne.
-name: Breakfast At Terrell's
-rate: 4.0
+comment: This creamy orange champagne cocktail is almost as smooth as a Sgroppino.
+aka: 
+variant: 
+origin: Created by Jamie Terrell for Philip Holzberg at Vinexpo, Bordeaux, France,
+  1999.
+source: www.diffordsguide.com (321)
+recipe_steps:
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Mandarine Napolon liqueur
+- amount: ' 1/8 '
+  doze: shot
+  ingredient_name: Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Freshly squeezed orange juice
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Double (heavy) cream
+- amount: '1'
+  doze: top up with
+  ingredient_name: Perrier Jouet brut champagne

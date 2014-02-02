@@ -1,26 +1,28 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Bahamas Daiquiri
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 4.5
 garnish: Pineapple wedge on rim
 glass: Martini
-infos: 
-  Comment: Totally tropical with a sweet tangy edge.
-  Origin: Adapted from the Bahamas Martini created in 2002 by Yannick Miseriaux at the Fifth Floor Bar, Harvey Nichols, London, England.
-  source: www.diffordsguide.com (145)
-ingredients: 
-- - "1 1/2 "
-  - shot
-  - Myer's dark Jamaican rum
-- - " 3/4 "
-  - shot
-  - Malibu coconut rum liqueur
-- - " 1/4 "
-  - shot
-  - Kahla coffee liqueur
-- - "1 1/2 "
-  - shot
-  - Fresh pressed pineapple juice
-- - " 1/2 "
-  - shot
-  - Freshly squeezed lime juice
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: Bahamas Daiquiri
-rate: 4.5
+comment: Totally tropical with a sweet tangy edge.
+aka: 
+variant: 
+origin: Adapted from the Bahamas Martini created in 2002 by Yannick Miseriaux at the
+  Fifth Floor Bar, Harvey Nichols, London, England.
+source: www.diffordsguide.com (145)
+recipe_steps:
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Freshly squeezed lime juice
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Fresh pressed pineapple juice
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Kahla coffee liqueur
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Malibu coconut rum liqueur
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Myer's dark Jamaican rum

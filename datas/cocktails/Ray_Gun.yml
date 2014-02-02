@@ -1,19 +1,21 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Ray Gun
+method: POUR Chartreuse and blue curacao into chilled glass. Top with champagne.
+rate: 3.0
 garnish: Orange zest twist
 glass: Flute
-infos: 
-  Comment: Not for the faint-hearted.
-  source: www.diffordsguide.com (1645)
-ingredients: 
-- - " 1/2 "
-  - shot
-  - Chartreuse Green liqueur
-- - " 3/4 "
-  - shot
-  - Bols blue curacao liqueur
-- - "1"
-  - top up with
-  - Perrier Jouet brut champagne
-method: POUR Chartreuse and blue curacao into chilled glass. Top with champagne.
-name: Ray Gun
-rate: 3.0
+comment: Not for the faint-hearted.
+aka: 
+variant: 
+origin: 
+source: www.diffordsguide.com (1645)
+recipe_steps:
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Chartreuse Green liqueur
+- amount: '1'
+  doze: top up with
+  ingredient_name: Perrier Jouet brut champagne
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Bols blue curacao liqueur

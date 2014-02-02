@@ -1,20 +1,21 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Starry Night
+method: STIR all ingredients with ice and strain into chilled glass.<br />
+rate: 4.5
 garnish: Float star anise<br />
 glass: Coupette
-infos: 
-  Comment: Delicate pear and aromatic maraschino over a wine base.
-  Origin: Created in 2008 by Jamie Boudreau at Vessel, Seattle, USA.<br />
-  source: www.diffordsguide.com (2858)
-ingredients: 
-- - "2"
-  - shot
-  - Chardonnay white wine
-- - " 1/2 "
-  - shot
-  - Poire William eau de vie
-- - " 1/2 "
-  - shot
-  - Luxardo maraschino liqueur
-method: STIR all ingredients with ice and strain into chilled glass.<br />
-name: Starry Night
-rate: 4.5
+comment: Delicate pear and aromatic maraschino over a wine base.
+aka: 
+variant: 
+origin: Created in 2008 by Jamie Boudreau at Vessel, Seattle, USA.<br />
+source: www.diffordsguide.com (2858)
+recipe_steps:
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Luxardo maraschino liqueur
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Poire William eau de vie
+- amount: '2'
+  doze: shot
+  ingredient_name: Chardonnay white wine

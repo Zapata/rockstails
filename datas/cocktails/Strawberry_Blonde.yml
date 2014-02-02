@@ -1,26 +1,29 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Strawberry Blonde
+method: MUDDLE strawberries in base of shaker. Add next three ingredients, SHAKE with
+  ice and fine strain into ice-filled glass. TOP with soda and serve with straws.
+rate: 4.0
 garnish: Strawberry on rim
 glass: Collins
-infos: 
-  Comment: Lurid orange-red in colour and basically alcoholic strawberry flavoured real lemonade.
-  Origin: Created in 2008 by yours truly at The Cabinet Room, London, England.
-  source: www.diffordsguide.com (2201)
-ingredients: 
-- - "2"
-  - fresh
-  - Strawberries (hulled)
-- - "2"
-  - shot
-  - Ketel One vodka
-- - "1 1/2 "
-  - shot
-  - Freshly squeezed lemon juice
-- - " 3/4 "
-  - shot
-  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
-- - "1"
-  - top up with
-  - Soda (club soda)
-method: MUDDLE strawberries in base of shaker. Add next three ingredients, SHAKE with ice and fine strain into ice-filled glass. TOP with soda and serve with straws.
-name: Strawberry Blonde
-rate: 4.0
+comment: Lurid orange-red in colour and basically alcoholic strawberry flavoured real
+  lemonade.
+aka: 
+variant: 
+origin: Created in 2008 by yours truly at The Cabinet Room, London, England.
+source: www.diffordsguide.com (2201)
+recipe_steps:
+- amount: '2'
+  doze: shot
+  ingredient_name: Ketel One vodka
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Freshly squeezed lemon juice
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- amount: '1'
+  doze: top up with
+  ingredient_name: Soda (club soda)
+- amount: '2'
+  doze: fresh
+  ingredient_name: Strawberries (hulled)

@@ -1,22 +1,25 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Caipiginger
+method: MUDDLE ginger in base of shaker. Add other ingredients, SHAKE with ice and
+  strain into glass filled with crushed ice. Serve with straws.
+rate: 3.5
 garnish: Lime zest twist (discarded) &amp; lime wedge
 glass: Old-fashioned
-infos: 
-  Comment: A ginger spiced take on the Caipirinha
-  source: www.diffordsguide.com (566)
-ingredients: 
-- - "2"
-  - shot
-  - Leblon cachaca
-- - "2"
-  - slice
-  - Fresh root ginger (thumbnail sized)
-- - "1"
-  - shot
-  - Freshly squeezed lime juice
-- - " 3/4 "
-  - shot
-  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
-method: MUDDLE ginger in base of shaker. Add other ingredients, SHAKE with ice and strain into glass filled with crushed ice. Serve with straws.
-name: Caipiginger
-rate: 3.5
+comment: A ginger spiced take on the Caipirinha
+aka: 
+variant: 
+origin: 
+source: www.diffordsguide.com (566)
+recipe_steps:
+- amount: '1'
+  doze: shot
+  ingredient_name: Freshly squeezed lime juice
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- amount: '2'
+  doze: shot
+  ingredient_name: Leblon cachaca
+- amount: '2'
+  doze: slice
+  ingredient_name: Fresh root ginger (thumbnail sized)

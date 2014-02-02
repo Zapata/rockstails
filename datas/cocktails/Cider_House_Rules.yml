@@ -1,26 +1,29 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Cider House Rules
+method: SHAKE all ingredients with ice and fine strain into ice-filled glass.
+rate: 4.0
 garnish: Apple wedge<br />
 glass: Old-fashioned
-infos: 
-  Comment: "Margarita-style drink with tequila, lemon and apple juice. "
-  Origin: Created by New York-based Brian Van Flandern, of Creative Cocktail Consultants Corp and named after the double Academy Award winning 1999 drama film and 1985 novel by John Irving of the same name.<br /><br />
-  source: www.diffordsguide.com (2341)
-ingredients: 
-- - "2"
-  - shot
-  - Herradura 100% agave tequila
-- - "1 1/2 "
-  - shot
-  - Pressed apple juice
-- - " 1/2 "
-  - shot
-  - Freshly squeezed lemon juice
-- - " 1/4 "
-  - shot
-  - Agave nectar
-- - " 1/2 "
-  - spoon
-  - Ground cinnamon
-method: SHAKE all ingredients with ice and fine strain into ice-filled glass.
-name: Cider House Rules
-rate: 4.0
+comment: 'Margarita-style drink with tequila, lemon and apple juice. '
+aka: 
+variant: 
+origin: Created by New York-based Brian Van Flandern, of Creative Cocktail Consultants
+  Corp and named after the double Academy Award winning 1999 drama film and 1985 novel
+  by John Irving of the same name.<br /><br />
+source: www.diffordsguide.com (2341)
+recipe_steps:
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Freshly squeezed lemon juice
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Pressed apple juice
+- amount: '2'
+  doze: shot
+  ingredient_name: Herradura 100% agave tequila
+- amount: ' 1/2 '
+  doze: spoon
+  ingredient_name: Ground cinnamon
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Agave nectar

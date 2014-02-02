@@ -1,20 +1,24 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Suppertime Daiquir
+method: STIR preserve and rum in base of shaker to dissolve preserve. Add other ingredients,
+  SHAKE with ice and fine strain into chilled glass.<br /><br />
+rate: 4.0
 garnish: Lime wedge<br />
 glass: Martini
-infos: 
-  Comment: Rhubarb and orange influence this Daiquiri twist.<br _moz_editor_bogus_node="TRUE" />
-  Origin: Created in 2008 by Jamie MacDonald at Tigerlily, Edinburgh, England in honour of his good friend Sam Kershaw.<br /><br />
-  source: www.diffordsguide.com (2589)
-ingredients: 
-- - "3"
-  - spoon
-  - Rhubarb & orange preserve
-- - "2"
-  - shot
-  - Bacardi Superior rum
-- - " 3/4 "
-  - shot
-  - Freshly squeezed lime juice
-method: STIR preserve and rum in base of shaker to dissolve preserve. Add other ingredients, SHAKE with ice and fine strain into chilled glass.<br /><br />
-name: Suppertime Daiquir
-rate: 4.0
+comment: Rhubarb and orange influence this Daiquiri twist.<br _moz_editor_bogus_node="TRUE"
+  />
+aka: 
+variant: 
+origin: Created in 2008 by Jamie MacDonald at Tigerlily, Edinburgh, England in honour
+  of his good friend Sam Kershaw.<br /><br />
+source: www.diffordsguide.com (2589)
+recipe_steps:
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Freshly squeezed lime juice
+- amount: '2'
+  doze: shot
+  ingredient_name: Bacardi Superior rum
+- amount: '3'
+  doze: spoon
+  ingredient_name: Rhubarb & orange preserve

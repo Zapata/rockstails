@@ -1,20 +1,22 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Golden Slipper
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 3.5
 garnish: Apricot slice on rim
 glass: Martini
-infos: 
-  Comment: " \r\n\
-    \t\t\t\t\t\t\t\t\tRichin colour and equally rich in flavour. A dessert with a punch."
-  source: www.diffordsguide.com (884)
-ingredients: 
-- - "1 1/2 "
-  - shot
-  - Chartreuse Yellow liqueur
-- - "1 1/2 "
-  - shot
-  - Bols apricot brandy liqueur
-- - "1"
-  - fresh
-  - Egg yolk
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: Golden Slipper
-rate: 3.5
+comment: " \r\n\t\t\t\t\t\t\t\t\tRichin colour and equally rich in flavour. A dessert
+  with a punch."
+aka: 
+variant: 
+origin: 
+source: www.diffordsguide.com (884)
+recipe_steps:
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Bols apricot brandy liqueur
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Chartreuse Yellow liqueur
+- amount: '1'
+  doze: fresh
+  ingredient_name: Egg yolk

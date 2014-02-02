@@ -1,24 +1,27 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Alexander's Sister
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 2.5
 garnish: |-
-  <span lang="EN-US" >Dust
+  <span lang="EN-US" >Dust
+
   with freshly grated nutmeg</span>
 glass: Martini
-infos: 
-  Comment: A green minty thing for dairy lovers.
-  source: www.diffordsguide.com (38)
-ingredients: 
-- - "1 1/2 "
-  - shot
-  - Bombay London dry gin
-- - " 3/4 "
-  - shot
-  - "Green cr\xE8me de menthe liqueur"
-- - " 3/4 "
-  - shot
-  - Double (heavy) cream
-- - " 1/8 "
-  - shot
-  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: Alexander's Sister
-rate: 2.5
+comment: A green minty thing for dairy lovers.
+aka: 
+variant: 
+origin: 
+source: www.diffordsguide.com (38)
+recipe_steps:
+- amount: ' 1/8 '
+  doze: shot
+  ingredient_name: Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Bombay London dry gin
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Green crème de menthe liqueur
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Double (heavy) cream

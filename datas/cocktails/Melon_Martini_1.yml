@@ -1,22 +1,25 @@
---- !ruby/object:DirtyCocktail 
+---
+name: 'Melon Martini #1'
+method: SHAKE all ingredients with ice and fine stain into chilled glass.
+rate: 3.0
 garnish: Split lime wedge
 glass: Martini
-infos: 
-  Comment: Bright green, lime and melon with more than a hint of vodka. Do it properly - have a fresh one.
-  source: www.diffordsguide.com (1289)
-ingredients: 
-- - "2 1/4 "
-  - shot
-  - Ketel One vodka
-- - "1"
-  - shot
-  - Midori green melon liqueur
-- - " 1/2 "
-  - shot
-  - Freshly squeezed lime juice
-- - " 1/4 "
-  - shot
-  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
-method: SHAKE all ingredients with ice and fine stain into chilled glass.
-name: "Melon Martini #1"
-rate: 3.0
+comment: Bright green, lime and melon with more than a hint of vodka. Do it properly
+  - have a fresh one.
+aka: 
+variant: 
+origin: 
+source: www.diffordsguide.com (1289)
+recipe_steps:
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Freshly squeezed lime juice
+- amount: '2 1/4 '
+  doze: shot
+  ingredient_name: Ketel One vodka
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- amount: '1'
+  doze: shot
+  ingredient_name: Midori green melon liqueur

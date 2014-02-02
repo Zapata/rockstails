@@ -1,29 +1,33 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Gin Atomic
+method: Lightly MUDDLE (just to bruise) basil in base of shaker. Add other ingredients
+  apart from tonic, SHAKE with ice and strain into ice-filled<br />glass. TOP with
+  tonic water and serve with straws.
+rate: 3.5
 garnish: Lemon zest twist<br />
 glass: Collins
-infos: 
-  Comment: A nuclear gin and tonic - or at least, one that simply radiates flavour.<br _moz_editor_bogus_node="TRUE" />
-  Origin: Created in 2007 by Brendan Mainini at The Ambassador Bar, San Francisco, USA.
-  source: www.diffordsguide.com (2668)
-ingredients: 
-- - "3"
-  - fresh
-  - Torn basil leaves
-- - "2"
-  - shot
-  - Bombay London dry gin
-- - "1"
-  - shot
-  - St-Germain elderflower liqueur
-- - " 1/2 "
-  - shot
-  - Freshly squeezed lemon juice
-- - "2"
-  - dash
-  - Fee Brothers lemon bitters
-- - "1"
-  - top up with
-  - Tonic water
-method: Lightly MUDDLE (just to bruise) basil in base of shaker. Add other ingredients apart from tonic, SHAKE with ice and strain into ice-filled<br />glass. TOP with tonic water and serve with straws.
-name: Gin Atomic
-rate: 3.5
+comment: A nuclear gin and tonic - or at least, one that simply radiates flavour.<br
+  _moz_editor_bogus_node="TRUE" />
+aka: 
+variant: 
+origin: Created in 2007 by Brendan Mainini at The Ambassador Bar, San Francisco, USA.
+source: www.diffordsguide.com (2668)
+recipe_steps:
+- amount: '1'
+  doze: shot
+  ingredient_name: St-Germain elderflower liqueur
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Freshly squeezed lemon juice
+- amount: '2'
+  doze: shot
+  ingredient_name: Bombay London dry gin
+- amount: '1'
+  doze: top up with
+  ingredient_name: Tonic water
+- amount: '3'
+  doze: fresh
+  ingredient_name: Torn basil leaves
+- amount: '2'
+  doze: dash
+  ingredient_name: Fee Brothers lemon bitters

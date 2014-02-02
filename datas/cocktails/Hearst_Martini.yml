@@ -1,23 +1,27 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Hearst Martini
+method: STIR all ingredients with ice and strain into chilled glass.
+rate: 4.0
 garnish: Orange zest twist
 glass: Martini
-infos: 
-  Comment: A fantastically wet, sweet and aromatic Martini.
-  Origin: This was supposedly a favourite of hacks who worked for the American newspaper magnate, William Randolph Hearst, and is believed to have<br />been created at New York's Waldorf-Astoria. It is nicknamed 'The Disgruntled Journalist' and indeed, is not dissimilar to a Journalist with extra bitters.
-  source: www.diffordsguide.com (2684)
-ingredients: 
-- - "2"
-  - shot
-  - Bombay London dry gin
-- - "1"
-  - shot
-  - Martini Rosso sweet vermouth
-- - "1"
-  - dash
-  - Angostura orange bitters
-- - "1"
-  - dash
-  - Angostura aromatic bitters
-method: STIR all ingredients with ice and strain into chilled glass.
-name: Hearst Martini
-rate: 4.0
+comment: A fantastically wet, sweet and aromatic Martini.
+aka: 
+variant: 
+origin: This was supposedly a favourite of hacks who worked for the American newspaper
+  magnate, William Randolph Hearst, and is believed to have<br />been created at New
+  York's Waldorf-Astoria. It is nicknamed 'The Disgruntled Journalist' and indeed,
+  is not dissimilar to a Journalist with extra bitters.
+source: www.diffordsguide.com (2684)
+recipe_steps:
+- amount: '2'
+  doze: shot
+  ingredient_name: Bombay London dry gin
+- amount: '1'
+  doze: shot
+  ingredient_name: Martini Rosso sweet vermouth
+- amount: '1'
+  doze: dash
+  ingredient_name: Angostura aromatic bitters
+- amount: '1'
+  doze: dash
+  ingredient_name: Angostura orange bitters

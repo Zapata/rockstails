@@ -1,23 +1,25 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Grappacino
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 3.5
 garnish: Float 3 coffee beans<br />
 glass: Martini
-infos: 
-  Comment: The character of the grappa shines through and is complimented by the amaretto and coffee.
-  Origin: Adapted from a drink created in 2006 by George Sinclair.
-  source: www.diffordsguide.com (2673)
-ingredients: 
-- - "2"
-  - shot
-  - Francoli Moscato grappa
-- - " 1/2 "
-  - shot
-  - Luxardo Amaretto di Saschira
-- - " 1/2 "
-  - shot
-  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
-- - "1"
-  - shot
-  - Hot espresso coffee
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: Grappacino
-rate: 3.5
+comment: The character of the grappa shines through and is complimented by the amaretto
+  and coffee.
+aka: 
+variant: 
+origin: Adapted from a drink created in 2006 by George Sinclair.
+source: www.diffordsguide.com (2673)
+recipe_steps:
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- amount: '2'
+  doze: shot
+  ingredient_name: Francoli Moscato grappa
+- amount: '1'
+  doze: shot
+  ingredient_name: Hot espresso coffee
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Luxardo Amaretto di Saschira

@@ -1,17 +1,19 @@
---- !ruby/object:DirtyCocktail 
+---
+name: French Connection
+method: STIR all ingredients with ice and strain into ice-filled glass.<br /><br />
+rate: 3.5
 garnish: Lemon zest twist<br />
 glass: Old-fashioned
-infos: 
-  Comment: <br _moz_editor_bogus_node="TRUE" />
-  Origin: The apricot and almond notes in amaretto combine perfectly with cognac in this simple drink. <br /><br />
-  source: www.diffordsguide.com (2415)
-ingredients: 
-- - "2"
-  - shot
-  - Courvoisier V.S.O.P cognac
-- - "1"
-  - shot
-  - Luxardo Amaretto di Saschira
-method: STIR all ingredients with ice and strain into ice-filled glass.<br /><br />
-name: French Connection
-rate: 3.5
+comment: <br _moz_editor_bogus_node="TRUE" />
+aka: 
+variant: 
+origin: The apricot and almond notes in amaretto combine perfectly with cognac in
+  this simple drink. <br /><br />
+source: www.diffordsguide.com (2415)
+recipe_steps:
+- amount: '2'
+  doze: shot
+  ingredient_name: Courvoisier V.S.O.P cognac
+- amount: '1'
+  doze: shot
+  ingredient_name: Luxardo Amaretto di Saschira

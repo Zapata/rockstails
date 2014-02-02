@@ -1,20 +1,22 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Million Dollar Margarita
+method: SHAKE all ingredients with ice and strain into ice-filled glass.
+rate: 4.5
 garnish: Lime wedge
 glass: Old-fashioned
-infos: 
-  Comment: The proportions of this Margarita accentuate the liqueur.
-  Origin: Discovered in 2006 at Maison 140 Hotel, Los Angeles, USA where I paid a mere $41.14 plus tip for the drink.
-  source: www.diffordsguide.com (1320)
-ingredients: 
-- - "1 1/2 "
-  - shot
-  - Herradura 100% agave tequila
-- - "1 1/2 "
-  - shot
-  - Grand Marnier liqueur
-- - " 1/2 "
-  - shot
-  - Freshly squeezed lime juice
-method: SHAKE all ingredients with ice and strain into ice-filled glass.
-name: Million Dollar Margarita
-rate: 4.5
+comment: The proportions of this Margarita accentuate the liqueur.
+aka: 
+variant: 
+origin: Discovered in 2006 at Maison 140 Hotel, Los Angeles, USA where I paid a mere
+  $41.14 plus tip for the drink.
+source: www.diffordsguide.com (1320)
+recipe_steps:
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Freshly squeezed lime juice
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Grand Marnier liqueur
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Herradura 100% agave tequila

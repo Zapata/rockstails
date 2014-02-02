@@ -1,30 +1,32 @@
---- !ruby/object:DirtyCocktail 
+---
+name: 'Apple Strudel #1'
+method: SHAKE first 5 ingredients with ice and fine strain into chilled glass. Carefully
+  FLOAT cream by pouring over the back of a spoon.
+rate: 3.0
 garnish: Dust with cinnamon powder
 glass: Martini
-infos: 
-  Comment: This sweet dessert cocktail tastes just like mum's home-made apple pie with cream.
-  Origin: Created in 1999 by Alex Kammerling, London, England.
-  Variant: May also be served as a shot.
-  source: www.diffordsguide.com (91)
-ingredients: 
-- - "1"
-  - shot
-  - Berentzen Apple schnapps
-- - " 1/2 "
-  - shot
-  - "Brown cr\xE8me de cacao liqueur"
-- - " 1/2 "
-  - shot
-  - "White cr\xE8me de cacao liqueur"
-- - " 1/2 "
-  - shot
-  - Goldschlager cinnamon schnapps
-- - "1"
-  - shot
-  - Pressed apple juice
-- - " 3/4 "
-  - shot
-  - Double (heavy) cream
-method: SHAKE first 5 ingredients with ice and fine strain into chilled glass. Carefully FLOAT cream by pouring over the back of a spoon.
-name: "Apple Strudel #1"
-rate: 3.0
+comment: This sweet dessert cocktail tastes just like mum's home-made apple pie with
+  cream.
+aka: 
+variant: May also be served as a shot.
+origin: Created in 1999 by Alex Kammerling, London, England.
+source: www.diffordsguide.com (91)
+recipe_steps:
+- amount: '1'
+  doze: shot
+  ingredient_name: Berentzen Apple schnapps
+- amount: '1'
+  doze: shot
+  ingredient_name: Pressed apple juice
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: White crème de cacao liqueur
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Brown crème de cacao liqueur
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Double (heavy) cream
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Goldschlager cinnamon schnapps

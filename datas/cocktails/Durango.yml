@@ -1,22 +1,26 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Durango
+method: SHAKE first three ingredients with ice and strain into ice-filled glass. TOP
+  with soda.
+rate: 3.5
 garnish: Orange slice
 glass: Collins
-infos: 
-  Comment: This sandy coloured drink makes tequila, amaretto and grapefruit into unlikely but harmonious bedfellows.
-  source: www.diffordsguide.com (680)
-ingredients: 
-- - "2"
-  - shot
-  - Herradura 100% agave tequila
-- - " 3/4 "
-  - shot
-  - Luxardo Amaretto di Saschira
-- - "1"
-  - shot
-  - Freshly squeezed grapefruit juice
-- - "1"
-  - top up with
-  - Soda (club soda)
-method: SHAKE first three ingredients with ice and strain into ice-filled glass. TOP with soda.
-name: Durango
-rate: 3.5
+comment: This sandy coloured drink makes tequila, amaretto and grapefruit into unlikely
+  but harmonious bedfellows.
+aka: 
+variant: 
+origin: 
+source: www.diffordsguide.com (680)
+recipe_steps:
+- amount: '1'
+  doze: top up with
+  ingredient_name: Soda (club soda)
+- amount: '1'
+  doze: shot
+  ingredient_name: Freshly squeezed grapefruit juice
+- amount: '2'
+  doze: shot
+  ingredient_name: Herradura 100% agave tequila
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Luxardo Amaretto di Saschira

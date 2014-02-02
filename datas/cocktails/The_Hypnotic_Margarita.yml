@@ -1,23 +1,26 @@
---- !ruby/object:DirtyCocktail 
+---
+name: The Hypnotic Margarita
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 4.0
 garnish: Lime wedge on rim
 glass: Coupette
-infos: 
-  Comment: Liqueurs combine harmoniously with lime and tequila in this tangy, fruity Margarita. However, I remain unconvinced by Hpnotiq.
-  Origin: Created in 2005 by Gary Regan at Painter's, Cornwall-on-Hudson, New York, USA.
-  source: www.diffordsguide.com (2693)
-ingredients: 
-- - "1 1/2 "
-  - shot
-  - Herradura 100% agave tequila
-- - " 1/2 "
-  - shot
-  - Cointreau triple sec
-- - " 1/2 "
-  - shot
-  - Hpnotiq liqueur
-- - " 1/2 "
-  - shot
-  - Freshly squeezed lime juice
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: The Hypnotic Margarita
-rate: 4.0
+comment: Liqueurs combine harmoniously with lime and tequila in this tangy, fruity
+  Margarita. However, I remain unconvinced by Hpnotiq.
+aka: 
+variant: 
+origin: Created in 2005 by Gary Regan at Painter's, Cornwall-on-Hudson, New York,
+  USA.
+source: www.diffordsguide.com (2693)
+recipe_steps:
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Cointreau triple sec
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Freshly squeezed lime juice
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Herradura 100% agave tequila
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Hpnotiq liqueur

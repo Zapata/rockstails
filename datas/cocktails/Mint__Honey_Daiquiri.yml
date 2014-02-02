@@ -1,26 +1,28 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Mint & Honey Daiquiri
+method: STIR honey and rum in base of shaker until honey dissolves. Add other ingredients,
+  SHAKE with ice and fine strain into chilled glass.
+rate: 4.5
 garnish: Mint sprig
 glass: Martini
-infos: 
-  Comment: A fresh-breath-tastic twist on the classic Daiquiri.
-  Origin: Created in 2006 by Yours Truly (Simon Difford).
-  source: www.diffordsguide.com (2188)
-ingredients: 
-- - "2"
-  - spoon
-  - Runny honey
-- - "2"
-  - shot
-  - Bacardi Superior rum
-- - "3"
-  - fresh
-  - Mint leaves
-- - " 1/2 "
-  - shot
-  - Freshly squeezed lime juice
-- - " 1/2 "
-  - shot
-  - Chilled mineral water
-method: STIR honey and rum in base of shaker until honey dissolves. Add other ingredients, SHAKE with ice and fine strain into chilled glass.
-name: Mint & Honey Daiquiri
-rate: 4.5
+comment: A fresh-breath-tastic twist on the classic Daiquiri.
+aka: 
+variant: 
+origin: Created in 2006 by Yours Truly (Simon Difford).
+source: www.diffordsguide.com (2188)
+recipe_steps:
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Freshly squeezed lime juice
+- amount: '3'
+  doze: fresh
+  ingredient_name: Mint leaves
+- amount: '2'
+  doze: shot
+  ingredient_name: Bacardi Superior rum
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Chilled mineral water
+- amount: '2'
+  doze: spoon
+  ingredient_name: Runny honey

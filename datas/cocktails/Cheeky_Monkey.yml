@@ -1,23 +1,26 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Cheeky Monkey
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 4.0
 garnish: Orange zest twist
 glass: Martini
-infos: 
-  Comment: Fire yellow in colour, this drink features the distinctive flavour of Chartreuse with a citrus supporting cast.
-  Origin: Created in 2001 by Tony Conigliaro at Isola, Knightsbridge, London, England.<br /><br />
-  source: www.diffordsguide.com (401)
-ingredients: 
-- - "1"
-  - shot
-  - Ketel One vodka
-- - "1"
-  - shot
-  - Chartreuse Yellow liqueur
-- - "1 1/2 "
-  - shot
-  - Freshly squeezed orange juice
-- - "1"
-  - dash
-  - Angostura orange bitters
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: Cheeky Monkey
-rate: 4.0
+comment: Fire yellow in colour, this drink features the distinctive flavour of Chartreuse
+  with a citrus supporting cast.
+aka: 
+variant: 
+origin: Created in 2001 by Tony Conigliaro at Isola, Knightsbridge, London, England.<br
+  /><br />
+source: www.diffordsguide.com (401)
+recipe_steps:
+- amount: '1'
+  doze: shot
+  ingredient_name: Ketel One vodka
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Freshly squeezed orange juice
+- amount: '1'
+  doze: dash
+  ingredient_name: Angostura orange bitters
+- amount: '1'
+  doze: shot
+  ingredient_name: Chartreuse Yellow liqueur

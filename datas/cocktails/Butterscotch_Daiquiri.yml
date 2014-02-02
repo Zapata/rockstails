@@ -1,22 +1,24 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Butterscotch Daiquiri
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 3.5
 garnish: Butterscotch sweet in drink
 glass: Martini
-infos: 
-  Comment: A candified Daiquiri.
-  source: www.diffordsguide.com (343)
-ingredients: 
-- - "2"
-  - shot
-  - Bacardi Superior rum
-- - "1"
-  - shot
-  - Teichenn butterscotch schnapps
-- - " 1/2 "
-  - shot
-  - Freshly squeezed lime juice
-- - " 1/2 "
-  - shot
-  - Chilled mineral water
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: Butterscotch Daiquiri
-rate: 3.5
+comment: A candified Daiquiri.
+aka: 
+variant: 
+origin: 
+source: www.diffordsguide.com (343)
+recipe_steps:
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Freshly squeezed lime juice
+- amount: '2'
+  doze: shot
+  ingredient_name: Bacardi Superior rum
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Chilled mineral water
+- amount: '1'
+  doze: shot
+  ingredient_name: Teichenn butterscotch schnapps

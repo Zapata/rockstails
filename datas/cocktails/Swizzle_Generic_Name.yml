@@ -1,21 +1,33 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Swizzle (Generic Name)
+method: POUR ingredients into glass filled with crushed ice. SWIZZLE with a swizzle
+  stick and serve with straws.
+rate: 4.5
 garnish: Fruit or mint sprig
 glass: Old-fashioned
-infos: 
-  Comment: Match the appropriate citrus juice and sweetener to your spirit and you'll have a superb drink.<br /><br />
-  Origin: Swizzles originated in the Caribbean. They are sour style drinks that, distinctively, must be churned with a swizzle stick.<br /><br />Originally a twig from a species of tree called Quararibea turbinata which grow in the southern islands of the Caribbean. These trees have forked branches, which make perfect swizzle sticks. Today swizzle sticks are usually made of metal or plastic and have several blades or fingers attached to the base at right angles to the shaft. To use one, simply immerse the blades in the drink, hold the shaft between the palms of both hands and rotate the stick rapidly by sliding your hands back and forth against it. If you do not have a bona fide swizzle stick, use a barspoon in the same manner.<br /><br />Swizzles can be served as short drinks or lengthened with mineral water.<br /><br />
-  Variant: With rum try orgeat syrup or Velvet Falernum in place of the sugar syrup. With whiskey try Chartreuse.<br /><br />
-  source: www.diffordsguide.com (1913)
-ingredients: 
-- - "2"
-  - shot
-  - Brandy, whisk(e)y, gin, rum etc.
-- - " 1/2 "
-  - shot
-  - Freshly squeezed lemon or lime juice
-- - " 1/4 "
-  - shot
-  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
-method: POUR ingredients into glass filled with crushed ice. SWIZZLE with a swizzle stick and serve with straws.
-name: Swizzle (Generic Name)
-rate: 4.5
+comment: Match the appropriate citrus juice and sweetener to your spirit and you'll
+  have a superb drink.<br /><br />
+aka: 
+variant: With rum try orgeat syrup or Velvet Falernum in place of the sugar syrup.
+  With whiskey try Chartreuse.<br /><br />
+origin: Swizzles originated in the Caribbean. They are sour style drinks that, distinctively,
+  must be churned with a swizzle stick.<br /><br />Originally a twig from a species
+  of tree called Quararibea turbinata which grow in the southern islands of the Caribbean.
+  These trees have forked branches, which make perfect swizzle sticks. Today swizzle
+  sticks are usually made of metal or plastic and have several blades or fingers attached
+  to the base at right angles to the shaft. To use one, simply immerse the blades
+  in the drink, hold the shaft between the palms of both hands and rotate the stick
+  rapidly by sliding your hands back and forth against it. If you do not have a bona
+  fide swizzle stick, use a barspoon in the same manner.<br /><br />Swizzles can be
+  served as short drinks or lengthened with mineral water.<br /><br />
+source: www.diffordsguide.com (1913)
+recipe_steps:
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- amount: '2'
+  doze: shot
+  ingredient_name: Brandy, whisk(e)y, gin, rum etc.
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Freshly squeezed lemon or lime juice

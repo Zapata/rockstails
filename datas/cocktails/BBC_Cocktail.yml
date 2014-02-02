@@ -1,20 +1,25 @@
---- !ruby/object:DirtyCocktail 
-garnish: " Apple fan<br />"
-glass: Old-fashioned
-infos: 
-  Comment: "Based on the classic BandB cocktail with Bacardi rum replacing brandy and Becherovka in place of Benedictine. "
-  Origin: " Created in 2009 by Marian Beke at the Artesian Bar, London, England. The Artesian Bar sits in the Langham Hotel opposite the BBC's Broadcasting House. Indeed, the BBC moved into the Langham after the Broadcasting House was bombed during the Second World War ...they stayed almost 20 years.<br />"
-  source: www.diffordsguide.com (2776)
-ingredients: 
-- - "2"
-  - shot
-  - Zacapa aged rum
-- - " 1/2 "
-  - shot
-  - Becherovka liqueur
-- - "1"
-  - dash
-  - Wormwood bitters
-method: " STIR all ingredients with ice and strain into ice-filled glass.<br />"
+---
 name: BBC Cocktail
+method: ' STIR all ingredients with ice and strain into ice-filled glass.<br />'
 rate: 4.0
+garnish: ' Apple fan<br />'
+glass: Old-fashioned
+comment: 'Based on the classic BandB cocktail with Bacardi rum replacing brandy and
+  Becherovka in place of Benedictine. '
+aka: 
+variant: 
+origin: ' Created in 2009 by Marian Beke at the Artesian Bar, London, England. The
+  Artesian Bar sits in the Langham Hotel opposite the BBC''s Broadcasting House. Indeed,
+  the BBC moved into the Langham after the Broadcasting House was bombed during the
+  Second World War ...they stayed almost 20 years.<br />'
+source: www.diffordsguide.com (2776)
+recipe_steps:
+- amount: '2'
+  doze: shot
+  ingredient_name: Zacapa aged rum
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Becherovka liqueur
+- amount: '1'
+  doze: dash
+  ingredient_name: Wormwood bitters

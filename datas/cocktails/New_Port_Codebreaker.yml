@@ -1,26 +1,28 @@
---- !ruby/object:DirtyCocktail 
+---
+name: New Port Codebreaker
+method: SHAKE all ingredients with ice and strain into ice-filled glass.
+rate: 3.5
 garnish: 
 glass: Collins
-infos: 
-  Comment: This straw yellow drink is a most unusual mix of ingredients.
-  Origin: Adapted from a cocktail discovered in 1999 at Perter's Bar, Covent Garden, London.
-  source: www.diffordsguide.com (1399)
-ingredients: 
-- - "1"
-  - shot
-  - Herradura 100% agave tequila
-- - "1"
-  - shot
-  - Pusser's Navy rum
-- - " 1/2 "
-  - shot
-  - Bols advocaat liqueur
-- - " 1/2 "
-  - shot
-  - Coco Lpez cream of coconut
-- - "4"
-  - shot
-  - Freshly squeezed orange juice
-method: SHAKE all ingredients with ice and strain into ice-filled glass.
-name: New Port Codebreaker
-rate: 3.5
+comment: This straw yellow drink is a most unusual mix of ingredients.
+aka: 
+variant: 
+origin: Adapted from a cocktail discovered in 1999 at Perter's Bar, Covent Garden,
+  London.
+source: www.diffordsguide.com (1399)
+recipe_steps:
+- amount: '4'
+  doze: shot
+  ingredient_name: Freshly squeezed orange juice
+- amount: '1'
+  doze: shot
+  ingredient_name: Pusser's Navy rum
+- amount: '1'
+  doze: shot
+  ingredient_name: Herradura 100% agave tequila
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Bols advocaat liqueur
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Coco Lpez cream of coconut

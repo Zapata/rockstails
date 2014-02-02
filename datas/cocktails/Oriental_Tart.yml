@@ -1,20 +1,21 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Oriental Tart
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 4.0
 garnish: Peeled lychee in drink
 glass: Martini
-infos: 
-  Comment: A sour, tart, fruity Martini with more than a hint of lychee.
-  Origin: Created in 2004 by Yours Truly (Simon Difford).
-  source: www.diffordsguide.com (1450)
-ingredients: 
-- - "1 1/2 "
-  - shot
-  - Bombay London dry gin
-- - "1"
-  - shot
-  - Soho lychee liqueur
-- - "2"
-  - shot
-  - Freshly squeezed grapefruit juice
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: Oriental Tart
-rate: 4.0
+comment: A sour, tart, fruity Martini with more than a hint of lychee.
+aka: 
+variant: 
+origin: Created in 2004 by Yours Truly (Simon Difford).
+source: www.diffordsguide.com (1450)
+recipe_steps:
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Bombay London dry gin
+- amount: '2'
+  doze: shot
+  ingredient_name: Freshly squeezed grapefruit juice
+- amount: '1'
+  doze: shot
+  ingredient_name: Soho lychee liqueur

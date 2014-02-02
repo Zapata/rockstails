@@ -1,29 +1,31 @@
---- !ruby/object:DirtyCocktail 
+---
+name: 'Club Cocktail #3'
+method: STIR all ingredients with ice and fine strain into chilled glass.
+rate: 4.0
 garnish: Maraschino cherry in drink
 glass: Martini
-infos: 
-  Comment: An aromatic, spirited, classical cocktail.
-  Origin: Adapted from a drink created in 2002 by Michael Butt at Milk &amp; Honey, London, England.
-  source: www.diffordsguide.com (447)
-ingredients: 
-- - "2"
-  - shot
-  - Bacardi Oro golden rum
-- - " 1/2 "
-  - shot
-  - Martini Rosso sweet vermouth
-- - " 1/2 "
-  - shot
-  - Noilly Prat dry vermouth
-- - " 1/2 "
-  - shot
-  - Maraschino syrup (from cherry jar)
-- - "3"
-  - dash
-  - Angostura aromatic bitters
-- - " 3/4 "
-  - shot
-  - Chilled mineral water
-method: STIR all ingredients with ice and fine strain into chilled glass.
-name: "Club Cocktail #3"
-rate: 4.0
+comment: An aromatic, spirited, classical cocktail.
+aka: 
+variant: 
+origin: Adapted from a drink created in 2002 by Michael Butt at Milk &amp; Honey,
+  London, England.
+source: www.diffordsguide.com (447)
+recipe_steps:
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Noilly Prat dry vermouth
+- amount: '2'
+  doze: shot
+  ingredient_name: Bacardi Oro golden rum
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Chilled mineral water
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Martini Rosso sweet vermouth
+- amount: '3'
+  doze: dash
+  ingredient_name: Angostura aromatic bitters
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Maraschino syrup (from cherry jar)

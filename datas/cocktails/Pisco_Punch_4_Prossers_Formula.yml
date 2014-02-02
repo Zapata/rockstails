@@ -1,23 +1,29 @@
---- !ruby/object:DirtyCocktail 
+---
+name: 'Pisco Punch #4 (Prosser''s Formula)'
+method: MUDDLE grapes in base of shaker. Add other ingredients, SHAKE with ice and
+  fine strain into chilled glass.
+rate: 5.0
 garnish: Grapes on rim
 glass: Martini
-infos: 
-  Comment: An aromatic take on the Pisco Punch.
-  Origin: "Jack Koeppler, the bartender at the Buena Vista Caf in San Francisco who's also famous for being the first bartender in America to serve Irish Coffee, was given this recipe by the son of it's creator, a fellow San Franciscan by the name of Mr Prosser. I've adapted this recipe from his, which originally comprised: 2 shots white grape juice, 2 shots pisco, 1 spoon pineapple juice and 1 spoon absinthe."
-  source: www.diffordsguide.com (1560)
-ingredients: 
-- - "20"
-  - fresh
-  - Seedless white grapes
-- - "2 1/2 "
-  - shot
-  - Macchu pisco
-- - "1"
-  - shot
-  - Fresh pressed pineapple juice
-- - " 1/8 "
-  - shot
-  - "La F\xE9e Parisienne (68%) absinthe"
-method: MUDDLE grapes in base of shaker. Add other ingredients, SHAKE with ice and fine strain into chilled glass.
-name: "Pisco Punch #4 (Prosser's Formula)"
-rate: 5.0
+comment: An aromatic take on the Pisco Punch.
+aka: 
+variant: 
+origin: 'Jack Koeppler, the bartender at the Buena Vista Caf in San Francisco who''s
+  also famous for being the first bartender in America to serve Irish Coffee, was
+  given this recipe by the son of it''s creator, a fellow San Franciscan by the name
+  of Mr Prosser. I''ve adapted this recipe from his, which originally comprised: 2
+  shots white grape juice, 2 shots pisco, 1 spoon pineapple juice and 1 spoon absinthe.'
+source: www.diffordsguide.com (1560)
+recipe_steps:
+- amount: ' 1/8 '
+  doze: shot
+  ingredient_name: La Fée Parisienne (68%) absinthe
+- amount: '1'
+  doze: shot
+  ingredient_name: Fresh pressed pineapple juice
+- amount: '2 1/2 '
+  doze: shot
+  ingredient_name: Macchu pisco
+- amount: '20'
+  doze: fresh
+  ingredient_name: Seedless white grapes

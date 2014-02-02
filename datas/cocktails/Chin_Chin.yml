@@ -1,23 +1,26 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Chin Chin
+method: STIR honey with Scotch in base of shaker. Add apple juice, SHAKE with ice
+  and strain into chilled glass. TOP with champagne.
+rate: 4.5
 garnish: None<br />
 glass: Flute
-infos: 
-  Comment: Golden honey in colour and also in flavour. An unusual and great tasting Champagne cocktail.
-  Origin: Created in 2002 by Tony Conigliaro at Isola, Knightsbridge, London, England.
-  source: www.diffordsguide.com (416)
-ingredients: 
-- - " 1/2 "
-  - spoon
-  - Runny honey
-- - "1"
-  - shot
-  - Johnnie Walker Scotch Whisky
-- - " 1/2 "
-  - shot
-  - Pressed apple juice
-- - "1"
-  - top up with
-  - Perrier Jouet brut champagne
-method: STIR honey with Scotch in base of shaker. Add apple juice, SHAKE with ice and strain into chilled glass. TOP with champagne.
-name: Chin Chin
-rate: 4.5
+comment: Golden honey in colour and also in flavour. An unusual and great tasting
+  Champagne cocktail.
+aka: 
+variant: 
+origin: Created in 2002 by Tony Conigliaro at Isola, Knightsbridge, London, England.
+source: www.diffordsguide.com (416)
+recipe_steps:
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Pressed apple juice
+- amount: ' 1/2 '
+  doze: spoon
+  ingredient_name: Runny honey
+- amount: '1'
+  doze: top up with
+  ingredient_name: Perrier Jouet brut champagne
+- amount: '1'
+  doze: shot
+  ingredient_name: Johnnie Walker Scotch Whisky

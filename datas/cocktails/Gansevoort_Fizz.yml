@@ -1,26 +1,29 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Gansevoort Fizz
+method: <p>SHAKE first 4 ingredients with ice and strain into ice-filled glass. TOP
+  with soda.</p>
+rate: 3.5
 garnish: <p>Lemon slice</p>
 glass: Collins
-infos: 
-  Comment: <p>A potent, flavoursome herbal cooler based on aged rum. </p>
-  Origin: <p>Created for 5 Ninth in Manhattan and originally published in David Wondrich's 2005 'Killer Cocktails'.</p>
-  source: www.diffordsguide.com (2665)
-ingredients: 
-- - "2"
-  - shot
-  - Zacapa aged rum
-- - "1"
-  - shot
-  - Drambuie
-- - "1"
-  - shot
-  - Freshly squeezed lemon juice
-- - "2"
-  - dash
-  - Peychaud's aromatic bitters
-- - "1"
-  - top up with
-  - Soda (club soda)
-method: <p>SHAKE first 4 ingredients with ice and strain into ice-filled glass. TOP with soda.</p>
-name: Gansevoort Fizz
-rate: 3.5
+comment: <p>A potent, flavoursome herbal cooler based on aged rum. </p>
+aka: 
+variant: 
+origin: <p>Created for 5 Ninth in Manhattan and originally published in David Wondrich's
+  2005 'Killer Cocktails'.</p>
+source: www.diffordsguide.com (2665)
+recipe_steps:
+- amount: '1'
+  doze: shot
+  ingredient_name: Freshly squeezed lemon juice
+- amount: '1'
+  doze: top up with
+  ingredient_name: Soda (club soda)
+- amount: '1'
+  doze: shot
+  ingredient_name: Drambuie
+- amount: '2'
+  doze: dash
+  ingredient_name: Peychaud's aromatic bitters
+- amount: '2'
+  doze: shot
+  ingredient_name: Zacapa aged rum

@@ -1,26 +1,28 @@
---- !ruby/object:DirtyCocktail 
+---
+name: 'Whiskey Daisy #2'
+method: SHAKE first 4 ingredients with ice and fine strain into glass filled with
+  crushed ice. TOP with small dash soda.<br /><br />
+rate: 3.5
 garnish: Lemon  &amp; orange zest twist
 glass: Goblet
-infos: 
-  Comment: Light, fresh and fruity. Perfect for a summer's afternoon.<br /><br />
-  Origin: Recipe adapted from Harry Johnson's 1888 'Bartender's Manual'.<br /><br />
-  source: www.diffordsguide.com (2606)
-ingredients: 
-- - "1 1/2 "
-  - shot
-  - Maker's Mark bourbon
-- - "1"
-  - spoon
-  - Monin Honey syrup
-- - " 1/2 "
-  - shot
-  - Grand Marnier liqueur
-- - " 3/4 "
-  - shot
-  - Freshly squeezed lemon juice
-- - "1"
-  - top up with
-  - Soda (club soda)
-method: SHAKE first 4 ingredients with ice and fine strain into glass filled with crushed ice. TOP with small dash soda.<br /><br />
-name: "Whiskey Daisy #2"
-rate: 3.5
+comment: Light, fresh and fruity. Perfect for a summer's afternoon.<br /><br />
+aka: 
+variant: 
+origin: Recipe adapted from Harry Johnson's 1888 'Bartender's Manual'.<br /><br />
+source: www.diffordsguide.com (2606)
+recipe_steps:
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Freshly squeezed lemon juice
+- amount: '1'
+  doze: top up with
+  ingredient_name: Soda (club soda)
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Grand Marnier liqueur
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Maker's Mark bourbon
+- amount: '1'
+  doze: spoon
+  ingredient_name: Monin Honey syrup

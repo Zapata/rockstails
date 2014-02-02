@@ -1,26 +1,30 @@
---- !ruby/object:DirtyCocktail 
+---
+name: The Last Word
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 4.5
 garnish: Lime wedge on rim
 glass: Martini
-infos: 
-  Comment: Chartreuse devotees will love this balanced, tangy drink, I'm one.
-  Origin: This vintage classic was first documented in Ted Saucier's 'Bottoms Up' in 1951 where its creation was attributed to the Detroit Athletic Club. It was practically forgotten until championed by the team at Pegu Club, New York City in 2005.<br /><br />
-  source: www.diffordsguide.com (1133)
-ingredients: 
-- - " 3/4 "
-  - shot
-  - Bombay London dry gin
-- - " 3/4 "
-  - shot
-  - Chartreuse Green liqueur
-- - " 3/4 "
-  - shot
-  - Luxardo maraschino liqueur
-- - " 3/4 "
-  - shot
-  - Freshly squeezed lime juice
-- - " 1/2 "
-  - shot
-  - Chilled mineral water
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: The Last Word
-rate: 4.5
+comment: Chartreuse devotees will love this balanced, tangy drink, I'm one.
+aka: 
+variant: 
+origin: This vintage classic was first documented in Ted Saucier's 'Bottoms Up' in
+  1951 where its creation was attributed to the Detroit Athletic Club. It was practically
+  forgotten until championed by the team at Pegu Club, New York City in 2005.<br /><br
+  />
+source: www.diffordsguide.com (1133)
+recipe_steps:
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Freshly squeezed lime juice
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Chartreuse Green liqueur
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Chilled mineral water
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Bombay London dry gin
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Luxardo maraschino liqueur

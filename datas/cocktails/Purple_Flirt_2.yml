@@ -1,28 +1,30 @@
---- !ruby/object:DirtyCocktail 
+---
+name: 'Purple Flirt #2'
+method: SHAKE all ingredients with ice and strain into ice-filled glass.
+rate: 3.0
 garnish: Orange slice &amp; cherry (sail)
 glass: Old-fashioned
-infos: 
-  Comment: <p>This popular drink is more brown than purple. It tastes ok, anyway.</p>
-  source: www.diffordsguide.com (1615)
-ingredients: 
-- - "1"
-  - shot
-  - Gosling's Black Seal rum
-- - " 1/4 "
-  - shot
-  - Bols blue curacao liqueur
-- - "1"
-  - shot
-  - Fresh pressed pineapple juice
-- - " 1/2 "
-  - shot
-  - Freshly squeezed lemon juice
-- - " 1/4 "
-  - shot
-  - Pomegranate (grenadine) syrup
-- - " 1/2 "
-  - fresh
-  - Egg white
-method: SHAKE all ingredients with ice and strain into ice-filled glass.
-name: "Purple Flirt #2"
-rate: 3.0
+comment: <p>This popular drink is more brown than purple. It tastes ok, anyway.</p>
+aka: 
+variant: 
+origin: 
+source: www.diffordsguide.com (1615)
+recipe_steps:
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Freshly squeezed lemon juice
+- amount: '1'
+  doze: shot
+  ingredient_name: Fresh pressed pineapple juice
+- amount: '1'
+  doze: shot
+  ingredient_name: Gosling's Black Seal rum
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Pomegranate (grenadine) syrup
+- amount: ' 1/2 '
+  doze: fresh
+  ingredient_name: Egg white
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Bols blue curacao liqueur

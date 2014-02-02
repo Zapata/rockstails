@@ -1,35 +1,43 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Long Island Iced Tea
+method: SHAKE first 7 ingredients with ice and strain into ice-filled glass. TOP with
+  cola, stir and serve with straws.
+rate: 3.5
 garnish: Lemon slice
 glass: Sling
-infos: 
-  Comment: A cooling, combination of five different spirits with a hint of lime and a splash of cola.<br /><br />
-  Origin: This infamous drink reached the height of its popularity in the early 1980s of the many stories surrounding its origin, perhaps the most credible attributes its creation to sometime in the late 1970s by Robert (Rosebud) Butt at Oak Beach Inn in Babylon, New York. This area of New York State is known as 'Long Island' and the drink looks like iced tea disguising its contents - a fact that has many claiming its true origins lie with Prohibition.<br /><br />
-  source: www.diffordsguide.com (1190)
-ingredients: 
-- - " 1/2 "
-  - shot
-  - Bacardi Superior rum
-- - " 1/2 "
-  - shot
-  - Bombay London dry gin
-- - " 1/2 "
-  - shot
-  - Ketel One vodka
-- - " 1/2 "
-  - shot
-  - Cointreau triple sec
-- - " 1/2 "
-  - shot
-  - Herradura 100% agave tequila
-- - "1"
-  - shot
-  - Freshly squeezed lime juice
-- - " 1/2 "
-  - shot
-  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
-- - "1"
-  - top up with
-  - Coca-cola
-method: SHAKE first 7 ingredients with ice and strain into ice-filled glass. TOP with cola, stir and serve with straws.
-name: Long Island Iced Tea
-rate: 3.5
+comment: A cooling, combination of five different spirits with a hint of lime and
+  a splash of cola.<br /><br />
+aka: 
+variant: 
+origin: This infamous drink reached the height of its popularity in the early 1980s
+  of the many stories surrounding its origin, perhaps the most credible attributes
+  its creation to sometime in the late 1970s by Robert (Rosebud) Butt at Oak Beach
+  Inn in Babylon, New York. This area of New York State is known as 'Long Island'
+  and the drink looks like iced tea disguising its contents - a fact that has many
+  claiming its true origins lie with Prohibition.<br /><br />
+source: www.diffordsguide.com (1190)
+recipe_steps:
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Cointreau triple sec
+- amount: '1'
+  doze: shot
+  ingredient_name: Freshly squeezed lime juice
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Ketel One vodka
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Bacardi Superior rum
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Bombay London dry gin
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Herradura 100% agave tequila
+- amount: '1'
+  doze: top up with
+  ingredient_name: Coca-cola

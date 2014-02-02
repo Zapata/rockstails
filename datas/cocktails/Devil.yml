@@ -1,19 +1,21 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Devil
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 3.5
 garnish: Lenon zest twist
 glass: Martini
-infos: 
-  Comment: A devil to get out of your carpet but quite dry and aromatic on the palate.
-  source: www.diffordsguide.com (638)
-ingredients: 
-- - "2"
-  - shot
-  - Warre's Otima tawny port
-- - "1 1/2 "
-  - shot
-  - Noilly Prat dry vermouth
-- - " 1/4 "
-  - shot
-  - Freshly squeezed lemon juice
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: Devil
-rate: 3.5
+comment: A devil to get out of your carpet but quite dry and aromatic on the palate.
+aka: 
+variant: 
+origin: 
+source: www.diffordsguide.com (638)
+recipe_steps:
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Freshly squeezed lemon juice
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Noilly Prat dry vermouth
+- amount: '2'
+  doze: shot
+  ingredient_name: Warre's Otima tawny port

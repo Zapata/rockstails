@@ -1,22 +1,24 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Bull's Blood
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 3.5
 garnish: Orange zest twist
 glass: Martini
-infos: 
-  Comment: This beautifully balanced fruity cocktail has a dry finish.
-  source: www.diffordsguide.com (336)
-ingredients: 
-- - " 1/2 "
-  - shot
-  - Bacardi Superior rum
-- - "1"
-  - shot
-  - Courvoisier V.S.O.P cognac
-- - "1"
-  - shot
-  - Grand Marnier liqueur
-- - "1 1/2 "
-  - shot
-  - Freshly squeezed orange juice
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: Bull's Blood
-rate: 3.5
+comment: This beautifully balanced fruity cocktail has a dry finish.
+aka: 
+variant: 
+origin: 
+source: www.diffordsguide.com (336)
+recipe_steps:
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Bacardi Superior rum
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Freshly squeezed orange juice
+- amount: '1'
+  doze: shot
+  ingredient_name: Grand Marnier liqueur
+- amount: '1'
+  doze: shot
+  ingredient_name: Courvoisier V.S.O.P cognac

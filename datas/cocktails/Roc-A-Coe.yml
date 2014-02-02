@@ -1,23 +1,25 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Roc-A-Coe
+method: STIR all ingredients with ice and strain into chilled glass.
+rate: 3.5
 garnish: Maraschino cherry
 glass: Martini
-infos: 
-  Comment: Aromatic and balanced.
-  Origin: Adapted from a recipe purloined from a 1930 edition of The Savoy Cocktail Book by Harry Craddock.
-  source: www.diffordsguide.com (1684)
-ingredients: 
-- - "1 1/2 "
-  - shot
-  - Bombay London dry gin
-- - "2"
-  - shot
-  - Amontillado sherry
-- - " 1/8 "
-  - shot
-  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
-- - " 1/2 "
-  - shot
-  - Chilled mineral water
-method: STIR all ingredients with ice and strain into chilled glass.
-name: Roc-A-Coe
-rate: 3.5
+comment: Aromatic and balanced.
+aka: 
+variant: 
+origin: Adapted from a recipe purloined from a 1930 edition of The Savoy Cocktail
+  Book by Harry Craddock.
+source: www.diffordsguide.com (1684)
+recipe_steps:
+- amount: ' 1/8 '
+  doze: shot
+  ingredient_name: Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Chilled mineral water
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Bombay London dry gin
+- amount: '2'
+  doze: shot
+  ingredient_name: Amontillado sherry

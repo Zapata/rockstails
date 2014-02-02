@@ -1,26 +1,28 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Tailor Made
+method: STIR honey with bourbon in base of shaker to dissolve honey. Add other ingredients,
+  SHAKE with ice and fine strain into chilled glass.
+rate: 4.0
 garnish: Grapefruit zest twist<br />
 glass: Martini
-infos: 
-  Comment: Light, balanced fruit and bourbon.
-  Origin: Created by Dale DeGroff in New York City, USA.
-  source: www.diffordsguide.com (1914)
-ingredients: 
-- - "1"
-  - spoon
-  - Runny honey
-- - "1 1/2 "
-  - shot
-  - Maker's Mark bourbon
-- - " 1/4 "
-  - shot
-  - Velvet Falernum liqueur
-- - "1"
-  - shot
-  - Freshly squeezed grapefruit juice
-- - "1"
-  - shot
-  - Ocean Spray cranberry juice
-method: STIR honey with bourbon in base of shaker to dissolve honey. Add other ingredients, SHAKE with ice and fine strain into chilled glass.
-name: Tailor Made
-rate: 4.0
+comment: Light, balanced fruit and bourbon.
+aka: 
+variant: 
+origin: Created by Dale DeGroff in New York City, USA.
+source: www.diffordsguide.com (1914)
+recipe_steps:
+- amount: '1'
+  doze: shot
+  ingredient_name: Ocean Spray cranberry juice
+- amount: '1'
+  doze: spoon
+  ingredient_name: Runny honey
+- amount: '1'
+  doze: shot
+  ingredient_name: Freshly squeezed grapefruit juice
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Velvet Falernum liqueur
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Maker's Mark bourbon

@@ -1,34 +1,37 @@
---- !ruby/object:DirtyCocktail 
+---
+name: L.A. Iced Tea
+method: SHAKE first 7 ingredients with ice and strain into ice-filled glass. TOP with
+  soda.
+rate: 3.5
 garnish: Split lime wedge
 glass: Sling
-infos: 
-  Comment: Long and lime green with subtle notes of melon and fresh lime.
-  source: www.diffordsguide.com (1127)
-ingredients: 
-- - " 1/2 "
-  - shot
-  - Ketel One vodka
-- - " 1/2 "
-  - shot
-  - Bombay London dry gin
-- - " 1/2 "
-  - shot
-  - Bacardi Superior rum
-- - " 1/2 "
-  - shot
-  - Cointreau triple sec
-- - " 1/2 "
-  - shot
-  - Midori green melon liqueur
-- - "1"
-  - shot
-  - Freshly squeezed lime juice
-- - " 1/2 "
-  - shot
-  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
-- - "1"
-  - top up with
-  - Soda (club soda)
-method: SHAKE first 7 ingredients with ice and strain into ice-filled glass. TOP with soda.
-name: L.A. Iced Tea
-rate: 3.5
+comment: Long and lime green with subtle notes of melon and fresh lime.
+aka: 
+variant: 
+origin: 
+source: www.diffordsguide.com (1127)
+recipe_steps:
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Cointreau triple sec
+- amount: '1'
+  doze: shot
+  ingredient_name: Freshly squeezed lime juice
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Ketel One vodka
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- amount: '1'
+  doze: top up with
+  ingredient_name: Soda (club soda)
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Bacardi Superior rum
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Bombay London dry gin
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Midori green melon liqueur

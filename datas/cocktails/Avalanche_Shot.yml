@@ -1,19 +1,22 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Avalanche Shot
+method: Refrigerate ingredients then LAYER in chilled glass by carefully pouring in
+  the following order.
+rate: 2.5
 garnish: 
 glass: Shot
-infos: 
-  Comment: Rich, smooth and sticky - peculiarly, this has an almost nutty taste.
-  source: www.diffordsguide.com (125)
-ingredients: 
-- - " 1/2 "
-  - shot
-  - Kahla coffee liqueur
-- - " 1/2 "
-  - shot
-  - "White cr\xE8me de cacao liqueur"
-- - " 1/2 "
-  - shot
-  - Southern Comfort liqueur
-method: Refrigerate ingredients then LAYER in chilled glass by carefully pouring in the following order.
-name: Avalanche Shot
-rate: 2.5
+comment: Rich, smooth and sticky - peculiarly, this has an almost nutty taste.
+aka: 
+variant: 
+origin: 
+source: www.diffordsguide.com (125)
+recipe_steps:
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: White crème de cacao liqueur
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Kahla coffee liqueur
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Southern Comfort liqueur

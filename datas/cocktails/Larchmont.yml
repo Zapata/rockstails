@@ -1,26 +1,30 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Larchmont
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 4.5
 garnish: Orange zest twist
 glass: Martini
-infos: 
-  Comment: I share Embury's appreciation of this fine drink, although I think of it more as a type of Orange Daiquiri.
-  Origin: "Created by David A. Embury, who in his 1948 'Fine Art of Mixing Drinks' writes of this drink: &quot;As a grand finale to cocktails based on the Rum Sour, I give you one of my favorites which I have named after my favorite community&quot;."
-  source: www.diffordsguide.com (2185)
-ingredients: 
-- - "1 1/2 "
-  - shot
-  - Bacardi Superior rum
-- - " 1/2 "
-  - shot
-  - Grand Marnier liqueur
-- - " 1/2 "
-  - shot
-  - Freshly squeezed lime juice
-- - " 1/4 "
-  - shot
-  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
-- - " 1/2 "
-  - shot
-  - Chilled mineral water
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: Larchmont
-rate: 4.5
+comment: I share Embury's appreciation of this fine drink, although I think of it
+  more as a type of Orange Daiquiri.
+aka: 
+variant: 
+origin: 'Created by David A. Embury, who in his 1948 ''Fine Art of Mixing Drinks''
+  writes of this drink: &quot;As a grand finale to cocktails based on the Rum Sour,
+  I give you one of my favorites which I have named after my favorite community&quot;.'
+source: www.diffordsguide.com (2185)
+recipe_steps:
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Freshly squeezed lime juice
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Bacardi Superior rum
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Chilled mineral water
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Grand Marnier liqueur

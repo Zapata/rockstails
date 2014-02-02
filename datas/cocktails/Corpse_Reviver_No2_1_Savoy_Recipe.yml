@@ -1,26 +1,30 @@
---- !ruby/object:DirtyCocktail 
+---
+name: 'Corpse Reviver No.2 #1 (Savoy Recipe)'
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 4.0
 garnish: Lemon zest twist
 glass: Martini
-infos: 
-  Comment: Well balanced with zesty lemon and absinthe just shinning above other ingredients.<br /><br />
-  Origin: Adapted from 1930 Savoy Cocktail Book where Harry Craddock says of this drink, "Four of these taken in swift succession will unrevive the corpse again". Harry originally stipulated Kina Lillet as dry vermouth.<br /><br />
-  source: www.diffordsguide.com (593)
-ingredients: 
-- - " 3/4 "
-  - shot
-  - Bombay London dry gin
-- - " 3/4 "
-  - shot
-  - Cointreau triple sec
-- - " 3/4 "
-  - shot
-  - Noilly Prat dry vermouth
-- - " 3/4 "
-  - shot
-  - Freshly squeezed lemon juice
-- - " 1/8 "
-  - shot
-  - "La F\xE9e Parisienne (68%) absinthe"
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: "Corpse Reviver No.2 #1 (Savoy Recipe)"
-rate: 4.0
+comment: Well balanced with zesty lemon and absinthe just shinning above other ingredients.<br
+  /><br />
+aka: 
+variant: 
+origin: Adapted from 1930 Savoy Cocktail Book where Harry Craddock says of this drink,
+  "Four of these taken in swift succession will unrevive the corpse again". Harry
+  originally stipulated Kina Lillet as dry vermouth.<br /><br />
+source: www.diffordsguide.com (593)
+recipe_steps:
+- amount: ' 1/8 '
+  doze: shot
+  ingredient_name: La Fée Parisienne (68%) absinthe
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Cointreau triple sec
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Freshly squeezed lemon juice
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Noilly Prat dry vermouth
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Bombay London dry gin

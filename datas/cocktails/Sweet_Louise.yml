@@ -1,29 +1,31 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Sweet Louise
+method: Cut passion fruit in half and scoop out flesh into shaker. Add other ingredients,
+  SHAKE with ice and fine strain into chilled glass.
+rate: 3.5
 garnish: Blackberry
 glass: Martini
-infos: 
-  Comment: Lots of contrasting flavours but she's a sweet girl.
-  Origin: Created in 2000 at Monte's Club, London, England.
-  source: www.diffordsguide.com (1910)
-ingredients: 
-- - "1"
-  - fresh
-  - Passion fruit
-- - "1"
-  - shot
-  - Raspberry flavoured vodka
-- - " 1/2 "
-  - shot
-  - Luxardo Amaretto di Saschira
-- - " 1/2 "
-  - shot
-  - Chambord
-- - " 3/4 "
-  - shot
-  - Freshly squeezed lime juice
-- - " 1/4 "
-  - shot
-  - Pomegranate (grenadine) syrup
-method: Cut passion fruit in half and scoop out flesh into shaker. Add other ingredients, SHAKE with ice and fine strain into chilled glass.
-name: Sweet Louise
-rate: 3.5
+comment: Lots of contrasting flavours but she's a sweet girl.
+aka: 
+variant: 
+origin: Created in 2000 at Monte's Club, London, England.
+source: www.diffordsguide.com (1910)
+recipe_steps:
+- amount: '1'
+  doze: shot
+  ingredient_name: Raspberry flavoured vodka
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Freshly squeezed lime juice
+- amount: '1'
+  doze: fresh
+  ingredient_name: Passion fruit
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Chambord
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Pomegranate (grenadine) syrup
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Luxardo Amaretto di Saschira

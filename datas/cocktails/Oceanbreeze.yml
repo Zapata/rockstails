@@ -1,23 +1,26 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Oceanbreeze
+method: POUR cranberry juice into ice-filled glass. SHAKE other ingredients with ice
+  and carefully strain into glass to LAYER over the cranberry juice. Serve with straws
+  so drinker can mix layers prior to drinking.
+rate: 4.0
 garnish: Lime wedge
 glass: Collins
-infos: 
-  Comment: Refreshingly juicy. <br />
-  Origin: Created in 2007 by yours truly (Simon Difford) for Ocean Spray.
-  source: www.diffordsguide.com (2190)
-ingredients: 
-- - "2"
-  - shot
-  - Ketel One vodka
-- - "2 1/2 "
-  - shot
-  - Ocean Spray cranberry juice
-- - "1 1/2 "
-  - shot
-  - Freshly squeezed grapefruit juice
-- - " 1/2 "
-  - shot
-  - Fresh pressed pineapple juice
-method: POUR cranberry juice into ice-filled glass. SHAKE other ingredients with ice and carefully strain into glass to LAYER over the cranberry juice. Serve with straws so drinker can mix layers prior to drinking.
-name: Oceanbreeze
-rate: 4.0
+comment: Refreshingly juicy. <br />
+aka: 
+variant: 
+origin: Created in 2007 by yours truly (Simon Difford) for Ocean Spray.
+source: www.diffordsguide.com (2190)
+recipe_steps:
+- amount: '2 1/2 '
+  doze: shot
+  ingredient_name: Ocean Spray cranberry juice
+- amount: '2'
+  doze: shot
+  ingredient_name: Ketel One vodka
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Fresh pressed pineapple juice
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Freshly squeezed grapefruit juice

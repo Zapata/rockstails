@@ -1,29 +1,30 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Green Fairy
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 4.0
 garnish: Lemon zest twist<br />
 glass: Martini
-infos: 
-  Comment: An Absinthe Sour style drink served straight-up.<br /><br /><br />
-  Origin: Created in the 1990s by Dick Bradsell, London, England.<br /><br />
-  source: www.diffordsguide.com (911)
-ingredients: 
-- - "1"
-  - shot
-  - "La F\xE9e Parisienne (68%) absinthe"
-- - "1"
-  - shot
-  - Freshly squeezed lemon juice
-- - "1"
-  - shot
-  - Chilled mineral water
-- - " 3/4 "
-  - shot
-  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
-- - "1"
-  - dash
-  - Angostura aromatic bitters
-- - " 1/2 "
-  - fresh
-  - Egg white
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: Green Fairy
-rate: 4.0
+comment: An Absinthe Sour style drink served straight-up.<br /><br /><br />
+aka: 
+variant: 
+origin: Created in the 1990s by Dick Bradsell, London, England.<br /><br />
+source: www.diffordsguide.com (911)
+recipe_steps:
+- amount: '1'
+  doze: shot
+  ingredient_name: La Fée Parisienne (68%) absinthe
+- amount: '1'
+  doze: shot
+  ingredient_name: Freshly squeezed lemon juice
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- amount: '1'
+  doze: shot
+  ingredient_name: Chilled mineral water
+- amount: '1'
+  doze: dash
+  ingredient_name: Angostura aromatic bitters
+- amount: ' 1/2 '
+  doze: fresh
+  ingredient_name: Egg white

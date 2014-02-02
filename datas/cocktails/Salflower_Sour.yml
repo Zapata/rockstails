@@ -1,26 +1,27 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Salflower Sour
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 4.0
 garnish: Orange zest twist (discarded)
 glass: Martini
-infos: 
-  Comment: Classic sweet and sour enhanced by floral notes.
-  Origin: Created on 12th April 2007 by Salvatore Calabrese at Fifty, London, England.
-  source: www.diffordsguide.com (2744)
-ingredients: 
-- - "2"
-  - shot
-  - St-Germain elderflower liqueur
-- - " 3/4 "
-  - shot
-  - Freshly squeezed orange juice
-- - " 3/4 "
-  - shot
-  - Freshly squeezed lime juice
-- - "1"
-  - dash
-  - Angostura orange bitters
-- - " 1/2 "
-  - fresh
-  - Egg white
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: Salflower Sour
-rate: 4.0
+comment: Classic sweet and sour enhanced by floral notes.
+aka: 
+variant: 
+origin: Created on 12th April 2007 by Salvatore Calabrese at Fifty, London, England.
+source: www.diffordsguide.com (2744)
+recipe_steps:
+- amount: '2'
+  doze: shot
+  ingredient_name: St-Germain elderflower liqueur
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Freshly squeezed lime juice
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Freshly squeezed orange juice
+- amount: ' 1/2 '
+  doze: fresh
+  ingredient_name: Egg white
+- amount: '1'
+  doze: dash
+  ingredient_name: Angostura orange bitters

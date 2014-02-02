@@ -1,23 +1,25 @@
---- !ruby/object:DirtyCocktail 
+---
+name: China Blue Martini
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 4.0
 garnish: Peeled lychee in drink
 glass: Martini
-infos: 
-  Comment: This simple cocktail with its turquoise colour tastes more adult and interesting than its colour might suggest.
-  Origin: An almost inevitable short adaptation of the original long drink above.
-  source: www.diffordsguide.com (419)
-ingredients: 
-- - "1"
-  - shot
-  - Soho lychee liqueur
-- - "1"
-  - shot
-  - Bols blue curacao liqueur
-- - "2"
-  - shot
-  - Freshly squeezed grapefruit juice
-- - " 1/4 "
-  - shot
-  - Freshly squeezed lemon juice
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: China Blue Martini
-rate: 4.0
+comment: This simple cocktail with its turquoise colour tastes more adult and interesting
+  than its colour might suggest.
+aka: 
+variant: 
+origin: An almost inevitable short adaptation of the original long drink above.
+source: www.diffordsguide.com (419)
+recipe_steps:
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Freshly squeezed lemon juice
+- amount: '2'
+  doze: shot
+  ingredient_name: Freshly squeezed grapefruit juice
+- amount: '1'
+  doze: shot
+  ingredient_name: Soho lychee liqueur
+- amount: '1'
+  doze: shot
+  ingredient_name: Bols blue curacao liqueur

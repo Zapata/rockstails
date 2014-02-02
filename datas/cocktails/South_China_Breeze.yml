@@ -1,22 +1,24 @@
---- !ruby/object:DirtyCocktail 
+---
+name: South China Breeze
+method: SHAKE all ingredients with ice and strain into ice-filled glass.
+rate: 4.0
 garnish: Orange slice
 glass: Collins
-infos: 
-  Comment: Orange and grapefruit with an oriental influence by way of lychee.
-  source: www.diffordsguide.com (1800)
-ingredients: 
-- - "2"
-  - shot
-  - Ketel One vodka
-- - "1 1/2 "
-  - shot
-  - Lychee syrup (from tinned fruit)
-- - "3"
-  - shot
-  - Freshly squeezed grapefruit juice
-- - "3"
-  - dash
-  - Angostura aromatic bitters
-method: SHAKE all ingredients with ice and strain into ice-filled glass.
-name: South China Breeze
-rate: 4.0
+comment: Orange and grapefruit with an oriental influence by way of lychee.
+aka: 
+variant: 
+origin: 
+source: www.diffordsguide.com (1800)
+recipe_steps:
+- amount: '2'
+  doze: shot
+  ingredient_name: Ketel One vodka
+- amount: '3'
+  doze: dash
+  ingredient_name: Angostura aromatic bitters
+- amount: '3'
+  doze: shot
+  ingredient_name: Freshly squeezed grapefruit juice
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Lychee syrup (from tinned fruit)

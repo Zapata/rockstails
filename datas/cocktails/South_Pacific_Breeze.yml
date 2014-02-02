@@ -1,22 +1,26 @@
---- !ruby/object:DirtyCocktail 
+---
+name: South Pacific Breeze
+method: POUR gin and Galliano into ice-filled glass. TOP with lemonade to just below
+  the rim. DRIZZLE blue curacao around top of drink (it will sink leaving strings
+  of blue). Serve with straws.
+rate: 3.5
 garnish: Pineapple wedge on rim
 glass: Collins
-infos: 
-  Comment: Quite sweet but flavoursome - looks great.
-  source: www.diffordsguide.com (1803)
-ingredients: 
-- - "1 1/2 "
-  - shot
-  - Bombay London dry gin
-- - " 3/4 "
-  - shot
-  - Galliano L'Autentico liqueur
-- - "1"
-  - top up with
-  - Lemonade/Sprite/7-Up
-- - " 3/4 "
-  - shot
-  - Bols blue curacao liqueur
-method: POUR gin and Galliano into ice-filled glass. TOP with lemonade to just below the rim. DRIZZLE blue curacao around top of drink (it will sink leaving strings of blue). Serve with straws.
-name: South Pacific Breeze
-rate: 3.5
+comment: Quite sweet but flavoursome - looks great.
+aka: 
+variant: 
+origin: 
+source: www.diffordsguide.com (1803)
+recipe_steps:
+- amount: '1'
+  doze: top up with
+  ingredient_name: Lemonade/Sprite/7-Up
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Galliano L'Autentico liqueur
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Bombay London dry gin
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Bols blue curacao liqueur

@@ -1,23 +1,26 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Lisa B's Daiquiri
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 5.0
 garnish: Grapefruit zest twist
 glass: Martini
-infos: 
-  Comment: Reminiscent of a Hemingway Special, this flavoursome, vanilla laced Daiquiri has a wonderfully tangy, bitter sweet finish.
-  Origin: Created in 2003 by yours truly for a gorgeous fan of both Daiquiris and pink grapefruit juice.
-  source: www.diffordsguide.com (1178)
-ingredients: 
-- - "2 1/2 "
-  - shot
-  - Vanilla-infused Bacardi rum
-- - " 1/2 "
-  - shot
-  - Freshly squeezed lime juice
-- - " 1/2 "
-  - shot
-  - Monin Vanilla sugar syrup
-- - "1"
-  - shot
-  - Freshly squeezed grapefruit juice
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: Lisa B's Daiquiri
-rate: 5.0
+comment: Reminiscent of a Hemingway Special, this flavoursome, vanilla laced Daiquiri
+  has a wonderfully tangy, bitter sweet finish.
+aka: 
+variant: 
+origin: Created in 2003 by yours truly for a gorgeous fan of both Daiquiris and pink
+  grapefruit juice.
+source: www.diffordsguide.com (1178)
+recipe_steps:
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Freshly squeezed lime juice
+- amount: '1'
+  doze: shot
+  ingredient_name: Freshly squeezed grapefruit juice
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Monin Vanilla sugar syrup
+- amount: '2 1/2 '
+  doze: shot
+  ingredient_name: Vanilla-infused Bacardi rum

@@ -1,26 +1,29 @@
---- !ruby/object:DirtyCocktail 
+---
+name: 'Rum Swizzle '
+method: POUR all ingredients into glass filled with crushed ice and SWIZZLE (stir).
+rate: 3.5
 garnish: Mint sprig &amp; orange slice
 glass: Sling
-infos: 
-  Comment: Sweet and sour with aged rum base. All too easy.
-  Origin: This drink emerged in the early 1800's in Guyana when British ex-pats mixed this drink on the terrace of the Georgetown club using a long five-pronged swizzle stick fashioned from a tree branch.<br /><br />
-  source: www.diffordsguide.com (2566)
-ingredients: 
-- - "2"
-  - shot
-  - Zacapa aged rum
-- - " 1/2 "
-  - shot
-  - Velvet Falernum liqueur
-- - "1"
-  - shot
-  - Freshly squeezed lime juice
-- - " 1/2 "
-  - shot
-  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
-- - "1"
-  - dash
-  - Angostura aromatic bitters
-method: POUR all ingredients into glass filled with crushed ice and SWIZZLE (stir).
-name: "Rum Swizzle "
-rate: 3.5
+comment: Sweet and sour with aged rum base. All too easy.
+aka: 
+variant: 
+origin: This drink emerged in the early 1800's in Guyana when British ex-pats mixed
+  this drink on the terrace of the Georgetown club using a long five-pronged swizzle
+  stick fashioned from a tree branch.<br /><br />
+source: www.diffordsguide.com (2566)
+recipe_steps:
+- amount: '1'
+  doze: shot
+  ingredient_name: Freshly squeezed lime juice
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- amount: '1'
+  doze: dash
+  ingredient_name: Angostura aromatic bitters
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Velvet Falernum liqueur
+- amount: '2'
+  doze: shot
+  ingredient_name: Zacapa aged rum

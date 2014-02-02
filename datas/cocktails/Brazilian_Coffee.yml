@@ -1,22 +1,25 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Brazilian Coffee
+method: BLEND ingredients with 6oz scoop of crushed ice. Pour into glass and serve
+  with straws.
+rate: 3.5
 garnish: Float 3 coffee beans
 glass: Toddy
-infos: 
-  Comment: Strong coffee and plenty of sugar are essential in this Brazilian number.
-  source: www.diffordsguide.com (319)
-ingredients: 
-- - "1"
-  - shot
-  - Leblon cachaca
-- - "1"
-  - shot
-  - Double (heavy) cream
-- - "2"
-  - shot
-  - Hot espresso coffee
-- - " 3/4 "
-  - shot
-  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
-method: BLEND ingredients with 6oz scoop of crushed ice. Pour into glass and serve with straws.
-name: Brazilian Coffee
-rate: 3.5
+comment: Strong coffee and plenty of sugar are essential in this Brazilian number.
+aka: 
+variant: 
+origin: 
+source: www.diffordsguide.com (319)
+recipe_steps:
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- amount: '1'
+  doze: shot
+  ingredient_name: Double (heavy) cream
+- amount: '1'
+  doze: shot
+  ingredient_name: Leblon cachaca
+- amount: '2'
+  doze: shot
+  ingredient_name: Hot espresso coffee

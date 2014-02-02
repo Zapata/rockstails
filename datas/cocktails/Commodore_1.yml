@@ -1,26 +1,30 @@
---- !ruby/object:DirtyCocktail 
+---
+name: 'Commodore #1'
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 4.0
 garnish: Maraschino cherry
 glass: Martini
-infos: 
-  Comment: A smooth, sweet Daiquiri with flavoursome rum.
-  Origin: Adapted from David A. Embury's 1948 'The Fine Art of Mixing Drinks', where he writes, &quot;Another version of the Commodore calls for whisky instead of rum, omits the egg white, and uses orange bitters in place of the grenadine. Obviously, the two Commodores command two different fleets.&quot;
-  source: www.diffordsguide.com (589)
-ingredients: 
-- - "2"
-  - shot
-  - Bacardi Oro golden rum
-- - " 1/2 "
-  - shot
-  - Freshly squeezed lemon juice
-- - " 1/4 "
-  - shot
-  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
-- - " 1/8 "
-  - shot
-  - Pomegranate (grenadine) syrup
-- - " 1/2 "
-  - fresh
-  - Egg white
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: "Commodore #1"
-rate: 4.0
+comment: A smooth, sweet Daiquiri with flavoursome rum.
+aka: 
+variant: 
+origin: Adapted from David A. Embury's 1948 'The Fine Art of Mixing Drinks', where
+  he writes, &quot;Another version of the Commodore calls for whisky instead of rum,
+  omits the egg white, and uses orange bitters in place of the grenadine. Obviously,
+  the two Commodores command two different fleets.&quot;
+source: www.diffordsguide.com (589)
+recipe_steps:
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Freshly squeezed lemon juice
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- amount: '2'
+  doze: shot
+  ingredient_name: Bacardi Oro golden rum
+- amount: ' 1/8 '
+  doze: shot
+  ingredient_name: Pomegranate (grenadine) syrup
+- amount: ' 1/2 '
+  doze: fresh
+  ingredient_name: Egg white

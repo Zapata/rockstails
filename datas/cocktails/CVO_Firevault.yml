@@ -1,23 +1,24 @@
---- !ruby/object:DirtyCocktail 
+---
+name: CVO Firevault
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 4.0
 garnish: Orange zest twist
 glass: Martini
-infos: 
-  Comment: Fruity yet slightly bitter. Orange predominates with strong bursts of Campari.
-  Origin: Discovered in 2005 at CVO Firevault, London, England.
-  source: www.diffordsguide.com (609)
-ingredients: 
-- - "1 1/2 "
-  - shot
-  - Ketel One vodka
-- - " 3/4 "
-  - shot
-  - Campari Bitter
-- - " 3/4 "
-  - shot
-  - Freshly squeezed orange juice
-- - " 3/4 "
-  - shot
-  - Fresh pressed pineapple juice
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: CVO Firevault
-rate: 4.0
+comment: Fruity yet slightly bitter. Orange predominates with strong bursts of Campari.
+aka: 
+variant: 
+origin: Discovered in 2005 at CVO Firevault, London, England.
+source: www.diffordsguide.com (609)
+recipe_steps:
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Ketel One vodka
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Fresh pressed pineapple juice
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Freshly squeezed orange juice
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Campari Bitter

@@ -1,26 +1,30 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Bikini Martini
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 4.0
 garnish: Orange zest twist
 glass: Martini
-infos: 
-  Comment: A vivid blue combination of lemon, orange and peach laced with gin.
-  Origin: Adapted from a cocktail created in 1999 by Dick Bradsell for an Agent Provocateur swimwear launch. The bikini swimsuit was named after Bikini Atoll, where A-bombs were tested after World War II, on the basis that such a revealing garment would cause as much shock as a thermonuclear device.
-  source: www.diffordsguide.com (214)
-ingredients: 
-- - "2"
-  - shot
-  - Bombay London dry gin
-- - " 1/4 "
-  - shot
-  - Peach Tree peach schnapps
-- - " 3/4 "
-  - shot
-  - Bols blue curacao liqueur
-- - " 1/4 "
-  - shot
-  - Freshly squeezed lemon juice
-- - " 1/2 "
-  - shot
-  - Chilled mineral water
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: Bikini Martini
-rate: 4.0
+comment: A vivid blue combination of lemon, orange and peach laced with gin.
+aka: 
+variant: 
+origin: Adapted from a cocktail created in 1999 by Dick Bradsell for an Agent Provocateur
+  swimwear launch. The bikini swimsuit was named after Bikini Atoll, where A-bombs
+  were tested after World War II, on the basis that such a revealing garment would
+  cause as much shock as a thermonuclear device.
+source: www.diffordsguide.com (214)
+recipe_steps:
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Freshly squeezed lemon juice
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Chilled mineral water
+- amount: '2'
+  doze: shot
+  ingredient_name: Bombay London dry gin
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Peach Tree peach schnapps
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Bols blue curacao liqueur

@@ -1,20 +1,23 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Lemon Curd Martini
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 4.0
 garnish: Lemon wedge on rim
 glass: Martini
-infos: 
-  Comment: This almost creamy cocktail is named after tastes like its primary ingredient. Martini purists may justifiably baulk at the absence of vermouth and the presence of fruit.
-  Origin: Created by Yours Truly (Simon Difford).
-  source: www.diffordsguide.com (1142)
-ingredients: 
-- - "2"
-  - shot
-  - Ketel One Citroen vodka
-- - "3"
-  - spoon
-  - Lemon curd
-- - " 1/2 "
-  - shot
-  - Freshly squeezed lemon juice
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: Lemon Curd Martini
-rate: 4.0
+comment: This almost creamy cocktail is named after tastes like its primary ingredient.
+  Martini purists may justifiably baulk at the absence of vermouth and the presence
+  of fruit.
+aka: 
+variant: 
+origin: Created by Yours Truly (Simon Difford).
+source: www.diffordsguide.com (1142)
+recipe_steps:
+- amount: '2'
+  doze: shot
+  ingredient_name: Ketel One Citroen vodka
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Freshly squeezed lemon juice
+- amount: '3'
+  doze: spoon
+  ingredient_name: Lemon curd

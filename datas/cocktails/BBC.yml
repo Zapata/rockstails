@@ -1,23 +1,26 @@
---- !ruby/object:DirtyCocktail 
+---
+name: BBC
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 3.5
 garnish: Dust with freshly grated nutmeg
 glass: Martini
-infos: 
-  Comment: Brandy and Bénédictine (a classic combo) smoothed with cream. Drier than you might expect.
-  Origin: Thought to have originated in the UK in the late 1970s and named, not after the British Broadcasting Company, but brandy, Bénédictine and cream.
-  source: www.diffordsguide.com (187)
-ingredients: 
-- - "1 1/4 "
-  - shot
-  - Courvoisier V.S.O.P cognac
-- - "1"
-  - shot
-  - Bénédictine D.O.M.
-- - " 3/4 "
-  - shot
-  - Double (heavy) cream
-- - " 3/4 "
-  - shot
-  - Milk
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: BBC
-rate: 3.5
+comment: Brandy and Bénédictine (a classic combo) smoothed with cream. Drier than
+  you might expect.
+aka: 
+variant: 
+origin: Thought to have originated in the UK in the late 1970s and named, not after
+  the British Broadcasting Company, but brandy, Bénédictine and cream.
+source: www.diffordsguide.com (187)
+recipe_steps:
+- amount: '1'
+  doze: shot
+  ingredient_name: Bénédictine D.O.M.
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Double (heavy) cream
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Milk
+- amount: '1 1/4 '
+  doze: shot
+  ingredient_name: Courvoisier V.S.O.P cognac

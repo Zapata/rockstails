@@ -1,20 +1,22 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Princess Pride
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 3.5
 garnish: Orange zest twist
 glass: Martini
-infos: 
-  Comment: Vic's improved version of the Princess Mary's Pride cocktail.
-  Origin: Adapted from a recipe in the 1947-1972 Trader Vic's Bartender's Guide by Victor Bergeron.
-  source: www.diffordsguide.com (1605)
-ingredients: 
-- - "2"
-  - shot
-  - Boulard Grand Solage calvados
-- - "1"
-  - shot
-  - Dubonnet Red (French made)
-- - "1"
-  - shot
-  - Martini Rosso sweet vermouth
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: Princess Pride
-rate: 3.5
+comment: Vic's improved version of the Princess Mary's Pride cocktail.
+aka: 
+variant: 
+origin: Adapted from a recipe in the 1947-1972 Trader Vic's Bartender's Guide by Victor
+  Bergeron.
+source: www.diffordsguide.com (1605)
+recipe_steps:
+- amount: '2'
+  doze: shot
+  ingredient_name: Boulard Grand Solage calvados
+- amount: '1'
+  doze: shot
+  ingredient_name: Dubonnet Red (French made)
+- amount: '1'
+  doze: shot
+  ingredient_name: Martini Rosso sweet vermouth

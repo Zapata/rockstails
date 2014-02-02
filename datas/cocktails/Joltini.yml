@@ -1,20 +1,21 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Jol'tini
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 4.0
 garnish: Float 3 coffee beans
 glass: Martini
-infos: 
-  Comment: A flavoursome wake up call of espresso coffee laced with vanilla vodka.
-  Origin: Discovered in 2005 at Degrees, Washington DC, USA.
-  source: www.diffordsguide.com (1070)
-ingredients: 
-- - "2"
-  - shot
-  - Vanilla-infused Ketel One vodka
-- - " 1/2 "
-  - shot
-  - Kahla coffee liqueur
-- - "1"
-  - shot
-  - Hot espresso coffee
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: Jol'tini
-rate: 4.0
+comment: A flavoursome wake up call of espresso coffee laced with vanilla vodka.
+aka: 
+variant: 
+origin: Discovered in 2005 at Degrees, Washington DC, USA.
+source: www.diffordsguide.com (1070)
+recipe_steps:
+- amount: '2'
+  doze: shot
+  ingredient_name: Vanilla-infused Ketel One vodka
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Kahla coffee liqueur
+- amount: '1'
+  doze: shot
+  ingredient_name: Hot espresso coffee

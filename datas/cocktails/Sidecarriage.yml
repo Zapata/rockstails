@@ -1,20 +1,22 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Sidecarriage
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 4.0
 garnish: Lemon zest twist
 glass: Martini
-infos: 
-  Comment: Hints of cider come through in this calvados based Sidecar with an elderflower twist.
-  Origin: Created in 2006 by Yours Truly (Simon Difford).
-  source: www.diffordsguide.com (2749)
-ingredients: 
-- - "1 1/2 "
-  - shot
-  - Boulard Grand Solage calvados
-- - "1 1/2 "
-  - shot
-  - St-Germain elderflower liqueur
-- - "1"
-  - shot
-  - Freshly squeezed lemon juice
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: Sidecarriage
-rate: 4.0
+comment: Hints of cider come through in this calvados based Sidecar with an elderflower
+  twist.
+aka: 
+variant: 
+origin: Created in 2006 by Yours Truly (Simon Difford).
+source: www.diffordsguide.com (2749)
+recipe_steps:
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: St-Germain elderflower liqueur
+- amount: '1'
+  doze: shot
+  ingredient_name: Freshly squeezed lemon juice
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Boulard Grand Solage calvados

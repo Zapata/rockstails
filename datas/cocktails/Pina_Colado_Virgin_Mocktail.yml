@@ -1,23 +1,24 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Pi~na Colado Virgin (Mocktail)
+method: BLEND all ingredients with 18oz of crushed ice and serve with straws.
+rate: 3.0
 garnish: Pineapple wedge &amp; cherry on rim
 glass: Hurricane
-infos: 
-  AKA: Snow White
-  Comment: A Pi~na Colada with its guts ripped out.
-  source: www.diffordsguide.com (1527)
-ingredients: 
-- - "4"
-  - shot
-  - Fresh pressed pineapple juice
-- - "1 1/2 "
-  - shot
-  - Coco Lpez cream of coconut
-- - " 3/4 "
-  - shot
-  - Double (heavy) cream
-- - " 3/4 "
-  - shot
-  - Milk
-method: BLEND all ingredients with 18oz of crushed ice and serve with straws.
-name: Pi~na Colado Virgin (Mocktail)
-rate: 3.0
+comment: A Pi~na Colada with its guts ripped out.
+aka: Snow White
+variant: 
+origin: 
+source: www.diffordsguide.com (1527)
+recipe_steps:
+- amount: '4'
+  doze: shot
+  ingredient_name: Fresh pressed pineapple juice
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Double (heavy) cream
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Milk
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Coco Lpez cream of coconut

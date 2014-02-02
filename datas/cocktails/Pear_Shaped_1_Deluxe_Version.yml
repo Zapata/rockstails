@@ -1,28 +1,32 @@
---- !ruby/object:DirtyCocktail 
+---
+name: 'Pear Shaped #1 (Deluxe Version)'
+method: Cut passion fruit in half and scoop out flesh into base of shaker. Add other
+  ingredients, SHAKE with ice and fine strain into chilled glass.
+rate: 4.5
 garnish: Pear slice on rim
 glass: Martini
-infos: 
-  Comment: Wonderful balance of flavours but pear predominates with a dry yet floral finish.
-  source: www.diffordsguide.com (1499)
-ingredients: 
-- - "1"
-  - fresh
-  - Passion fruit
-- - "1 1/2 "
-  - shot
-  - Johnnie Walker Scotch Whisky
-- - "1"
-  - shot
-  - Belle de Brillet pear liqueur
-- - "1"
-  - shot
-  - Pressed apple juice
-- - "1"
-  - shot
-  - Pressed pear juice
-- - " 1/4 "
-  - shot
-  - Freshly squeezed lime juice
-method: Cut passion fruit in half and scoop out flesh into base of shaker. Add other ingredients, SHAKE with ice and fine strain into chilled glass.
-name: "Pear Shaped #1 (Deluxe Version)"
-rate: 4.5
+comment: Wonderful balance of flavours but pear predominates with a dry yet floral
+  finish.
+aka: 
+variant: 
+origin: 
+source: www.diffordsguide.com (1499)
+recipe_steps:
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Freshly squeezed lime juice
+- amount: '1'
+  doze: shot
+  ingredient_name: Pressed apple juice
+- amount: '1'
+  doze: fresh
+  ingredient_name: Passion fruit
+- amount: '1'
+  doze: shot
+  ingredient_name: Pressed pear juice
+- amount: '1'
+  doze: shot
+  ingredient_name: Belle de Brillet pear liqueur
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Johnnie Walker Scotch Whisky

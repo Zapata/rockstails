@@ -1,20 +1,23 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Alfonso
+method: Coat sugar cube with bitters and drop into glass. POUR Dubonnet and then champagne
+  into chilled glass.
+rate: 3.5
 garnish: Lemon zest twist
 glass: Flute
-infos: 
-  Comment: Herbal variation on the classic Champagne Cocktail
-  Origin: Named after the deposed Spanish king Alfonso XIII, who first tasted this drink while exiled in France.
-  source: www.diffordsguide.com (40)
-ingredients: 
-- - "1"
-  - cube
-  - Granulated sugar
-- - "4"
-  - dash
-  - Angostura aromatic bitters
-- - " 1/2 "
-  - shot
-  - Dubonnet Red (French made)
-method: Coat sugar cube with bitters and drop into glass. POUR Dubonnet and then champagne into chilled glass.
-name: Alfonso
-rate: 3.5
+comment: Herbal variation on the classic Champagne Cocktail
+aka: 
+variant: 
+origin: Named after the deposed Spanish king Alfonso XIII, who first tasted this drink
+  while exiled in France.
+source: www.diffordsguide.com (40)
+recipe_steps:
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Dubonnet Red (French made)
+- amount: '4'
+  doze: dash
+  ingredient_name: Angostura aromatic bitters
+- amount: '1'
+  doze: cube
+  ingredient_name: Granulated sugar

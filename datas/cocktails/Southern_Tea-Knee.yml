@@ -1,26 +1,27 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Southern Tea-Knee
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 4.5
 garnish: Apricot slice on rim
 glass: Martini
-infos: 
-  Comment: Sweet fruity flavours balanced by tannic bitterness in the tea.
-  Origin: Created by Yours Truly (Simon Difford) in 2002.
-  source: www.diffordsguide.com (1848)
-ingredients: 
-- - " 1/2 "
-  - shot
-  - Bombay London dry gin
-- - " 1/2 "
-  - shot
-  - Bols apricot brandy liqueur
-- - " 1/2 "
-  - shot
-  - "Cr\xE8me de banane liqueur"
-- - "1"
-  - shot
-  - Southern Comfort liqueur
-- - "2"
-  - shot
-  - Cold earl gray tea
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: Southern Tea-Knee
-rate: 4.5
+comment: Sweet fruity flavours balanced by tannic bitterness in the tea.
+aka: 
+variant: 
+origin: Created by Yours Truly (Simon Difford) in 2002.
+source: www.diffordsguide.com (1848)
+recipe_steps:
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Bols apricot brandy liqueur
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Bombay London dry gin
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Crème de banane liqueur
+- amount: '2'
+  doze: shot
+  ingredient_name: Cold earl gray tea
+- amount: '1'
+  doze: shot
+  ingredient_name: Southern Comfort liqueur

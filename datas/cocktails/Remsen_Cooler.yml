@@ -1,17 +1,20 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Remsen Cooler
+method: POUR ingredients into ice-filled glass and serve with straws.
+rate: 4.0
 garnish: Whole lemon peel
 glass: Collins
-infos: 
-  Comment: Scotch and soda for the sophisticate.
-  Origin: Adapted from a recipe purloined from David Embury's classic book, The Fine Art of Mixing Drinks, and so named because it was originally made with the now defunct Remsen Scotch whisky. Embury claims this is &quot;the original cooler&quot;.
-  source: www.diffordsguide.com (1669)
-ingredients: 
-- - "2 1/2 "
-  - shot
-  - Johnnie Walker Scotch Whisky
-- - "1"
-  - top up with
-  - Soda from siphon
-method: POUR ingredients into ice-filled glass and serve with straws.
-name: Remsen Cooler
-rate: 4.0
+comment: Scotch and soda for the sophisticate.
+aka: 
+variant: 
+origin: Adapted from a recipe purloined from David Embury's classic book, The Fine
+  Art of Mixing Drinks, and so named because it was originally made with the now defunct
+  Remsen Scotch whisky. Embury claims this is &quot;the original cooler&quot;.
+source: www.diffordsguide.com (1669)
+recipe_steps:
+- amount: '2 1/2 '
+  doze: shot
+  ingredient_name: Johnnie Walker Scotch Whisky
+- amount: '1'
+  doze: top up with
+  ingredient_name: Soda from siphon

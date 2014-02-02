@@ -1,32 +1,34 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Meloncholy Martini
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 4.0
 garnish: Mint sprig
 glass: Martini
-infos: 
-  Comment: Sweet, but the flavours in this smooth, tangy, lime-green drink combine surprisingly well.
-  Origin: Created in 2002 by Daniel O'Brien at Ocean Bar, Edinburgh, Scotland.
-  source: www.diffordsguide.com (1291)
-ingredients: 
-- - "1"
-  - shot
-  - Ketel One vodka
-- - "1"
-  - shot
-  - Midori green melon liqueur
-- - " 1/2 "
-  - shot
-  - Cointreau triple sec
-- - " 1/2 "
-  - shot
-  - Malibu coconut rum liqueur
-- - "1"
-  - shot
-  - Fresh pressed pineapple juice
-- - " 1/4 "
-  - shot
-  - Freshly squeezed lime juice
-- - " 3/4 "
-  - shot
-  - Double (heavy) cream
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: Meloncholy Martini
-rate: 4.0
+comment: Sweet, but the flavours in this smooth, tangy, lime-green drink combine surprisingly
+  well.
+aka: 
+variant: 
+origin: Created in 2002 by Daniel O'Brien at Ocean Bar, Edinburgh, Scotland.
+source: www.diffordsguide.com (1291)
+recipe_steps:
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Cointreau triple sec
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Freshly squeezed lime juice
+- amount: '1'
+  doze: shot
+  ingredient_name: Ketel One vodka
+- amount: '1'
+  doze: shot
+  ingredient_name: Fresh pressed pineapple juice
+- amount: '1'
+  doze: shot
+  ingredient_name: Midori green melon liqueur
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Double (heavy) cream
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Malibu coconut rum liqueur

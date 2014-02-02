@@ -1,19 +1,22 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Landslide
+method: Refrigerate ingredients then LAYER in chilled glass by carefully pouring in
+  the following order.
+rate: 3.0
 garnish: 
 glass: Shot
-infos: 
-  Comment: A sweet but pleasant combination of banana, almond and Irish cream liqueur.
-  source: www.diffordsguide.com (1132)
-ingredients: 
-- - " 1/2 "
-  - shot
-  - Luxardo Amaretto di Saschira
-- - " 1/2 "
-  - shot
-  - "Cr\xE8me de banane liqueur"
-- - " 1/2 "
-  - shot
-  - Baileys Irish cream liqueur
-method: Refrigerate ingredients then LAYER in chilled glass by carefully pouring in the following order.
-name: Landslide
-rate: 3.0
+comment: A sweet but pleasant combination of banana, almond and Irish cream liqueur.
+aka: 
+variant: 
+origin: 
+source: www.diffordsguide.com (1132)
+recipe_steps:
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Crème de banane liqueur
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Baileys Irish cream liqueur
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Luxardo Amaretto di Saschira

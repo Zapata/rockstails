@@ -1,26 +1,27 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Pinky Pincher
+method: SHAKE all ingredients with ice and strain into ice-filled glass.
+rate: 4.0
 garnish: Mint sprig, orange and lemon slice
 glass: Old-fashioned
-infos: 
-  Comment: Fruity, sweetened bourbon.
-  Origin: Adapted from a drink created by Victor Bergeron (Trader Vic).
-  source: www.diffordsguide.com (1553)
-ingredients: 
-- - "2"
-  - shot
-  - Maker's Mark bourbon
-- - "1"
-  - shot
-  - Freshly squeezed orange juice
-- - "1"
-  - shot
-  - Freshly squeezed lemon juice
-- - " 1/4 "
-  - shot
-  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
-- - " 1/4 "
-  - shot
-  - Monin Almond (orgeat) syrup
-method: SHAKE all ingredients with ice and strain into ice-filled glass.
-name: Pinky Pincher
-rate: 4.0
+comment: Fruity, sweetened bourbon.
+aka: 
+variant: 
+origin: Adapted from a drink created by Victor Bergeron (Trader Vic).
+source: www.diffordsguide.com (1553)
+recipe_steps:
+- amount: '1'
+  doze: shot
+  ingredient_name: Freshly squeezed lemon juice
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- amount: '1'
+  doze: shot
+  ingredient_name: Freshly squeezed orange juice
+- amount: '2'
+  doze: shot
+  ingredient_name: Maker's Mark bourbon
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Monin Almond (orgeat) syrup

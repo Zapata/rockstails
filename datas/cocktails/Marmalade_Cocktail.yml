@@ -1,20 +1,23 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Marmalade Cocktail
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 4.0
 garnish: Orange zest twist
 glass: Martini
-infos: 
-  Comment: Harry wrote of his own drink, &quot;By its bitter-sweet taste this cocktail is especially suited to be a luncheon apertif.&quot;
-  Origin: Adapted from a recipe in the 1930 Savoy Cocktail Book by Harry Craddock (the original recipe serves six people).
-  source: www.diffordsguide.com (1260)
-ingredients: 
-- - "4"
-  - spoon
-  - Orange marmalade
-- - "2"
-  - shot
-  - Bombay London dry gin
-- - " 1/2 "
-  - shot
-  - Freshly squeezed lemon juice
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: Marmalade Cocktail
-rate: 4.0
+comment: Harry wrote of his own drink, &quot;By its bitter-sweet taste this cocktail
+  is especially suited to be a luncheon apertif.&quot;
+aka: 
+variant: 
+origin: Adapted from a recipe in the 1930 Savoy Cocktail Book by Harry Craddock (the
+  original recipe serves six people).
+source: www.diffordsguide.com (1260)
+recipe_steps:
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Freshly squeezed lemon juice
+- amount: '2'
+  doze: shot
+  ingredient_name: Bombay London dry gin
+- amount: '4'
+  doze: spoon
+  ingredient_name: Orange marmalade

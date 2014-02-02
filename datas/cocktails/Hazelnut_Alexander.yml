@@ -1,29 +1,30 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Hazelnut Alexander
+method: SHAKE all ingredients and fine strain into chilled glass.
+rate: 4.0
 garnish: Dust with cacoa powder
 glass: Martini
-infos: 
-  Comment: Great twist on a classic - the use of bitters is inspired.
-  Origin: Created in 2005 by James Mellnor at Maze, London, England.
-  source: www.diffordsguide.com (947)
-ingredients: 
-- - "1 3/4 "
-  - shot
-  - Courvoisier V.S.O.P cognac
-- - " 1/2 "
-  - shot
-  - "Brown cr\xE8me de cacao liqueur"
-- - " 3/4 "
-  - shot
-  - Hazelnut liqueur
-- - " 1/2 "
-  - shot
-  - Milk
-- - " 1/2 "
-  - shot
-  - Double (heavy) cream
-- - "2"
-  - dash
-  - Angostura aromatic bitters
-method: SHAKE all ingredients and fine strain into chilled glass.
-name: Hazelnut Alexander
-rate: 4.0
+comment: Great twist on a classic - the use of bitters is inspired.
+aka: 
+variant: 
+origin: Created in 2005 by James Mellnor at Maze, London, England.
+source: www.diffordsguide.com (947)
+recipe_steps:
+- amount: '2'
+  doze: dash
+  ingredient_name: Angostura aromatic bitters
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Brown crème de cacao liqueur
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Double (heavy) cream
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Milk
+- amount: '1 3/4 '
+  doze: shot
+  ingredient_name: Courvoisier V.S.O.P cognac
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Hazelnut liqueur

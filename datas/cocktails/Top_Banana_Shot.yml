@@ -1,22 +1,25 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Top Banana Shot
+method: Refrigerate ingredients then LAYER in chilled glass by carefully pouring in
+  the following order.
+rate: 3.5
 garnish: 
 glass: Shot
-infos: 
-  Comment: Banana, chocolate and coffee.
-  source: www.diffordsguide.com (1979)
-ingredients: 
-- - " 1/2 "
-  - shot
-  - Kahla coffee liqueur
-- - " 1/2 "
-  - shot
-  - "White cr\xE8me de cacao liqueur"
-- - " 1/2 "
-  - shot
-  - "Cr\xE8me de banane liqueur"
-- - " 1/2 "
-  - shot
-  - Ketel One vodka
-method: Refrigerate ingredients then LAYER in chilled glass by carefully pouring in the following order.
-name: Top Banana Shot
-rate: 3.5
+comment: Banana, chocolate and coffee.
+aka: 
+variant: 
+origin: 
+source: www.diffordsguide.com (1979)
+recipe_steps:
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Ketel One vodka
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: White crème de cacao liqueur
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Crème de banane liqueur
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Kahla coffee liqueur

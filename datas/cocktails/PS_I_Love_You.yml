@@ -1,25 +1,27 @@
---- !ruby/object:DirtyCocktail 
+---
+name: P.S. I Love You
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 4.0
 garnish: Crumbled Cadbury's Flake Bar
 glass: Martini
-infos: 
-  Comment: P.s. You'll love this creamy flavoursome drink.
-  source: www.diffordsguide.com (1610)
-ingredients: 
-- - "1 1/4 "
-  - shot
-  - Baileys Irish cream liqueur
-- - "1 1/4 "
-  - shot
-  - Luxardo Amaretto di Saschira
-- - " 3/4 "
-  - shot
-  - Bacardi Oro golden rum
-- - " 3/4 "
-  - shot
-  - Kahla coffee liqueur
-- - "1"
-  - shot
-  - Double (heavy) cream
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: P.S. I Love You
-rate: 4.0
+comment: P.s. You'll love this creamy flavoursome drink.
+aka: 
+variant: 
+origin: 
+source: www.diffordsguide.com (1610)
+recipe_steps:
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Bacardi Oro golden rum
+- amount: '1 1/4 '
+  doze: shot
+  ingredient_name: Baileys Irish cream liqueur
+- amount: '1'
+  doze: shot
+  ingredient_name: Double (heavy) cream
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Kahla coffee liqueur
+- amount: '1 1/4 '
+  doze: shot
+  ingredient_name: Luxardo Amaretto di Saschira

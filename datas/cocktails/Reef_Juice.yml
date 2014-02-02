@@ -1,29 +1,32 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Reef Juice
+method: SHAKE all ingredients with ice and strain into ice-filled glass.
+rate: 4.0
 garnish: Split pineapple wedge
 glass: Collins
-infos: 
-  Comment: Tangy, fruity and dangerously moreish.
-  Origin: Charles Tobias, proprietor of Pusser's, created this drink at the Beach Bar in Fort Lauderdale, Florida. It was a favourite of a friend who crashed his boat on the reef.
-  source: www.diffordsguide.com (1666)
-ingredients: 
-- - "1 1/2 "
-  - shot
-  - Pusser's Navy rum
-- - " 1/2 "
-  - shot
-  - Ketel One vodka
-- - "1"
-  - shot
-  - "Cr\xE8me de banane liqueur"
-- - " 1/2 "
-  - shot
-  - Freshly squeezed lime juice
-- - "2 1/2 "
-  - shot
-  - Fresh pressed pineapple juice
-- - " 1/2 "
-  - shot
-  - Pomegranate (grenadine) syrup
-method: SHAKE all ingredients with ice and strain into ice-filled glass.
-name: Reef Juice
-rate: 4.0
+comment: Tangy, fruity and dangerously moreish.
+aka: 
+variant: 
+origin: Charles Tobias, proprietor of Pusser's, created this drink at the Beach Bar
+  in Fort Lauderdale, Florida. It was a favourite of a friend who crashed his boat
+  on the reef.
+source: www.diffordsguide.com (1666)
+recipe_steps:
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Freshly squeezed lime juice
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Ketel One vodka
+- amount: '2 1/2 '
+  doze: shot
+  ingredient_name: Fresh pressed pineapple juice
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Pusser's Navy rum
+- amount: '1'
+  doze: shot
+  ingredient_name: Crème de banane liqueur
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Pomegranate (grenadine) syrup

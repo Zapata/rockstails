@@ -1,25 +1,27 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Bosom Caresser
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 4.0
 garnish: Orange peel twist (discarded)
 glass: Martini
-infos: 
-  Comment: No bosoms to hand, then caress your throat.
-  source: www.diffordsguide.com (292)
-ingredients: 
-- - "2"
-  - shot
-  - Courvoisier V.S.O.P cognac
-- - " 1/2 "
-  - shot
-  - Grand Marnier liqueur
-- - " 1/2 "
-  - shot
-  - Blandy's Alvada madeira
-- - " 1/4 "
-  - shot
-  - Pomegranate (grenadine) syrup
-- - "1"
-  - fresh
-  - Egg yolk
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: Bosom Caresser
-rate: 4.0
+comment: No bosoms to hand, then caress your throat.
+aka: 
+variant: 
+origin: 
+source: www.diffordsguide.com (292)
+recipe_steps:
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Grand Marnier liqueur
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Pomegranate (grenadine) syrup
+- amount: '2'
+  doze: shot
+  ingredient_name: Courvoisier V.S.O.P cognac
+- amount: '1'
+  doze: fresh
+  ingredient_name: Egg yolk
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Blandy's Alvada madeira

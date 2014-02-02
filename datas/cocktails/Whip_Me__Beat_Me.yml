@@ -1,22 +1,24 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Whip Me & Beat Me
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 3.0
 garnish: 
 glass: Shot
-infos: 
-  Comment: A creamy, coconut, absinthe laden shot
-  source: www.diffordsguide.com (2078)
-ingredients: 
-- - " 1/2 "
-  - shot
-  - "La F\xE9e Parisienne (68%) absinthe"
-- - " 1/2 "
-  - shot
-  - Double (heavy) cream
-- - " 1/2 "
-  - shot
-  - Malibu coconut rum liqueur
-- - " 1/2 "
-  - shot
-  - Milk
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: Whip Me & Beat Me
-rate: 3.0
+comment: A creamy, coconut, absinthe laden shot
+aka: 
+variant: 
+origin: 
+source: www.diffordsguide.com (2078)
+recipe_steps:
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: La Fée Parisienne (68%) absinthe
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Double (heavy) cream
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Milk
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Malibu coconut rum liqueur

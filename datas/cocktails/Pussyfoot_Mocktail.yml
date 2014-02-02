@@ -1,29 +1,33 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Pussyfoot (Mocktail)
+method: MUDDLE mint in base of shaker. Add other ingredients, SHAKE with ice and fine
+  strain into ice-filled glass.
+rate: 4.5
 garnish: Orange slice
 glass: Collins
-infos: 
-  Comment: Probably the best non-alcoholic cocktail ever.
-  Origin: Created in 1920 by Robert Vermeire at the Embassy Club, London, England. This non-alcoholic is named after 'Pussyfoot' (William E.) Johnson who was an ardent supporter of prohibition.
-  source: www.diffordsguide.com (1620)
-ingredients: 
-- - "7"
-  - fresh
-  - Mint leaves
-- - "4"
-  - shot
-  - Freshly squeezed orange juice
-- - " 1/2 "
-  - shot
-  - Freshly squeezed lemon juice
-- - " 1/2 "
-  - shot
-  - Freshly squeezed lime juice
-- - " 1/2 "
-  - shot
-  - Pomegranate (grenadine) syrup
-- - "1"
-  - fresh
-  - Egg yolk
-method: MUDDLE mint in base of shaker. Add other ingredients, SHAKE with ice and fine strain into ice-filled glass.
-name: Pussyfoot (Mocktail)
-rate: 4.5
+comment: Probably the best non-alcoholic cocktail ever.
+aka: 
+variant: 
+origin: Created in 1920 by Robert Vermeire at the Embassy Club, London, England. This
+  non-alcoholic is named after 'Pussyfoot' (William E.) Johnson who was an ardent
+  supporter of prohibition.
+source: www.diffordsguide.com (1620)
+recipe_steps:
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Freshly squeezed lime juice
+- amount: '7'
+  doze: fresh
+  ingredient_name: Mint leaves
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Freshly squeezed lemon juice
+- amount: '4'
+  doze: shot
+  ingredient_name: Freshly squeezed orange juice
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Pomegranate (grenadine) syrup
+- amount: '1'
+  doze: fresh
+  ingredient_name: Egg yolk

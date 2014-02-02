@@ -1,19 +1,22 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Bazooka Joe
+method: Refrigerate ingredients then LAYER in chilled glass by carefully pouring in
+  the following order.
+rate: 2.5
 garnish: None<br />
 glass: Shot
-infos: 
-  Comment: Banana and orange topped with whiskey cream.
-  source: www.diffordsguide.com (186)
-ingredients: 
-- - " 1/2 "
-  - shot
-  - Bols blue curacao liqueur
-- - " 1/2 "
-  - shot
-  - "Cr\xE8me de banane liqueur"
-- - " 1/2 "
-  - shot
-  - Baileys Irish cream liqueur
-method: Refrigerate ingredients then LAYER in chilled glass by carefully pouring in the following order.
-name: Bazooka Joe
-rate: 2.5
+comment: Banana and orange topped with whiskey cream.
+aka: 
+variant: 
+origin: 
+source: www.diffordsguide.com (186)
+recipe_steps:
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Crème de banane liqueur
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Baileys Irish cream liqueur
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Bols blue curacao liqueur

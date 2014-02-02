@@ -1,23 +1,25 @@
---- !ruby/object:DirtyCocktail 
+---
+name: I'll Take Manhattan
+method: STIR all ingredients with ice and strain into chilled glass.
+rate: 4.0
 garnish: Maraschino cherry
 glass: Martini
-infos: 
-  Comment: Cherry is more a garnish in this twist on the classic Manhattan.
-  Origin: Adapted from a drink discovered in 2005 at The Stanton Social, New York City, USA.
-  source: www.diffordsguide.com (1005)
-ingredients: 
-- - "2"
-  - shot
-  - Maker's Mark bourbon
-- - " 1/2 "
-  - shot
-  - Heering cherry brandy liqueur
-- - "1"
-  - shot
-  - Martini Rosso sweet vermouth
-- - "2"
-  - dash
-  - Angostura aromatic bitters
-method: STIR all ingredients with ice and strain into chilled glass.
-name: I'll Take Manhattan
-rate: 4.0
+comment: Cherry is more a garnish in this twist on the classic Manhattan.
+aka: 
+variant: 
+origin: Adapted from a drink discovered in 2005 at The Stanton Social, New York City,
+  USA.
+source: www.diffordsguide.com (1005)
+recipe_steps:
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Heering cherry brandy liqueur
+- amount: '1'
+  doze: shot
+  ingredient_name: Martini Rosso sweet vermouth
+- amount: '2'
+  doze: dash
+  ingredient_name: Angostura aromatic bitters
+- amount: '2'
+  doze: shot
+  ingredient_name: Maker's Mark bourbon

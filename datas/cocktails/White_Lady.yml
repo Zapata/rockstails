@@ -1,24 +1,27 @@
---- !ruby/object:DirtyCocktail 
+---
+name: White Lady
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 4.5
 garnish: Lemon zest twist
 glass: Martini
-infos: 
-  Comment: A simple but lovely classic drink with a sour finish.<br /><br />
-  Origin: In 1919 Harry MacElhone, while working at Ciro's Club, London, England, created his first White Lady with 2 shots triple sec, 1 shot white crème de menthe and 1 shot lemon juice. In 1923, he created the White Lady above at his own Harry's New York Bar in Paris, France.<br /><br />
-  source: www.diffordsguide.com (2091)
-  Variant: Chelsea Sidecar, Boxcar
-ingredients: 
-- - "1 3/4 "
-  - shot
-  - Bombay London dry gin
-- - "1"
-  - shot
-  - Cointreau triple sec
-- - "1"
-  - shot
-  - Freshly squeezed lemon juice
-- - "1"
-  - fresh
-  - Egg white
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: White Lady
-rate: 4.5
+comment: A simple but lovely classic drink with a sour finish.<br /><br />
+aka: 
+variant: Chelsea Sidecar, Boxcar
+origin: In 1919 Harry MacElhone, while working at Ciro's Club, London, England, created
+  his first White Lady with 2 shots triple sec, 1 shot white crème de menthe and 1
+  shot lemon juice. In 1923, he created the White Lady above at his own Harry's New
+  York Bar in Paris, France.<br /><br />
+source: www.diffordsguide.com (2091)
+recipe_steps:
+- amount: '1'
+  doze: shot
+  ingredient_name: Cointreau triple sec
+- amount: '1'
+  doze: shot
+  ingredient_name: Freshly squeezed lemon juice
+- amount: '1 3/4 '
+  doze: shot
+  ingredient_name: Bombay London dry gin
+- amount: '1'
+  doze: fresh
+  ingredient_name: Egg white

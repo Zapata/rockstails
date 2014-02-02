@@ -1,17 +1,18 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Knicker Dropper Glory
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 4.0
 garnish: 
 glass: Shot
-infos: 
-  Comment: Nutty sweetness sharpened with lemon.
-  Origin: Created circa 2000 by Jason Fendick, London, England.
-  source: www.diffordsguide.com (2705)
-ingredients: 
-- - "1"
-  - shot
-  - Hazelnut liqueur
-- - " 1/2 "
-  - shot
-  - Freshly squeezed lemon juice
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: Knicker Dropper Glory
-rate: 4.0
+comment: Nutty sweetness sharpened with lemon.
+aka: 
+variant: 
+origin: Created circa 2000 by Jason Fendick, London, England.
+source: www.diffordsguide.com (2705)
+recipe_steps:
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Freshly squeezed lemon juice
+- amount: '1'
+  doze: shot
+  ingredient_name: Hazelnut liqueur

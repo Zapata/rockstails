@@ -1,21 +1,22 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Mango Daiquiri
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 4.0
 garnish: Lime wedge on rim
 glass: Martini
-infos: 
-  Comment: Tropical yet potent and refreshing.
-  Origin: Formula by Yours Truly (Simon Difford) in 2004.
-  Variant: Blended with a 12oz scoop of crushed ice and an additional half shot of sugar syrup.
-  source: www.diffordsguide.com (1239)
-ingredients: 
-- - "2"
-  - shot
-  - Bacardi Superior rum
-- - "2"
-  - shot
-  - Mango pure
-- - " 1/2 "
-  - shot
-  - Freshly squeezed lime juice
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: Mango Daiquiri
-rate: 4.0
+comment: Tropical yet potent and refreshing.
+aka: 
+variant: Blended with a 12oz scoop of crushed ice and an additional half shot of sugar
+  syrup.
+origin: Formula by Yours Truly (Simon Difford) in 2004.
+source: www.diffordsguide.com (1239)
+recipe_steps:
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Freshly squeezed lime juice
+- amount: '2'
+  doze: shot
+  ingredient_name: Bacardi Superior rum
+- amount: '2'
+  doze: shot
+  ingredient_name: Mango pure

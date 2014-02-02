@@ -1,25 +1,27 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Pompanski Martini
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 4.0
 garnish: Orange zest twist
 glass: Martini
-infos: 
-  Comment: Dry and zesty with the sharp freshness of grapefruit and a hint of orange.
-  source: www.diffordsguide.com (1584)
-ingredients: 
-- - "1 3/4 "
-  - shot
-  - Ketel One vodka
-- - " 1/2 "
-  - shot
-  - Cointreau triple sec
-- - "1 1/2 "
-  - shot
-  - Freshly squeezed grapefruit juice
-- - " 1/4 "
-  - shot
-  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
-- - "1"
-  - spoon
-  - Noilly Prat dry vermouth
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: Pompanski Martini
-rate: 4.0
+comment: Dry and zesty with the sharp freshness of grapefruit and a hint of orange.
+aka: 
+variant: 
+origin: 
+source: www.diffordsguide.com (1584)
+recipe_steps:
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Cointreau triple sec
+- amount: '1 3/4 '
+  doze: shot
+  ingredient_name: Ketel One vodka
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- amount: '1'
+  doze: spoon
+  ingredient_name: Noilly Prat dry vermouth
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Freshly squeezed grapefruit juice

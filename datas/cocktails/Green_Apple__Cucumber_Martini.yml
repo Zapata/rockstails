@@ -1,26 +1,28 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Green Apple & Cucumber Martini
+method: MUDDLE cucumber in base of shaker. Add other ingredients, SHAKE with ice and
+  fine strain into chilled glass.
+rate: 4.0
 garnish: Float three cucumber slices
 glass: Martini
-infos: 
-  Comment: Archetypal English flavours. Clean, green and refreshing.
-  Origin: Adapted from a recipe discovered in 2003 at Oxo Tower Bar, London, England.
-  source: www.diffordsguide.com (908)
-ingredients: 
-- - "1"
-  - inch
-  - Cucumber (chopped & peeled)
-- - "2"
-  - shot
-  - Cucumber flavoured vodka
-- - " 1/2 "
-  - shot
-  - Sour apple liqueur
-- - " 1/2 "
-  - shot
-  - Pressed apple juice
-- - " 1/8 "
-  - shot
-  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
-method: MUDDLE cucumber in base of shaker. Add other ingredients, SHAKE with ice and fine strain into chilled glass.
-name: Green Apple & Cucumber Martini
-rate: 4.0
+comment: Archetypal English flavours. Clean, green and refreshing.
+aka: 
+variant: 
+origin: Adapted from a recipe discovered in 2003 at Oxo Tower Bar, London, England.
+source: www.diffordsguide.com (908)
+recipe_steps:
+- amount: ' 1/8 '
+  doze: shot
+  ingredient_name: Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Pressed apple juice
+- amount: '1'
+  doze: inch
+  ingredient_name: Cucumber (chopped & peeled)
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Sour apple liqueur
+- amount: '2'
+  doze: shot
+  ingredient_name: Cucumber flavoured vodka

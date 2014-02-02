@@ -1,23 +1,24 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Roulette
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 4.0
 garnish: Orange zest twist
 glass: Martini
-infos: 
-  Comment: Balanced apple and spice.
-  Origin: Adapted from a recipe in Harry Craddock's 1930 Savoy Cocktail book.
-  source: www.diffordsguide.com (1699)
-ingredients: 
-- - "1 1/2 "
-  - shot
-  - Boulard Grand Solage calvados
-- - " 3/4 "
-  - shot
-  - Bacardi Superior rum
-- - " 3/4 "
-  - shot
-  - Swedish Punch liqueur
-- - " 1/2 "
-  - shot
-  - Chilled mineral water
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: Roulette
-rate: 4.0
+comment: Balanced apple and spice.
+aka: 
+variant: 
+origin: Adapted from a recipe in Harry Craddock's 1930 Savoy Cocktail book.
+source: www.diffordsguide.com (1699)
+recipe_steps:
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Boulard Grand Solage calvados
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Bacardi Superior rum
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Chilled mineral water
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Swedish Punch liqueur

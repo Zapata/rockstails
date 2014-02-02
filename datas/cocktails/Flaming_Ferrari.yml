@@ -1,29 +1,37 @@
---- !ruby/object:DirtyCocktail 
-garnish: This flaming drink (to be downed in one) requires an assistant to help the drinker consume the concoction.
-glass: Shot
-infos: 
-  Comment: Not recommended if you want to remember the rest of the evening and please be careful - alcohol and fire is a risky combination.
-  source: www.diffordsguide.com (756)
-  Variant: Flaming Lamborghini with coffee liqueur and blue curacao in the shot glasses.
-ingredients: 
-- - " 1/2 "
-  - shot
-  - Pomegranate (grenadine) syrup
-- - "1"
-  - shot
-  - Galliano L'Autentico liqueur
-- - "1"
-  - shot
-  - Opal Nera black sambuca
-- - "1"
-  - shot
-  - Chartreuse Green liqueur
-- - "1"
-  - shot
-  - Grand Marnier liqueur
-- - "1"
-  - shot
-  - Pusser's Navy rum
-method: Step 1 <br />LAYER the first 4 ingredients by carefully pouring in order into a Martini glass.<br /><br />Step 2<br />In two shot glasses POUR the remaining 2 ingredients separately.<br /><br />Step 3<br />IGNITE the contents of the Martini glass. Give two long straws to the drinker and instruct them to drink the contents of the Martini glass in<br />one go. As they do so, slowly POUR the contents of the two shot glasses into the flaming Martini glass.<br />
+---
 name: Flaming Ferrari
+method: Step 1 <br />LAYER the first 4 ingredients by carefully pouring in order into
+  a Martini glass.<br /><br />Step 2<br />In two shot glasses POUR the remaining 2
+  ingredients separately.<br /><br />Step 3<br />IGNITE the contents of the Martini
+  glass. Give two long straws to the drinker and instruct them to drink the contents
+  of the Martini glass in<br />one go. As they do so, slowly POUR the contents of
+  the two shot glasses into the flaming Martini glass.<br />
 rate: 2.0
+garnish: This flaming drink (to be downed in one) requires an assistant to help the
+  drinker consume the concoction.
+glass: Shot
+comment: Not recommended if you want to remember the rest of the evening and please
+  be careful - alcohol and fire is a risky combination.
+aka: 
+variant: Flaming Lamborghini with coffee liqueur and blue curacao in the shot glasses.
+origin: 
+source: www.diffordsguide.com (756)
+recipe_steps:
+- amount: '1'
+  doze: shot
+  ingredient_name: Chartreuse Green liqueur
+- amount: '1'
+  doze: shot
+  ingredient_name: Galliano L'Autentico liqueur
+- amount: '1'
+  doze: shot
+  ingredient_name: Pusser's Navy rum
+- amount: '1'
+  doze: shot
+  ingredient_name: Grand Marnier liqueur
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Pomegranate (grenadine) syrup
+- amount: '1'
+  doze: shot
+  ingredient_name: Opal Nera black sambuca

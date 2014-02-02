@@ -1,25 +1,27 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Creamy Creamsicle
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 3.5
 garnish: 
 glass: Martini
-infos: 
-  Comment: Ultra smooth and creamy. Dessert, anyone?
-  source: www.diffordsguide.com (485)
-ingredients: 
-- - " 1/2 "
-  - shot
-  - Orange-infused Ketel One vodka
-- - "1 1/4 "
-  - shot
-  - Luxardo Amaretto di Saschira
-- - "1"
-  - shot
-  - Freshly squeezed orange juice
-- - " 3/4 "
-  - shot
-  - Milk
-- - " 3/4 "
-  - shot
-  - Double (heavy) cream
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: Creamy Creamsicle
-rate: 3.5
+comment: Ultra smooth and creamy. Dessert, anyone?
+aka: 
+variant: 
+origin: 
+source: www.diffordsguide.com (485)
+recipe_steps:
+- amount: '1'
+  doze: shot
+  ingredient_name: Freshly squeezed orange juice
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Double (heavy) cream
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Milk
+- amount: '1 1/4 '
+  doze: shot
+  ingredient_name: Luxardo Amaretto di Saschira
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Orange-infused Ketel One vodka

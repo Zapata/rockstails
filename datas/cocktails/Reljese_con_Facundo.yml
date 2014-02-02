@@ -1,23 +1,28 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Reljese con Facundo
+method: SHAKE all ingredients with cubed ice and fine-strain into a chilled martini
+  glass.<br /><br />
+rate: 3.5
 garnish: Float mandolin-sliced grapefruit wheel
 glass: Martini
-infos: 
-  Comment: Floral but this rum-based drink is far from being a pansy.<br _moz_editor_bogus_node="TRUE" />
-  Origin: Created in 2008 by Adam Elmegirab at Evo-lution Bar Consultancy, Aberdeen, Scotland. The name literally translates from Spanish as 'Relax with Facundo'.<br /><br />
-  source: www.diffordsguide.com (2558)
-ingredients: 
-- - "2"
-  - shot
-  - Bacardi Superior rum
-- - "1"
-  - shot
-  - Freshly squeezed grapefruit juice
-- - " 1/2 "
-  - shot
-  - Monin Lavender sugar syrup
-- - "2"
-  - dash
-  - Angostura aromatic bitters
-method: SHAKE all ingredients with cubed ice and fine-strain into a chilled martini glass.<br /><br />
-name: Reljese con Facundo
-rate: 3.5
+comment: Floral but this rum-based drink is far from being a pansy.<br _moz_editor_bogus_node="TRUE"
+  />
+aka: 
+variant: 
+origin: Created in 2008 by Adam Elmegirab at Evo-lution Bar Consultancy, Aberdeen,
+  Scotland. The name literally translates from Spanish as 'Relax with Facundo'.<br
+  /><br />
+source: www.diffordsguide.com (2558)
+recipe_steps:
+- amount: '2'
+  doze: shot
+  ingredient_name: Bacardi Superior rum
+- amount: '2'
+  doze: dash
+  ingredient_name: Angostura aromatic bitters
+- amount: '1'
+  doze: shot
+  ingredient_name: Freshly squeezed grapefruit juice
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Monin Lavender sugar syrup

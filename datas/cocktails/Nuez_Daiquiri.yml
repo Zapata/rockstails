@@ -1,23 +1,24 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Nuez Daiquiri
+method: SHAKE all ingredients with ice and fine strain into chilled glass.<br />
+rate: 4.0
 garnish: Walnut
 glass: Coupette
-infos: 
-  Comment: A Daiquiri with nutty notes.
-  Origin: Named after the Spanish for Walnut.<br />
-  source: www.diffordsguide.com (2525)
-ingredients: 
-- - "2"
-  - shot
-  - Bacardi Superior rum
-- - "1"
-  - shot
-  - Nocello walnut liqueur
-- - " 3/4 "
-  - shot
-  - Freshly squeezed lime juice
-- - " 1/2 "
-  - shot
-  - Pressed apple juice
-method: SHAKE all ingredients with ice and fine strain into chilled glass.<br />
-name: Nuez Daiquiri
-rate: 4.0
+comment: A Daiquiri with nutty notes.
+aka: 
+variant: 
+origin: Named after the Spanish for Walnut.<br />
+source: www.diffordsguide.com (2525)
+recipe_steps:
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Freshly squeezed lime juice
+- amount: '2'
+  doze: shot
+  ingredient_name: Bacardi Superior rum
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Pressed apple juice
+- amount: '1'
+  doze: shot
+  ingredient_name: Nocello walnut liqueur

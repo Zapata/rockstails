@@ -1,38 +1,45 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Bermuda Rum Swizzle
+method: 'Swizzle, or better and easier: SHAKE all ingredients with ice and strain
+  into glass filled with crushed ice.'
+rate: 4.0
 garnish: Pineapple wedge &amp; cherry
 glass: Collins
-infos: 
-  Comment: Your five-a-day fruits in a glass, laced with pungent rums and clove infused Falernum.
-  Origin: This recipe is adapted from one by Del Pedro, originally from Bermuda but now resident in New York City. It came my way (in 1997) courtesy of the dangerously sexy LeNell Smothers, and apparently it originally heralds from the Swizzle Inn in Bermuda where their rather appropriate slogan is &quot;Swizzle Inn, Swagger Out&quot;.<br /><br />
-  source: www.diffordsguide.com (544)
-ingredients: 
-- - "1"
-  - shot
-  - Bacardi Oro golden rum
-- - "1"
-  - shot
-  - Gosling's Black Seal rum
-- - " 3/4 "
-  - shot
-  - Velvet Falernum liqueur
-- - "1"
-  - shot
-  - Fresh pressed pineapple juice
-- - "1"
-  - shot
-  - Freshly squeezed orange juice
-- - " 1/2 "
-  - shot
-  - Freshly squeezed pink grapefruit juice
-- - " 1/2 "
-  - shot
-  - Freshly squeezed lime juice
-- - " 1/4 "
-  - shot
-  - Freshly squeezed lemon juice
-- - "2"
-  - dash
-  - Angostura aromatic bitters
-method: "Swizzle, or better and easier: SHAKE all ingredients with ice and strain into glass filled with crushed ice."
-name: Bermuda Rum Swizzle
-rate: 4.0
+comment: Your five-a-day fruits in a glass, laced with pungent rums and clove infused
+  Falernum.
+aka: 
+variant: 
+origin: This recipe is adapted from one by Del Pedro, originally from Bermuda but
+  now resident in New York City. It came my way (in 1997) courtesy of the dangerously
+  sexy LeNell Smothers, and apparently it originally heralds from the Swizzle Inn
+  in Bermuda where their rather appropriate slogan is &quot;Swizzle Inn, Swagger Out&quot;.<br
+  /><br />
+source: www.diffordsguide.com (544)
+recipe_steps:
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Freshly squeezed lime juice
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Freshly squeezed lemon juice
+- amount: '1'
+  doze: shot
+  ingredient_name: Fresh pressed pineapple juice
+- amount: '1'
+  doze: shot
+  ingredient_name: Bacardi Oro golden rum
+- amount: '1'
+  doze: shot
+  ingredient_name: Freshly squeezed orange juice
+- amount: '2'
+  doze: dash
+  ingredient_name: Angostura aromatic bitters
+- amount: '1'
+  doze: shot
+  ingredient_name: Gosling's Black Seal rum
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Velvet Falernum liqueur
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Freshly squeezed pink grapefruit juice

@@ -1,20 +1,22 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Mother Rum
+method: STIR all ingredients with ice and strain into ice-filled glass.
+rate: 4.5
 garnish: Cinnamon stick<br />
 glass: Old-fashioned
-infos: 
-  Comment: To quote Milo, this drink "is warm and comforting, just like the drinks my mother made."
-  Origin: Created in 2006 by Milo Rodriguez at Crazy Bear, London, England.
-  source: www.diffordsguide.com (2715)
-ingredients: 
-- - "2"
-  - shot
-  - Zacapa aged rum
-- - " 1/4 "
-  - shot
-  - "White cr\xE8me de cacao liqueur"
-- - " 1/4 "
-  - shot
-  - Maple syrup
-method: STIR all ingredients with ice and strain into ice-filled glass.
-name: Mother Rum
-rate: 4.5
+comment: To quote Milo, this drink "is warm and comforting, just like the drinks my
+  mother made."
+aka: 
+variant: 
+origin: Created in 2006 by Milo Rodriguez at Crazy Bear, London, England.
+source: www.diffordsguide.com (2715)
+recipe_steps:
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: White crème de cacao liqueur
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Maple syrup
+- amount: '2'
+  doze: shot
+  ingredient_name: Zacapa aged rum

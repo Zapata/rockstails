@@ -1,25 +1,28 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Pimm's Cocktail
+method: SHAKE first 4 ingredients with ice and strain into chilled glass. TOP with
+  champagne.
+rate: 4.5
 garnish: Lemon &amp; orange zest twist
 glass: Martini
-infos: 
-  Comment: Luxuriate in this quintessentially English tipple.
-  source: www.diffordsguide.com (1522)
-ingredients: 
-- - "2"
-  - shot
-  - Pimm's No.1 Cup
-- - " 1/2 "
-  - shot
-  - Bombay London dry gin
-- - " 1/4 "
-  - shot
-  - Freshly squeezed lemon juice
-- - " 1/4 "
-  - shot
-  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
-- - "1"
-  - top up with
-  - Perrier Jouet brut champagne
-method: SHAKE first 4 ingredients with ice and strain into chilled glass. TOP with champagne.
-name: Pimm's Cocktail
-rate: 4.5
+comment: Luxuriate in this quintessentially English tipple.
+aka: 
+variant: 
+origin: 
+source: www.diffordsguide.com (1522)
+recipe_steps:
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Freshly squeezed lemon juice
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Bombay London dry gin
+- amount: '1'
+  doze: top up with
+  ingredient_name: Perrier Jouet brut champagne
+- amount: '2'
+  doze: shot
+  ingredient_name: Pimm's No.1 Cup

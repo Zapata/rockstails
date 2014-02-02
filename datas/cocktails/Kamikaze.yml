@@ -1,20 +1,21 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Kamikaze
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 4.0
 garnish: 
 glass: Shot
-infos: 
-  Comment: A bite-sized Margarita.
-  source: www.diffordsguide.com (1087)
-  Variant: With vodka in place of tequila.
-ingredients: 
-- - "1"
-  - shot
-  - Herradura 100% agave tequila
-- - " 1/2 "
-  - shot
-  - Cointreau triple sec
-- - " 1/2 "
-  - shot
-  - Freshly squeezed lime juice
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: Kamikaze
-rate: 4.0
+comment: A bite-sized Margarita.
+aka: 
+variant: With vodka in place of tequila.
+origin: 
+source: www.diffordsguide.com (1087)
+recipe_steps:
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Cointreau triple sec
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Freshly squeezed lime juice
+- amount: '1'
+  doze: shot
+  ingredient_name: Herradura 100% agave tequila

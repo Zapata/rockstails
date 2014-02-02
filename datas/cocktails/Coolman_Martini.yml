@@ -1,23 +1,26 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Coolman Martini
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 4.5
 garnish: Orange zest twist
 glass: Martini
-infos: 
-  Comment: Fragrant and complex. Integrated hints of apple and orange are laced with grassy vodka.
-  Origin: Created in 2001 by Jack Coleman at The Library Bar, Lanesborough Hotel, London, England.
-  source: www.diffordsguide.com (466)
-ingredients: 
-- - "1 3/4 "
-  - shot
-  - Ketel One vodka
-- - " 1/2 "
-  - shot
-  - Cointreau triple sec
-- - "2"
-  - shot
-  - Pressed apple juice
-- - " 1/4 "
-  - shot
-  - Freshly squeezed lemon juice
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: Coolman Martini
-rate: 4.5
+comment: Fragrant and complex. Integrated hints of apple and orange are laced with
+  grassy vodka.
+aka: 
+variant: 
+origin: Created in 2001 by Jack Coleman at The Library Bar, Lanesborough Hotel, London,
+  England.
+source: www.diffordsguide.com (466)
+recipe_steps:
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Cointreau triple sec
+- amount: '1 3/4 '
+  doze: shot
+  ingredient_name: Ketel One vodka
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Freshly squeezed lemon juice
+- amount: '2'
+  doze: shot
+  ingredient_name: Pressed apple juice

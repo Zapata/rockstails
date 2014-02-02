@@ -1,19 +1,22 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Clockwork Orange
+method: SHAKE all ingredients with ice and strain into ice-filled glass.
+rate: 3.5
 garnish: Orange slice
 glass: Collins
-infos: 
-  Comment: Neither as memorable nor as controversial as the film but a pleasant orange drink all the same.
-  source: www.diffordsguide.com (445)
-ingredients: 
-- - "1 1/2 "
-  - shot
-  - Courvoisier V.S.O.P cognac
-- - "1 1/2 "
-  - shot
-  - Grand Marnier liqueur
-- - "3"
-  - shot
-  - Freshly squeezed orange juice
-method: SHAKE all ingredients with ice and strain into ice-filled glass.
-name: Clockwork Orange
-rate: 3.5
+comment: Neither as memorable nor as controversial as the film but a pleasant orange
+  drink all the same.
+aka: 
+variant: 
+origin: 
+source: www.diffordsguide.com (445)
+recipe_steps:
+- amount: '3'
+  doze: shot
+  ingredient_name: Freshly squeezed orange juice
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Grand Marnier liqueur
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Courvoisier V.S.O.P cognac

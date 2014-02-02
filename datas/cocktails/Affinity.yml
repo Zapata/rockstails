@@ -1,25 +1,26 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Affinity
+method: STIR all ingredients with ice and strain into chilled glass.
+rate: 4.0
 garnish: Lemon zest twist
 glass: Martini
-infos: 
-  AKA: Scotch Manhattan
-  Comment: Aperitif style cocktail which when shaken has an almost creamy, soft, mouth feel. Stir, as the recipe originally intended and the Scotch notes are more pronounced. I prefer mine shaken.
-  Origin: Fashionable in the 1920s.
-  source: www.diffordsguide.com (19)
-  Variant: Rob Roy &amp; Violet Affinity
-ingredients: 
-- - "1"
-  - shot
-  - Johnnie Walker Scotch Whisky
-- - "1"
-  - shot
-  - Martini Rosso sweet vermouth
-- - "1"
-  - shot
-  - Noilly Prat dry vermouth
-- - "1"
-  - dash
-  - Angostura aromatic bitters
-method: STIR all ingredients with ice and strain into chilled glass.
-name: Affinity
-rate: 4.0
+comment: Aperitif style cocktail which when shaken has an almost creamy, soft, mouth
+  feel. Stir, as the recipe originally intended and the Scotch notes are more pronounced.
+  I prefer mine shaken.
+aka: Scotch Manhattan
+variant: Rob Roy &amp; Violet Affinity
+origin: Fashionable in the 1920s.
+source: www.diffordsguide.com (19)
+recipe_steps:
+- amount: '1'
+  doze: shot
+  ingredient_name: Noilly Prat dry vermouth
+- amount: '1'
+  doze: shot
+  ingredient_name: Martini Rosso sweet vermouth
+- amount: '1'
+  doze: dash
+  ingredient_name: Angostura aromatic bitters
+- amount: '1'
+  doze: shot
+  ingredient_name: Johnnie Walker Scotch Whisky

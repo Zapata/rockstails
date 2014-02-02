@@ -1,23 +1,26 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Pink Palace
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 4.5
 garnish: Lemon zest twist
 glass: Martini
-infos: 
-  Comment: A great drink but rarely done justice at the Polo Lounge.
-  Origin: The signature drink at the Polo Lounge, Beverly Hills Hotel, Los Angeles, USA. The hotel, which is lovingly termed the 'Pink Palace' inspired The Eagles' Hotel California and graces the album cover.
-  source: www.diffordsguide.com (1550)
-ingredients: 
-- - "2"
-  - shot
-  - Bombay London dry gin
-- - " 1/2 "
-  - shot
-  - Grand Marnier liqueur
-- - " 1/2 "
-  - shot
-  - Freshly squeezed lime juice
-- - " 1/4 "
-  - shot
-  - Pomegranate (grenadine) syrup
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: Pink Palace
-rate: 4.5
+comment: A great drink but rarely done justice at the Polo Lounge.
+aka: 
+variant: 
+origin: The signature drink at the Polo Lounge, Beverly Hills Hotel, Los Angeles,
+  USA. The hotel, which is lovingly termed the 'Pink Palace' inspired The Eagles'
+  Hotel California and graces the album cover.
+source: www.diffordsguide.com (1550)
+recipe_steps:
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Freshly squeezed lime juice
+- amount: '2'
+  doze: shot
+  ingredient_name: Bombay London dry gin
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Grand Marnier liqueur
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Pomegranate (grenadine) syrup

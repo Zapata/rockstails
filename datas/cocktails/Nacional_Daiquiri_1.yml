@@ -1,23 +1,25 @@
---- !ruby/object:DirtyCocktail 
+---
+name: 'Nacional Daiquiri #1'
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 4.5
 garnish: Maraschino cherry
 glass: Martini
-infos: 
-  Comment: A sophisticated complex apricot Daiquiri.
-  Origin: An old classic named after the Hotel Nacional, Havana, Cuba, where it was created.
-  source: www.diffordsguide.com (1383)
-ingredients: 
-- - "2"
-  - shot
-  - Bacardi Superior rum
-- - " 3/4 "
-  - shot
-  - Bols apricot brandy liqueur
-- - " 1/2 "
-  - shot
-  - Freshly squeezed lime juice
-- - " 3/4 "
-  - shot
-  - Chilled mineral water
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: "Nacional Daiquiri #1"
-rate: 4.5
+comment: A sophisticated complex apricot Daiquiri.
+aka: 
+variant: 
+origin: An old classic named after the Hotel Nacional, Havana, Cuba, where it was
+  created.
+source: www.diffordsguide.com (1383)
+recipe_steps:
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Freshly squeezed lime juice
+- amount: '2'
+  doze: shot
+  ingredient_name: Bacardi Superior rum
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Bols apricot brandy liqueur
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Chilled mineral water

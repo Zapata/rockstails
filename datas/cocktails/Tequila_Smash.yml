@@ -1,20 +1,21 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Tequila Smash
+method: SHAKE all ingredients with ice and fine strain into ice-filled glass.
+rate: 4.5
 garnish: Mint sprig
 glass: Old-fashioned
-infos: 
-  Comment: "Simple, not too sweet: a great way to appreciate quality tequila."
-  Origin: Adapted from the classic Brandy Smash.
-  source: www.diffordsguide.com (1933)
-ingredients: 
-- - "7"
-  - fresh
-  - Mint leaves
-- - "2"
-  - shot
-  - Herradura 100% agave tequila
-- - " 1/4 "
-  - shot
-  - Agave nectar
-method: SHAKE all ingredients with ice and fine strain into ice-filled glass.
-name: Tequila Smash
-rate: 4.5
+comment: 'Simple, not too sweet: a great way to appreciate quality tequila.'
+aka: 
+variant: 
+origin: Adapted from the classic Brandy Smash.
+source: www.diffordsguide.com (1933)
+recipe_steps:
+- amount: '7'
+  doze: fresh
+  ingredient_name: Mint leaves
+- amount: '2'
+  doze: shot
+  ingredient_name: Herradura 100% agave tequila
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Agave nectar

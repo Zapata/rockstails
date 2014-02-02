@@ -1,19 +1,21 @@
---- !ruby/object:DirtyCocktail 
+---
+name: French Bison-Tini
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 4.0
 garnish: Raspberries on stick
 glass: Martini
-infos: 
-  Comment: A French Martini with the distinctive taste of Zubrwka.
-  source: www.diffordsguide.com (792)
-ingredients: 
-- - "2"
-  - shot
-  - Zubrwka bison vodka
-- - " 1/4 "
-  - shot
-  - Chambord
-- - "2"
-  - shot
-  - Fresh pressed pineapple juice
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: French Bison-Tini
-rate: 4.0
+comment: A French Martini with the distinctive taste of Zubrwka.
+aka: 
+variant: 
+origin: 
+source: www.diffordsguide.com (792)
+recipe_steps:
+- amount: '2'
+  doze: shot
+  ingredient_name: Fresh pressed pineapple juice
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Chambord
+- amount: '2'
+  doze: shot
+  ingredient_name: Zubrwka bison vodka

@@ -1,25 +1,29 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Umbongo
+method: Cut passion fruit in half and scoop out flesh into shaker. Add next three
+  ingredients, SHAKE with ice and fine strain into ice-filled glass. TOP with ginger
+  ale.
+rate: 3.0
 garnish: Orange slice in glass
 glass: Collins
-infos: 
-  Comment: Pleasant, light and medium sweet tropical style drink.
-  source: www.diffordsguide.com (2012)
-ingredients: 
-- - "1"
-  - fresh
-  - Passion fruit
-- - "1"
-  - shot
-  - Ketel One vodka
-- - "1"
-  - shot
-  - Passoa passion fruit liqueur
-- - "1"
-  - shot
-  - Freshly squeezed orange juice
-- - "1"
-  - top up with
-  - Ginger ale
-method: Cut passion fruit in half and scoop out flesh into shaker. Add next three ingredients, SHAKE with ice and fine strain into ice-filled glass. TOP with ginger ale.
-name: Umbongo
-rate: 3.0
+comment: Pleasant, light and medium sweet tropical style drink.
+aka: 
+variant: 
+origin: 
+source: www.diffordsguide.com (2012)
+recipe_steps:
+- amount: '1'
+  doze: shot
+  ingredient_name: Ketel One vodka
+- amount: '1'
+  doze: shot
+  ingredient_name: Freshly squeezed orange juice
+- amount: '1'
+  doze: fresh
+  ingredient_name: Passion fruit
+- amount: '1'
+  doze: shot
+  ingredient_name: Passoa passion fruit liqueur
+- amount: '1'
+  doze: top up with
+  ingredient_name: Ginger ale

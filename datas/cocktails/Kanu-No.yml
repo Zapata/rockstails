@@ -1,23 +1,26 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Kanu-No
+method: STIR all ingredients with ice and strain into ice-filled glass.
+rate: 4.0
 garnish: Orange zest twist<br />
 glass: Old-fashioned
-infos: 
-  Comment: The rum's sherry notes are heightened by the addition of port and sherry.<br /><br /><br _moz_editor_bogus_node="TRUE" />
-  Origin: Adapted from a drink created in 2007 by Mr Ueno at Star Bar, Ginza, Tokyo. Originally served straight-up.<br /><span><br /></span>
-  source: www.diffordsguide.com (2462)
-ingredients: 
-- - "2 1/4 "
-  - shot
-  - Zacapa aged rum
-- - " 1/4 "
-  - shot
-  - Matulsalem Oloroso sherry
-- - " 1/8 "
-  - shot
-  - Harvey's Bristol Cream sherry
-- - " 1/8 "
-  - shot
-  - Taylor's ruby port
-method: STIR all ingredients with ice and strain into ice-filled glass.
-name: Kanu-No
-rate: 4.0
+comment: The rum's sherry notes are heightened by the addition of port and sherry.<br
+  /><br /><br _moz_editor_bogus_node="TRUE" />
+aka: 
+variant: 
+origin: Adapted from a drink created in 2007 by Mr Ueno at Star Bar, Ginza, Tokyo.
+  Originally served straight-up.<br /><span><br /></span>
+source: www.diffordsguide.com (2462)
+recipe_steps:
+- amount: '2 1/4 '
+  doze: shot
+  ingredient_name: Zacapa aged rum
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Matulsalem Oloroso sherry
+- amount: ' 1/8 '
+  doze: shot
+  ingredient_name: Harvey's Bristol Cream sherry
+- amount: ' 1/8 '
+  doze: shot
+  ingredient_name: Taylor's ruby port

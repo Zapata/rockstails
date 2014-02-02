@@ -1,22 +1,26 @@
---- !ruby/object:DirtyCocktail 
+---
+name: 'Melon Margarita #1 (served ''up'')'
+method: Cut melon into 8 segments and deseed. Cut cubes of flesh from skin of one
+  segment and MUDDLE in base of shaker. Add other ingredients, SHAKE with ice and
+  fine strain into chilled glass.
+rate: 4.0
 garnish: Melon slice or melon balls
 glass: Coupette
-infos: 
-  Comment: Looks like stagnant pond water but tastes fantastic.
-  source: www.diffordsguide.com (1287)
-ingredients: 
-- - " 1/8 "
-  - fresh
-  - Cantaloupe melon
-- - "2"
-  - shot
-  - Herradura 100% agave tequila
-- - "1"
-  - shot
-  - Midori green melon liqueur
-- - "1"
-  - shot
-  - Freshly squeezed lime juice
-method: Cut melon into 8 segments and deseed. Cut cubes of flesh from skin of one segment and MUDDLE in base of shaker. Add other ingredients, SHAKE with ice and fine strain into chilled glass.
-name: "Melon Margarita #1 (served 'up')"
-rate: 4.0
+comment: Looks like stagnant pond water but tastes fantastic.
+aka: 
+variant: 
+origin: 
+source: www.diffordsguide.com (1287)
+recipe_steps:
+- amount: '1'
+  doze: shot
+  ingredient_name: Freshly squeezed lime juice
+- amount: '1'
+  doze: shot
+  ingredient_name: Midori green melon liqueur
+- amount: '2'
+  doze: shot
+  ingredient_name: Herradura 100% agave tequila
+- amount: ' 1/8 '
+  doze: fresh
+  ingredient_name: Cantaloupe melon

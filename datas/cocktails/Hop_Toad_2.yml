@@ -1,23 +1,24 @@
---- !ruby/object:DirtyCocktail 
+---
+name: 'Hop Toad #2'
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 4.0
 garnish: Apricot wedge on rim
 glass: Martini
-infos: 
-  Comment: Alcoholic apricot jam with a lovely twang of aged rum.
-  Origin: <br _moz_editor_bogus_node="TRUE" />
-  source: www.diffordsguide.com (977)
-ingredients: 
-- - "1 3/4 "
-  - shot
-  - Zacapa aged rum
-- - "1"
-  - shot
-  - Bols apricot brandy liqueur
-- - " 3/4 "
-  - shot
-  - Freshly squeezed lime juice
-- - " 1/2 "
-  - shot
-  - Chilled mineral water
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: "Hop Toad #2"
-rate: 4.0
+comment: Alcoholic apricot jam with a lovely twang of aged rum.
+aka: 
+variant: 
+origin: <br _moz_editor_bogus_node="TRUE" />
+source: www.diffordsguide.com (977)
+recipe_steps:
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Freshly squeezed lime juice
+- amount: '1'
+  doze: shot
+  ingredient_name: Bols apricot brandy liqueur
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Chilled mineral water
+- amount: '1 3/4 '
+  doze: shot
+  ingredient_name: Zacapa aged rum

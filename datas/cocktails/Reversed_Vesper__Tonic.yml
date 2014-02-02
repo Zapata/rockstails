@@ -1,29 +1,36 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Reversed Vesper & Tonic
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 5.0
 garnish: Lemon zest twist
 glass: Martini
-infos: 
-  Comment: Martini in style but with the hard edges shaken off and a hint of eastern spice added. Scarily, it took 14 attempts and 13 wasted drinks to arrive at the above formula. <br /><br />
-  Origin: Created in 2008 by Yours Truly (Simon Difford) at the Cabinet Room, London, England. James Bond named his favourite style of Martini after the beautiful Russian agent Vesper Lynd. This version is 'Reversed' due to the dramatically increased ratio of Lillet. It mixes east and west ingredients with the introduction of Becherovka, and where there is Becherovka there should be tonic water.<br /><br />
-  source: www.diffordsguide.com (2559)
-ingredients: 
-- - "1"
-  - shot
-  - Bombay London dry gin
-- - "1"
-  - shot
-  - Ketel One vodka
-- - "1"
-  - shot
-  - Lillet Blanc
-- - " 1/8 "
-  - shot
-  - Becherovka liqueur
-- - " 1/8 "
-  - shot
-  - Pomegranate (grenadine) syrup
-- - " 1/2 "
-  - shot
-  - Tonic water
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: Reversed Vesper & Tonic
-rate: 5.0
+comment: Martini in style but with the hard edges shaken off and a hint of eastern
+  spice added. Scarily, it took 14 attempts and 13 wasted drinks to arrive at the
+  above formula. <br /><br />
+aka: 
+variant: 
+origin: Created in 2008 by Yours Truly (Simon Difford) at the Cabinet Room, London,
+  England. James Bond named his favourite style of Martini after the beautiful Russian
+  agent Vesper Lynd. This version is 'Reversed' due to the dramatically increased
+  ratio of Lillet. It mixes east and west ingredients with the introduction of Becherovka,
+  and where there is Becherovka there should be tonic water.<br /><br />
+source: www.diffordsguide.com (2559)
+recipe_steps:
+- amount: '1'
+  doze: shot
+  ingredient_name: Ketel One vodka
+- amount: '1'
+  doze: shot
+  ingredient_name: Bombay London dry gin
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Tonic water
+- amount: ' 1/8 '
+  doze: shot
+  ingredient_name: Pomegranate (grenadine) syrup
+- amount: ' 1/8 '
+  doze: shot
+  ingredient_name: Becherovka liqueur
+- amount: '1'
+  doze: shot
+  ingredient_name: Lillet Blanc

@@ -1,163 +1,90 @@
---- !ruby/object:DirtyCocktail 
+---
+name: 'Bobby Burns #2 (Crockett''s Version)'
+method: POUR absinthe into ice-filled glass. TOP with water and leave to stand. Separately
+  STIR Scotch, vermouth and bitters with ice. DISCARD contents of glass (absinthe,
+  water and ice) and fill with fresh ice. STRAIN contents of mixing glass into ice-filled
+  absinthe-coated glass.<br />
+rate: 4.5
 garnish: Maraschino cherry in drink
 glass: Old-fashioned
-infos: 
-  AKA: Robert Burns
-  Comment: Scotch and vermouth with added interest courtesy of absinthe and orange bitters.
-  Origin: |-
-    <meta content="text/html; charset=utf-8" http-equiv="Content-Type" /><meta content="Word.Document" name="ProgId" /><meta content="Microsoft Word 11" name="Generator" /><meta content="Microsoft Word 11" name="Originator" /><link href="file:///C:\Users\Steph\AppData\Local\Temp\msohtml1\03\clip_filelist.xml" rel="File-List" /><o:smarttagtype name="PlaceType" namespaceuri="urn:schemas-microsoft-com:office:smarttags" /><o:smarttagtype name="PlaceName" namespaceuri="urn:schemas-microsoft-com:office:smarttags" /><o:smarttagtype name="Street" namespaceuri="urn:schemas-microsoft-com:office:smarttags" /><o:smarttagtype name="address" namespaceuri="urn:schemas-microsoft-com:office:smarttags" /><o:smarttagtype name="place" namespaceuri="urn:schemas-microsoft-com:office:smarttags" /><!--[if gte mso 9]&gt;&lt;xml&gt;
-     &lt;o:OfficeDocumentSettings&gt;
-      &lt;o:RelyOnVML/&gt;
-      &lt;o:AllowPNG/&gt;
-     &lt;/o:OfficeDocumentSettings&gt;
-    &lt;/xml&gt;&lt;![endif]--><!--[if gte mso 9]&gt;&lt;xml&gt;
-     &lt;w:WordDocument&gt;
-      &lt;w:View&gt;Normal&lt;/w:View&gt;
-      &lt;w:Zoom&gt;0&lt;/w:Zoom&gt;
-      &lt;w:PunctuationKerning/&gt;
-      &lt;w:ValidateAgainstSchemas/&gt;
-      &lt;w:SaveIfXMLInvalid&gt;false&lt;/w:SaveIfXMLInvalid&gt;
-      &lt;w:IgnoreMixedContent&gt;false&lt;/w:IgnoreMixedContent&gt;
-      &lt;w:AlwaysShowPlaceholderText&gt;false&lt;/w:AlwaysShowPlaceholderText&gt;
-      &lt;w:Compatibility&gt;
-       &lt;w:BreakWrappedTables/&gt;
-       &lt;w:SnapToGridInCell/&gt;
-       &lt;w:WrapTextWithPunct/&gt;
-       &lt;w:UseAsianBreakRules/&gt;
-       &lt;w:DontGrowAutofit/&gt;
-      &lt;/w:Compatibility&gt;
-     &lt;/w:WordDocument&gt;
-    &lt;/xml&gt;&lt;![endif]--><!--[if gte mso 9]&gt;&lt;xml&gt;
-     &lt;w:LatentStyles DefLockedState=&quot;false&quot; LatentStyleCount=&quot;156&quot;&gt;
-     &lt;/w:LatentStyles&gt;
-    &lt;/xml&gt;&lt;![endif]--><!--[if !mso]&gt;&lt;object
-     classid=&quot;clsid:38481807-CA0E-42D2-BF39-B33AF135CC4D&quot; id=ieooui&gt;&lt;/object&gt;
-    &lt;style&gt;
-    st1\:*{behavior:url(#ieooui) }
-    &lt;/style&gt;
-    &lt;![endif]--><style>
-    &lt;!--
-     /* Font Definitions */
-     @font-face
-    	{font-family:Georgia;
-    	panose-1:2 4 5 2 5 4 5 2 3 3;
-    	mso-font-charset:0;
-    	mso-generic-font-family:roman;
-    	mso-font-pitch:variable;
-    	mso-font-signature:647 0 0 0 159 0;}
-     /* Style Definitions */
-     p.MsoNormal, li.MsoNormal, div.MsoNormal
-    	{mso-style-name:&quot;Normal\,Simon\0027s Norm&quot;;
-    	mso-style-parent:&quot;&quot;;
-    	margin:0cm;
-    	margin-bottom:.0001pt;
-    	mso-pagination:widow-orphan;
-    	font-size:10.0pt;
-    	mso-bidi-font-size:12.0pt;
-    	font-family:Georgia;
-    	mso-fareast-font-family:&quot;Times New Roman&quot;;
-    	mso-bidi-font-family:&quot;Times New Roman&quot;;
-    	mso-fareast-language:EN-US;}
-    p.Simon, li.Simon, div.Simon
-    	{mso-style-name:Simon;
-    	mso-style-link:&quot;Simon Char&quot;;
-    	margin:0cm;
-    	margin-bottom:.0001pt;
-    	mso-pagination:widow-orphan;
-    	mso-layout-grid-align:none;
-    	text-autospace:none;
-    	font-size:10.0pt;
-    	font-family:Georgia;
-    	mso-fareast-font-family:&quot;Times New Roman&quot;;
-    	mso-bidi-font-family:&quot;Times New Roman&quot;;}
-    span.SimonChar
-    	{mso-style-name:&quot;Simon Char&quot;;
-    	mso-style-locked:yes;
-    	mso-style-link:Simon;
-    	font-family:Georgia;
-    	mso-ascii-font-family:Georgia;
-    	mso-hansi-font-family:Georgia;
-    	mso-ansi-language:EN-GB;
-    	mso-fareast-language:EN-GB;
-    	mso-bidi-language:AR-SA;}
-    @page Section1
-    	{size:612.0pt 792.0pt;
-    	margin:72.0pt 90.0pt 72.0pt 90.0pt;
-    	mso-header-margin:36.0pt;
-    	mso-footer-margin:36.0pt;
-    	mso-paper-source:0;}
-    div.Section1
-    	{page:Section1;}
-    --&gt;
-    </style><!--[if gte mso 10]&gt;
-    &lt;style&gt;
-     /* Style Definitions */
-     table.MsoNormalTable
-    	{mso-style-name:&quot;Table Normal&quot;;
-    	mso-tstyle-rowband-size:0;
-    	mso-tstyle-colband-size:0;
-    	mso-style-noshow:yes;
-    	mso-style-parent:&quot;&quot;;
-    	mso-padding-alt:0cm 5.4pt 0cm 5.4pt;
-    	mso-para-margin:0cm;
-    	mso-para-margin-bottom:.0001pt;
-    	mso-pagination:widow-orphan;
-    	font-size:10.0pt;
-    	font-family:&quot;Times New Roman&quot;;
-    	mso-ansi-language:#0400;
-    	mso-fareast-language:#0400;
-    	mso-bidi-language:#0400;}
-    &lt;/style&gt;
-    &lt;![endif]-->
-    
-    <p class="Simon">Recipe adapted from Albert Stevens Crockett's 1931 'The Old
-    Waldorf-Astoria Bar Book' where the drink is listed as 'Robert Burns'
-    accompanied by the following notation, "It may have been named after the
-    celebrated Scotsman. Chances are, however, that it was christened in honour of
-    a cigar salesman, who "bought" in the Old Bar [at the Waldorf-Astoria]."</p>
-    
-    <p class="Simon"><span style="">                </span>Cocktail
-    historian, Gaz Regan discovered that in the 1923 edition of Valentine's Manual
-    of Old New York, a book edited by Henry Collins Brown, there is a picture with
-    the following description</p>
-    
-    <p class="Simon">&quot;The island plot at corner of <st1:street w:st="on"><st1:address w:st="on">Forty-second Street</st1:address></st1:street> and Broadway in 1880,
-    now occupied by the 'Times' building, after the demolition of the Pabst
-    restaurant and brownstone houses.&quot;</p>
-    
-    <p class="Simon" style="text-indent: 36pt;">The scene includes billboards
-    advertising <st1:place w:st="on"><st1:placename w:st="on">Bergen</st1:placename>
-     <st1:placetype w:st="on">Beach</st1:placetype></st1:place>, the Castle Square
-    Opera Company, and the Lyceum Theatre, which was playing The Moth and the Flame
-    at the time but as Gaz points out, "Most interesting, though, is the shop that
-    stands in the foreground of the picture. The words on the awning proclaim, Robert
-    Burns Cigars."</p>
-    
-    <p class="Simon">As Gaz explained in his Drinks Bulletin, "Albert Stevens
-    Crockett might well have been correct when he said that the drink could have
-    been named for a cigar salesman, but 'Robert Burns' was the name of a brand of
-    cigar, and although it's very possible that the guy who owned this shop went by
-    the same name, it's more likely that The Robert Burns cocktail that was created
-    at the old Waldorf was named for the shop, as a nod to the owner." "The old
-    Waldorf Astoria [which stood on the site of today's Empire State Building] didn't
-    open until 1893, some 13 years after the aforementioned picture was taken, but
-    it's not a big stretch to think that the cigar vendor was still in business
-    when the hotel opened, and the Robert Burns brand of cigars was still on the
-    market in the 1960s, or maybe later. Thanks Gaz.</p>
-  source: www.diffordsguide.com (2313)
-ingredients: 
-- - "2"
-  - shot
-  - Johnnie Walker Scotch Whisky
-- - "1"
-  - shot
-  - Martini Rosso sweet vermouth
-- - " 1/2 "
-  - shot
-  - "La F\xE9e Parisienne (68%) absinthe"
-- - "1"
-  - dash
-  - Angostura orange bitters
-method: POUR absinthe into ice-filled glass. TOP with water and leave to stand. Separately STIR Scotch, vermouth and bitters with ice. DISCARD contents of glass (absinthe, water and ice) and fill with fresh ice. STRAIN contents of mixing glass into ice-filled absinthe-coated glass.<br />
-name: "Bobby Burns #2 (Crockett's Version)"
-rate: 4.5
+comment: Scotch and vermouth with added interest courtesy of absinthe and orange bitters.
+aka: Robert Burns
+variant: 
+origin: "<meta content=\"text/html; charset=utf-8\" http-equiv=\"Content-Type\" /><meta
+  content=\"Word.Document\" name=\"ProgId\" /><meta content=\"Microsoft Word 11\"
+  name=\"Generator\" /><meta content=\"Microsoft Word 11\" name=\"Originator\" /><link
+  href=\"file:///C:\\Users\\Steph\\AppData\\Local\\Temp\\msohtml1\\03\\clip_filelist.xml\"
+  rel=\"File-List\" /><o:smarttagtype name=\"PlaceType\" namespaceuri=\"urn:schemas-microsoft-com:office:smarttags\"
+  /><o:smarttagtype name=\"PlaceName\" namespaceuri=\"urn:schemas-microsoft-com:office:smarttags\"
+  /><o:smarttagtype name=\"Street\" namespaceuri=\"urn:schemas-microsoft-com:office:smarttags\"
+  /><o:smarttagtype name=\"address\" namespaceuri=\"urn:schemas-microsoft-com:office:smarttags\"
+  /><o:smarttagtype name=\"place\" namespaceuri=\"urn:schemas-microsoft-com:office:smarttags\"
+  /><!--[if gte mso 9]&gt;&lt;xml&gt;\n\n &lt;o:OfficeDocumentSettings&gt;\n\n  &lt;o:RelyOnVML/&gt;\n\n
+  \ &lt;o:AllowPNG/&gt;\n\n &lt;/o:OfficeDocumentSettings&gt;\n\n&lt;/xml&gt;&lt;![endif]--><!--[if
+  gte mso 9]&gt;&lt;xml&gt;\n\n &lt;w:WordDocument&gt;\n\n  &lt;w:View&gt;Normal&lt;/w:View&gt;\n\n
+  \ &lt;w:Zoom&gt;0&lt;/w:Zoom&gt;\n\n  &lt;w:PunctuationKerning/&gt;\n\n  &lt;w:ValidateAgainstSchemas/&gt;\n\n
+  \ &lt;w:SaveIfXMLInvalid&gt;false&lt;/w:SaveIfXMLInvalid&gt;\n\n  &lt;w:IgnoreMixedContent&gt;false&lt;/w:IgnoreMixedContent&gt;\n\n
+  \ &lt;w:AlwaysShowPlaceholderText&gt;false&lt;/w:AlwaysShowPlaceholderText&gt;\n\n
+  \ &lt;w:Compatibility&gt;\n\n   &lt;w:BreakWrappedTables/&gt;\n\n   &lt;w:SnapToGridInCell/&gt;\n\n
+  \  &lt;w:WrapTextWithPunct/&gt;\n\n   &lt;w:UseAsianBreakRules/&gt;\n\n   &lt;w:DontGrowAutofit/&gt;\n\n
+  \ &lt;/w:Compatibility&gt;\n\n &lt;/w:WordDocument&gt;\n\n&lt;/xml&gt;&lt;![endif]--><!--[if
+  gte mso 9]&gt;&lt;xml&gt;\n\n &lt;w:LatentStyles DefLockedState=&quot;false&quot;
+  LatentStyleCount=&quot;156&quot;&gt;\n\n &lt;/w:LatentStyles&gt;\n\n&lt;/xml&gt;&lt;![endif]--><!--[if
+  !mso]&gt;&lt;object\n\n classid=&quot;clsid:38481807-CA0E-42D2-BF39-B33AF135CC4D&quot;
+  id=ieooui&gt;&lt;/object&gt;\n\n&lt;style&gt;\n\nst1\\:*{behavior:url(#ieooui) }\n\n&lt;/style&gt;\n\n&lt;![endif]--><style>\n\n&lt;!--\n\n
+  /* Font Definitions */\n\n @font-face\n\n\t{font-family:Georgia;\n\n\tpanose-1:2
+  4 5 2 5 4 5 2 3 3;\n\n\tmso-font-charset:0;\n\n\tmso-generic-font-family:roman;\n\n\tmso-font-pitch:variable;\n\n\tmso-font-signature:647
+  0 0 0 159 0;}\n\n /* Style Definitions */\n\n p.MsoNormal, li.MsoNormal, div.MsoNormal\n\n\t{mso-style-name:&quot;Normal\\,Simon\\0027s
+  Norm&quot;;\n\n\tmso-style-parent:&quot;&quot;;\n\n\tmargin:0cm;\n\n\tmargin-bottom:.0001pt;\n\n\tmso-pagination:widow-orphan;\n\n\tfont-size:10.0pt;\n\n\tmso-bidi-font-size:12.0pt;\n\n\tfont-family:Georgia;\n\n\tmso-fareast-font-family:&quot;Times
+  New Roman&quot;;\n\n\tmso-bidi-font-family:&quot;Times New Roman&quot;;\n\n\tmso-fareast-language:EN-US;}\n\np.Simon,
+  li.Simon, div.Simon\n\n\t{mso-style-name:Simon;\n\n\tmso-style-link:&quot;Simon
+  Char&quot;;\n\n\tmargin:0cm;\n\n\tmargin-bottom:.0001pt;\n\n\tmso-pagination:widow-orphan;\n\n\tmso-layout-grid-align:none;\n\n\ttext-autospace:none;\n\n\tfont-size:10.0pt;\n\n\tfont-family:Georgia;\n\n\tmso-fareast-font-family:&quot;Times
+  New Roman&quot;;\n\n\tmso-bidi-font-family:&quot;Times New Roman&quot;;}\n\nspan.SimonChar\n\n\t{mso-style-name:&quot;Simon
+  Char&quot;;\n\n\tmso-style-locked:yes;\n\n\tmso-style-link:Simon;\n\n\tfont-family:Georgia;\n\n\tmso-ascii-font-family:Georgia;\n\n\tmso-hansi-font-family:Georgia;\n\n\tmso-ansi-language:EN-GB;\n\n\tmso-fareast-language:EN-GB;\n\n\tmso-bidi-language:AR-SA;}\n\n@page
+  Section1\n\n\t{size:612.0pt 792.0pt;\n\n\tmargin:72.0pt 90.0pt 72.0pt 90.0pt;\n\n\tmso-header-margin:36.0pt;\n\n\tmso-footer-margin:36.0pt;\n\n\tmso-paper-source:0;}\n\ndiv.Section1\n\n\t{page:Section1;}\n\n--&gt;\n\n</style><!--[if
+  gte mso 10]&gt;\n\n&lt;style&gt;\n\n /* Style Definitions */\n\n table.MsoNormalTable\n\n\t{mso-style-name:&quot;Table
+  Normal&quot;;\n\n\tmso-tstyle-rowband-size:0;\n\n\tmso-tstyle-colband-size:0;\n\n\tmso-style-noshow:yes;\n\n\tmso-style-parent:&quot;&quot;;\n\n\tmso-padding-alt:0cm
+  5.4pt 0cm 5.4pt;\n\n\tmso-para-margin:0cm;\n\n\tmso-para-margin-bottom:.0001pt;\n\n\tmso-pagination:widow-orphan;\n\n\tfont-size:10.0pt;\n\n\tfont-family:&quot;Times
+  New Roman&quot;;\n\n\tmso-ansi-language:#0400;\n\n\tmso-fareast-language:#0400;\n\n\tmso-bidi-language:#0400;}\n\n&lt;/style&gt;\n\n&lt;![endif]-->\n\n\n\n<p
+  class=\"Simon\">Recipe adapted from Albert Stevens Crockett's 1931 'The Old\n\nWaldorf-Astoria
+  Bar Book' where the drink is listed as 'Robert Burns'\n\naccompanied by the following
+  notation, \"It may have been named after the\n\ncelebrated Scotsman. Chances are,
+  however, that it was christened in honour of\n\na cigar salesman, who \"bought\"
+  in the Old Bar [at the Waldorf-Astoria].\"</p>\n\n\n\n<p class=\"Simon\"><span style=\"\">
+  \               </span>Cocktail\n\nhistorian, Gaz Regan discovered that in the 1923
+  edition of Valentine's Manual\n\nof Old New York, a book edited by Henry Collins
+  Brown, there is a picture with\n\nthe following description</p>\n\n\n\n<p class=\"Simon\">&quot;The
+  island plot at corner of <st1:street w:st=\"on\"><st1:address w:st=\"on\">Forty-second
+  Street</st1:address></st1:street> and Broadway in 1880,\n\nnow occupied by the 'Times'
+  building, after the demolition of the Pabst\n\nrestaurant and brownstone houses.&quot;</p>\n\n\n\n<p
+  class=\"Simon\" style=\"text-indent: 36pt;\">The scene includes billboards\n\nadvertising
+  <st1:place w:st=\"on\"><st1:placename w:st=\"on\">Bergen</st1:placename>\n\n <st1:placetype
+  w:st=\"on\">Beach</st1:placetype></st1:place>, the Castle Square\n\nOpera Company,
+  and the Lyceum Theatre, which was playing The Moth and the Flame\n\nat the time
+  but as Gaz points out, \"Most interesting, though, is the shop that\n\nstands in
+  the foreground of the picture. The words on the awning proclaim, Robert\n\nBurns
+  Cigars.\"</p>\n\n\n\n<p class=\"Simon\">As Gaz explained in his Drinks Bulletin,
+  \"Albert Stevens\n\nCrockett might well have been correct when he said that the
+  drink could have\n\nbeen named for a cigar salesman, but 'Robert Burns' was the
+  name of a brand of\n\ncigar, and although it's very possible that the guy who owned
+  this shop went by\n\nthe same name, it's more likely that The Robert Burns cocktail
+  that was created\n\nat the old Waldorf was named for the shop, as a nod to the owner.\"
+  \"The old\n\nWaldorf Astoria [which stood on the site of today's Empire State Building]
+  didn't\n\nopen until 1893, some 13 years after the aforementioned picture was taken,
+  but\n\nit's not a big stretch to think that the cigar vendor was still in business\n\nwhen
+  the hotel opened, and the Robert Burns brand of cigars was still on the\n\nmarket
+  in the 1960s, or maybe later. Thanks Gaz.</p>"
+source: www.diffordsguide.com (2313)
+recipe_steps:
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: La Fée Parisienne (68%) absinthe
+- amount: '1'
+  doze: shot
+  ingredient_name: Martini Rosso sweet vermouth
+- amount: '1'
+  doze: dash
+  ingredient_name: Angostura orange bitters
+- amount: '2'
+  doze: shot
+  ingredient_name: Johnnie Walker Scotch Whisky

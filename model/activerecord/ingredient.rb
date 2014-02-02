@@ -3,4 +3,5 @@ class Ingredient < ActiveRecord::Base
   has_many :cocktails, through: :recipe_steps
   
   has_and_belongs_to_many :bars
+  
 end

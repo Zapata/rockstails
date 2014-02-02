@@ -1,20 +1,22 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Nine-20-Seven
+method: POUR ingredients into chilled glass and lightly stir.
+rate: 4.0
 garnish: Vanilla pod<br />
 glass: Flute
-infos: 
-  Comment: Champagne with a hint of vanilla.
-  Origin: Created in 2002 by Damien Caldwell at Home Bar, London, England. Damian was lost for a name until a customer asked for the time.
-  source: www.diffordsguide.com (1406)
-ingredients: 
-- - " 1/4 "
-  - shot
-  - Vanilla-infused Ketel One vodka
-- - " 1/4 "
-  - shot
-  - Cuarenta y Tres (Licor 43) liqueur
-- - "1"
-  - top up with
-  - Perrier Jouet brut champagne
-method: POUR ingredients into chilled glass and lightly stir.
-name: Nine-20-Seven
-rate: 4.0
+comment: Champagne with a hint of vanilla.
+aka: 
+variant: 
+origin: Created in 2002 by Damien Caldwell at Home Bar, London, England. Damian was
+  lost for a name until a customer asked for the time.
+source: www.diffordsguide.com (1406)
+recipe_steps:
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Vanilla-infused Ketel One vodka
+- amount: '1'
+  doze: top up with
+  ingredient_name: Perrier Jouet brut champagne
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Cuarenta y Tres (Licor 43) liqueur

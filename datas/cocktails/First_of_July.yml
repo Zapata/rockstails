@@ -1,23 +1,25 @@
---- !ruby/object:DirtyCocktail 
+---
+name: First of July
+method: <p>MUDDLE blackberries in base of shaker. Add other ingredients, SHAKE with
+  ice and fine strain into chilled glass.</p>
+rate: 4.0
 garnish: <p>Apple slice &amp; blackberry on stick</p>
 glass: Martini
-infos: 
-  Comment: <p>Rich blackberry fruit with a hint of grapefruit acidity.</p>
-  Origin: <p>Created on 1st of July by David Guidi at Morton's, London, England.</p>
-  source: www.diffordsguide.com (751)
-ingredients: 
-- - "4"
-  - fresh
-  - Blackberries
-- - "2"
-  - shot
-  - Boulard Grand Solage calvados
-- - "1"
-  - shot
-  - Chambord
-- - "2"
-  - shot
-  - Freshly squeezed grapefruit juice
-method: <p>MUDDLE blackberries in base of shaker. Add other ingredients, SHAKE with ice and fine strain into chilled glass.</p>
-name: First of July
-rate: 4.0
+comment: <p>Rich blackberry fruit with a hint of grapefruit acidity.</p>
+aka: 
+variant: 
+origin: <p>Created on 1st of July by David Guidi at Morton's, London, England.</p>
+source: www.diffordsguide.com (751)
+recipe_steps:
+- amount: '2'
+  doze: shot
+  ingredient_name: Boulard Grand Solage calvados
+- amount: '1'
+  doze: shot
+  ingredient_name: Chambord
+- amount: '2'
+  doze: shot
+  ingredient_name: Freshly squeezed grapefruit juice
+- amount: '4'
+  doze: fresh
+  ingredient_name: Blackberries

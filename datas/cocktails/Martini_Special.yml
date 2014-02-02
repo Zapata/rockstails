@@ -1,29 +1,32 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Martini Special
+method: Fill glass with ice and POUR absinthe and Angostura over ice. TOP with chilled
+  mineral water and leave to stand. SHAKE gin, vermouth and orange water with ice.
+  DISCARD contents of standing glass and fine strain shaken drink into washed glass.
+rate: 4.5
 garnish: Orange zest twist
 glass: Martini
-infos: 
-  Comment: Aromatic, very dry and very serious - yet has a frothy head.
-  Origin: Adapted from a recipe in Harry Craddock's 1930 Savoy Cocktail Book.
-  source: www.diffordsguide.com (1266)
-ingredients: 
-- - " 1/4 "
-  - shot
-  - "La F\xE9e Parisienne (68%) absinthe"
-- - "4"
-  - dash
-  - Angostura aromatic bitters
-- - "1"
-  - top up with
-  - Chilled mineral water
-- - "2"
-  - shot
-  - Bombay London dry gin
-- - " 3/4 "
-  - shot
-  - Martini Rosso sweet vermouth
-- - " 1/8 "
-  - shot
-  - Orange flower water
-method: Fill glass with ice and POUR absinthe and Angostura over ice. TOP with chilled mineral water and leave to stand. SHAKE gin, vermouth and orange water with ice. DISCARD contents of standing glass and fine strain shaken drink into washed glass.
-name: Martini Special
-rate: 4.5
+comment: Aromatic, very dry and very serious - yet has a frothy head.
+aka: 
+variant: 
+origin: Adapted from a recipe in Harry Craddock's 1930 Savoy Cocktail Book.
+source: www.diffordsguide.com (1266)
+recipe_steps:
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: La Fée Parisienne (68%) absinthe
+- amount: '1'
+  doze: top up with
+  ingredient_name: Chilled mineral water
+- amount: '2'
+  doze: shot
+  ingredient_name: Bombay London dry gin
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Martini Rosso sweet vermouth
+- amount: '4'
+  doze: dash
+  ingredient_name: Angostura aromatic bitters
+- amount: ' 1/8 '
+  doze: shot
+  ingredient_name: Orange flower water

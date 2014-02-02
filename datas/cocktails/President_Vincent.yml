@@ -1,23 +1,24 @@
---- !ruby/object:DirtyCocktail 
+---
+name: President Vincent
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 3.5
 garnish: Lime zest twist
 glass: Martini
-infos: 
-  Comment: A dry, spicy take on the Daiquiri.
-  Origin: Probably 1930s.
-  source: www.diffordsguide.com (2192)
-ingredients: 
-- - "2"
-  - shot
-  - Bacardi Superior rum
-- - " 1/2 "
-  - shot
-  - Noilly Prat dry vermouth
-- - " 1/2 "
-  - shot
-  - Freshly squeezed lime juice
-- - " 1/4 "
-  - shot
-  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: President Vincent
-rate: 3.5
+comment: A dry, spicy take on the Daiquiri.
+aka: 
+variant: 
+origin: Probably 1930s.
+source: www.diffordsguide.com (2192)
+recipe_steps:
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Freshly squeezed lime juice
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Noilly Prat dry vermouth
+- amount: '2'
+  doze: shot
+  ingredient_name: Bacardi Superior rum

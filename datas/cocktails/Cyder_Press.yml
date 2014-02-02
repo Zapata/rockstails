@@ -1,23 +1,24 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Cyder Press
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 4.0
 garnish: Float wafer thin apple slice
 glass: Martini
-infos: 
-  Comment: Fresh, fermented and distilled apple juice with a hint of elderflower.
-  Origin: Created in 2006 by Yours Truly (Simon Difford).
-  source: www.diffordsguide.com (610)
-ingredients: 
-- - "2"
-  - shot
-  - Boulard Grand Solage calvados
-- - "1"
-  - shot
-  - Dry cider
-- - " 1/2 "
-  - shot
-  - St-Germain elderflower liqueur
-- - " 3/4 "
-  - shot
-  - Pressed apple juice
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: Cyder Press
-rate: 4.0
+comment: Fresh, fermented and distilled apple juice with a hint of elderflower.
+aka: 
+variant: 
+origin: Created in 2006 by Yours Truly (Simon Difford).
+source: www.diffordsguide.com (610)
+recipe_steps:
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: St-Germain elderflower liqueur
+- amount: '2'
+  doze: shot
+  ingredient_name: Boulard Grand Solage calvados
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Pressed apple juice
+- amount: '1'
+  doze: shot
+  ingredient_name: Dry cider

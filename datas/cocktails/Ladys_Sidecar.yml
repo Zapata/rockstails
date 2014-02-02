@@ -1,23 +1,25 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Lady's Sidecar
+method: SHAKE all ingredients with ice and fine strain into chilled glass.<br />
+rate: 4.5
 garnish: Orange zest twist<br />
 glass: Martini
-infos: 
-  Comment: The addition of orange juice and an orange zest twist supposedly gives this otherwise classic Sidecar a feminine twist.
-  Origin: <br _moz_editor_bogus_node="TRUE" />
-  source: www.diffordsguide.com (2814)
-ingredients: 
-- - "1 1/2 "
-  - shot
-  - Courvoisier V.S.O.P cognac
-- - "1"
-  - shot
-  - Cointreau triple sec
-- - "1"
-  - shot
-  - Freshly squeezed lemon juice
-- - " 1/4 "
-  - shot
-  - Freshly squeezed orange juice
-method: SHAKE all ingredients with ice and fine strain into chilled glass.<br />
-name: Lady's Sidecar
-rate: 4.5
+comment: The addition of orange juice and an orange zest twist supposedly gives this
+  otherwise classic Sidecar a feminine twist.
+aka: 
+variant: 
+origin: <br _moz_editor_bogus_node="TRUE" />
+source: www.diffordsguide.com (2814)
+recipe_steps:
+- amount: '1'
+  doze: shot
+  ingredient_name: Cointreau triple sec
+- amount: '1'
+  doze: shot
+  ingredient_name: Freshly squeezed lemon juice
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Freshly squeezed orange juice
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Courvoisier V.S.O.P cognac

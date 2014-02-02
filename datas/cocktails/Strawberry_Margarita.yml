@@ -1,23 +1,25 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Strawberry Margarita
+method: MUDDLE strawberries in base of shaker. Add other ingredients, SHAKE with ice
+  and fine strain into chilled glass.
+rate: 4.0
 garnish: Strawberry on rim
 glass: Martini
-infos: 
-  Comment: Fresh strawberries combine well with tequila in this fruity margarita.
-  Origin: Formula by Yours Truly (Simon Difford) in 2004.
-  source: www.diffordsguide.com (1886)
-ingredients: 
-- - "2"
-  - shot
-  - Herradura 100% agave tequila
-- - "1"
-  - shot
-  - Freshly squeezed lime juice
-- - " 3/4 "
-  - shot
-  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
-- - "5"
-  - fresh
-  - Strawberries (hulled)
-method: MUDDLE strawberries in base of shaker. Add other ingredients, SHAKE with ice and fine strain into chilled glass.
-name: Strawberry Margarita
-rate: 4.0
+comment: Fresh strawberries combine well with tequila in this fruity margarita.
+aka: 
+variant: 
+origin: Formula by Yours Truly (Simon Difford) in 2004.
+source: www.diffordsguide.com (1886)
+recipe_steps:
+- amount: '1'
+  doze: shot
+  ingredient_name: Freshly squeezed lime juice
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- amount: '2'
+  doze: shot
+  ingredient_name: Herradura 100% agave tequila
+- amount: '5'
+  doze: fresh
+  ingredient_name: Strawberries (hulled)

@@ -1,23 +1,24 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Fallen Angel
+method: <p>SHAKE all ingredients with ice and fine strain into chilled glass.</p>
+rate: 3.0
 garnish: <p>Float mint leaf</p>
 glass: Martini
-infos: 
-  Comment: <p>Gin laced lime and fresh mint. A somewhat acquired taste. </p>
-  Origin: <p>Vintage cocktail of unknown origin.</p>
-  source: www.diffordsguide.com (2404)
-ingredients: 
-- - "2"
-  - shot
-  - Bombay London dry gin
-- - "1"
-  - shot
-  - Freshly squeezed lemon juice
-- - " 1/4 "
-  - shot
-  - "Green cr\xE8me de menthe liqueur"
-- - " 1/4 "
-  - shot
-  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
-method: <p>SHAKE all ingredients with ice and fine strain into chilled glass.</p>
-name: Fallen Angel
-rate: 3.0
+comment: <p>Gin laced lime and fresh mint. A somewhat acquired taste. </p>
+aka: 
+variant: 
+origin: <p>Vintage cocktail of unknown origin.</p>
+source: www.diffordsguide.com (2404)
+recipe_steps:
+- amount: '1'
+  doze: shot
+  ingredient_name: Freshly squeezed lemon juice
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- amount: '2'
+  doze: shot
+  ingredient_name: Bombay London dry gin
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Green crème de menthe liqueur

@@ -1,26 +1,28 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Chas
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 4.0
 garnish: Orange zest twist
 glass: Martini
-infos: 
-  Comment: A wonderfully tangy cocktail with great bourbon personality and hints of almond and orange.
-  Origin: Created in 2003 by Murray Stenson at Zig Zag Caf, Seattle, USA.
-  source: www.diffordsguide.com (400)
-ingredients: 
-- - "1 3/4 "
-  - shot
-  - Maker's Mark bourbon
-- - " 1/2 "
-  - shot
-  - Bénédictine D.O.M.
-- - " 1/2 "
-  - shot
-  - Luxardo Amaretto di Saschira
-- - " 1/2 "
-  - shot
-  - Cointreau triple sec
-- - " 1/2 "
-  - shot
-  - Grand Marnier liqueur
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: Chas
-rate: 4.0
+comment: A wonderfully tangy cocktail with great bourbon personality and hints of
+  almond and orange.
+aka: 
+variant: 
+origin: Created in 2003 by Murray Stenson at Zig Zag Caf, Seattle, USA.
+source: www.diffordsguide.com (400)
+recipe_steps:
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Cointreau triple sec
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Bénédictine D.O.M.
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Grand Marnier liqueur
+- amount: '1 3/4 '
+  doze: shot
+  ingredient_name: Maker's Mark bourbon
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Luxardo Amaretto di Saschira

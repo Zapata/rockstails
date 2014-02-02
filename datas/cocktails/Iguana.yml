@@ -1,19 +1,22 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Iguana
+method: SHAKE all ingredients with ice and fine stain into chilled glass.
+rate: 3.5
 garnish: 
 glass: Shot
-infos: 
-  Comment: Coffee and tequila's successful relationship is enhanced by the introduction of vodka.
-  source: www.diffordsguide.com (1003)
-ingredients: 
-- - " 1/2 "
-  - shot
-  - Ketel One vodka
-- - " 1/2 "
-  - shot
-  - Herradura 100% agave tequila
-- - " 1/2 "
-  - shot
-  - Kahla coffee liqueur
-method: SHAKE all ingredients with ice and fine stain into chilled glass.
-name: Iguana
-rate: 3.5
+comment: Coffee and tequila's successful relationship is enhanced by the introduction
+  of vodka.
+aka: 
+variant: 
+origin: 
+source: www.diffordsguide.com (1003)
+recipe_steps:
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Ketel One vodka
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Herradura 100% agave tequila
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Kahla coffee liqueur

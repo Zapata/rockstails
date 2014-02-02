@@ -1,16 +1,19 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Apple & Spice
+method: Refrigerate ingredients then LAYER in chilled glass by carefully pouring in
+  the following order.
+rate: 3.0
 garnish: Dust with cinnamon powder
 glass: Shot
-infos: 
-  Comment: Creamy apple shot.
-  source: www.diffordsguide.com (71)
-ingredients: 
-- - " 3/4 "
-  - shot
-  - Boulard Grand Solage calvados
-- - " 3/4 "
-  - shot
-  - Double (heavy) cream
-method: Refrigerate ingredients then LAYER in chilled glass by carefully pouring in the following order.
-name: Apple & Spice
-rate: 3.0
+comment: Creamy apple shot.
+aka: 
+variant: 
+origin: 
+source: www.diffordsguide.com (71)
+recipe_steps:
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Boulard Grand Solage calvados
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Double (heavy) cream

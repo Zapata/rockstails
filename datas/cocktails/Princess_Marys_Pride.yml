@@ -1,20 +1,22 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Princess Mary's Pride
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 3.0
 garnish: Orange zest twist
 glass: Martini
-infos: 
-  Comment: Apple brandy to the fore, followed by aromatised wine.
-  Origin: Created by Harry Craddock on 28th February 1922 to mark the wedding celebrations of H.R.H. Princess Mary. Recipe from 1930's Savoy Cocktail Book.
-  source: www.diffordsguide.com (1604)
-ingredients: 
-- - "2"
-  - shot
-  - Boulard Grand Solage calvados
-- - "1"
-  - shot
-  - Dubonnet Red (French made)
-- - "1"
-  - shot
-  - Noilly Prat dry vermouth
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: Princess Mary's Pride
-rate: 3.0
+comment: Apple brandy to the fore, followed by aromatised wine.
+aka: 
+variant: 
+origin: Created by Harry Craddock on 28th February 1922 to mark the wedding celebrations
+  of H.R.H. Princess Mary. Recipe from 1930's Savoy Cocktail Book.
+source: www.diffordsguide.com (1604)
+recipe_steps:
+- amount: '2'
+  doze: shot
+  ingredient_name: Boulard Grand Solage calvados
+- amount: '1'
+  doze: shot
+  ingredient_name: Dubonnet Red (French made)
+- amount: '1'
+  doze: shot
+  ingredient_name: Noilly Prat dry vermouth

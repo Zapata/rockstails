@@ -1,23 +1,26 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Southern Manhattan
+method: STIR all ingredients with ice and strain into chilled glass.
+rate: 4.0
 garnish: Orange zest twist
 glass: Martini
-infos: 
-  Comment: A Manhattan with Southern Comfort and Peychaud's adding a hint of southern flavour.
-  Origin: Created in by Yours Truly (Simon Difford) in August 2005 for Tales of the Cocktail, New Orleans, USA.
-  source: www.diffordsguide.com (1843)
-ingredients: 
-- - "2"
-  - shot
-  - Maker's Mark bourbon
-- - "1"
-  - shot
-  - Southern Comfort liqueur
-- - "1"
-  - shot
-  - Martini Rosso sweet vermouth
-- - "3"
-  - dash
-  - Peychaud's aromatic bitters
-method: STIR all ingredients with ice and strain into chilled glass.
-name: Southern Manhattan
-rate: 4.0
+comment: A Manhattan with Southern Comfort and Peychaud's adding a hint of southern
+  flavour.
+aka: 
+variant: 
+origin: Created in by Yours Truly (Simon Difford) in August 2005 for Tales of the
+  Cocktail, New Orleans, USA.
+source: www.diffordsguide.com (1843)
+recipe_steps:
+- amount: '1'
+  doze: shot
+  ingredient_name: Martini Rosso sweet vermouth
+- amount: '2'
+  doze: shot
+  ingredient_name: Maker's Mark bourbon
+- amount: '3'
+  doze: dash
+  ingredient_name: Peychaud's aromatic bitters
+- amount: '1'
+  doze: shot
+  ingredient_name: Southern Comfort liqueur

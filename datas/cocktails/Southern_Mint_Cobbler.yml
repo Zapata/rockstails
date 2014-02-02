@@ -1,22 +1,25 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Southern Mint Cobbler
+method: Lightly MUDDLE mint (just to bruise) in base of shaker. Add other ingredients,
+  SHAKE with ice and fine strain into glass filled with crushed ice. Serve with straws.
+rate: 4.0
 garnish: Mint sprig
 glass: Old-fashioned
-infos: 
-  Comment: Very fruity and easy to drink.
-  source: www.diffordsguide.com (1844)
-ingredients: 
-- - "7"
-  - fresh
-  - Mint leaves
-- - "2"
-  - shot
-  - Southern Comfort liqueur
-- - " 1/2 "
-  - shot
-  - Freshly squeezed lemon juice
-- - " 1/2 "
-  - shot
-  - Boiron peach pure
-method: Lightly MUDDLE mint (just to bruise) in base of shaker. Add other ingredients, SHAKE with ice and fine strain into glass filled with crushed ice. Serve with straws.
-name: Southern Mint Cobbler
-rate: 4.0
+comment: Very fruity and easy to drink.
+aka: 
+variant: 
+origin: 
+source: www.diffordsguide.com (1844)
+recipe_steps:
+- amount: '7'
+  doze: fresh
+  ingredient_name: Mint leaves
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Freshly squeezed lemon juice
+- amount: '2'
+  doze: shot
+  ingredient_name: Southern Comfort liqueur
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Boiron peach pure

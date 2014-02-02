@@ -1,23 +1,25 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Passion Fruit Daiquiri
+method: Cut passion fruit in half and scoop out flesh into shaker. Add other ingredients,
+  SHAKE with ice and fine strain into chilled glass.
+rate: 4.0
 garnish: Lime wedge on rim
 glass: Martini
-infos: 
-  Comment: The rum character comes through in this fruity cocktail.
-  Origin: Formula by Yours Truly (Simon Difford) in 2004.
-  source: www.diffordsguide.com (1480)
-ingredients: 
-- - "2"
-  - fresh
-  - Passion fruit
-- - "2"
-  - shot
-  - Bacardi Superior rum
-- - " 1/2 "
-  - shot
-  - Freshly squeezed lime juice
-- - " 1/2 "
-  - shot
-  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
-method: Cut passion fruit in half and scoop out flesh into shaker. Add other ingredients, SHAKE with ice and fine strain into chilled glass.
-name: Passion Fruit Daiquiri
-rate: 4.0
+comment: The rum character comes through in this fruity cocktail.
+aka: 
+variant: 
+origin: Formula by Yours Truly (Simon Difford) in 2004.
+source: www.diffordsguide.com (1480)
+recipe_steps:
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Freshly squeezed lime juice
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- amount: '2'
+  doze: shot
+  ingredient_name: Bacardi Superior rum
+- amount: '2'
+  doze: fresh
+  ingredient_name: Passion fruit

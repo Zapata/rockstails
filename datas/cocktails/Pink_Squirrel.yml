@@ -1,23 +1,27 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Pink Squirrel
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 3.0
 garnish: Mint leaf<br />
 glass: Martini
-infos: 
-  Comment: "crème de noyaux, a pink almond liqueur, is now very hard to obtain: if in doubt, substitute with  3/4  amaretto  1/4  grenadine.<br _moz_editor_bogus_node=\"TRUE\" />"
-  Origin: Adapted from Victor Bergeron's 'Trader Vic's Bartender's Guide' (1972 revised edition).
-  source: www.diffordsguide.com (2736)
-ingredients: 
-- - "1"
-  - shot
-  - "Cr\xE8me de noyaux liqueur"
-- - "1"
-  - shot
-  - "White cr\xE8me de cacao liqueur"
-- - " 1/2 "
-  - shot
-  - Double (heavy) cream
-- - " 1/2 "
-  - shot
-  - Milk
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: Pink Squirrel
-rate: 3.0
+comment: 'crème de noyaux, a pink almond liqueur, is now very hard to obtain: if in
+  doubt, substitute with  3/4  amaretto  1/4  grenadine.<br _moz_editor_bogus_node="TRUE"
+  />'
+aka: 
+variant: 
+origin: Adapted from Victor Bergeron's 'Trader Vic's Bartender's Guide' (1972 revised
+  edition).
+source: www.diffordsguide.com (2736)
+recipe_steps:
+- amount: '1'
+  doze: shot
+  ingredient_name: White crème de cacao liqueur
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Double (heavy) cream
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Milk
+- amount: '1'
+  doze: shot
+  ingredient_name: Crème de noyaux liqueur

@@ -1,32 +1,37 @@
---- !ruby/object:DirtyCocktail 
+---
+name: 'Fog Cutter #1'
+method: <p>SHAKE first 6 ingredients with ice and strain into ice-filled glass. FLOAT
+  sherry on top of drink and serve without straws.</p>
+rate: 4.0
 garnish: <p>Orange slice</p>
 glass: Collins
-infos: 
-  Comment: <p>Don't be fooled by the innocuous colour. This long, fruity drink packs a serious kick.</p>
-  Origin: <p>A version of what became a Tiki classic, sometimes credited to Trader Vic and/or Don the Beachcomber. In his 'Bartender's Guide' (1972 revised edition) Vic remarks, "Fog Cutter, hell. After two of these, you won't even see the stuff."</p>
-  source: www.diffordsguide.com (778)
-ingredients: 
-- - "1 1/2 "
-  - shot
-  - Bacardi Superior rum
-- - " 3/4 "
-  - shot
-  - Courvoisier V.S.O.P cognac
-- - " 1/2 "
-  - shot
-  - Bombay London dry gin
-- - "1 1/2 "
-  - shot
-  - Freshly squeezed orange juice
-- - " 1/2 "
-  - shot
-  - Freshly squeezed lemon juice
-- - " 1/2 "
-  - shot
-  - Monin Almond (orgeat) syrup
-- - " 1/2 "
-  - shot
-  - Amontillado sherry
-method: <p>SHAKE first 6 ingredients with ice and strain into ice-filled glass. FLOAT sherry on top of drink and serve without straws.</p>
-name: "Fog Cutter #1"
-rate: 4.0
+comment: <p>Don't be fooled by the innocuous colour. This long, fruity drink packs
+  a serious kick.</p>
+aka: 
+variant: 
+origin: <p>A version of what became a Tiki classic, sometimes credited to Trader Vic
+  and/or Don the Beachcomber. In his 'Bartender's Guide' (1972 revised edition) Vic
+  remarks, "Fog Cutter, hell. After two of these, you won't even see the stuff."</p>
+source: www.diffordsguide.com (778)
+recipe_steps:
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Freshly squeezed lemon juice
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Bacardi Superior rum
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Freshly squeezed orange juice
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Bombay London dry gin
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Courvoisier V.S.O.P cognac
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Monin Almond (orgeat) syrup
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Amontillado sherry

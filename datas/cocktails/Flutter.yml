@@ -1,20 +1,21 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Flutter
+method: <p>SHAKE all ingredients with ice and fine strain into chilled glass.</p>
+rate: 4.5
 garnish: <p>Orange zest twist</p>
 glass: Martini
-infos: 
-  Comment: <p>The three ingredients combine brilliantly.</p>
-  Origin: <p>Created in 2003 by Tony Coningliaro at Lonsdale House, London, England.</p>
-  source: www.diffordsguide.com (772)
-ingredients: 
-- - "2"
-  - shot
-  - Herradura 100% agave tequila
-- - "1"
-  - shot
-  - Kahla coffee liqueur
-- - "1 1/4 "
-  - shot
-  - Fresh pressed pineapple juice
-method: <p>SHAKE all ingredients with ice and fine strain into chilled glass.</p>
-name: Flutter
-rate: 4.5
+comment: <p>The three ingredients combine brilliantly.</p>
+aka: 
+variant: 
+origin: <p>Created in 2003 by Tony Coningliaro at Lonsdale House, London, England.</p>
+source: www.diffordsguide.com (772)
+recipe_steps:
+- amount: '1 1/4 '
+  doze: shot
+  ingredient_name: Fresh pressed pineapple juice
+- amount: '2'
+  doze: shot
+  ingredient_name: Herradura 100% agave tequila
+- amount: '1'
+  doze: shot
+  ingredient_name: Kahla coffee liqueur

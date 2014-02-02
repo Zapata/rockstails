@@ -1,26 +1,27 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Lima Sour
+method: BLEND all ingredients with one 12oz scoop of crushed ice. Serve with straws.
+rate: 3.5
 garnish: Lemon zest string
 glass: Old-fashioned
-infos: 
-  Comment: A refreshing blend of pisco, maraschino and citrus.
-  Origin: Created before 1947 by Jerry Hooker.
-  source: www.diffordsguide.com (1157)
-ingredients: 
-- - "2"
-  - shot
-  - Macchu pisco
-- - " 1/2 "
-  - shot
-  - Luxardo maraschino liqueur
-- - " 3/4 "
-  - shot
-  - Freshly squeezed grapefruit juice
-- - " 3/4 "
-  - shot
-  - Freshly squeezed lime juice
-- - " 3/4 "
-  - shot
-  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
-method: BLEND all ingredients with one 12oz scoop of crushed ice. Serve with straws.
-name: Lima Sour
-rate: 3.5
+comment: A refreshing blend of pisco, maraschino and citrus.
+aka: 
+variant: 
+origin: Created before 1947 by Jerry Hooker.
+source: www.diffordsguide.com (1157)
+recipe_steps:
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Freshly squeezed lime juice
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Freshly squeezed grapefruit juice
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Luxardo maraschino liqueur
+- amount: '2'
+  doze: shot
+  ingredient_name: Macchu pisco

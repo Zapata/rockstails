@@ -1,30 +1,37 @@
---- !ruby/object:DirtyCocktail 
+---
+name: 'Old Fashioned #2 (US version)'
+method: MUDDLE orange and cherries in base of shaker. Add other ingredients, SHAKE
+  with ice and fine strain into ice-filled glass.
+rate: 4.5
 garnish: Orange zest twist &amp; maraschino cherry
 glass: Old-fashioned
-infos: 
-  Comment: This drink is often mixed in the glass in which it is to be served. Shaking better incorporates the flavours produced by muddling and fine straining removes the orange peel and cherry skin.<br /><br />
-  Origin: "In the US orange segments and sometimes even a maraschino cherry are regularly muddled in this drink: the practice probably originated during Prohibition as a means of disguising rough spirits. This practice is almost unknown in England and as Crosby Gaige wrote in 1944, \"Serious-minded persons omit fruit salad from Old Fashioneds.\"<br /><br />"
-  Variant: "Old Fashioned #1 (Classic Version)"
-  source: www.diffordsguide.com (1428)
-ingredients: 
-- - "2"
-  - whole
-  - Maraschino cherries & syrup
-- - "1"
-  - slice
-  - Fresh orange
-- - "2"
-  - shot
-  - Maker's Mark bourbon
-- - " 1/8 "
-  - shot
-  - Maraschino syrup (from cherry jar)
-- - " 1/4 "
-  - shot
-  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
-- - "2"
-  - dash
-  - Angostura aromatic bitters
-method: MUDDLE orange and cherries in base of shaker. Add other ingredients, SHAKE with ice and fine strain into ice-filled glass.
-name: "Old Fashioned #2 (US version)"
-rate: 4.5
+comment: This drink is often mixed in the glass in which it is to be served. Shaking
+  better incorporates the flavours produced by muddling and fine straining removes
+  the orange peel and cherry skin.<br /><br />
+aka: 
+variant: 'Old Fashioned #1 (Classic Version)'
+origin: 'In the US orange segments and sometimes even a maraschino cherry are regularly
+  muddled in this drink: the practice probably originated during Prohibition as a
+  means of disguising rough spirits. This practice is almost unknown in England and
+  as Crosby Gaige wrote in 1944, "Serious-minded persons omit fruit salad from Old
+  Fashioneds."<br /><br />'
+source: www.diffordsguide.com (1428)
+recipe_steps:
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- amount: '2'
+  doze: dash
+  ingredient_name: Angostura aromatic bitters
+- amount: '2'
+  doze: shot
+  ingredient_name: Maker's Mark bourbon
+- amount: ' 1/8 '
+  doze: shot
+  ingredient_name: Maraschino syrup (from cherry jar)
+- amount: '1'
+  doze: slice
+  ingredient_name: Fresh orange
+- amount: '2'
+  doze: whole
+  ingredient_name: Maraschino cherries & syrup

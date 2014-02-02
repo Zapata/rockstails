@@ -1,23 +1,24 @@
---- !ruby/object:DirtyCocktail 
+---
+name: China Martini
+method: STIR all ingredients with ice and fine strain into chilled glass.
+rate: 3.5
 garnish: Orange zest twist &amp; lychee in glass
 glass: Martini
-infos: 
-  Comment: A complex, not too sweet lychee Martini.
-  Origin: Created in 2004 by Wayne Collins for Maxxium UK.
-  source: www.diffordsguide.com (420)
-ingredients: 
-- - "1 1/2 "
-  - shot
-  - Bombay London dry gin
-- - " 1/2 "
-  - shot
-  - Soho lychee liqueur
-- - " 1/4 "
-  - shot
-  - Cointreau triple sec
-- - " 1/2 "
-  - shot
-  - Noilly Prat dry vermouth
-method: STIR all ingredients with ice and fine strain into chilled glass.
-name: China Martini
-rate: 3.5
+comment: A complex, not too sweet lychee Martini.
+aka: 
+variant: 
+origin: Created in 2004 by Wayne Collins for Maxxium UK.
+source: www.diffordsguide.com (420)
+recipe_steps:
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Cointreau triple sec
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Noilly Prat dry vermouth
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Bombay London dry gin
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Soho lychee liqueur

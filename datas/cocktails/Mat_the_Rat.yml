@@ -1,26 +1,29 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Mat the Rat
+method: SHAKE first 4 ingredients with ice and strain into ice-filled glass. TOP with
+  lemonade, lightly stir and serve with straws.
+rate: 3.5
 garnish: Lime wedge
 glass: Collins
-infos: 
-  Comment: Whether or not Mat was a rat, we shall never know. However, the drink that's named after him is long and thirst quenching.
-  Origin: A popular drink in UK branches of TGI Friday's where it was created.
-  source: www.diffordsguide.com (1272)
-ingredients: 
-- - "2"
-  - shot
-  - Bacardi Superior rum
-- - " 1/2 "
-  - shot
-  - Cointreau triple sec
-- - "1 1/2 "
-  - shot
-  - Freshly squeezed orange juice
-- - " 1/2 "
-  - shot
-  - Freshly squeezed lime juice
-- - "1"
-  - top up with
-  - Lemonade/Sprite/7-Up
-method: SHAKE first 4 ingredients with ice and strain into ice-filled glass. TOP with lemonade, lightly stir and serve with straws.
-name: Mat the Rat
-rate: 3.5
+comment: Whether or not Mat was a rat, we shall never know. However, the drink that's
+  named after him is long and thirst quenching.
+aka: 
+variant: 
+origin: A popular drink in UK branches of TGI Friday's where it was created.
+source: www.diffordsguide.com (1272)
+recipe_steps:
+- amount: '1'
+  doze: top up with
+  ingredient_name: Lemonade/Sprite/7-Up
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Cointreau triple sec
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Freshly squeezed lime juice
+- amount: '2'
+  doze: shot
+  ingredient_name: Bacardi Superior rum
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Freshly squeezed orange juice

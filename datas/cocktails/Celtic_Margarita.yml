@@ -1,20 +1,21 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Celtic Margarita
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 4.5
 garnish: Salt rim &amp; lemon wedge
 glass: Coupette
-infos: 
-  Comment: A Scotch Margarita - try it, it works.
-  Origin: Discovered in 2004 at Milk &amp; Honey, London, England.
-  source: www.diffordsguide.com (390)
-ingredients: 
-- - "2"
-  - shot
-  - Johnnie Walker Scotch Whisky
-- - "1"
-  - shot
-  - Cointreau triple sec
-- - "1"
-  - shot
-  - Freshly squeezed lemon juice
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: Celtic Margarita
-rate: 4.5
+comment: A Scotch Margarita - try it, it works.
+aka: 
+variant: 
+origin: Discovered in 2004 at Milk &amp; Honey, London, England.
+source: www.diffordsguide.com (390)
+recipe_steps:
+- amount: '1'
+  doze: shot
+  ingredient_name: Cointreau triple sec
+- amount: '1'
+  doze: shot
+  ingredient_name: Freshly squeezed lemon juice
+- amount: '2'
+  doze: shot
+  ingredient_name: Johnnie Walker Scotch Whisky

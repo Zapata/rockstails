@@ -1,12 +1,13 @@
 require 'readline'
 require 'pp'
-require_relative '../model/dirty_cocktail'
-require_relative '../model/cocktail_db'
+require 'shellwords'
+require_relative '../model/file/file_db'
 
-@db = CocktailDB.load('../db')
+@db = FileDB.new(File.dirname($0) + '/../datas')
+@bar = nil
 
 def search(criteria)
-  found_cocktails = @db.search(criteria)
+  found_cocktails = @db.search(Shellwords.split(criteria), @bar)
   found_cocktails.each do |c|
      puts "#{c.name} (" + c.ingredient_names.join(', ') + ")"
   end

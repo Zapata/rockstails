@@ -1,22 +1,25 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Agent Orange
+method: SHAKE all ingredients with ice and strain into ice-filled glass.
+rate: 4.0
 garnish: Orange zest twist
 glass: Old-fashioned
-infos: 
-  Comment: Fresh orange is good for you. This has all of the flavour but few of the health benefits.
-  source: www.diffordsguide.com (25)
-ingredients: 
-- - "1"
-  - shot
-  - Ketel One vodka
-- - " 1/2 "
-  - shot
-  - Grand Marnier liqueur
-- - " 1/2 "
-  - shot
-  - Cointreau triple sec
-- - "2"
-  - shot
-  - Freshly squeezed orange juice
-method: SHAKE all ingredients with ice and strain into ice-filled glass.
-name: Agent Orange
-rate: 4.0
+comment: Fresh orange is good for you. This has all of the flavour but few of the
+  health benefits.
+aka: 
+variant: 
+origin: 
+source: www.diffordsguide.com (25)
+recipe_steps:
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Cointreau triple sec
+- amount: '1'
+  doze: shot
+  ingredient_name: Ketel One vodka
+- amount: '2'
+  doze: shot
+  ingredient_name: Freshly squeezed orange juice
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Grand Marnier liqueur

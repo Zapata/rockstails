@@ -1,26 +1,27 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Hemingway Martini
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 4.0
 garnish: Maraschino cherry<br />
 glass: Martini
-infos: 
-  Comment: A fresh and refreshing orange and vanilla influenced Vodkatini.<br />
-  Origin: Created in 2005 by Claire Smith, London, England.
-  source: www.diffordsguide.com (2685)
-ingredients: 
-- - "2"
-  - shot
-  - Orange-infused Ketel One vodka
-- - " 1/4 "
-  - shot
-  - Vanilla schnapps
-- - "1"
-  - shot
-  - Freshly squeezed grapefruit juice
-- - " 1/4 "
-  - shot
-  - Noilly Prat dry vermouth
-- - " 1/4 "
-  - shot
-  - Maraschino syrup (from cherry jar)
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: Hemingway Martini
-rate: 4.0
+comment: A fresh and refreshing orange and vanilla influenced Vodkatini.<br />
+aka: 
+variant: 
+origin: Created in 2005 by Claire Smith, London, England.
+source: www.diffordsguide.com (2685)
+recipe_steps:
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Noilly Prat dry vermouth
+- amount: '1'
+  doze: shot
+  ingredient_name: Freshly squeezed grapefruit juice
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Maraschino syrup (from cherry jar)
+- amount: '2'
+  doze: shot
+  ingredient_name: Orange-infused Ketel One vodka
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Vanilla schnapps

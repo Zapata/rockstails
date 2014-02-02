@@ -1,29 +1,30 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Zanzibar
+method: SHAKE all ingredients with ice and strain into ice-filled glass.
+rate: 3.5
 garnish: Lime zest twist
 glass: Old-fashioned
-infos: 
-  Comment: <p>Tangy rum and citrus with fruit and hints of almond.</p>
-  Origin: <p>Discovered in 2005 at Zanzi Bar, Prague, Czech Republic.</p>
-  source: www.diffordsguide.com (2122)
-ingredients: 
-- - "2"
-  - shot
-  - Gosling's Black Seal rum
-- - " 1/4 "
-  - shot
-  - Bols apricot brandy liqueur
-- - " 1/4 "
-  - shot
-  - Grand Marnier liqueur
-- - " 1/8 "
-  - shot
-  - Monin Almond (orgeat) syrup
-- - " 1/2 "
-  - shot
-  - Freshly squeezed orange juice
-- - " 1/2 "
-  - shot
-  - Freshly squeezed lime juice
-method: SHAKE all ingredients with ice and strain into ice-filled glass.
-name: Zanzibar
-rate: 3.5
+comment: <p>Tangy rum and citrus with fruit and hints of almond.</p>
+aka: 
+variant: 
+origin: <p>Discovered in 2005 at Zanzi Bar, Prague, Czech Republic.</p>
+source: www.diffordsguide.com (2122)
+recipe_steps:
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Freshly squeezed lime juice
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Bols apricot brandy liqueur
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Freshly squeezed orange juice
+- amount: '2'
+  doze: shot
+  ingredient_name: Gosling's Black Seal rum
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Grand Marnier liqueur
+- amount: ' 1/8 '
+  doze: shot
+  ingredient_name: Monin Almond (orgeat) syrup

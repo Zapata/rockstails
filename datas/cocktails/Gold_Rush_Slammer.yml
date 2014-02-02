@@ -1,20 +1,22 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Gold Rush Slammer
+method: SHAKE first 2 ingredients with ice and fine strain into chilled glass. TOP
+  with champagne.
+rate: 3.0
 garnish: 
 glass: Shot
-infos: 
-  Comment: Flakes of gold dance with the champagne's bubbles.
-  Origin: Discovered in 2003 at Oxo Tower Bar, London, England.
-  source: www.diffordsguide.com (870)
-ingredients: 
-- - " 1/2 "
-  - shot
-  - Herradura 100% agave tequila
-- - " 1/2 "
-  - shot
-  - Goldschlager cinnamon schnapps
-- - "1"
-  - top up with
-  - Perrier Jouet brut champagne
-method: SHAKE first 2 ingredients with ice and fine strain into chilled glass. TOP with champagne.
-name: Gold Rush Slammer
-rate: 3.0
+comment: Flakes of gold dance with the champagne's bubbles.
+aka: 
+variant: 
+origin: Discovered in 2003 at Oxo Tower Bar, London, England.
+source: www.diffordsguide.com (870)
+recipe_steps:
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Herradura 100% agave tequila
+- amount: '1'
+  doze: top up with
+  ingredient_name: Perrier Jouet brut champagne
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Goldschlager cinnamon schnapps

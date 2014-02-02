@@ -1,23 +1,26 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Ignorance is Bliss
+method: SHAKE all ingredients with ice and strain into ice-filled glass.
+rate: 3.5
 garnish: Lime wedge (squeezed &amp; dropped in)
 glass: Collins
-infos: 
-  Comment: Passion fruit syrup dominates.<br /><br />
-  Origin: Adapted from a drink created in the mid 1990s by Alex Kammerling, from whom I quote the following words of wisdom, "I once described Campari to a girl - It is like anal sex, it takes a few goes before you actually start liking it." Tsk.
-  source: www.diffordsguide.com (1002)
-ingredients: 
-- - "1"
-  - shot
-  - Campari Bitter
-- - "1"
-  - shot
-  - Ketel One Citroen vodka
-- - "1"
-  - shot
-  - Pressed apple juice
-- - " 1/2 "
-  - shot
-  - Passion fruit syrup
-method: SHAKE all ingredients with ice and strain into ice-filled glass.
-name: Ignorance is Bliss
-rate: 3.5
+comment: Passion fruit syrup dominates.<br /><br />
+aka: 
+variant: 
+origin: Adapted from a drink created in the mid 1990s by Alex Kammerling, from whom
+  I quote the following words of wisdom, "I once described Campari to a girl - It
+  is like anal sex, it takes a few goes before you actually start liking it." Tsk.
+source: www.diffordsguide.com (1002)
+recipe_steps:
+- amount: '1'
+  doze: shot
+  ingredient_name: Ketel One Citroen vodka
+- amount: '1'
+  doze: shot
+  ingredient_name: Pressed apple juice
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Passion fruit syrup
+- amount: '1'
+  doze: shot
+  ingredient_name: Campari Bitter

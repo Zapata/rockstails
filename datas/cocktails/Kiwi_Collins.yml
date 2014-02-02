@@ -1,26 +1,29 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Kiwi Collins
+method: Cut kiwi fruit in half, scoop out flesh into base of shaker and MUDDLE. Add
+  next 3 ingredients, SHAKE with ice and fine strain into ice-filled glass. TOP with
+  soda water.
+rate: 4.0
 garnish: Kiwi slice
 glass: Collins
-infos: 
-  Comment: A fruity adaptation of a Vodka Collins.
-  Origin: Formula by Yours Truly (Simon Difford).
-  source: www.diffordsguide.com (1113)
-ingredients: 
-- - "1"
-  - fresh
-  - Kiwi fruit
-- - "2"
-  - shot
-  - Ketel One vodka
-- - "1 1/2 "
-  - shot
-  - Freshly squeezed lemon juice
-- - " 1/2 "
-  - shot
-  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
-- - "1"
-  - top up with
-  - Soda (club soda)
-method: Cut kiwi fruit in half, scoop out flesh into base of shaker and MUDDLE. Add next 3 ingredients, SHAKE with ice and fine strain into ice-filled glass. TOP with soda water.
-name: Kiwi Collins
-rate: 4.0
+comment: A fruity adaptation of a Vodka Collins.
+aka: 
+variant: 
+origin: Formula by Yours Truly (Simon Difford).
+source: www.diffordsguide.com (1113)
+recipe_steps:
+- amount: '2'
+  doze: shot
+  ingredient_name: Ketel One vodka
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Freshly squeezed lemon juice
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- amount: '1'
+  doze: top up with
+  ingredient_name: Soda (club soda)
+- amount: '1'
+  doze: fresh
+  ingredient_name: Kiwi fruit

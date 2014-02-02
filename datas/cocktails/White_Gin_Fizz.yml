@@ -1,26 +1,29 @@
---- !ruby/object:DirtyCocktail 
+---
+name: White Gin Fizz
+method: SHAKE first 4 ingredients with ice and strain into ice-filled glass. TOP with
+  soda from a siphon.
+rate: 3.5
 garnish: Lemon wedge in drink
 glass: Collins
-infos: 
-  Comment: Almost creamy in consistency, this gin fizz reminds me of the Sgroppino found in Venice.
-  Origin: Created in 2003 by Tony Conigliaro at Shumi, London, England.
-  source: www.diffordsguide.com (2089)
-ingredients: 
-- - "2"
-  - shot
-  - Bombay London dry gin
-- - "1"
-  - shot
-  - Freshly squeezed lemon juice
-- - " 1/4 "
-  - shot
-  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
-- - "2"
-  - scoop
-  - Lemon sorbet
-- - "1"
-  - top up with
-  - Soda from siphon
-method: SHAKE first 4 ingredients with ice and strain into ice-filled glass. TOP with soda from a siphon.
-name: White Gin Fizz
-rate: 3.5
+comment: Almost creamy in consistency, this gin fizz reminds me of the Sgroppino found
+  in Venice.
+aka: 
+variant: 
+origin: Created in 2003 by Tony Conigliaro at Shumi, London, England.
+source: www.diffordsguide.com (2089)
+recipe_steps:
+- amount: '1'
+  doze: shot
+  ingredient_name: Freshly squeezed lemon juice
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- amount: '2'
+  doze: shot
+  ingredient_name: Bombay London dry gin
+- amount: '1'
+  doze: top up with
+  ingredient_name: Soda from siphon
+- amount: '2'
+  doze: scoop
+  ingredient_name: Lemon sorbet

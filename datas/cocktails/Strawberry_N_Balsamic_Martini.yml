@@ -1,23 +1,26 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Strawberry 'N' Balsamic Martini
+method: MUDDLE strawberries in base of shaker. Add other ingredients, SHAKE with ice
+  and fine strain into chilled glass.
+rate: 4.5
 garnish: Strawberry on rim
 glass: Martini
-infos: 
-  Comment: The balsamic adds a little extra interest to the fortified strawberries.
-  Origin: My version of a drink that became popular in London in 2002 and I believe originated in Che.
-  source: www.diffordsguide.com (2753)
-ingredients: 
-- - "5"
-  - fresh
-  - Strawberries (hulled)
-- - "2 1/2 "
-  - shot
-  - Ketel One vodka
-- - " 1/8 "
-  - shot
-  - Balsamic vinegar
-- - " 1/2 "
-  - shot
-  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
-method: MUDDLE strawberries in base of shaker. Add other ingredients, SHAKE with ice and fine strain into chilled glass.
-name: Strawberry 'N' Balsamic Martini
-rate: 4.5
+comment: The balsamic adds a little extra interest to the fortified strawberries.
+aka: 
+variant: 
+origin: My version of a drink that became popular in London in 2002 and I believe
+  originated in Che.
+source: www.diffordsguide.com (2753)
+recipe_steps:
+- amount: '2 1/2 '
+  doze: shot
+  ingredient_name: Ketel One vodka
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- amount: '5'
+  doze: fresh
+  ingredient_name: Strawberries (hulled)
+- amount: ' 1/8 '
+  doze: shot
+  ingredient_name: Balsamic vinegar

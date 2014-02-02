@@ -1,25 +1,27 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Dark Daiquiri
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 4.5
 garnish: Lime wedge
 glass: Martini
-infos: 
-  Comment: The fine sweet and sour balance of a great Daiquiri with hints of molasses.
-  source: www.diffordsguide.com (618)
-ingredients: 
-- - "1 1/2 "
-  - shot
-  - Zacapa aged rum
-- - " 1/2 "
-  - shot
-  - Pusser's Navy rum
-- - " 1/2 "
-  - shot
-  - Freshly squeezed lime juice
-- - " 1/2 "
-  - shot
-  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
-- - " 3/4 "
-  - shot
-  - Chilled mineral water
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: Dark Daiquiri
-rate: 4.5
+comment: The fine sweet and sour balance of a great Daiquiri with hints of molasses.
+aka: 
+variant: 
+origin: 
+source: www.diffordsguide.com (618)
+recipe_steps:
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Freshly squeezed lime juice
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Chilled mineral water
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Pusser's Navy rum
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Zacapa aged rum

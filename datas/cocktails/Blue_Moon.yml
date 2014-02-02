@@ -1,25 +1,30 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Blue Moon
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 4.0
 garnish: Raspberries on stick <br />
 glass: Martini
-infos: 
-  AKA: Blue Devil
-  Comment: More red than blue with a flavour that is reminiscent of a berry flavoured Aviation<br />
-  Origin: Said to have been made circa 1940 by &quot;Oscar of the Waldorf&quot;, this drink featured on the back label of the Creme Yvette bottles of the same era. This cocktail was lost for decades, due to production of Creme Yvette ceasing in 1969, but thanks to Creme Yvette's 2010 relauch, has been rediscovered. Incidentally, &quot;Blue Moon&quot; is an astronomical term for the second of two full moons to occur in the same calendar months. <br />
-  Variant: Aviation<br />
-  source: www.diffordsguide.com (267)
-ingredients: 
-- - "2"
-  - shot
-  - Bombay London dry gin
-- - " 3/4 "
-  - shot
-  - Benoit Serres crème de violette
-- - " 1/2 "
-  - shot
-  - Freshly squeezed lemon juice
-- - " 1/2 "
-  - fresh
-  - Egg white
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: Blue Moon
-rate: 4.0
+comment: More red than blue with a flavour that is reminiscent of a berry flavoured
+  Aviation<br />
+aka: Blue Devil
+variant: Aviation<br />
+origin: Said to have been made circa 1940 by &quot;Oscar of the Waldorf&quot;, this
+  drink featured on the back label of the Creme Yvette bottles of the same era. This
+  cocktail was lost for decades, due to production of Creme Yvette ceasing in 1969,
+  but thanks to Creme Yvette's 2010 relauch, has been rediscovered. Incidentally,
+  &quot;Blue Moon&quot; is an astronomical term for the second of two full moons to
+  occur in the same calendar months. <br />
+source: www.diffordsguide.com (267)
+recipe_steps:
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Freshly squeezed lemon juice
+- amount: '2'
+  doze: shot
+  ingredient_name: Bombay London dry gin
+- amount: ' 1/2 '
+  doze: fresh
+  ingredient_name: Egg white
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Benoit Serres crème de violette

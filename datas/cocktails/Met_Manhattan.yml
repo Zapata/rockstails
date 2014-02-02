@@ -1,23 +1,24 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Met Manhattan
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 4.0
 garnish: Orange zest twist
 glass: Martini
-infos: 
-  Comment: Smooth and rounded bourbon with a hint of orange toffee.
-  Origin: The Met bar, Metropolitain Hotel, London, England.
-  source: www.diffordsguide.com (1297)
-ingredients: 
-- - "2"
-  - shot
-  - Maker's Mark bourbon
-- - "1"
-  - shot
-  - Grand Marnier liqueur
-- - " 1/2 "
-  - shot
-  - Teichenn butterscotch schnapps
-- - "2"
-  - dash
-  - Angostura orange bitters
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: Met Manhattan
-rate: 4.0
+comment: Smooth and rounded bourbon with a hint of orange toffee.
+aka: 
+variant: 
+origin: The Met bar, Metropolitain Hotel, London, England.
+source: www.diffordsguide.com (1297)
+recipe_steps:
+- amount: '1'
+  doze: shot
+  ingredient_name: Grand Marnier liqueur
+- amount: '2'
+  doze: dash
+  ingredient_name: Angostura orange bitters
+- amount: '2'
+  doze: shot
+  ingredient_name: Maker's Mark bourbon
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Teichenn butterscotch schnapps

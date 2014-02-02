@@ -1,26 +1,28 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Golden Girl
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 4.0
 garnish: Grated orange zest
 glass: Martini
-infos: 
-  Comment: This appropriately named velvety drink is a refined dessert in a glass.
-  Origin: Created in Dale DeGroff, New York City, USA. I've slightly increased the proportions of rum and port from Dale's original recipe.
-  source: www.diffordsguide.com (878)
-ingredients: 
-- - "1 1/4 "
-  - shot
-  - Zacapa aged rum
-- - "1"
-  - shot
-  - Fresh pressed pineapple juice
-- - "1"
-  - shot
-  - Warre's Otima tawny port
-- - " 1/4 "
-  - shot
-  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
-- - "1"
-  - fresh
-  - Egg
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: Golden Girl
-rate: 4.0
+comment: This appropriately named velvety drink is a refined dessert in a glass.
+aka: 
+variant: 
+origin: Created in Dale DeGroff, New York City, USA. I've slightly increased the proportions
+  of rum and port from Dale's original recipe.
+source: www.diffordsguide.com (878)
+recipe_steps:
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- amount: '1'
+  doze: shot
+  ingredient_name: Fresh pressed pineapple juice
+- amount: '1'
+  doze: shot
+  ingredient_name: Warre's Otima tawny port
+- amount: '1 1/4 '
+  doze: shot
+  ingredient_name: Zacapa aged rum
+- amount: '1'
+  doze: fresh
+  ingredient_name: Egg

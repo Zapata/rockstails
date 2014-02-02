@@ -1,26 +1,28 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Peggy Martini
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 3.0
 garnish: Orange zest twist
 glass: Martini
-infos: 
-  Comment: Very dry and aromatic. Sadly this will appeal to few palates.
-  Origin: Adapted from a recipe in the 1930s edition of the Savoy Cocktail Book by Harry Craddock.
-  source: www.diffordsguide.com (1502)
-ingredients: 
-- - "2"
-  - shot
-  - Bombay London dry gin
-- - "1"
-  - shot
-  - Noilly Prat dry vermouth
-- - " 1/4 "
-  - shot
-  - "La F\xE9e Parisienne (68%) absinthe"
-- - " 1/4 "
-  - shot
-  - Dubonnet Red (French made)
-- - " 1/2 "
-  - shot
-  - Chilled mineral water
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: Peggy Martini
-rate: 3.0
+comment: Very dry and aromatic. Sadly this will appeal to few palates.
+aka: 
+variant: 
+origin: Adapted from a recipe in the 1930s edition of the Savoy Cocktail Book by Harry
+  Craddock.
+source: www.diffordsguide.com (1502)
+recipe_steps:
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: La Fée Parisienne (68%) absinthe
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Dubonnet Red (French made)
+- amount: '1'
+  doze: shot
+  ingredient_name: Noilly Prat dry vermouth
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Chilled mineral water
+- amount: '2'
+  doze: shot
+  ingredient_name: Bombay London dry gin

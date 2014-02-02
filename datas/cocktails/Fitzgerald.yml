@@ -1,23 +1,26 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Fitzgerald
+method: <p>SHAKE all ingredients with ice and strain into ice-filled glass.</p><br
+  />
+rate: 4.0
 garnish: <p>Lemon wedge</p>
 glass: Old-fashioned
-infos: 
-  Comment: <p>A gin sour without the egg white</p><br />
-  Origin: <p>Adapted from a drink created in the early 1990s by Dale DeGroff at the Rainbow Room, New York City, USA.</p><br />
-  source: www.diffordsguide.com (2408)
-ingredients: 
-- - "2"
-  - shot
-  - Bombay London dry gin
-- - " 1/2 "
-  - shot
-  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
-- - "1"
-  - shot
-  - Freshly squeezed lemon juice
-- - "2"
-  - dash
-  - Angostura aromatic bitters
-method: <p>SHAKE all ingredients with ice and strain into ice-filled glass.</p><br />
-name: Fitzgerald
-rate: 4.0
+comment: <p>A gin sour without the egg white</p><br />
+aka: 
+variant: 
+origin: <p>Adapted from a drink created in the early 1990s by Dale DeGroff at the
+  Rainbow Room, New York City, USA.</p><br />
+source: www.diffordsguide.com (2408)
+recipe_steps:
+- amount: '1'
+  doze: shot
+  ingredient_name: Freshly squeezed lemon juice
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- amount: '2'
+  doze: shot
+  ingredient_name: Bombay London dry gin
+- amount: '2'
+  doze: dash
+  ingredient_name: Angostura aromatic bitters

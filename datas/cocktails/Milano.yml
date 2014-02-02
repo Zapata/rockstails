@@ -1,20 +1,21 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Milano
+method: STIR all ingredients with ice and strain into ice-filled glass.
+rate: 4.5
 garnish: Orange slice
 glass: Old-fashioned
-infos: 
-  AKA: Negrosky
-  Comment: A Negroni with vodka in place of gin.
-  source: www.diffordsguide.com (1325)
-ingredients: 
-- - "1"
-  - shot
-  - Ketel One vodka
-- - "1"
-  - shot
-  - Campari Bitter
-- - "1"
-  - shot
-  - Martini Rosso sweet vermouth
-method: STIR all ingredients with ice and strain into ice-filled glass.
-name: Milano
-rate: 4.5
+comment: A Negroni with vodka in place of gin.
+aka: Negrosky
+variant: 
+origin: 
+source: www.diffordsguide.com (1325)
+recipe_steps:
+- amount: '1'
+  doze: shot
+  ingredient_name: Ketel One vodka
+- amount: '1'
+  doze: shot
+  ingredient_name: Martini Rosso sweet vermouth
+- amount: '1'
+  doze: shot
+  ingredient_name: Campari Bitter

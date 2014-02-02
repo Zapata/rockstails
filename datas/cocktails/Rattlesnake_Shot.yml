@@ -1,19 +1,22 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Rattlesnake Shot
+method: Refrigerate ingredients then LAYER in chilled glass by carefully pouring in
+  the following order.
+rate: 3.0
 garnish: 
 glass: Shot
-infos: 
-  Comment: Taste rather like a strong cappuccino.
-  source: www.diffordsguide.com (1644)
-ingredients: 
-- - " 1/2 "
-  - shot
-  - Kahla coffee liqueur
-- - " 1/2 "
-  - shot
-  - "White cr\xE8me de cacao liqueur"
-- - " 1/2 "
-  - shot
-  - Baileys Irish cream liqueur
-method: Refrigerate ingredients then LAYER in chilled glass by carefully pouring in the following order.
-name: Rattlesnake Shot
-rate: 3.0
+comment: Taste rather like a strong cappuccino.
+aka: 
+variant: 
+origin: 
+source: www.diffordsguide.com (1644)
+recipe_steps:
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: White crème de cacao liqueur
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Baileys Irish cream liqueur
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Kahla coffee liqueur

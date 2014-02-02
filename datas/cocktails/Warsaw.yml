@@ -1,25 +1,27 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Warsaw
+method: STIR all ingredients with ice and fine strain into chilled glass.
+rate: 3.5
 garnish: Orange zest twist
 glass: Martini
-infos: 
-  Comment: Subtle cherry notes with orange.
-  source: www.diffordsguide.com (2063)
-ingredients: 
-- - "2"
-  - shot
-  - Ketel One vodka
-- - " 1/2 "
-  - shot
-  - Polska Wisniwka cherry liqueur
-- - " 1/4 "
-  - shot
-  - Cointreau triple sec
-- - "2"
-  - dash
-  - Angostura aromatic bitters
-- - " 3/4 "
-  - shot
-  - Chilled mineral water
-method: STIR all ingredients with ice and fine strain into chilled glass.
-name: Warsaw
-rate: 3.5
+comment: Subtle cherry notes with orange.
+aka: 
+variant: 
+origin: 
+source: www.diffordsguide.com (2063)
+recipe_steps:
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Cointreau triple sec
+- amount: '2'
+  doze: shot
+  ingredient_name: Ketel One vodka
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Chilled mineral water
+- amount: '2'
+  doze: dash
+  ingredient_name: Angostura aromatic bitters
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Polska Wisniwka cherry liqueur

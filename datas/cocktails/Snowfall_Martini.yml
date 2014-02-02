@@ -1,26 +1,28 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Snowfall Martini
+method: MUDDLE vanilla pod in base of shaker. Add other ingredients, SHAKE with ice
+  and fine strain into chilled glass.
+rate: 4.0
 garnish: Vanilla pod
 glass: Martini
-infos: 
-  Comment: An alcoholic version of a vanilla milkshake.
-  Origin: Discovered in 2002 at Lot 61, New York City, USA.
-  source: www.diffordsguide.com (1839)
-ingredients: 
-- - " 1/4 "
-  - whole
-  - Vanilla pod
-- - "2"
-  - shot
-  - Vanilla-infused Ketel One vodka
-- - "1 1/4 "
-  - unit
-  - Double (heavy) cream
-- - "1 1/4 "
-  - shot
-  - Milk
-- - " 1/4 "
-  - shot
-  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
-method: MUDDLE vanilla pod in base of shaker. Add other ingredients, SHAKE with ice and fine strain into chilled glass.
-name: Snowfall Martini
-rate: 4.0
+comment: An alcoholic version of a vanilla milkshake.
+aka: 
+variant: 
+origin: Discovered in 2002 at Lot 61, New York City, USA.
+source: www.diffordsguide.com (1839)
+recipe_steps:
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- amount: '2'
+  doze: shot
+  ingredient_name: Vanilla-infused Ketel One vodka
+- amount: '1 1/4 '
+  doze: unit
+  ingredient_name: Double (heavy) cream
+- amount: '1 1/4 '
+  doze: shot
+  ingredient_name: Milk
+- amount: ' 1/4 '
+  doze: whole
+  ingredient_name: Vanilla pod

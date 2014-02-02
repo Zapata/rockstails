@@ -1,23 +1,24 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Royal Velvet Margarita
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 3.5
 garnish: Lime wedge
 glass: Pineapple shell (frozen)
-infos: 
-  Comment: An almond and berry flavoured Margarita.
-  Origin: Discovered in 2005 at Velvet Margarita Cantina, Los Angeles, USA.
-  source: www.diffordsguide.com (1705)
-ingredients: 
-- - "2"
-  - shot
-  - Herradura 100% agave tequila
-- - " 1/2 "
-  - shot
-  - Luxardo Amaretto di Saschira
-- - " 1/2 "
-  - shot
-  - Chambord
-- - "1"
-  - shot
-  - Freshly squeezed lime juice
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: Royal Velvet Margarita
-rate: 3.5
+comment: An almond and berry flavoured Margarita.
+aka: 
+variant: 
+origin: Discovered in 2005 at Velvet Margarita Cantina, Los Angeles, USA.
+source: www.diffordsguide.com (1705)
+recipe_steps:
+- amount: '1'
+  doze: shot
+  ingredient_name: Freshly squeezed lime juice
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Chambord
+- amount: '2'
+  doze: shot
+  ingredient_name: Herradura 100% agave tequila
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Luxardo Amaretto di Saschira

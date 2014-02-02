@@ -1,22 +1,24 @@
---- !ruby/object:DirtyCocktail 
+---
+name: FBI
+method: BLEND all ingredients with 18oz scoop of crushed ice and serve with straws.
+rate: 4.0
 garnish: Crumbled Cadbury's Flake bar
 glass: Collins
-infos: 
-  Comment: Yummy alcoholic milkshake with coffee and whiskey cream.
-  source: www.diffordsguide.com (741)
-ingredients: 
-- - "2"
-  - shot
-  - Ketel One vodka
-- - "1"
-  - shot
-  - Baileys Irish cream liqueur
-- - "1"
-  - shot
-  - Kahla coffee liqueur
-- - "3"
-  - scoop
-  - Haagen Dazs vanilla ice cream
-method: BLEND all ingredients with 18oz scoop of crushed ice and serve with straws.
-name: FBI
-rate: 4.0
+comment: Yummy alcoholic milkshake with coffee and whiskey cream.
+aka: 
+variant: 
+origin: 
+source: www.diffordsguide.com (741)
+recipe_steps:
+- amount: '2'
+  doze: shot
+  ingredient_name: Ketel One vodka
+- amount: '1'
+  doze: shot
+  ingredient_name: Baileys Irish cream liqueur
+- amount: '3'
+  doze: scoop
+  ingredient_name: Haagen Dazs vanilla ice cream
+- amount: '1'
+  doze: shot
+  ingredient_name: Kahla coffee liqueur

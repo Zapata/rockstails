@@ -1,20 +1,22 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Jamaican Sunset
+method: SHAKE all ingredients with ice and strain into ice-filled glass.
+rate: 4.0
 garnish: Orange slice
 glass: Collins
-infos: 
-  Comment: Made with vodka as a base this drink would be called a Madras. Overproof rum adds both strength and flavour.
-  Variant: <br />
-  source: www.diffordsguide.com (1051)
-ingredients: 
-- - "1 1/2 "
-  - shot
-  - Wray & Nephew overproof rum
-- - "1 1/2 "
-  - shot
-  - Ocean Spray cranberry juice
-- - "3"
-  - shot
-  - Freshly squeezed orange juice
-method: SHAKE all ingredients with ice and strain into ice-filled glass.
-name: Jamaican Sunset
-rate: 4.0
+comment: Made with vodka as a base this drink would be called a Madras. Overproof
+  rum adds both strength and flavour.
+aka: 
+variant: <br />
+origin: 
+source: www.diffordsguide.com (1051)
+recipe_steps:
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Ocean Spray cranberry juice
+- amount: '3'
+  doze: shot
+  ingredient_name: Freshly squeezed orange juice
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Wray & Nephew overproof rum

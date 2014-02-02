@@ -1,23 +1,25 @@
---- !ruby/object:DirtyCocktail 
-garnish: " Lemon zest twist"
-glass: Martini
-infos: 
-  Comment: Beautifully balanced with the tang of lemon curd.
-  Origin: Created in 2001 by Tadgh Ryan at West Street, London, England.
-  source: www.diffordsguide.com (504)
-ingredients: 
-- - "2"
-  - shot
-  - Bombay London dry gin
-- - "2"
-  - spoon
-  - Lemon curd
-- - " 1/2 "
-  - shot
-  - Sour apple liqueur
-- - " 1/2 "
-  - shot
-  - Freshly squeezed lime juice
-method: STIR lemon curd with gin in base of shaker until curd dissolves. Add other ingredients, SHAKE with ice and fine strain into chilled glass.
+---
 name: Curdish Martini
+method: STIR lemon curd with gin in base of shaker until curd dissolves. Add other
+  ingredients, SHAKE with ice and fine strain into chilled glass.
 rate: 4.0
+garnish: ' Lemon zest twist'
+glass: Martini
+comment: Beautifully balanced with the tang of lemon curd.
+aka: 
+variant: 
+origin: Created in 2001 by Tadgh Ryan at West Street, London, England.
+source: www.diffordsguide.com (504)
+recipe_steps:
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Freshly squeezed lime juice
+- amount: '2'
+  doze: shot
+  ingredient_name: Bombay London dry gin
+- amount: '2'
+  doze: spoon
+  ingredient_name: Lemon curd
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Sour apple liqueur

@@ -1,26 +1,27 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Barbara West
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 3.5
 garnish: Lemon twist
 glass: Martini
-infos: 
-  Comment: Well balanced but for serious gin and sherry drinkers only.
-  Origin: A classic from the 1930s.
-  source: www.diffordsguide.com (168)
-ingredients: 
-- - "2"
-  - shot
-  - Bombay London dry gin
-- - "1"
-  - shot
-  - Amontillado sherry
-- - " 1/2 "
-  - shot
-  - Freshly squeezed lemon juice
-- - " 1/4 "
-  - shot
-  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
-- - "2"
-  - dash
-  - Angostura aromatic bitters
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: Barbara West
-rate: 3.5
+comment: Well balanced but for serious gin and sherry drinkers only.
+aka: 
+variant: 
+origin: A classic from the 1930s.
+source: www.diffordsguide.com (168)
+recipe_steps:
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Freshly squeezed lemon juice
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- amount: '2'
+  doze: shot
+  ingredient_name: Bombay London dry gin
+- amount: '2'
+  doze: dash
+  ingredient_name: Angostura aromatic bitters
+- amount: '1'
+  doze: shot
+  ingredient_name: Amontillado sherry

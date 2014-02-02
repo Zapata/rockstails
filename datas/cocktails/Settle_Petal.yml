@@ -1,23 +1,24 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Settle Petal
+method: STIR all ingredients with ice and strain into chilled glass.
+rate: 4.0
 garnish: Float rose petal
 glass: Martini
-infos: 
-  Comment: An aptly named floral Martini.
-  Origin: Created in 2003 by Andy Fitzmorris at Eclipse, Notting Hill, London, England.
-  source: www.diffordsguide.com (1810)
-ingredients: 
-- - "2"
-  - shot
-  - Bombay London dry gin
-- - "1"
-  - shot
-  - Cucumber flavoured vodka
-- - " 1/2 "
-  - shot
-  - Rose water
-- - " 1/2 "
-  - shot
-  - Monin Vanilla sugar syrup
-method: STIR all ingredients with ice and strain into chilled glass.
-name: Settle Petal
-rate: 4.0
+comment: An aptly named floral Martini.
+aka: 
+variant: 
+origin: Created in 2003 by Andy Fitzmorris at Eclipse, Notting Hill, London, England.
+source: www.diffordsguide.com (1810)
+recipe_steps:
+- amount: '2'
+  doze: shot
+  ingredient_name: Bombay London dry gin
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Monin Vanilla sugar syrup
+- amount: '1'
+  doze: shot
+  ingredient_name: Cucumber flavoured vodka
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Rose water

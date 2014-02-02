@@ -1,25 +1,27 @@
---- !ruby/object:DirtyCocktail 
+---
+name: 'Alabama Slammer #2'
+method: SHAKE all ingredients with ice and strain into ice-filled glass.
+rate: 3.0
 garnish: Peach wedge on rim
 glass: Old-fashioned
-infos: 
-  Comment: Rich in flavour and quite sweet with a citrus bite. Surprisingly peachy!
-  source: www.diffordsguide.com (30)
-ingredients: 
-- - "1 1/2 "
-  - shot
-  - Southern Comfort liqueur
-- - " 1/2 "
-  - shot
-  - Luxardo Amaretto di Saschira
-- - " 1/2 "
-  - shot
-  - Sloe Gin liqueur
-- - "2"
-  - shot
-  - Freshly squeezed orange juice
-- - " 3/4 "
-  - shot
-  - Freshly squeezed lemon juice
-method: SHAKE all ingredients with ice and strain into ice-filled glass.
-name: "Alabama Slammer #2"
-rate: 3.0
+comment: Rich in flavour and quite sweet with a citrus bite. Surprisingly peachy!
+aka: 
+variant: 
+origin: 
+source: www.diffordsguide.com (30)
+recipe_steps:
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Freshly squeezed lemon juice
+- amount: '2'
+  doze: shot
+  ingredient_name: Freshly squeezed orange juice
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Luxardo Amaretto di Saschira
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Southern Comfort liqueur
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Sloe Gin liqueur

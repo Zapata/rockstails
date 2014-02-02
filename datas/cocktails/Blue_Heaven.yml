@@ -1,25 +1,28 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Blue Heaven
+method: SHAKE all ingredients with ice and strain into ice-filled glass.
+rate: 2.5
 garnish: Pineapple wedge &amp; cherry on stick (sail)
 glass: Collins
-infos: 
-  Comment: Actually more aqua than blue, this sweet concoction includes orange, almond, lime cordial and pineapple.
-  source: www.diffordsguide.com (261)
-ingredients: 
-- - "2"
-  - shot
-  - Bacardi Superior rum
-- - " 1/2 "
-  - shot
-  - Luxardo Amaretto di Saschira
-- - "1"
-  - shot
-  - Bols blue curacao liqueur
-- - " 1/2 "
-  - shot
-  - Rose's lime cordial
-- - "4"
-  - shot
-  - Fresh pressed pineapple juice
-method: SHAKE all ingredients with ice and strain into ice-filled glass.
-name: Blue Heaven
-rate: 2.5
+comment: Actually more aqua than blue, this sweet concoction includes orange, almond,
+  lime cordial and pineapple.
+aka: 
+variant: 
+origin: 
+source: www.diffordsguide.com (261)
+recipe_steps:
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Rose's lime cordial
+- amount: '2'
+  doze: shot
+  ingredient_name: Bacardi Superior rum
+- amount: '4'
+  doze: shot
+  ingredient_name: Fresh pressed pineapple juice
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Luxardo Amaretto di Saschira
+- amount: '1'
+  doze: shot
+  ingredient_name: Bols blue curacao liqueur

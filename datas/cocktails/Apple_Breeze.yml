@@ -1,20 +1,21 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Apple Breeze
+method: SHAKE all ingredients with ice and strain into ice-filled glass.
+rate: 4.0
 garnish: Apple wedge on rim
 glass: Collins
-infos: 
-  Comment: A lot more interesting than the better known Sea Breeze.
-  Variant: Substitute Ketel One vodka for Zubrwka bison vodka.
-  source: www.diffordsguide.com (73)
-ingredients: 
-- - "2"
-  - shot
-  - Zubrwka bison vodka
-- - "2 1/2 "
-  - shot
-  - Pressed apple juice
-- - "1 1/2 "
-  - shot
-  - Ocean Spray cranberry juice
-method: SHAKE all ingredients with ice and strain into ice-filled glass.
-name: Apple Breeze
-rate: 4.0
+comment: A lot more interesting than the better known Sea Breeze.
+aka: 
+variant: Substitute Ketel One vodka for Zubrwka bison vodka.
+origin: 
+source: www.diffordsguide.com (73)
+recipe_steps:
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Ocean Spray cranberry juice
+- amount: '2 1/2 '
+  doze: shot
+  ingredient_name: Pressed apple juice
+- amount: '2'
+  doze: shot
+  ingredient_name: Zubrwka bison vodka

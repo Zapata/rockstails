@@ -1,23 +1,42 @@
---- !ruby/object:DirtyCocktail 
+---
+name: 'Cosmopolitan #2 (DeGroff''s formula)'
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 4.5
 garnish: Flamed orange zest twist
 glass: Martini
-infos: 
-  Comment: Although it is generally agreed that the Cosmopolitan originated on America's West Coast sometime during the 1980s, this drink is most closely identified with New York City where bar legend, Dale DeGroff, and HBO's 'Sex and the City' perfected the drink and made it stylish.<br />    <br />This recipe is from Dale's 2002 'The Craft of the Cocktail' where he also explains that while he did not invent the Cosmopolitan, in his own words, "What I did do was popularize a definitive recipe that became widely accepted as the standard."<br /><br />Dale put the drink on his menu at New York's Rainbow Room in 1996 and shortly after it was reported that Madonna had enjoyed one. As a result Dale received calls from all over the world asking for the recipe, which he had perfected by adding a dash of Cointreau and a flamed orange peel twist. New York Magazine credited Dale with the drinks invention, other publications followed this and he was asked to present it on several television stations.<br />    <br />When the HBO television series, 'Sex and the City', debuted in 1998, its creators decided the cosmopolitan would be the perfect accompaniment to Carrie Bradshaw's fashionista Manhattan lifestyle. Carrie, Miranda, Charlotte and sexpot Samantha where frequently shown sipping Cosmos and when the series hit the big screen in 2008, the film closed with the girls questioning why they had ever stopped drinking them.<br /><br />
-  Origin: This is the definitive Cosmo recipe from the man most associated with the drinks development and popularity.<br /><br />
-  source: www.diffordsguide.com (473)
-ingredients: 
-- - "1 1/2 "
-  - shot
-  - Ketel One Citroen vodka
-- - " 1/2 "
-  - shot
-  - Cointreau triple sec
-- - "1"
-  - shot
-  - Ocean Spray cranberry juice
-- - " 1/4 "
-  - shot
-  - Freshly squeezed lime juice
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: "Cosmopolitan #2 (DeGroff's formula)"
-rate: 4.5
+comment: Although it is generally agreed that the Cosmopolitan originated on America's
+  West Coast sometime during the 1980s, this drink is most closely identified with
+  New York City where bar legend, Dale DeGroff, and HBO's 'Sex and the City' perfected
+  the drink and made it stylish.<br />    <br />This recipe is from Dale's 2002 'The
+  Craft of the Cocktail' where he also explains that while he did not invent the Cosmopolitan,
+  in his own words, "What I did do was popularize a definitive recipe that became
+  widely accepted as the standard."<br /><br />Dale put the drink on his menu at New
+  York's Rainbow Room in 1996 and shortly after it was reported that Madonna had enjoyed
+  one. As a result Dale received calls from all over the world asking for the recipe,
+  which he had perfected by adding a dash of Cointreau and a flamed orange peel twist.
+  New York Magazine credited Dale with the drinks invention, other publications followed
+  this and he was asked to present it on several television stations.<br />    <br
+  />When the HBO television series, 'Sex and the City', debuted in 1998, its creators
+  decided the cosmopolitan would be the perfect accompaniment to Carrie Bradshaw's
+  fashionista Manhattan lifestyle. Carrie, Miranda, Charlotte and sexpot Samantha
+  where frequently shown sipping Cosmos and when the series hit the big screen in
+  2008, the film closed with the girls questioning why they had ever stopped drinking
+  them.<br /><br />
+aka: 
+variant: 
+origin: This is the definitive Cosmo recipe from the man most associated with the
+  drinks development and popularity.<br /><br />
+source: www.diffordsguide.com (473)
+recipe_steps:
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Ketel One Citroen vodka
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Cointreau triple sec
+- amount: '1'
+  doze: shot
+  ingredient_name: Ocean Spray cranberry juice
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Freshly squeezed lime juice

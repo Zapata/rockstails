@@ -1,22 +1,24 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Amaretto Sour
+method: SHAKE all ingredients with ice and strain into ice-filled glass.
+rate: 3.5
 garnish: Cherry &amp; lemon slice on stick (sail)
 glass: Old-fashioned
-infos: 
-  Comment: Sweet 'n' sour - frothy with an almond buzz.
-  source: www.diffordsguide.com (53)
-ingredients: 
-- - "2"
-  - shot
-  - Luxardo Amaretto di Saschira
-- - " 1/2 "
-  - fresh
-  - Egg white
-- - "1 1/4 "
-  - shot
-  - Freshly squeezed lemon juice
-- - "2"
-  - dash
-  - Angostura aromatic bitters
-method: SHAKE all ingredients with ice and strain into ice-filled glass.
-name: Amaretto Sour
-rate: 3.5
+comment: Sweet 'n' sour - frothy with an almond buzz.
+aka: 
+variant: 
+origin: 
+source: www.diffordsguide.com (53)
+recipe_steps:
+- amount: '1 1/4 '
+  doze: shot
+  ingredient_name: Freshly squeezed lemon juice
+- amount: '2'
+  doze: dash
+  ingredient_name: Angostura aromatic bitters
+- amount: ' 1/2 '
+  doze: fresh
+  ingredient_name: Egg white
+- amount: '2'
+  doze: shot
+  ingredient_name: Luxardo Amaretto di Saschira

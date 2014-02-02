@@ -1,32 +1,33 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Tres Compadres Margarita
+method: SHAKE ingredients with ice and fine strain into chilled glass.
+rate: 4.5
 garnish: Lime wedge &amp; salt rim (optional)
 glass: Coupette
-infos: 
-  Comment: A well balanced, tasty twist on the standard Margarita.
-  Origin: Created in 1999 by Robert Plotkin and Raymon Flores of BarMedia, USA.
-  source: www.diffordsguide.com (1984)
-ingredients: 
-- - "1 1/4 "
-  - shot
-  - Herradura 100% agave tequila
-- - " 1/2 "
-  - shot
-  - Cointreau triple sec
-- - " 1/2 "
-  - shot
-  - Chambord
-- - " 1/2 "
-  - shot
-  - Rose's lime cordial
-- - " 3/4 "
-  - shot
-  - Freshly squeezed lime juice
-- - " 3/4 "
-  - shot
-  - Freshly squeezed orange juice
-- - " 3/4 "
-  - shot
-  - Freshly squeezed grapefruit juice
-method: SHAKE ingredients with ice and fine strain into chilled glass.
-name: Tres Compadres Margarita
-rate: 4.5
+comment: A well balanced, tasty twist on the standard Margarita.
+aka: 
+variant: 
+origin: Created in 1999 by Robert Plotkin and Raymon Flores of BarMedia, USA.
+source: www.diffordsguide.com (1984)
+recipe_steps:
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Cointreau triple sec
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Freshly squeezed lime juice
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Rose's lime cordial
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Freshly squeezed orange juice
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Chambord
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Freshly squeezed grapefruit juice
+- amount: '1 1/4 '
+  doze: shot
+  ingredient_name: Herradura 100% agave tequila

@@ -1,26 +1,29 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Lonsdale
+method: STIR honey syrup with gin until honey dissolves. TEAR basil leaves and add
+  to shaker with all other ingredients. SHAKE with ice and fine strain into chilled
+  glass.<br /><br />
+rate: 4.0
 garnish: Basil leaf &amp; green apple slice
 glass: Collins
-infos: 
-  Comment: Not dry, not sweet, just balanced, long and refreshing.
-  Origin: Created by Alexandra Fiot at Lonsdale Bar, London, England.
-  source: www.diffordsguide.com (2473)
-ingredients: 
-- - "2"
-  - shot
-  - Bombay London dry gin
-- - " 1/2 "
-  - shot
-  - Monin Honey syrup
-- - "3"
-  - fresh
-  - Torn basil leaves
-- - " 3/4 "
-  - shot
-  - Freshly squeezed lemon juice
-- - "2 1/2 "
-  - shot
-  - Pressed apple juice
-method: STIR honey syrup with gin until honey dissolves. TEAR basil leaves and add to shaker with all other ingredients. SHAKE with ice and fine strain into chilled glass.<br /><br />
-name: Lonsdale
-rate: 4.0
+comment: Not dry, not sweet, just balanced, long and refreshing.
+aka: 
+variant: 
+origin: Created by Alexandra Fiot at Lonsdale Bar, London, England.
+source: www.diffordsguide.com (2473)
+recipe_steps:
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Freshly squeezed lemon juice
+- amount: '2 1/2 '
+  doze: shot
+  ingredient_name: Pressed apple juice
+- amount: '2'
+  doze: shot
+  ingredient_name: Bombay London dry gin
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Monin Honey syrup
+- amount: '3'
+  doze: fresh
+  ingredient_name: Torn basil leaves

@@ -1,26 +1,31 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Eighteen'97
+method: MUDDLE kumquats in base of shaker. Add next three ingredients, shake and fine
+  strain into a chilled glass. FLOAT wine.<br /><br />
+rate: 4.5
 garnish: Orange zest twist (discarded), white grapes on stick
 glass: Martini
-infos: 
-  Comment: Looks great and, with the citrus freshness of kumquat combined with the oily character of grappa, it also tastes great.<br /><br /><br _moz_editor_bogus_node="TRUE" />
-  Origin: Created in 2008 by Raffaello Dante at Salvatore's at FIFTY, London, England.<br /><br />
-  source: www.diffordsguide.com (2397)
-ingredients: 
-- - "5"
-  - fresh
-  - Kumquats (chopped)
-- - "1 1/2 "
-  - shot
-  - Francoli Moscato grappa
-- - "1 1/4 "
-  - shot
-  - St-Germain elderflower liqueur
-- - " 1/4 "
-  - shot
-  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
-- - " 1/4 "
-  - shot
-  - Merlot red wine
-method: MUDDLE kumquats in base of shaker. Add next three ingredients, shake and fine strain into a chilled glass. FLOAT wine.<br /><br />
-name: Eighteen'97
-rate: 4.5
+comment: Looks great and, with the citrus freshness of kumquat combined with the oily
+  character of grappa, it also tastes great.<br /><br /><br _moz_editor_bogus_node="TRUE"
+  />
+aka: 
+variant: 
+origin: Created in 2008 by Raffaello Dante at Salvatore's at FIFTY, London, England.<br
+  /><br />
+source: www.diffordsguide.com (2397)
+recipe_steps:
+- amount: '1 1/4 '
+  doze: shot
+  ingredient_name: St-Germain elderflower liqueur
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Francoli Moscato grappa
+- amount: '5'
+  doze: fresh
+  ingredient_name: Kumquats (chopped)
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Merlot red wine

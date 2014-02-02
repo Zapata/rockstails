@@ -1,26 +1,28 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Strasberi Sling
+method: SHAKE all ingredients with ice and strain into ice-filled glass.
+rate: 3.5
 garnish: Mint sprig
 glass: Sling
-infos: 
-  Comment: Raspberry and apple combine beautifully in this refreshing drink with its clean citrus tang.
-  Origin: Created in 2002 by Alex Kammerling, London, England,
-  source: www.diffordsguide.com (1879)
-ingredients: 
-- - "1 1/2 "
-  - shot
-  - Raspberry flavoured vodka
-- - "1"
-  - shot
-  - Pimm's No.1 Cup
-- - " 1/2 "
-  - shot
-  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
-- - "1"
-  - shot
-  - Freshly squeezed lime juice
-- - "3"
-  - shot
-  - Pressed apple juice
-method: SHAKE all ingredients with ice and strain into ice-filled glass.
-name: Strasberi Sling
-rate: 3.5
+comment: Raspberry and apple combine beautifully in this refreshing drink with its
+  clean citrus tang.
+aka: 
+variant: 
+origin: Created in 2002 by Alex Kammerling, London, England,
+source: www.diffordsguide.com (1879)
+recipe_steps:
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Raspberry flavoured vodka
+- amount: '1'
+  doze: shot
+  ingredient_name: Freshly squeezed lime juice
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- amount: '3'
+  doze: shot
+  ingredient_name: Pressed apple juice
+- amount: '1'
+  doze: shot
+  ingredient_name: Pimm's No.1 Cup

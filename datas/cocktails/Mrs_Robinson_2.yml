@@ -1,20 +1,21 @@
---- !ruby/object:DirtyCocktail 
+---
+name: 'Mrs Robinson #2'
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 3.5
 garnish: Quarter orange slice on rim
 glass: Martini
-infos: 
-  Comment: A short Harvey Wallbanger.
-  Origin: Discovered in 2006 on Kyle Branch's Cocktail Hotel blog. (www.cocktailhotel.blogspot.com).
-  source: www.diffordsguide.com (1372)
-ingredients: 
-- - "2 1/2 "
-  - shot
-  - Ketel One vodka
-- - " 1/2 "
-  - shot
-  - Galliano L'Autentico liqueur
-- - "1"
-  - shot
-  - Freshly squeezed orange juice
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: "Mrs Robinson #2"
-rate: 3.5
+comment: A short Harvey Wallbanger.
+aka: 
+variant: 
+origin: Discovered in 2006 on Kyle Branch's Cocktail Hotel blog. (www.cocktailhotel.blogspot.com).
+source: www.diffordsguide.com (1372)
+recipe_steps:
+- amount: '2 1/2 '
+  doze: shot
+  ingredient_name: Ketel One vodka
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Galliano L'Autentico liqueur
+- amount: '1'
+  doze: shot
+  ingredient_name: Freshly squeezed orange juice

@@ -1,26 +1,28 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Henry VIII
+method: Soak sugar cube with absinthe and drop into chilled glass. POUR other ingredients
+  over sugar cube and serve.
+rate: 3.5
 garnish: Orange zest twist
 glass: Flute
-infos: 
-  Comment: A contemporary twist in the classic Champagne cocktail.
-  Origin: Created in 2004 by Henry Besant, London, England.
-  source: www.diffordsguide.com (955)
-ingredients: 
-- - "1"
-  - cube
-  - Granulated sugar
-- - " 1/8 "
-  - shot
-  - "La F\xE9e Parisienne (68%) absinthe"
-- - " 1/2 "
-  - shot
-  - Ketel One Citroen vodka
-- - " 1/2 "
-  - shot
-  - Pepper-infused Ketel One vodka
-- - "1"
-  - top up with
-  - Perrier Jouet brut champagne
-method: Soak sugar cube with absinthe and drop into chilled glass. POUR other ingredients over sugar cube and serve.
-name: Henry VIII
-rate: 3.5
+comment: A contemporary twist in the classic Champagne cocktail.
+aka: 
+variant: 
+origin: Created in 2004 by Henry Besant, London, England.
+source: www.diffordsguide.com (955)
+recipe_steps:
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Ketel One Citroen vodka
+- amount: ' 1/8 '
+  doze: shot
+  ingredient_name: La Fée Parisienne (68%) absinthe
+- amount: '1'
+  doze: top up with
+  ingredient_name: Perrier Jouet brut champagne
+- amount: '1'
+  doze: cube
+  ingredient_name: Granulated sugar
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Pepper-infused Ketel One vodka

@@ -1,16 +1,18 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Roy Rogers (Mocktail)
+method: POUR grenadine and cola into ice-filled glass and stir. Serve with straws.
+rate: 2.5
 garnish: Lime wedge
 glass: Collins
-infos: 
-  Comment: I wouldn't bother
-  source: www.diffordsguide.com (1700)
-ingredients: 
-- - " 1/4 "
-  - shot
-  - Pomegranate (grenadine) syrup
-- - "1"
-  - top up with
-  - Coca-cola
-method: POUR grenadine and cola into ice-filled glass and stir. Serve with straws.
-name: Roy Rogers (Mocktail)
-rate: 2.5
+comment: I wouldn't bother
+aka: 
+variant: 
+origin: 
+source: www.diffordsguide.com (1700)
+recipe_steps:
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Pomegranate (grenadine) syrup
+- amount: '1'
+  doze: top up with
+  ingredient_name: Coca-cola

@@ -1,23 +1,26 @@
---- !ruby/object:DirtyCocktail 
-garnish: " Lime zest twist or basil leaf<br />"
-glass: Martini
-infos: 
-  Comment: Orange marmalade both justifies the 'breakfast' prefixand adds complexity to this gimlet. <br />
-  Origin: " Created by Simon Difford at the Cabinet Room, London, England. <br />"
-  source: www.diffordsguide.com (2784)
-ingredients: 
-- - "2 1/2 "
-  - shot
-  - Bombay London dry gin
-- - " 1/4 "
-  - shot
-  - Rose's lime cordial
-- - "2"
-  - spoon
-  - Orange marmalade
-- - " 1/4 "
-  - shot
-  - Freshly squeezed lemon juice
-method: " STIR marmalade with gin in base of shaker to dissolve marmalade. Add lemon juice and lime cordial, SHAKE with ice and fine strain into chilled glass.<br />"
+---
 name: Breakfast Gimlet
+method: ' STIR marmalade with gin in base of shaker to dissolve marmalade. Add lemon
+  juice and lime cordial, SHAKE with ice and fine strain into chilled glass.<br />'
 rate: 4.0
+garnish: ' Lime zest twist or basil leaf<br />'
+glass: Martini
+comment: Orange marmalade both justifies the 'breakfast' prefixand adds complexity
+  to this gimlet. <br />
+aka: 
+variant: 
+origin: ' Created by Simon Difford at the Cabinet Room, London, England. <br />'
+source: www.diffordsguide.com (2784)
+recipe_steps:
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Rose's lime cordial
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Freshly squeezed lemon juice
+- amount: '2 1/2 '
+  doze: shot
+  ingredient_name: Bombay London dry gin
+- amount: '2'
+  doze: spoon
+  ingredient_name: Orange marmalade

@@ -1,29 +1,32 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Passion Punch
+method: Cut passion fruit in half and scoop flesh into blender. Add other ingredients
+  and BLEND with 12oz scoop crushed ice. Serve with straws.
+rate: 3.5
 garnish: Half passion fruit
 glass: Collins
-infos: 
-  Comment: To quote the Trader, &quot;A robust libation with the opulence of 'down under'.&quot;
-  Origin: Adapted from a recipe in the 1947-72 trader Vic's Bartender's Guide by Victor Bergeron.
-  source: www.diffordsguide.com (1486)
-ingredients: 
-- - "1"
-  - fresh
-  - Passion fruit
-- - "2"
-  - shot
-  - Bombay London dry gin
-- - " 1/4 "
-  - shot
-  - Courvoisier V.S.O.P cognac
-- - " 3/4 "
-  - shot
-  - Freshly squeezed lime juice
-- - " 3/4 "
-  - shot
-  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
-- - "2"
-  - dash
-  - Angostura aromatic bitters
-method: Cut passion fruit in half and scoop flesh into blender. Add other ingredients and BLEND with 12oz scoop crushed ice. Serve with straws.
-name: Passion Punch
-rate: 3.5
+comment: To quote the Trader, &quot;A robust libation with the opulence of 'down under'.&quot;
+aka: 
+variant: 
+origin: Adapted from a recipe in the 1947-72 trader Vic's Bartender's Guide by Victor
+  Bergeron.
+source: www.diffordsguide.com (1486)
+recipe_steps:
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Freshly squeezed lime juice
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- amount: '1'
+  doze: fresh
+  ingredient_name: Passion fruit
+- amount: '2'
+  doze: shot
+  ingredient_name: Bombay London dry gin
+- amount: '2'
+  doze: dash
+  ingredient_name: Angostura aromatic bitters
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Courvoisier V.S.O.P cognac

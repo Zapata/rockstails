@@ -1,20 +1,60 @@
---- !ruby/object:DirtyCocktail 
-garnish: The 'Oliver Twist' choice between an olive (stuffed or otherwise) or a lemon zest twist is traditional and these are the two most common garnishes for a Dry Martini. There are, however, a number of variants. A 'Dickens' is a Martini without a twist, a 'Gibson' is a Martini with two onions instead of an olive or a twist and a 'Franklin Martini' is named after Franklin Roosevelt and has two olives.<br /><br />
-glass: Martini
-infos: 
-  Comment: The proportion of gin to vermouth is a matter of taste; some say 7 to 1, others that one drop is sufficient. I recommend you ask the drinker how they would like their Martini, in the same manner that you might ask how they have their steak. If the drinker orders a 'Sweet Martini', use sweet red vermouth rather than dry and use a cherry as garnish instead of an olive.<br /><br />
-  Origin: "The Martini and its origins is a topic that can raise temperatures among drinks aficionados and, as so often, no one really knows. <br /><br />Today the drink is a blend of dry gin or vodka with a hint of dry vermouth. Yet it seems to have evolved from the Manhattan via the Martinez, a rather sweet drink based on Dutch genever or Old Tom gin with the addition of sweet vermouth, curacao and orange bitters. The Martini, like the Martinez, was initially sweet, not dry (hence the need to specify that its descendant was a 'Dry' Martini), and very heavy on the vermouth by modern standards. <br /><br />Martinis were known in the late 1880s but the Dry Martini most likely appeared with the emergence of the London Dry gin style. In 1906 Louis Muckenstrum wrote about a dry Martini Cocktail which, like the Martinez, benefited from curacao and bitters as well as vermouth. Yet, unlike earlier versions, both the gin and the vermouth were dry. According to Gary Regan, the marketers at Martini &amp; Rosso vermouth were advertising a Dry Martini cocktail heavily at that time. <br /><br />One myth attributes the creation of the Dry Martini to one Martini di Arma di Taggia,, head bartender at New York's Knickerbocker Hotel, in 1911, although this is clearly too late. It is also no longer believed that the name relates to Martini &amp; Henry rifles, the first of which was launched in 1871. <br /><br />The Dry Martini seems to have got drier and drier over the years. Curacao rapidly left the drink, but orange bitters remained a usual ingredient until the 1940s (interestingly, these are now coming back into vogue in some bars).<br /><br />There is some debate as to whether a Martini should be shaken or stirred. It should be stirred. If shaken, it becomes a 'Bradford'. Shaking the drink increases the dilution and introduces air bubbles into the drink, making it taste fresher and colder but making the drink appear cloudy due to the introduction of tiny air bubbles. <br /><br />The following are some of the most popular variations on the classic Dry Martini: <br />Dickens' Martini - without a twist.<br />Dirty Martini - with the brine from an olive jar.<br />Franklin Martini - named after Franklin Roosevelt and served with two olives.<br />Gibson Martini - with two cocktail olives.<br />Vesper Martini - James Bond's Martini, made with gin and vodka. <br />Vodkatini - very dry, vodka based Martini.<br />Wet Martini - heavy on the vermouth."
-  source: www.diffordsguide.com (676)
-ingredients: 
-- - " 3/4 "
-  - shot
-  - Noilly Prat dry vermouth
-- - "2 1/2 "
-  - shot
-  - Bombay London dry gin
-- - "1"
-  - dash
-  - Angostura orange bitters
-method: STIR vermouth with ice and strain to discard excess, leaving the glass and ice coated with vermouth. POUR gin over vermouth coated ice, STIR and strain into a chilled glass.<br /><br />
-name: "Martini Dry #1 (Traditional)"
+---
+name: 'Martini Dry #1 (Traditional)'
+method: STIR vermouth with ice and strain to discard excess, leaving the glass and
+  ice coated with vermouth. POUR gin over vermouth coated ice, STIR and strain into
+  a chilled glass.<br /><br />
 rate: 5.0
+garnish: The 'Oliver Twist' choice between an olive (stuffed or otherwise) or a lemon
+  zest twist is traditional and these are the two most common garnishes for a Dry
+  Martini. There are, however, a number of variants. A 'Dickens' is a Martini without
+  a twist, a 'Gibson' is a Martini with two onions instead of an olive or a twist
+  and a 'Franklin Martini' is named after Franklin Roosevelt and has two olives.
+glass: Martini
+comment: The proportion of gin to vermouth is a matter of taste; some say 7 to 1,
+  others that one drop is sufficient. I recommend you ask the drinker how they would
+  like their Martini, in the same manner that you might ask how they have their steak.
+  If the drinker orders a 'Sweet Martini', use sweet red vermouth rather than dry
+  and use a cherry as garnish instead of an olive.<br /><br />
+aka: 
+variant: 
+origin: 'The Martini and its origins is a topic that can raise temperatures among
+  drinks aficionados and, as so often, no one really knows. <br /><br />Today the
+  drink is a blend of dry gin or vodka with a hint of dry vermouth. Yet it seems to
+  have evolved from the Manhattan via the Martinez, a rather sweet drink based on
+  Dutch genever or Old Tom gin with the addition of sweet vermouth, curacao and orange
+  bitters. The Martini, like the Martinez, was initially sweet, not dry (hence the
+  need to specify that its descendant was a ''Dry'' Martini), and very heavy on the
+  vermouth by modern standards. <br /><br />Martinis were known in the late 1880s
+  but the Dry Martini most likely appeared with the emergence of the London Dry gin
+  style. In 1906 Louis Muckenstrum wrote about a dry Martini Cocktail which, like
+  the Martinez, benefited from curacao and bitters as well as vermouth. Yet, unlike
+  earlier versions, both the gin and the vermouth were dry. According to Gary Regan,
+  the marketers at Martini &amp; Rosso vermouth were advertising a Dry Martini cocktail
+  heavily at that time. <br /><br />One myth attributes the creation of the Dry Martini
+  to one Martini di Arma di Taggia,, head bartender at New York''s Knickerbocker Hotel,
+  in 1911, although this is clearly too late. It is also no longer believed that the
+  name relates to Martini &amp; Henry rifles, the first of which was launched in 1871.
+  <br /><br />The Dry Martini seems to have got drier and drier over the years. Curacao
+  rapidly left the drink, but orange bitters remained a usual ingredient until the
+  1940s (interestingly, these are now coming back into vogue in some bars).<br /><br
+  />There is some debate as to whether a Martini should be shaken or stirred. It should
+  be stirred. If shaken, it becomes a ''Bradford''. Shaking the drink increases the
+  dilution and introduces air bubbles into the drink, making it taste fresher and
+  colder but making the drink appear cloudy due to the introduction of tiny air bubbles.
+  <br /><br />The following are some of the most popular variations on the classic
+  Dry Martini: <br />Dickens'' Martini - without a twist.<br />Dirty Martini - with
+  the brine from an olive jar.<br />Franklin Martini - named after Franklin Roosevelt
+  and served with two olives.<br />Gibson Martini - with two cocktail olives.<br />Vesper
+  Martini - James Bond''s Martini, made with gin and vodka. <br />Vodkatini - very
+  dry, vodka based Martini.<br />Wet Martini - heavy on the vermouth.'
+source: www.diffordsguide.com (676)
+recipe_steps:
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Noilly Prat dry vermouth
+- amount: '2 1/2 '
+  doze: shot
+  ingredient_name: Bombay London dry gin
+- amount: '1'
+  doze: dash
+  ingredient_name: Angostura orange bitters

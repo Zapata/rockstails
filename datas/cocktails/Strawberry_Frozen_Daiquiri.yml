@@ -1,22 +1,24 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Strawberry Frozen Daiquiri
+method: BLEND all ingredients with 6oz scoop of crushed ice.
+rate: 3.5
 garnish: Split strawberry
 glass: Martini
-infos: 
-  Comment: A delicious twist on a classic - Strawberry Mivvi for grown-ups.
-  source: www.diffordsguide.com (1885)
-ingredients: 
-- - "2"
-  - shot
-  - Bacardi Superior rum
-- - " 3/4 "
-  - shot
-  - Freshly squeezed lime juice
-- - " 1/2 "
-  - shot
-  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
-- - "5"
-  - fresh
-  - Strawberries (hulled)
-method: BLEND all ingredients with 6oz scoop of crushed ice.
-name: Strawberry Frozen Daiquiri
-rate: 3.5
+comment: A delicious twist on a classic - Strawberry Mivvi for grown-ups.
+aka: 
+variant: 
+origin: 
+source: www.diffordsguide.com (1885)
+recipe_steps:
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Freshly squeezed lime juice
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- amount: '2'
+  doze: shot
+  ingredient_name: Bacardi Superior rum
+- amount: '5'
+  doze: fresh
+  ingredient_name: Strawberries (hulled)

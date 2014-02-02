@@ -1,20 +1,21 @@
---- !ruby/object:DirtyCocktail 
+---
+name: 'Army Martini '
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 4.0
 garnish: Mint leaf
 glass: Martini
-infos: 
-  Comment: This ros Martini is harder than it looks - perhaps why the name?
-  Variant: Served 'dry' without the grenadine.
-  source: www.diffordsguide.com (2258)
-ingredients: 
-- - "2 1/2 "
-  - shot
-  - Bombay London dry gin
-- - " 1/4 "
-  - shot
-  - Martini Rosso sweet vermouth
-- - " 1/4 "
-  - shot
-  - Pomegranate (grenadine) syrup
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: "Army Martini "
-rate: 4.0
+comment: This ros Martini is harder than it looks - perhaps why the name?
+aka: 
+variant: Served 'dry' without the grenadine.
+origin: 
+source: www.diffordsguide.com (2258)
+recipe_steps:
+- amount: '2 1/2 '
+  doze: shot
+  ingredient_name: Bombay London dry gin
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Martini Rosso sweet vermouth
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Pomegranate (grenadine) syrup

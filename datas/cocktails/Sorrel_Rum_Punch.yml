@@ -1,23 +1,27 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Sorrel Rum Punch
+method: SHAKE all ingredients with ice and strain into glass filled with crushed ice.
+  Serve with straws.
+rate: 4.5
 garnish: Lime wedge
 glass: Collins
-infos: 
-  Comment: This drink harnesses the flavour of sorrelade and combines it with the traditional strength and bittersweetness of rum punch. Jamaica in a glass.
-  Origin: A classic Jamaican punch using the classic proportions of 'one of sour, two of sweet, three of strong and four of weak.'
-  source: www.diffordsguide.com (1793)
-ingredients: 
-- - "2 1/4 "
-  - shot
-  - Wray & Nephew overproof rum
-- - "3"
-  - shot
-  - Sorrelade (see sorrelade recipe)
-- - " 3/4 "
-  - shot
-  - Freshly squeezed lime juice
-- - "1 1/2 "
-  - shot
-  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
-method: SHAKE all ingredients with ice and strain into glass filled with crushed ice. Serve with straws.
-name: Sorrel Rum Punch
-rate: 4.5
+comment: This drink harnesses the flavour of sorrelade and combines it with the traditional
+  strength and bittersweetness of rum punch. Jamaica in a glass.
+aka: 
+variant: 
+origin: A classic Jamaican punch using the classic proportions of 'one of sour, two
+  of sweet, three of strong and four of weak.'
+source: www.diffordsguide.com (1793)
+recipe_steps:
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Freshly squeezed lime juice
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- amount: '2 1/4 '
+  doze: shot
+  ingredient_name: Wray & Nephew overproof rum
+- amount: '3'
+  doze: shot
+  ingredient_name: Sorrelade (see sorrelade recipe)

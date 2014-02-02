@@ -1,20 +1,22 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Red Neck Martini
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 4.0
 garnish: Orange zest twist
 glass: Martini
-infos: 
-  Comment: Nicely balanced, aromatic and not too sweet - the flavour of the Scotch shines through.
-  Origin: Created by Sylvain Solignac in 2002 at Circus bar, London, England.
-  source: www.diffordsguide.com (1661)
-ingredients: 
-- - "2"
-  - shot
-  - Johnnie Walker Scotch Whisky
-- - "1"
-  - shot
-  - Dubonnet Red (French made)
-- - "1"
-  - shot
-  - Heering cherry brandy liqueur
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: Red Neck Martini
-rate: 4.0
+comment: Nicely balanced, aromatic and not too sweet - the flavour of the Scotch shines
+  through.
+aka: 
+variant: 
+origin: Created by Sylvain Solignac in 2002 at Circus bar, London, England.
+source: www.diffordsguide.com (1661)
+recipe_steps:
+- amount: '1'
+  doze: shot
+  ingredient_name: Heering cherry brandy liqueur
+- amount: '1'
+  doze: shot
+  ingredient_name: Dubonnet Red (French made)
+- amount: '2'
+  doze: shot
+  ingredient_name: Johnnie Walker Scotch Whisky

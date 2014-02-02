@@ -1,23 +1,24 @@
---- !ruby/object:DirtyCocktail 
+---
+name: White Elephant
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 3.5
 garnish: Dust with cocoa powder
 glass: Martini
-infos: 
-  AKA: White Beach
-  Comment: Smooth and creamy with a hint of chocolate.
-  source: www.diffordsguide.com (2088)
-ingredients: 
-- - "2"
-  - shot
-  - Ketel One vodka
-- - " 3/4 "
-  - shot
-  - "White cr\xE8me de cacao liqueur"
-- - " 3/4 "
-  - shot
-  - Double (heavy) cream
-- - " 3/4 "
-  - shot
-  - Milk
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: White Elephant
-rate: 3.5
+comment: Smooth and creamy with a hint of chocolate.
+aka: White Beach
+variant: 
+origin: 
+source: www.diffordsguide.com (2088)
+recipe_steps:
+- amount: '2'
+  doze: shot
+  ingredient_name: Ketel One vodka
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: White crème de cacao liqueur
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Double (heavy) cream
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Milk

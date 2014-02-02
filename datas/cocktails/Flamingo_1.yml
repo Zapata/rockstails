@@ -1,25 +1,28 @@
---- !ruby/object:DirtyCocktail 
+---
+name: 'Flamingo #1'
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 3.5
 garnish: Banana chunk on rim
 glass: Martini
-infos: 
-  Comment: It's not pink but it has bourbon, banana, orange and lemon smoothed with egg white.
-  source: www.diffordsguide.com (758)
-ingredients: 
-- - "1"
-  - shot
-  - Maker's Mark bourbon
-- - " 3/4 "
-  - shot
-  - "Cr\xE8me de banane liqueur"
-- - "1 1/2 "
-  - shot
-  - Freshly squeezed orange juice
-- - " 3/4 "
-  - shot
-  - Freshly squeezed lemon juice
-- - " 1/2 "
-  - fresh
-  - Egg white
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: "Flamingo #1"
-rate: 3.5
+comment: It's not pink but it has bourbon, banana, orange and lemon smoothed with
+  egg white.
+aka: 
+variant: 
+origin: 
+source: www.diffordsguide.com (758)
+recipe_steps:
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Freshly squeezed lemon juice
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Freshly squeezed orange juice
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Crème de banane liqueur
+- amount: ' 1/2 '
+  doze: fresh
+  ingredient_name: Egg white
+- amount: '1'
+  doze: shot
+  ingredient_name: Maker's Mark bourbon

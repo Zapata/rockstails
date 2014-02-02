@@ -1,26 +1,28 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Russian Nail
+method: SHAKE all ingredients with ice and strain into ice-filled glass.<br />
+rate: 3.5
 garnish: Freshly grated nutmeg<br />
 glass: Old-fashioned
-infos: 
-  Comment: A marriage of the Rusty Nail and White Russian cocktails.
-  Origin: Created in 2010 by a collaboration between Jamie Stephenson and Simon Difford at the Cabinet Room, London, England.<br />
-  source: www.diffordsguide.com (2846)
-ingredients: 
-- - "2"
-  - shot
-  - Johnnie Walker Scotch Whisky
-- - " 3/4 "
-  - shot
-  - Drambuie
-- - " 3/4 "
-  - shot
-  - Kahla coffee liqueur
-- - " 1/2 "
-  - shot
-  - Double (heavy) cream
-- - " 1/2 "
-  - shot
-  - Milk
-method: SHAKE all ingredients with ice and strain into ice-filled glass.<br />
-name: Russian Nail
-rate: 3.5
+comment: A marriage of the Rusty Nail and White Russian cocktails.
+aka: 
+variant: 
+origin: Created in 2010 by a collaboration between Jamie Stephenson and Simon Difford
+  at the Cabinet Room, London, England.<br />
+source: www.diffordsguide.com (2846)
+recipe_steps:
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Double (heavy) cream
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Milk
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Kahla coffee liqueur
+- amount: '2'
+  doze: shot
+  ingredient_name: Johnnie Walker Scotch Whisky
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Drambuie

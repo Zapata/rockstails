@@ -1,16 +1,19 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Head Shot
+method: Refrigerate ingredients then LAYER in chilled glass by carefully pouring in
+  the following order.
+rate: 2.5
 garnish: 
 glass: Shot
-infos: 
-  Comment: Please drink responsibly.
-  source: www.diffordsguide.com (2683)
-ingredients: 
-- - " 3/4 "
-  - shot
-  - Opal Nera black sambuca
-- - " 3/4 "
-  - shot
-  - Chartreuse Green liqueur
-method: Refrigerate ingredients then LAYER in chilled glass by carefully pouring in the following order.
-name: Head Shot
-rate: 2.5
+comment: Please drink responsibly.
+aka: 
+variant: 
+origin: 
+source: www.diffordsguide.com (2683)
+recipe_steps:
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Chartreuse Green liqueur
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Opal Nera black sambuca

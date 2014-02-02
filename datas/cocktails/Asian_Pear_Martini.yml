@@ -1,26 +1,27 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Asian Pear Martini
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 4.0
 garnish: Pear slice on rim
 glass: Martini
-infos: 
-  Comment: Sake and pear juice with a kick.
-  Origin: Created in 2002 by yours truly.
-  source: www.diffordsguide.com (111)
-ingredients: 
-- - "2"
-  - shot
-  - Sake
-- - " 1/4 "
-  - shot
-  - Belle de Brillet pear liqueur
-- - " 1/2 "
-  - shot
-  - Poire William eau de vie
-- - "1 1/2 "
-  - shot
-  - Pressed pear juice
-- - " 1/4 "
-  - shot
-  - Freshly squeezed lemon juice
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: Asian Pear Martini
-rate: 4.0
+comment: Sake and pear juice with a kick.
+aka: 
+variant: 
+origin: Created in 2002 by yours truly.
+source: www.diffordsguide.com (111)
+recipe_steps:
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Freshly squeezed lemon juice
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Pressed pear juice
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Belle de Brillet pear liqueur
+- amount: '2'
+  doze: shot
+  ingredient_name: Sake
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Poire William eau de vie

@@ -1,16 +1,19 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Yule Luvit
+method: Refrigerate ingredients then LAYER in chilled glass by carefully pouring in
+  the following order.
+rate: 3.5
 garnish: Grate nutmeg over drink
 glass: Shot
-infos: 
-  Comment: Actually, 'yule' find it strongly nutty and sweet.
-  source: www.diffordsguide.com (2116)
-ingredients: 
-- - " 3/4 "
-  - shot
-  - Maker's Mark bourbon
-- - " 3/4 "
-  - shot
-  - Hazelnut liqueur
-method: Refrigerate ingredients then LAYER in chilled glass by carefully pouring in the following order.
-name: Yule Luvit
-rate: 3.5
+comment: Actually, 'yule' find it strongly nutty and sweet.
+aka: 
+variant: 
+origin: 
+source: www.diffordsguide.com (2116)
+recipe_steps:
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Maker's Mark bourbon
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Hazelnut liqueur

@@ -1,26 +1,30 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Colonel's Big Opu
+method: SHAKE first 3 ingredients with ice and strain into ice-filled glass. TOP with
+  champagne and serve with straws.
+rate: 3.5
 garnish: Orange slice &amp; cherry on stick (sail)
 glass: Collins
-infos: 
-  Comment: A long, fruity yet dry drink charged with champagne.
-  Origin: "Adapted from Victor J. Bergeron's and taken from his 'Trader Vic's Bartender's Guide' (1972 revised edition), where he writes &quot;This is one of our old drinks. The colonel's big opu: the colonel's big belly.&quot;"
-  source: www.diffordsguide.com (586)
-ingredients: 
-- - "1"
-  - shot
-  - Bombay London dry gin
-- - "1"
-  - shot
-  - Cointreau triple sec
-- - " 1/2 "
-  - shot
-  - Freshly squeezed lime juice
-- - "1"
-  - top up with
-  - Perrier Jouet brut champagne
-- - "1"
-  - dash
-  - Angostura orange bitters
-method: SHAKE first 3 ingredients with ice and strain into ice-filled glass. TOP with champagne and serve with straws.
-name: Colonel's Big Opu
-rate: 3.5
+comment: A long, fruity yet dry drink charged with champagne.
+aka: 
+variant: 
+origin: 'Adapted from Victor J. Bergeron''s and taken from his ''Trader Vic''s Bartender''s
+  Guide'' (1972 revised edition), where he writes &quot;This is one of our old drinks.
+  The colonel''s big opu: the colonel''s big belly.&quot;'
+source: www.diffordsguide.com (586)
+recipe_steps:
+- amount: '1'
+  doze: shot
+  ingredient_name: Cointreau triple sec
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Freshly squeezed lime juice
+- amount: '1'
+  doze: shot
+  ingredient_name: Bombay London dry gin
+- amount: '1'
+  doze: dash
+  ingredient_name: Angostura orange bitters
+- amount: '1'
+  doze: top up with
+  ingredient_name: Perrier Jouet brut champagne

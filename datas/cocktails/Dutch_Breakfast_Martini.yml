@@ -1,26 +1,27 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Dutch Breakfast Martini
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 4.0
 garnish: Orange zest twist
 glass: Martini
-infos: 
-  Comment: A tasty, aromatic, almost creamy alternative to a fry-up.
-  Origin: Created in 2002 by Alex Kammerling, London, England.
-  source: www.diffordsguide.com (681)
-ingredients: 
-- - "1 1/2 "
-  - shot
-  - Bols advocaat liqueur
-- - "1 1/2 "
-  - shot
-  - Bombay London dry gin
-- - "1"
-  - shot
-  - Freshly squeezed lemon juice
-- - " 1/4 "
-  - shot
-  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
-- - " 1/8 "
-  - shot
-  - Galliano L'Autentico liqueur
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: Dutch Breakfast Martini
-rate: 4.0
+comment: A tasty, aromatic, almost creamy alternative to a fry-up.
+aka: 
+variant: 
+origin: Created in 2002 by Alex Kammerling, London, England.
+source: www.diffordsguide.com (681)
+recipe_steps:
+- amount: '1'
+  doze: shot
+  ingredient_name: Freshly squeezed lemon juice
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- amount: ' 1/8 '
+  doze: shot
+  ingredient_name: Galliano L'Autentico liqueur
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Bombay London dry gin
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Bols advocaat liqueur

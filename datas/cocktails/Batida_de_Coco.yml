@@ -1,20 +1,23 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Batida de Coco
+method: BLEND ingredients with 12oz scoop of crushed ice. Pour into glass and serve
+  with straws.
+rate: 3.0
 garnish: Grate nutmeg over drink<br />
 glass: Collins
-infos: 
-  Comment: As the name would suggest this is literally an alcoholic coconut-flavoured shake.
-  Origin: Literally meaning a shake of coconut, this is a traditional Brazilian drink.
-  source: www.diffordsguide.com (182)
-ingredients: 
-- - "2"
-  - shot
-  - Leblon cachaca
-- - "2"
-  - shot
-  - Coco Lpez cream of coconut
-- - "1"
-  - shot
-  - Condensed milk
-method: BLEND ingredients with 12oz scoop of crushed ice. Pour into glass and serve with straws.
-name: Batida de Coco
-rate: 3.0
+comment: As the name would suggest this is literally an alcoholic coconut-flavoured
+  shake.
+aka: 
+variant: 
+origin: Literally meaning a shake of coconut, this is a traditional Brazilian drink.
+source: www.diffordsguide.com (182)
+recipe_steps:
+- amount: '2'
+  doze: shot
+  ingredient_name: Leblon cachaca
+- amount: '1'
+  doze: shot
+  ingredient_name: Condensed milk
+- amount: '2'
+  doze: shot
+  ingredient_name: Coco Lpez cream of coconut

@@ -1,32 +1,35 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Pear & Cardamom Sidecar
+method: MUDDLE cardamom in base of shaker. Add other ingredients, SHAKE with ice and
+  fine strain into chilled glass.
+rate: 4.5
 garnish: Pear slice on rim
 glass: Martini
-infos: 
-  Comment: A wonderful meld of aromatic ingredients.
-  Origin: Adapted from a drink created in 2002 by Jason Scott at Oloroso, Edinburgh, Scotland.
-  source: www.diffordsguide.com (1494)
-ingredients: 
-- - "2"
-  - whole
-  - Cardamom pods
-- - "1"
-  - shot
-  - Courvoisier V.S.O.P cognac
-- - " 3/4 "
-  - shot
-  - Cointreau triple sec
-- - " 3/4 "
-  - shot
-  - Belle de Brillet pear liqueur
-- - " 3/4 "
-  - shot
-  - Freshly squeezed lemon juice
-- - " 1/8 "
-  - shot
-  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
-- - " 1/2 "
-  - shot
-  - Chilled mineral water
-method: MUDDLE cardamom in base of shaker. Add other ingredients, SHAKE with ice and fine strain into chilled glass.
-name: Pear & Cardamom Sidecar
-rate: 4.5
+comment: A wonderful meld of aromatic ingredients.
+aka: 
+variant: 
+origin: Adapted from a drink created in 2002 by Jason Scott at Oloroso, Edinburgh,
+  Scotland.
+source: www.diffordsguide.com (1494)
+recipe_steps:
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Cointreau triple sec
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Freshly squeezed lemon juice
+- amount: ' 1/8 '
+  doze: shot
+  ingredient_name: Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Chilled mineral water
+- amount: '1'
+  doze: shot
+  ingredient_name: Courvoisier V.S.O.P cognac
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Belle de Brillet pear liqueur
+- amount: '2'
+  doze: whole
+  ingredient_name: Cardamom pods

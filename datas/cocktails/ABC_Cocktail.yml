@@ -1,26 +1,30 @@
---- !ruby/object:DirtyCocktail 
+---
+name: A.B.C. Cocktail
+method: <span lang="EN-US">TEAR mint and place in shaker. Add other ingredients, SHAKE
+  with ice and fine strain into chilled glass.
+rate: 4.5
 garnish: Lemon zest twist &amp; cherry
 glass: Martini (small)
-infos: 
-  Comment: <p><span lang="EN-US">Wonderfully delicate. Mint gives subtle freshness to the classic port and brandy combo.</span> <br /></p>
-  Origin: "<p style=\"text-align: justify;\"><span lang=\"EN-US\">Vintage cocktail of unknown origin.</span></p>"
-  source: www.diffordsguide.com (4)
-ingredients: 
-- - "7"
-  - fresh
-  - Mint leaves
-- - "1"
-  - shot
-  - Warre's Otima tawny port
-- - "1"
-  - shot
-  - Courvoisier V.S.O.P cognac
-- - " 1/4 "
-  - shot
-  - Luxardo maraschino liqueur
-- - " 1/8 "
-  - shot
-  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
-method: <span lang="EN-US">TEAR mint and place in shaker. Add other ingredients, SHAKE with ice and fine strain into chilled glass.
-name: A.B.C. Cocktail
-rate: 4.5
+comment: <p><span lang="EN-US">Wonderfully delicate. Mint gives subtle freshness to
+  the classic port and brandy combo.</span> <br /></p>
+aka: 
+variant: 
+origin: '<p style="text-align: justify;"><span lang="EN-US">Vintage cocktail of unknown
+  origin.</span></p>'
+source: www.diffordsguide.com (4)
+recipe_steps:
+- amount: '7'
+  doze: fresh
+  ingredient_name: Mint leaves
+- amount: ' 1/8 '
+  doze: shot
+  ingredient_name: Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- amount: '1'
+  doze: shot
+  ingredient_name: Courvoisier V.S.O.P cognac
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Luxardo maraschino liqueur
+- amount: '1'
+  doze: shot
+  ingredient_name: Warre's Otima tawny port

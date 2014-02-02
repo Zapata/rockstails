@@ -1,29 +1,30 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Wild Honey
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 3.5
 garnish: Grate nutmeg over drink
 glass: Martini
-infos: 
-  Comment: A serious yet creamy after dinner cocktail with whisky and honey.
-  Origin: Created in 2001 by James price at Bar Red, London, England.
-  source: www.diffordsguide.com (2099)
-ingredients: 
-- - "1 1/2 "
-  - shot
-  - Johnnie Walker Scotch Whisky
-- - " 1/2 "
-  - shot
-  - Vanilla-infused Ketel One vodka
-- - " 3/4 "
-  - shot
-  - Drambuie
-- - " 1/2 "
-  - shot
-  - Galliano L'Autentico liqueur
-- - " 1/2 "
-  - shot
-  - Milk
-- - " 1/2 "
-  - shot
-  - Double (heavy) cream
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: Wild Honey
-rate: 3.5
+comment: A serious yet creamy after dinner cocktail with whisky and honey.
+aka: 
+variant: 
+origin: Created in 2001 by James price at Bar Red, London, England.
+source: www.diffordsguide.com (2099)
+recipe_steps:
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Vanilla-infused Ketel One vodka
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Galliano L'Autentico liqueur
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Double (heavy) cream
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Milk
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Johnnie Walker Scotch Whisky
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Drambuie

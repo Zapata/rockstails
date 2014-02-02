@@ -1,29 +1,32 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Old Cuban
+method: Lightly MUDDLE mint in base of shaker (just to bruise). Add next 4 ingredients,
+  SHAKE with ice and fine strain into chilled glass. TOP with champagne.<br /><br
+  />
+rate: 4.5
 garnish: Float mint leaf<br />
 glass: Martini
-infos: 
-  Comment: "A luxurious, minty Daiquiri topped with a splash of champagne. "
-  Origin: Created in 2004 by Audrey Saunders, New York, USA.<br /><br />
-  source: www.diffordsguide.com (2529)
-ingredients: 
-- - "6"
-  - fresh
-  - Mint leaves
-- - "2"
-  - shot
-  - Zacapa aged rum
-- - " 3/4 "
-  - shot
-  - Freshly squeezed lime juice
-- - " 1/2 "
-  - shot
-  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
-- - "2"
-  - dash
-  - Angostura aromatic bitters
-- - " 3/4 "
-  - shot
-  - Perrier Jouet brut champagne
-method: Lightly MUDDLE mint in base of shaker (just to bruise). Add next 4 ingredients, SHAKE with ice and fine strain into chilled glass. TOP with champagne.<br /><br />
-name: Old Cuban
-rate: 4.5
+comment: 'A luxurious, minty Daiquiri topped with a splash of champagne. '
+aka: 
+variant: 
+origin: Created in 2004 by Audrey Saunders, New York, USA.<br /><br />
+source: www.diffordsguide.com (2529)
+recipe_steps:
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Freshly squeezed lime juice
+- amount: '6'
+  doze: fresh
+  ingredient_name: Mint leaves
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- amount: '2'
+  doze: dash
+  ingredient_name: Angostura aromatic bitters
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Perrier Jouet brut champagne
+- amount: '2'
+  doze: shot
+  ingredient_name: Zacapa aged rum

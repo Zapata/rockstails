@@ -1,31 +1,34 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Bourbon Smash
+method: MUDDLE raspberries in base of shaker. Add other ingredients, SHAKE with ice
+  and fine strain into ice-filled glass.
+rate: 3.5
 garnish: Lime slice
 glass: Collins
-infos: 
-  Comment: This refreshing long drink has a sharp edge that adds to its appeal.
-  source: www.diffordsguide.com (301)
-ingredients: 
-- - "12"
-  - shot
-  - Raspberries
-- - "4"
-  - fresh
-  - Mint leaves
-- - "2 1/2 "
-  - shot
-  - Maker's Mark bourbon
-- - "3"
-  - shot
-  - Ocean Spray cranberry juice
-- - "1"
-  - shot
-  - Freshly squeezed lime juice
-- - " 1/2 "
-  - shot
-  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
-- - "2"
-  - dash
-  - Angostura aromatic bitters
-method: MUDDLE raspberries in base of shaker. Add other ingredients, SHAKE with ice and fine strain into ice-filled glass.
-name: Bourbon Smash
-rate: 3.5
+comment: This refreshing long drink has a sharp edge that adds to its appeal.
+aka: 
+variant: 
+origin: 
+source: www.diffordsguide.com (301)
+recipe_steps:
+- amount: '3'
+  doze: shot
+  ingredient_name: Ocean Spray cranberry juice
+- amount: '1'
+  doze: shot
+  ingredient_name: Freshly squeezed lime juice
+- amount: '4'
+  doze: fresh
+  ingredient_name: Mint leaves
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- amount: '2'
+  doze: dash
+  ingredient_name: Angostura aromatic bitters
+- amount: '2 1/2 '
+  doze: shot
+  ingredient_name: Maker's Mark bourbon
+- amount: '12'
+  doze: shot
+  ingredient_name: Raspberries

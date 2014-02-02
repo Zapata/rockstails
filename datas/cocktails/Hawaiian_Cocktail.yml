@@ -1,26 +1,27 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Hawaiian Cocktail
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 4.0
 garnish: Pineapple wedge &amp; cherry on rim
 glass: Martini
-infos: 
-  Comment: Sweet, tangy and fruity.
-  Origin: Discovered in Las Vegas in 2004.
-  source: www.diffordsguide.com (941)
-ingredients: 
-- - "1 1/2 "
-  - shot
-  - Bacardi Superior rum
-- - " 1/2 "
-  - shot
-  - Luxardo Amaretto di Saschira
-- - " 1/2 "
-  - shot
-  - Southern Comfort liqueur
-- - " 3/4 "
-  - shot
-  - Freshly squeezed orange juice
-- - "1 1/2 "
-  - shot
-  - Fresh pressed pineapple juice
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: Hawaiian Cocktail
-rate: 4.0
+comment: Sweet, tangy and fruity.
+aka: 
+variant: 
+origin: Discovered in Las Vegas in 2004.
+source: www.diffordsguide.com (941)
+recipe_steps:
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Bacardi Superior rum
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Fresh pressed pineapple juice
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Freshly squeezed orange juice
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Luxardo Amaretto di Saschira
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Southern Comfort liqueur

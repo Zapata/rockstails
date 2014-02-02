@@ -1,26 +1,30 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Southside Fizz
+method: Lightly MUDDLE mint in base of shaker (just to bruise). Add next three ingredients,
+  SHAKE with ice and fine strain into (empty) chilled glass. TOP with soda.<br /><br
+  />
+rate: 3.5
 garnish: Mint sprig<br />
 glass: Collins (small 8oz)
-infos: 
-  Comment: Recipe adapted from Harry Craddock's 1930 'The Savoy Cocktail Book'.<br /><br />
-  Origin: A minty Collins.
-  source: www.diffordsguide.com (2584)
-ingredients: 
-- - "7"
-  - fresh
-  - Mint leaves
-- - "2"
-  - shot
-  - Bombay London dry gin
-- - "1"
-  - shot
-  - Freshly squeezed lemon juice
-- - " 1/2 "
-  - shot
-  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
-- - "1"
-  - top up with
-  - Soda from siphon
-method: Lightly MUDDLE mint in base of shaker (just to bruise). Add next three ingredients, SHAKE with ice and fine strain into (empty) chilled glass. TOP with soda.<br /><br />
-name: Southside Fizz
-rate: 3.5
+comment: Recipe adapted from Harry Craddock's 1930 'The Savoy Cocktail Book'.<br /><br
+  />
+aka: 
+variant: 
+origin: A minty Collins.
+source: www.diffordsguide.com (2584)
+recipe_steps:
+- amount: '7'
+  doze: fresh
+  ingredient_name: Mint leaves
+- amount: '1'
+  doze: shot
+  ingredient_name: Freshly squeezed lemon juice
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- amount: '2'
+  doze: shot
+  ingredient_name: Bombay London dry gin
+- amount: '1'
+  doze: top up with
+  ingredient_name: Soda from siphon

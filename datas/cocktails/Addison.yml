@@ -1,16 +1,18 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Addison
+method: STIR all ingredients with ice and fine strain into chilled glass.
+rate: 3.5
 garnish: Maraschino cherry
 glass: Martini
-infos: 
-  Comment: Basically a very wet, sweet Martini.
-  source: www.diffordsguide.com (2136)
-ingredients: 
-- - "1 1/2 "
-  - shot
-  - Bombay London dry gin
-- - "1 1/2 "
-  - shot
-  - Martini Rosso sweet vermouth
-method: STIR all ingredients with ice and fine strain into chilled glass.
-name: Addison
-rate: 3.5
+comment: Basically a very wet, sweet Martini.
+aka: 
+variant: 
+origin: 
+source: www.diffordsguide.com (2136)
+recipe_steps:
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Bombay London dry gin
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Martini Rosso sweet vermouth

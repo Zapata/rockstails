@@ -1,23 +1,26 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Aztec
+method: STIR all ingredients with ice and strain into chilled glass.
+rate: 3.5
 garnish: Flamed orange zest twist
 glass: Martini
-infos: 
-  Comment: Whiskey with the merest touch of herbal and chocolate liqueurs spiced with a wisp of pepper.
-  Origin: Adapted from a recipe created in 2007 by Neyah White, Nopa, San Francisco, USA.
-  source: www.diffordsguide.com (2263)
-ingredients: 
-- - "1 3/4 "
-  - shot
-  - Maker's Mark bourbon
-- - " 1/2 "
-  - shot
-  - Bénédictine D.O.M.
-- - " 1/4 "
-  - shot
-  - "White cr\xE8me de cacao liqueur"
-- - "1"
-  - drop
-  - Tobasco hot pepper sauce
-method: STIR all ingredients with ice and strain into chilled glass.
-name: Aztec
-rate: 3.5
+comment: Whiskey with the merest touch of herbal and chocolate liqueurs spiced with
+  a wisp of pepper.
+aka: 
+variant: 
+origin: Adapted from a recipe created in 2007 by Neyah White, Nopa, San Francisco,
+  USA.
+source: www.diffordsguide.com (2263)
+recipe_steps:
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: White crème de cacao liqueur
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Bénédictine D.O.M.
+- amount: '1'
+  doze: drop
+  ingredient_name: Tobasco hot pepper sauce
+- amount: '1 3/4 '
+  doze: shot
+  ingredient_name: Maker's Mark bourbon

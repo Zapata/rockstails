@@ -1,26 +1,27 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Nola Daiquiri
+method: SHAKE all ingredients with ice and fine strain into chilled glass.  <br />
+rate: 3.5
 garnish: Pineapple wedge<br />
 glass: Old-fashioned
-infos: 
-  Comment: Light rum and elderflower with the merest hint of orange and lemon juice.
-  Origin: Created in 2007 by Lynnette Marrero at Freeman's, New York City, USA.<br />
-  source: www.diffordsguide.com (2522)
-ingredients: 
-- - "1 3/4 "
-  - shot
-  - Bacardi Superior rum
-- - " 3/4 "
-  - shot
-  - St-Germain elderflower liqueur
-- - " 1/8 "
-  - shot
-  - Freshly squeezed lemon juice
-- - " 1/8 "
-  - shot
-  - Angostura orange bitters
-- - "1"
-  - dash
-  - Peychaud's aromatic bitters
-method: SHAKE all ingredients with ice and fine strain into chilled glass.  <br />
-name: Nola Daiquiri
-rate: 3.5
+comment: Light rum and elderflower with the merest hint of orange and lemon juice.
+aka: 
+variant: 
+origin: Created in 2007 by Lynnette Marrero at Freeman's, New York City, USA.<br />
+source: www.diffordsguide.com (2522)
+recipe_steps:
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: St-Germain elderflower liqueur
+- amount: ' 1/8 '
+  doze: shot
+  ingredient_name: Freshly squeezed lemon juice
+- amount: '1 3/4 '
+  doze: shot
+  ingredient_name: Bacardi Superior rum
+- amount: ' 1/8 '
+  doze: shot
+  ingredient_name: Angostura orange bitters
+- amount: '1'
+  doze: dash
+  ingredient_name: Peychaud's aromatic bitters

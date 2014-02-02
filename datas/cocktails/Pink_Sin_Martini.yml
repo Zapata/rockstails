@@ -1,22 +1,24 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Pink Sin Martini
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 3.0
 garnish: Dust with cinnamon powder
 glass: Martini
-infos: 
-  Comment: This looks a little like a Cosmo but delivers sweet cinnamon and chocolate.
-  source: www.diffordsguide.com (1551)
-ingredients: 
-- - "1 1/2 "
-  - shot
-  - Ketel One vodka
-- - "1"
-  - shot
-  - "White cr\xE8me de cacao liqueur"
-- - " 3/4 "
-  - shot
-  - Goldschlager cinnamon schnapps
-- - "1"
-  - shot
-  - Ocean Spray cranberry juice
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: Pink Sin Martini
-rate: 3.0
+comment: This looks a little like a Cosmo but delivers sweet cinnamon and chocolate.
+aka: 
+variant: 
+origin: 
+source: www.diffordsguide.com (1551)
+recipe_steps:
+- amount: '1'
+  doze: shot
+  ingredient_name: Ocean Spray cranberry juice
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Ketel One vodka
+- amount: '1'
+  doze: shot
+  ingredient_name: White crème de cacao liqueur
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Goldschlager cinnamon schnapps

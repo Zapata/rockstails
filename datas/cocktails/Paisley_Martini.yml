@@ -1,19 +1,21 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Paisley Martini
+method: STIR all ingredients with ice and strain into chilled glass.
+rate: 4.0
 garnish: Lemon zest twist
 glass: Martini
-infos: 
-  Comment: A dry Martini for those with a penchant for Scotch.
-  source: www.diffordsguide.com (1455)
-ingredients: 
-- - "2 1/2 "
-  - shot
-  - Bombay London dry gin
-- - " 1/4 "
-  - shot
-  - Johnnie Walker Scotch Whisky
-- - " 1/2 "
-  - shot
-  - Noilly Prat dry vermouth
-method: STIR all ingredients with ice and strain into chilled glass.
-name: Paisley Martini
-rate: 4.0
+comment: A dry Martini for those with a penchant for Scotch.
+aka: 
+variant: 
+origin: 
+source: www.diffordsguide.com (1455)
+recipe_steps:
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Noilly Prat dry vermouth
+- amount: '2 1/2 '
+  doze: shot
+  ingredient_name: Bombay London dry gin
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Johnnie Walker Scotch Whisky

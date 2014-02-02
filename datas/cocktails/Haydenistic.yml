@@ -1,20 +1,22 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Haydenistic
+method: STIR all ingredients with ice and strain into chilled glass.
+rate: 4.0
 garnish: Lime zest twist<br />
 glass: Martini
-infos: 
-  Comment: Extremely subtle, like a very complex Wet Vodkatini.
-  Origin: Created in 2007 by Hayden Lambert at The Merchant Hotel, Belfast, Northern Ireland.
-  source: www.diffordsguide.com (2682)
-ingredients: 
-- - "2"
-  - shot
-  - Ketel One vodka
-- - " 1/8 "
-  - shot
-  - St-Germain elderflower liqueur
-- - " 1/8 "
-  - shot
-  - Velvet Falernum liqueur
-method: STIR all ingredients with ice and strain into chilled glass.
-name: Haydenistic
-rate: 4.0
+comment: Extremely subtle, like a very complex Wet Vodkatini.
+aka: 
+variant: 
+origin: Created in 2007 by Hayden Lambert at The Merchant Hotel, Belfast, Northern
+  Ireland.
+source: www.diffordsguide.com (2682)
+recipe_steps:
+- amount: ' 1/8 '
+  doze: shot
+  ingredient_name: St-Germain elderflower liqueur
+- amount: '2'
+  doze: shot
+  ingredient_name: Ketel One vodka
+- amount: ' 1/8 '
+  doze: shot
+  ingredient_name: Velvet Falernum liqueur

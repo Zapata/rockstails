@@ -1,23 +1,32 @@
---- !ruby/object:DirtyCocktail 
-garnish: " Whole lime with scored skin"
-glass: Collins
-infos: 
-  Comment: A blend of white spirits sweetened and melon flavoured by the addition of green-coloured liqueur. Classy!<br /><br />
-  Origin: The above recipe bares little similarity to the notorious Hand Grenade served by the three Tropical Isle Bars and the Funky Pirate bar in New Orleans, USA. Marketed as "New Orleans' most powerful drink" and served in long plastic half-yard hand-grenade shaped vessels this green melon flavoured proprietary drink is available as a pre-mix by mail order from www.tropicalisle.com. In the USA the operators of Tropical Isle have trademarked Hand Grenade so preventing other establishments not licensed by Tropical Isle from selling cocktails of this name.<br /><br />
-  source: www.diffordsguide.com (2438)
-ingredients: 
-- - "1 1/2 "
-  - shot
-  - Bombay London dry gin
-- - "1 1/2 "
-  - shot
-  - Bacardi Superior rum
-- - "1 1/2 "
-  - shot
-  - Ketel One vodka
-- - "1 1/2 "
-  - shot
-  - Midori green melon liqueur
-method: SHAKE all ingredients with ice and strain into glass filled with crushed ice.<br /><br />
+---
 name: Hand Grenade
+method: SHAKE all ingredients with ice and strain into glass filled with crushed ice.<br
+  /><br />
 rate: 3.0
+garnish: ' Whole lime with scored skin'
+glass: Collins
+comment: A blend of white spirits sweetened and melon flavoured by the addition of
+  green-coloured liqueur. Classy!<br /><br />
+aka: 
+variant: 
+origin: The above recipe bares little similarity to the notorious Hand Grenade served
+  by the three Tropical Isle Bars and the Funky Pirate bar in New Orleans, USA. Marketed
+  as "New Orleans' most powerful drink" and served in long plastic half-yard hand-grenade
+  shaped vessels this green melon flavoured proprietary drink is available as a pre-mix
+  by mail order from www.tropicalisle.com. In the USA the operators of Tropical Isle
+  have trademarked Hand Grenade so preventing other establishments not licensed by
+  Tropical Isle from selling cocktails of this name.<br /><br />
+source: www.diffordsguide.com (2438)
+recipe_steps:
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Ketel One vodka
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Bacardi Superior rum
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Bombay London dry gin
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Midori green melon liqueur

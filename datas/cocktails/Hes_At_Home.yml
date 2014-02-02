@@ -1,20 +1,29 @@
---- !ruby/object:DirtyCocktail 
+---
+name: He's At Home
+method: SHAKE all ingredients with ice and fine strain into glass filled with crushed
+  ice.
+rate: 3.5
 garnish: Lime zest twist
 glass: Collins
-infos: 
-  Comment: LeNell's kind of drink and accompanying story. Other Chartreuse lover's should experiment. <br /><br /><br _moz_editor_bogus_node="TRUE" />
-  Origin: This recipe is adapted from one by Del Pedro, Alexander's, New York City. It came to me (in 1997) courtesy of the infamous LeNell Smothers. To quote from Del, "I used to call this a 'Gatsby cooler' at one time, because there seems something kinda evilly 'Hampton-ish' about this drink... but I also called it 'He's At Home' which was the name given to porcelain dildos that Nantucket ship's captain's wives kept stashed in the flue of their fireplaces for the lonely winter nights when the old dog was chasing whales."<br /><br />
-  source: www.diffordsguide.com (2439)
-ingredients: 
-- - " 1/2 "
-  - shot
-  - Freshly squeezed lime juice
-- - "2"
-  - shot
-  - Chartreuse Green liqueur
-- - "1"
-  - dash
-  - Fee Brothers mint bitters
-method: SHAKE all ingredients with ice and fine strain into glass filled with crushed ice.
-name: He's At Home
-rate: 3.5
+comment: LeNell's kind of drink and accompanying story. Other Chartreuse lover's should
+  experiment. <br /><br /><br _moz_editor_bogus_node="TRUE" />
+aka: 
+variant: 
+origin: This recipe is adapted from one by Del Pedro, Alexander's, New York City.
+  It came to me (in 1997) courtesy of the infamous LeNell Smothers. To quote from
+  Del, "I used to call this a 'Gatsby cooler' at one time, because there seems something
+  kinda evilly 'Hampton-ish' about this drink... but I also called it 'He's At Home'
+  which was the name given to porcelain dildos that Nantucket ship's captain's wives
+  kept stashed in the flue of their fireplaces for the lonely winter nights when the
+  old dog was chasing whales."<br /><br />
+source: www.diffordsguide.com (2439)
+recipe_steps:
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Freshly squeezed lime juice
+- amount: '2'
+  doze: shot
+  ingredient_name: Chartreuse Green liqueur
+- amount: '1'
+  doze: dash
+  ingredient_name: Fee Brothers mint bitters

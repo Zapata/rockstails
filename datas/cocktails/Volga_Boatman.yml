@@ -1,20 +1,23 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Volga Boatman
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 3.5
 garnish: Orange zest twist
 glass: Martini
-infos: 
-  Comment: A Screwdriver served straight up with a twist of cherry.
-  Origin: Recipe adapted from David Embury's classic Fine Art of Mixing Drinks. Named after the epic (and somewhat camp) Cecil b. De Mille movie, which took its name from a Russian folksong hymning the Volga - Europe's longest river.
-  source: www.diffordsguide.com (2055)
-ingredients: 
-- - "1 1/2 "
-  - shot
-  - Ketel One vodka
-- - " 3/4 "
-  - shot
-  - Kirschwasser eau de vie
-- - "1 1/2 "
-  - shot
-  - Freshly squeezed orange juice
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: Volga Boatman
-rate: 3.5
+comment: A Screwdriver served straight up with a twist of cherry.
+aka: 
+variant: 
+origin: Recipe adapted from David Embury's classic Fine Art of Mixing Drinks. Named
+  after the epic (and somewhat camp) Cecil b. De Mille movie, which took its name
+  from a Russian folksong hymning the Volga - Europe's longest river.
+source: www.diffordsguide.com (2055)
+recipe_steps:
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Ketel One vodka
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Freshly squeezed orange juice
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Kirschwasser eau de vie

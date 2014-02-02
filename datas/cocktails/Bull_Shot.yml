@@ -1,31 +1,33 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Bull Shot
+method: SHAKE all ingredients with ice and strain into ice-filled glass.
+rate: 3.5
 garnish: Celery salt<br />
 glass: Collins
-infos: 
-  Comment: Cow broth replaces tomato in this Mary for carnivorous drinkers.<br _moz_editor_bogus_node="TRUE" />
-  source: www.diffordsguide.com (2616)
-ingredients: 
-- - "2"
-  - shot
-  - Ketel One vodka
-- - "4"
-  - shot
-  - Cold beef bouillon
-- - " 1/2 "
-  - shot
-  - Freshly squeezed lemon juice
-- - "3"
-  - dash
-  - Worcestershire sauce
-- - "3"
-  - dash
-  - Tobasco hot pepper sauce
-- - "1"
-  - pinch
-  - Salt
-- - "1"
-  - grind
-  - Black pepper
-method: SHAKE all ingredients with ice and strain into ice-filled glass.
-name: Bull Shot
-rate: 3.5
+comment: Cow broth replaces tomato in this Mary for carnivorous drinkers.
+aka: 
+variant: 
+origin: 
+source: www.diffordsguide.com (2616)
+recipe_steps:
+- amount: '2'
+  doze: shot
+  ingredient_name: Ketel One vodka
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Freshly squeezed lemon juice
+- amount: '3'
+  doze: dash
+  ingredient_name: Tobasco hot pepper sauce
+- amount: '3'
+  doze: dash
+  ingredient_name: Worcestershire sauce
+- amount: '1'
+  doze: grind
+  ingredient_name: Black pepper
+- amount: '1'
+  doze: pinch
+  ingredient_name: Salt
+- amount: '4'
+  doze: shot
+  ingredient_name: Cold beef bouillon

@@ -1,19 +1,21 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Zaza
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 4.0
 garnish: Orange zest twist
 glass: Martini
-infos: 
-  AKA: Dubbonet Cocktail
-  Comment: Zaza is a diminutive of Isabelle. But there's nothing diminutive about this simple, yet fantastic drink.
-  Origin: I've adapted this from a recipe in Harry Craddock's 1930 'Savoy Cocktail Book'. It is named after a French play which was a hit around the verge of the 20th century and was followed by opera and film versions.
-  Variant: Substitute Sloe gin or Fino sherry in place of gin.
-  source: www.diffordsguide.com (2123)
-ingredients: 
-- - "2"
-  - shot
-  - Bombay London dry gin
-- - "2"
-  - shot
-  - Dubonnet Red (French made)
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: Zaza
-rate: 4.0
+comment: Zaza is a diminutive of Isabelle. But there's nothing diminutive about this
+  simple, yet fantastic drink.
+aka: Dubbonet Cocktail
+variant: Substitute Sloe gin or Fino sherry in place of gin.
+origin: I've adapted this from a recipe in Harry Craddock's 1930 'Savoy Cocktail Book'.
+  It is named after a French play which was a hit around the verge of the 20th century
+  and was followed by opera and film versions.
+source: www.diffordsguide.com (2123)
+recipe_steps:
+- amount: '2'
+  doze: shot
+  ingredient_name: Dubonnet Red (French made)
+- amount: '2'
+  doze: shot
+  ingredient_name: Bombay London dry gin

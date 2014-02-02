@@ -1,23 +1,24 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Pineapple Blossom
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 4.0
 garnish: Pineapple wedge on rim
 glass: Martini
-infos: 
-  Comment: Richly flavoured but drier than you might expect.
-  Origin: My interpretation of a classic.
-  source: www.diffordsguide.com (1532)
-ingredients: 
-- - "2"
-  - shot
-  - Johnnie Walker Scotch Whisky
-- - "1"
-  - shot
-  - Fresh pressed pineapple juice
-- - " 1/2 "
-  - shot
-  - Freshly squeezed lemon juice
-- - " 1/2 "
-  - shot
-  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: Pineapple Blossom
-rate: 4.0
+comment: Richly flavoured but drier than you might expect.
+aka: 
+variant: 
+origin: My interpretation of a classic.
+source: www.diffordsguide.com (1532)
+recipe_steps:
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Freshly squeezed lemon juice
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- amount: '1'
+  doze: shot
+  ingredient_name: Fresh pressed pineapple juice
+- amount: '2'
+  doze: shot
+  ingredient_name: Johnnie Walker Scotch Whisky

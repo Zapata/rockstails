@@ -1,27 +1,27 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Aviation No.1
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 4.5
 garnish: Lemon zest twist (&amp; optional sugar rim)
 glass: Martini
-infos: 
-  Comment: Benefits from a long shake. Citrus, floral gin with a slightly sour finish.
-  Origin: Recipe adapted from Hugo R. Esslinn's 1916 'Recipes for Mixed Drinks'.
-  source: www.diffordsguide.com (127)
-  Variant: Blue Moon
-ingredients: 
-- - "1 3/4 "
-  - shot
-  - Bombay London dry gin
-- - " 1/2 "
-  - shot
-  - Luxardo maraschino liqueur
-- - " 1/4 "
-  - shot
-  - Benoit Serres crème de violette
-- - " 1/2 "
-  - shot
-  - Freshly squeezed lemon juice
-- - " 1/4 "
-  - shot
-  - Chilled mineral water
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: Aviation No.1
-rate: 4.5
+comment: Benefits from a long shake. Citrus, floral gin with a slightly sour finish.
+aka: 
+variant: Blue Moon
+origin: Recipe adapted from Hugo R. Esslinn's 1916 'Recipes for Mixed Drinks'.
+source: www.diffordsguide.com (127)
+recipe_steps:
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Freshly squeezed lemon juice
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Chilled mineral water
+- amount: '1 3/4 '
+  doze: shot
+  ingredient_name: Bombay London dry gin
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Luxardo maraschino liqueur
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Benoit Serres crème de violette

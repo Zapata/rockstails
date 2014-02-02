@@ -1,26 +1,27 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Opal
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 4.5
 garnish: Orange zest twist
 glass: Martini
-infos: 
-  Comment: Fresh, fragrant flavours of orange zest and gin.
-  Origin: Adapted from the 1920s recipe.
-  source: www.diffordsguide.com (1434)
-ingredients: 
-- - "2"
-  - shot
-  - Bombay London dry gin
-- - " 1/2 "
-  - shot
-  - Cointreau triple sec
-- - "1 1/4 "
-  - shot
-  - Freshly squeezed orange juice
-- - " 1/4 "
-  - shot
-  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
-- - " 1/8 "
-  - shot
-  - Orange flower water
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: Opal
-rate: 4.5
+comment: Fresh, fragrant flavours of orange zest and gin.
+aka: 
+variant: 
+origin: Adapted from the 1920s recipe.
+source: www.diffordsguide.com (1434)
+recipe_steps:
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Cointreau triple sec
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- amount: '1 1/4 '
+  doze: shot
+  ingredient_name: Freshly squeezed orange juice
+- amount: '2'
+  doze: shot
+  ingredient_name: Bombay London dry gin
+- amount: ' 1/8 '
+  doze: shot
+  ingredient_name: Orange flower water

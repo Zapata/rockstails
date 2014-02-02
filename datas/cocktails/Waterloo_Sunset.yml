@@ -1,23 +1,26 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Waterloo Sunset
+method: STIR first two ingredients with ice and strain into chilled glass. TOP with
+  champagne. Add raspberry liqueur.<br />
+rate: 4.0
 garnish: Raspberry on pick<br />
 glass: Flute
-infos: 
-  Comment: Fruity, pink champagne. Girls are going to love it.
-  Origin: Created in 2008 by Dan Warner, the Beefeater Global Ambassador, hence originally made using said gin.<br />
-  source: www.diffordsguide.com (2869)
-ingredients: 
-- - "1"
-  - shot
-  - Bombay London dry gin
-- - " 1/2 "
-  - shot
-  - St-Germain elderflower liqueur
-- - "1"
-  - top up with
-  - Perrier Jouet brut champagne
-- - " 1/4 "
-  - shot
-  - Chambord
-method: STIR first two ingredients with ice and strain into chilled glass. TOP with champagne. Add raspberry liqueur.<br />
-name: Waterloo Sunset
-rate: 4.0
+comment: Fruity, pink champagne. Girls are going to love it.
+aka: 
+variant: 
+origin: Created in 2008 by Dan Warner, the Beefeater Global Ambassador, hence originally
+  made using said gin.<br />
+source: www.diffordsguide.com (2869)
+recipe_steps:
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: St-Germain elderflower liqueur
+- amount: '1'
+  doze: shot
+  ingredient_name: Bombay London dry gin
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Chambord
+- amount: '1'
+  doze: top up with
+  ingredient_name: Perrier Jouet brut champagne

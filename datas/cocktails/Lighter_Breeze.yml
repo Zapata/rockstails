@@ -1,22 +1,24 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Lighter Breeze
+method: POUR all ingredients into ice-filled glass. Stir and serve with straws.
+rate: 3.5
 garnish: Apple wedge on rim
 glass: Collins
-infos: 
-  Comment: Long, fragrant and refreshing.
-  source: www.diffordsguide.com (1156)
-ingredients: 
-- - "1"
-  - shot
-  - St-Germain elderflower liqueur
-- - " 1/2 "
-  - shot
-  - Pernod anis
-- - "3"
-  - shot
-  - Pressed apple juice
-- - " 1/2 "
-  - shot
-  - Ocean Spray cranberry juice
-method: POUR all ingredients into ice-filled glass. Stir and serve with straws.
-name: Lighter Breeze
-rate: 3.5
+comment: Long, fragrant and refreshing.
+aka: 
+variant: 
+origin: 
+source: www.diffordsguide.com (1156)
+recipe_steps:
+- amount: '1'
+  doze: shot
+  ingredient_name: St-Germain elderflower liqueur
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Ocean Spray cranberry juice
+- amount: '3'
+  doze: shot
+  ingredient_name: Pressed apple juice
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Pernod anis

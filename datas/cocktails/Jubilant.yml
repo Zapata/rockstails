@@ -1,26 +1,27 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Jubilant
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 4.5
 garnish: orange slice on rim
 glass: Martini
-infos: 
-  Comment: Wnderfully balanced, aromatic, herbal and fruity.
-  Origin: A long lost classic.
-  source: www.diffordsguide.com (1073)
-ingredients: 
-- - "1 1/2 "
-  - shot
-  - Bombay London dry gin
-- - " 3/4 "
-  - shot
-  - Bénédictine D.O.M.
-- - " 1/2 "
-  - shot
-  - Freshly squeezed lemon juice
-- - " 1/2 "
-  - shot
-  - Freshly squeezed orange juice
-- - " 1/2 "
-  - fresh
-  - Egg white
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: Jubilant
-rate: 4.5
+comment: Wnderfully balanced, aromatic, herbal and fruity.
+aka: 
+variant: 
+origin: A long lost classic.
+source: www.diffordsguide.com (1073)
+recipe_steps:
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Freshly squeezed lemon juice
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Freshly squeezed orange juice
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Bombay London dry gin
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Bénédictine D.O.M.
+- amount: ' 1/2 '
+  doze: fresh
+  ingredient_name: Egg white

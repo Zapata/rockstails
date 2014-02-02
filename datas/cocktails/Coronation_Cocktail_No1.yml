@@ -1,23 +1,24 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Coronation Cocktail No.1
+method: STIR all ingredients with ice and strain into chilled glass.
+rate: 4.5
 garnish: Orange zest twist
 glass: Martini
-infos: 
-  Comment: Medium dry and wonderfully aromatic.
-  Origin: Adapted from Harry Craddock's 1930 'The Savoy Cocktail Book'.
-  source: www.diffordsguide.com (470)
-ingredients: 
-- - "1 1/2 "
-  - shot
-  - Tio Pepe fino sherry
-- - " 1/4 "
-  - shot
-  - Luxardo maraschino liqueur
-- - "1 1/2 "
-  - shot
-  - Noilly Prat dry vermouth
-- - "2"
-  - dash
-  - Angostura orange bitters
-method: STIR all ingredients with ice and strain into chilled glass.
-name: Coronation Cocktail No.1
-rate: 4.5
+comment: Medium dry and wonderfully aromatic.
+aka: 
+variant: 
+origin: Adapted from Harry Craddock's 1930 'The Savoy Cocktail Book'.
+source: www.diffordsguide.com (470)
+recipe_steps:
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Noilly Prat dry vermouth
+- amount: '2'
+  doze: dash
+  ingredient_name: Angostura orange bitters
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Luxardo maraschino liqueur
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Tio Pepe fino sherry

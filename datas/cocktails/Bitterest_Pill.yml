@@ -1,20 +1,22 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Bitterest Pill
+method: Refrigerate ingredients then LAYER in chilled glass by carefully pouring in
+  the following order.
+rate: 3.5
 garnish: 
 glass: Shot
-infos: 
-  Comment: The bitterness of Campari, toned down by passion fruit sugar syrup.
-  Origin: Created by Alex Kammerling, London, England.
-  source: www.diffordsguide.com (221)
-ingredients: 
-- - " 1/2 "
-  - shot
-  - Ketel One vodka
-- - " 1/2 "
-  - shot
-  - Campari Bitter
-- - " 1/2 "
-  - shot
-  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
-method: Refrigerate ingredients then LAYER in chilled glass by carefully pouring in the following order.
-name: Bitterest Pill
-rate: 3.5
+comment: The bitterness of Campari, toned down by passion fruit sugar syrup.
+aka: 
+variant: 
+origin: Created by Alex Kammerling, London, England.
+source: www.diffordsguide.com (221)
+recipe_steps:
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Ketel One vodka
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Campari Bitter

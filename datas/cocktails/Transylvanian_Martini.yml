@@ -1,20 +1,21 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Transylvanian Martini
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 3.0
 garnish: Pineapple wedge
 glass: Martini
-infos: 
-  Comment: A tad sweet and a tad dull.
-  Origin: Created for the 1994 International Bartenders cocktail competition.
-  source: www.diffordsguide.com (1981)
-ingredients: 
-- - "2"
-  - shot
-  - Ketel One vodka
-- - "1"
-  - shot
-  - Passoa passion fruit liqueur
-- - "1"
-  - shot
-  - Fresh pressed pineapple juice
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: Transylvanian Martini
-rate: 3.0
+comment: A tad sweet and a tad dull.
+aka: 
+variant: 
+origin: Created for the 1994 International Bartenders cocktail competition.
+source: www.diffordsguide.com (1981)
+recipe_steps:
+- amount: '2'
+  doze: shot
+  ingredient_name: Ketel One vodka
+- amount: '1'
+  doze: shot
+  ingredient_name: Fresh pressed pineapple juice
+- amount: '1'
+  doze: shot
+  ingredient_name: Passoa passion fruit liqueur

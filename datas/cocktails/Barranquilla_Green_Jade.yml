@@ -1,25 +1,27 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Barranquilla Green Jade
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 3.0
 garnish: Green cherry &amp; mint sprig
 glass: Martini
-infos: 
-  Comment: Lime green in colour, a tad minty and creamy smooth.
-  source: www.diffordsguide.com (537)
-ingredients: 
-- - "2"
-  - shot
-  - Bombay London dry gin
-- - "1"
-  - shot
-  - "Green cr\xE8me de menthe liqueur"
-- - " 1/2 "
-  - shot
-  - Double (heavy) cream
-- - " 1/2 "
-  - shot
-  - Milk
-- - " 1/2 "
-  - fresh
-  - Egg white
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: Barranquilla Green Jade
-rate: 3.0
+comment: Lime green in colour, a tad minty and creamy smooth.
+aka: 
+variant: 
+origin: 
+source: www.diffordsguide.com (537)
+recipe_steps:
+- amount: '2'
+  doze: shot
+  ingredient_name: Bombay London dry gin
+- amount: '1'
+  doze: shot
+  ingredient_name: Green crème de menthe liqueur
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Double (heavy) cream
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Milk
+- amount: ' 1/2 '
+  doze: fresh
+  ingredient_name: Egg white

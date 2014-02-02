@@ -1,23 +1,24 @@
---- !ruby/object:DirtyCocktail 
+---
+name: 'Flamingo #2'
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 3.5
 garnish: Star fruit
 glass: Martini
-infos: 
-  Comment: A tasty, pink drink with a frothy top.
-  Origin: Classic of unknown origins.
-  source: www.diffordsguide.com (759)
-ingredients: 
-- - "2"
-  - shot
-  - Zacapa aged rum
-- - "1 1/2 "
-  - shot
-  - Fresh pressed pineapple juice
-- - " 1/2 "
-  - shot
-  - Freshly squeezed lime juice
-- - " 1/8 "
-  - shot
-  - Pomegranate (grenadine) syrup
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: "Flamingo #2"
-rate: 3.5
+comment: A tasty, pink drink with a frothy top.
+aka: 
+variant: 
+origin: Classic of unknown origins.
+source: www.diffordsguide.com (759)
+recipe_steps:
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Freshly squeezed lime juice
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Fresh pressed pineapple juice
+- amount: ' 1/8 '
+  doze: shot
+  ingredient_name: Pomegranate (grenadine) syrup
+- amount: '2'
+  doze: shot
+  ingredient_name: Zacapa aged rum

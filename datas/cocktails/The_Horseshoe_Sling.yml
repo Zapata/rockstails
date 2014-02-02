@@ -1,29 +1,31 @@
---- !ruby/object:DirtyCocktail 
+---
+name: The Horseshoe Sling
+method: SHAKE first 5 ingredients with ice and strain into ice-filled glass. TOP with
+  champagne.
+rate: 4.0
 garnish: Fresh seasonal fruit<br />
 glass: Collins
-infos: 
-  Comment: Like its creator, this is upfront and refreshingly different.
-  Origin: Adapted from a drink created by Gary Regan, New York, USA.
-  source: www.diffordsguide.com (2689)
-ingredients: 
-- - "2"
-  - shot
-  - Herradura 100% agave tequila
-- - " 3/4 "
-  - shot
-  - Freshly squeezed lime juice
-- - " 1/2 "
-  - shot
-  - Bénédictine D.O.M.
-- - " 1/2 "
-  - shot
-  - Heering cherry brandy liqueur
-- - "1 1/2 "
-  - shot
-  - Fresh pressed pineapple juice
-- - "1"
-  - top up with
-  - Perrier Jouet brut champagne
-method: SHAKE first 5 ingredients with ice and strain into ice-filled glass. TOP with champagne.
-name: The Horseshoe Sling
-rate: 4.0
+comment: Like its creator, this is upfront and refreshingly different.
+aka: 
+variant: 
+origin: Adapted from a drink created by Gary Regan, New York, USA.
+source: www.diffordsguide.com (2689)
+recipe_steps:
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Heering cherry brandy liqueur
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Freshly squeezed lime juice
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Fresh pressed pineapple juice
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Bénédictine D.O.M.
+- amount: '2'
+  doze: shot
+  ingredient_name: Herradura 100% agave tequila
+- amount: '1'
+  doze: top up with
+  ingredient_name: Perrier Jouet brut champagne

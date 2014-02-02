@@ -1,23 +1,25 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Thai Lemonade
+method: MUDDLE coriander in base of shaker. Add next 2 ingredients, SHAKE with ice
+  and fine strain into ice-filled glass. TOP with ginger beer.
+rate: 4.0
 garnish: Lime wedge
 glass: Collins
-infos: 
-  Comment: Lime lemonade with Thai influences courtesy of ginger, almond and coriander.
-  Origin: Adapted from a drink created in 2005 by Charlotte Voisey, London, England.
-  source: www.diffordsguide.com (1945)
-ingredients: 
-- - "5"
-  - inch
-  - Freshly squeezed lemon juice
-- - "2"
-  - shot
-  - Freshly squeezed lime juice
-- - " 1/2 "
-  - shot
-  - Monin Almond (orgeat) syrup
-- - "1"
-  - top up with
-  - Ginger beer
-method: MUDDLE coriander in base of shaker. Add next 2 ingredients, SHAKE with ice and fine strain into ice-filled glass. TOP with ginger beer.
-name: Thai Lemonade
-rate: 4.0
+comment: Lime lemonade with Thai influences courtesy of ginger, almond and coriander.
+aka: 
+variant: 
+origin: Adapted from a drink created in 2005 by Charlotte Voisey, London, England.
+source: www.diffordsguide.com (1945)
+recipe_steps:
+- amount: '2'
+  doze: shot
+  ingredient_name: Freshly squeezed lime juice
+- amount: '5'
+  doze: inch
+  ingredient_name: Freshly squeezed lemon juice
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Monin Almond (orgeat) syrup
+- amount: '1'
+  doze: top up with
+  ingredient_name: Ginger beer

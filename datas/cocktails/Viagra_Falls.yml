@@ -1,23 +1,24 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Viagra Falls
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 3.5
 garnish: Orange zest twist
 glass: Martini
-infos: 
-  Comment: Aniseed and apple - sure to get your pecker up.
-  Origin: Created by Jack Leuwens, London, England.
-  source: www.diffordsguide.com (2047)
-ingredients: 
-- - " 3/4 "
-  - shot
-  - "La F\xE9e Parisienne (68%) absinthe"
-- - "1 1/2 "
-  - shot
-  - Sour apple liqueur
-- - "1 3/4 "
-  - shot
-  - Chilled mineral water
-- - "2"
-  - dash
-  - Angostura orange bitters
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: Viagra Falls
-rate: 3.5
+comment: Aniseed and apple - sure to get your pecker up.
+aka: 
+variant: 
+origin: Created by Jack Leuwens, London, England.
+source: www.diffordsguide.com (2047)
+recipe_steps:
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: La Fée Parisienne (68%) absinthe
+- amount: '1 3/4 '
+  doze: shot
+  ingredient_name: Chilled mineral water
+- amount: '2'
+  doze: dash
+  ingredient_name: Angostura orange bitters
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Sour apple liqueur

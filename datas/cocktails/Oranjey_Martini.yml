@@ -1,29 +1,30 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Oranjey Martini
+method: STIR all ingredients with ice and fine strain into chilled glass. <br />
+rate: 4.0
 garnish: Orange zest twist<br />
 glass: Coupette
-infos: 
-  Comment: Dry, and yes, very orangey with bittersweet orange complexity.
-  Origin: <br _moz_editor_bogus_node="TRUE" />
-  source: www.diffordsguide.com (2831)
-ingredients: 
-- - "1"
-  - shot
-  - Ketel One vodka
-- - "1"
-  - shot
-  - Orange-infused Ketel One vodka
-- - " 1/2 "
-  - shot
-  - Cointreau triple sec
-- - " 1/4 "
-  - shot
-  - Freshly squeezed orange juice
-- - " 1/4 "
-  - shot
-  - Martini Rosso sweet vermouth
-- - " 1/8 "
-  - shot
-  - Campari Bitter
-method: STIR all ingredients with ice and fine strain into chilled glass. <br />
-name: Oranjey Martini
-rate: 4.0
+comment: Dry, and yes, very orangey with bittersweet orange complexity.
+aka: 
+variant: 
+origin: <br _moz_editor_bogus_node="TRUE" />
+source: www.diffordsguide.com (2831)
+recipe_steps:
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Cointreau triple sec
+- amount: '1'
+  doze: shot
+  ingredient_name: Ketel One vodka
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Freshly squeezed orange juice
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Martini Rosso sweet vermouth
+- amount: ' 1/8 '
+  doze: shot
+  ingredient_name: Campari Bitter
+- amount: '1'
+  doze: shot
+  ingredient_name: Orange-infused Ketel One vodka

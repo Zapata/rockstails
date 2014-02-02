@@ -1,19 +1,23 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Coco Naut
+method: BLEND ingredients with 12oz scoop of crushed ice. Pour into glass and serve
+  with straws.
+rate: 2.5
 garnish: Pineapple wedge on rim
 glass: Hurricane
-infos: 
-  Comment: This snow-white drink is hardly innocent with a double shot of overproof rum masked by the sweet coconut.
-  source: www.diffordsguide.com (450)
-ingredients: 
-- - "2"
-  - shot
-  - Wray & Nephew overproof rum
-- - "1 1/2 "
-  - shot
-  - Coco Lpez cream of coconut
-- - "1"
-  - shot
-  - Freshly squeezed lime juice
-method: BLEND ingredients with 12oz scoop of crushed ice. Pour into glass and serve with straws.
-name: Coco Naut
-rate: 2.5
+comment: This snow-white drink is hardly innocent with a double shot of overproof
+  rum masked by the sweet coconut.
+aka: 
+variant: 
+origin: 
+source: www.diffordsguide.com (450)
+recipe_steps:
+- amount: '1'
+  doze: shot
+  ingredient_name: Freshly squeezed lime juice
+- amount: '2'
+  doze: shot
+  ingredient_name: Wray & Nephew overproof rum
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Coco Lpez cream of coconut

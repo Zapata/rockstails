@@ -1,19 +1,23 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Woo Woo
+method: '<div style="text-align: justify;">SHAKE all ingredients with ice and strain
+  into ice-filled glass.</div>'
+rate: 3.0
 garnish: Lime wedge
 glass: Old-fashioned
-infos: 
-  Comment: Fruity, dry cranberry laced with vodka and peach. Not nearly as bad as its reputation but still lost in the eighties.
-  source: www.diffordsguide.com (2110)
-ingredients: 
-- - "2"
-  - shot
-  - Ketel One vodka
-- - "1"
-  - shot
-  - Peach Tree peach schnapps
-- - "2"
-  - shot
-  - Ocean Spray cranberry juice
-method: "<div style=\"text-align: justify;\">SHAKE all ingredients with ice and strain into ice-filled glass.</div>"
-name: Woo Woo
-rate: 3.0
+comment: Fruity, dry cranberry laced with vodka and peach. Not nearly as bad as its
+  reputation but still lost in the eighties.
+aka: 
+variant: 
+origin: 
+source: www.diffordsguide.com (2110)
+recipe_steps:
+- amount: '2'
+  doze: shot
+  ingredient_name: Ocean Spray cranberry juice
+- amount: '2'
+  doze: shot
+  ingredient_name: Ketel One vodka
+- amount: '1'
+  doze: shot
+  ingredient_name: Peach Tree peach schnapps

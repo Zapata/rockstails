@@ -1,29 +1,31 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Facundo's Flare
+method: <p>SHAKE all ingredients with ice and fine strain into chilled glass.</p>
+rate: 3.5
 garnish: <p>None</p>
 glass: Martini
-infos: 
-  Comment: <p>So smooth this drink is almost creamy. Vanilla dominates with fruity hints of rum.</p><br /><br _moz_editor_bogus_node="TRUE" />
-  Origin: <p>Created by Bruce Hamilton at Tigerlily, Edinburgh, Scotland.</p><br />
-  source: www.diffordsguide.com (2402)
-ingredients: 
-- - "1 1/2 "
-  - shot
-  - Bacardi Superior rum
-- - " 1/2 "
-  - shot
-  - Aperol
-- - "1"
-  - shot
-  - Freshly squeezed orange juice
-- - " 1/2 "
-  - shot
-  - Monin Vanilla sugar syrup
-- - "2"
-  - dash
-  - Peach bitters
-- - " 1/2 "
-  - fresh
-  - Egg white
-method: <p>SHAKE all ingredients with ice and fine strain into chilled glass.</p>
-name: Facundo's Flare
-rate: 3.5
+comment: <p>So smooth this drink is almost creamy. Vanilla dominates with fruity hints
+  of rum.</p><br /><br _moz_editor_bogus_node="TRUE" />
+aka: 
+variant: 
+origin: <p>Created by Bruce Hamilton at Tigerlily, Edinburgh, Scotland.</p><br />
+source: www.diffordsguide.com (2402)
+recipe_steps:
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Aperol
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Bacardi Superior rum
+- amount: '1'
+  doze: shot
+  ingredient_name: Freshly squeezed orange juice
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Monin Vanilla sugar syrup
+- amount: '2'
+  doze: dash
+  ingredient_name: Peach bitters
+- amount: ' 1/2 '
+  doze: fresh
+  ingredient_name: Egg white

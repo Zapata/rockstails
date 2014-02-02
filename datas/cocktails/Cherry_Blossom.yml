@@ -1,25 +1,27 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Cherry Blossom
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 3.5
 garnish: Maraschino cherry in drink
 glass: Martini
-infos: 
-  Comment: Bundles of flavour - tangy and moreish.
-  source: www.diffordsguide.com (406)
-ingredients: 
-- - " 3/4 "
-  - shot
-  - Heering cherry brandy liqueur
-- - " 3/4 "
-  - shot
-  - Kirschwasser eau de vie
-- - " 1/2 "
-  - shot
-  - Cointreau triple sec
-- - " 1/4 "
-  - shot
-  - Maraschino syrup (from cherry jar)
-- - "1 1/4 "
-  - shot
-  - Freshly squeezed lemon juice
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: Cherry Blossom
-rate: 3.5
+comment: Bundles of flavour - tangy and moreish.
+aka: 
+variant: 
+origin: 
+source: www.diffordsguide.com (406)
+recipe_steps:
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Heering cherry brandy liqueur
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Cointreau triple sec
+- amount: '1 1/4 '
+  doze: shot
+  ingredient_name: Freshly squeezed lemon juice
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Maraschino syrup (from cherry jar)
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Kirschwasser eau de vie

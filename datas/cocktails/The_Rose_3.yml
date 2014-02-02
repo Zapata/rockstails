@@ -1,20 +1,21 @@
---- !ruby/object:DirtyCocktail 
+---
+name: 'The Rose #3'
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 4.5
 garnish: Maraschino cherry
 glass: Martini
-infos: 
-  Comment: Delicate, aromatic cherry - not too sweet.
-  Origin: Adapted from a recipe in Harry Craddock's 1930 Savoy Cocktail book.
-  source: www.diffordsguide.com (1693)
-ingredients: 
-- - "1 1/2 "
-  - shot
-  - Kirsch liqueur
-- - "1 1/2 "
-  - shot
-  - Noilly Prat dry vermouth
-- - " 1/2 "
-  - shot
-  - Pomegranate (grenadine) syrup
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: "The Rose #3"
-rate: 4.5
+comment: Delicate, aromatic cherry - not too sweet.
+aka: 
+variant: 
+origin: Adapted from a recipe in Harry Craddock's 1930 Savoy Cocktail book.
+source: www.diffordsguide.com (1693)
+recipe_steps:
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Noilly Prat dry vermouth
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Pomegranate (grenadine) syrup
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Kirsch liqueur

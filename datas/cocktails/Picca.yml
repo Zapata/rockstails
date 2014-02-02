@@ -1,22 +1,24 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Picca
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 4.0
 garnish: Maraschino cherry
 glass: Martini
-infos: 
-  Comment: Bittersweet whisky
-  source: www.diffordsguide.com (1517)
-ingredients: 
-- - "1 1/2 "
-  - shot
-  - Johnnie Walker Scotch Whisky
-- - "1"
-  - shot
-  - Galliano L'Autentico liqueur
-- - "1"
-  - shot
-  - Martini Rosso sweet vermouth
-- - " 3/4 "
-  - shot
-  - Chilled mineral water
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: Picca
-rate: 4.0
+comment: Bittersweet whisky
+aka: 
+variant: 
+origin: 
+source: www.diffordsguide.com (1517)
+recipe_steps:
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Chilled mineral water
+- amount: '1'
+  doze: shot
+  ingredient_name: Galliano L'Autentico liqueur
+- amount: '1'
+  doze: shot
+  ingredient_name: Martini Rosso sweet vermouth
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Johnnie Walker Scotch Whisky

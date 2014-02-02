@@ -1,29 +1,33 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Don's Passion
+method: Cut passion fruit in half and scoop out flesh and seeds into shaker. Add next
+  4 ingredients, SHAKE with ice and fine strain into chilled glass. Pour grenadine
+  into centre of drink (should sink to bottom).<br /><br />
+rate: 3.5
 garnish: Half a passion fruit<br />
 glass: Coupette
-infos: 
-  Comment: Passion fruit and Galliano influence this Bacardi Cocktail style drink.
-  Origin: Created in 2008 by Symeon White at Avon Gorge Hotel, Bristol, UK. <br /><br />
-  source: www.diffordsguide.com (2384)
-ingredients: 
-- - "1"
-  - fresh
-  - Passion fruit
-- - "2"
-  - shot
-  - Bacardi Superior rum
-- - " 1/2 "
-  - shot
-  - Galliano L'Autentico liqueur
-- - "1"
-  - shot
-  - Freshly squeezed lime juice
-- - " 1/2 "
-  - shot
-  - Freshly squeezed orange juice
-- - " 1/4 "
-  - shot
-  - Pomegranate (grenadine) syrup
-method: Cut passion fruit in half and scoop out flesh and seeds into shaker. Add next 4 ingredients, SHAKE with ice and fine strain into chilled glass. Pour grenadine into centre of drink (should sink to bottom).<br /><br />
-name: Don's Passion
-rate: 3.5
+comment: Passion fruit and Galliano influence this Bacardi Cocktail style drink.
+aka: 
+variant: 
+origin: Created in 2008 by Symeon White at Avon Gorge Hotel, Bristol, UK. <br /><br
+  />
+source: www.diffordsguide.com (2384)
+recipe_steps:
+- amount: '1'
+  doze: shot
+  ingredient_name: Freshly squeezed lime juice
+- amount: '2'
+  doze: shot
+  ingredient_name: Bacardi Superior rum
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Galliano L'Autentico liqueur
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Freshly squeezed orange juice
+- amount: '1'
+  doze: fresh
+  ingredient_name: Passion fruit
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Pomegranate (grenadine) syrup

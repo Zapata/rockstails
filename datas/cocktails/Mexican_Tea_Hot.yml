@@ -1,19 +1,21 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Mexican Tea (Hot)
+method: Place bar spoon in warmed glass. POUR all ingredients into glass and stir.
+rate: 4.5
 garnish: Lime slice
 glass: Toddy
-infos: 
-  Comment: Tiffin will never be the same again.
-  source: www.diffordsguide.com (1308)
-ingredients: 
-- - "2"
-  - shot
-  - Herradura 100% agave tequila
-- - " 1/2 "
-  - shot
-  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
-- - "1"
-  - top up with
-  - Cold English breakfast tea
-method: Place bar spoon in warmed glass. POUR all ingredients into glass and stir.
-name: Mexican Tea (Hot)
-rate: 4.5
+comment: Tiffin will never be the same again.
+aka: 
+variant: 
+origin: 
+source: www.diffordsguide.com (1308)
+recipe_steps:
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- amount: '2'
+  doze: shot
+  ingredient_name: Herradura 100% agave tequila
+- amount: '1'
+  doze: top up with
+  ingredient_name: Cold English breakfast tea

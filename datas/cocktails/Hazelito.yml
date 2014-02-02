@@ -1,26 +1,28 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Hazel'ito
+method: Lightly MUDDLE mint in base of glass (just to bruise). Add other ingredients,
+  fill glass with crushed ice and CHURN (stir) with bar spoon to mix.
+rate: 4.5
 garnish: 
 glass: Collins
-infos: 
-  Comment: Looks like a Mojito but has a nutty twang courtesy of the hazelnut liqueur.
-  Origin: Created in January 2002 by Adam Wyartt, London, England.
-  source: www.diffordsguide.com (946)
-ingredients: 
-- - "12"
-  - fresh
-  - Mint leaves
-- - "2"
-  - shot
-  - Bacardi Superior rum
-- - "2"
-  - shot
-  - Hazelnut liqueur
-- - "1"
-  - shot
-  - Freshly squeezed lime juice
-- - " 1/2 "
-  - shot
-  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
-method: Lightly MUDDLE mint in base of glass (just to bruise). Add other ingredients, fill glass with crushed ice and CHURN (stir) with bar spoon to mix.
-name: Hazel'ito
-rate: 4.5
+comment: Looks like a Mojito but has a nutty twang courtesy of the hazelnut liqueur.
+aka: 
+variant: 
+origin: Created in January 2002 by Adam Wyartt, London, England.
+source: www.diffordsguide.com (946)
+recipe_steps:
+- amount: '1'
+  doze: shot
+  ingredient_name: Freshly squeezed lime juice
+- amount: '12'
+  doze: fresh
+  ingredient_name: Mint leaves
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- amount: '2'
+  doze: shot
+  ingredient_name: Bacardi Superior rum
+- amount: '2'
+  doze: shot
+  ingredient_name: Hazelnut liqueur

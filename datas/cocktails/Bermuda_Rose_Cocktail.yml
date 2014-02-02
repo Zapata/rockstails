@@ -1,23 +1,25 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Bermuda Rose Cocktail
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 4.0
 garnish: Apricot slice (dried or fresh) on rim
 glass: Martini
-infos: 
-  Comment: Delicate, floral and aromatic. A hint of sweetness but not so as to offend.
-  Origin: Adapted from Victor Bergeron's 'Trader vic's Bartender's Guide' (1972 revised edition).
-  source: www.diffordsguide.com (543)
-ingredients: 
-- - "2"
-  - shot
-  - Bombay London dry gin
-- - " 1/2 "
-  - shot
-  - Bols apricot brandy liqueur
-- - " 1/4 "
-  - shot
-  - Pomegranate (grenadine) syrup
-- - " 1/2 "
-  - shot
-  - Chilled mineral water
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: Bermuda Rose Cocktail
-rate: 4.0
+comment: Delicate, floral and aromatic. A hint of sweetness but not so as to offend.
+aka: 
+variant: 
+origin: Adapted from Victor Bergeron's 'Trader vic's Bartender's Guide' (1972 revised
+  edition).
+source: www.diffordsguide.com (543)
+recipe_steps:
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Bols apricot brandy liqueur
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Chilled mineral water
+- amount: '2'
+  doze: shot
+  ingredient_name: Bombay London dry gin
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Pomegranate (grenadine) syrup

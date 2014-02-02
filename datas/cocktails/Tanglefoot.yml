@@ -1,22 +1,24 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Tanglefoot
+method: SHAKE all ingredients with ice and fine strain into chilled glass.<br />
+rate: 4.0
 garnish: Orange zest twist<br />
 glass: Coupette
-infos: 
-  Comment: Light rum, lemon and orange juice served short with a tang of Swedish punch.
-  source: www.diffordsguide.com (2863)
-ingredients: 
-- - "2"
-  - shot
-  - Bacardi Superior rum
-- - "1"
-  - shot
-  - Swedish Punch liqueur
-- - " 1/2 "
-  - shot
-  - Freshly squeezed lemon juice
-- - " 1/2 "
-  - shot
-  - Freshly squeezed orange juice
-method: SHAKE all ingredients with ice and fine strain into chilled glass.<br />
-name: Tanglefoot
-rate: 4.0
+comment: Light rum, lemon and orange juice served short with a tang of Swedish punch.
+aka: 
+variant: 
+origin: 
+source: www.diffordsguide.com (2863)
+recipe_steps:
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Freshly squeezed lemon juice
+- amount: '2'
+  doze: shot
+  ingredient_name: Bacardi Superior rum
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Freshly squeezed orange juice
+- amount: '1'
+  doze: shot
+  ingredient_name: Swedish Punch liqueur

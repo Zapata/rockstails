@@ -1,16 +1,20 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Cajun Martini
+method: STIR vermouth with ice. Strain, discarding vermouth to leave only a coating
+  on the ice. Pour pepper vodka into mixing glass, stir with coated ice and strain
+  into chilled glass.
+rate: 3.0
 garnish: Chilli pepper
 glass: Martini
-infos: 
-  Comment: A very hot vodka Martini. I dare you!
-  source: www.diffordsguide.com (358)
-ingredients: 
-- - "2 1/2 "
-  - shot
-  - Pepper-infused Ketel One vodka
-- - " 1/2 "
-  - shot
-  - Noilly Prat dry vermouth
-method: STIR vermouth with ice. Strain, discarding vermouth to leave only a coating on the ice. Pour pepper vodka into mixing glass, stir with coated ice and strain into chilled glass.
-name: Cajun Martini
-rate: 3.0
+comment: A very hot vodka Martini. I dare you!
+aka: 
+variant: 
+origin: 
+source: www.diffordsguide.com (358)
+recipe_steps:
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Noilly Prat dry vermouth
+- amount: '2 1/2 '
+  doze: shot
+  ingredient_name: Pepper-infused Ketel One vodka

@@ -1,21 +1,59 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Margarita Straight-Up (Standard Recipe)
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 4.5
 garnish: Salt rim &amp; lime wedge
 glass: Margarita
-infos: 
-  Comment: For the perfect salt rim, liquidise sea salt to make it finer, then run a lime wedge around the outside edge of the glass before dipping the rim in salt. Rimming only half the glass with salt gives the drinker the option of enjoying the cocktail with or without salt.<br /><br />
-  Origin: "The Margarita can be considered a Tequila Sour, or a Tequila Sidecar, and two variations of this classic cocktail date back to the 1930s: the Tequila Daisy and the Picador. Both, however, lack the distinctive salt rim.<br />       <br />There are many people who claim to have invented the Margarita, which, as Spanish for 'daisy' and a popular woman's name, would have been a very common name for a drink. A brief summary of the top claimants:<br />       <br />Francisco 'Pancho' Morales, while working in a bar called Tommy's Place in Ciudad Juarez, Mexico, was asked to make a 'Magnolia' on the 4th July 1942, but couldn't remember it so created this drink. The customer's name may even have been Margarita.<br />       <br />Carlos 'Danny' Herrera created the cocktail either in 1947 or 1948 at his Rancho La Gloria bar in Rosarito, Mexico, for an actress called Marjorie King who drank no spirit but tequila. He added Cointreau and lime, and the unique salt rim that caught people's attention at the bar, then named his creation Margarita, the Spanish for Marjorie.<br />       <br />Daniel (Danny) Negrete created the drink in 1936 when he was the manager of Garci Crespo Hotel in Puebla, Mexico. His girlfriend, Margarita, apparently liked salt in her drinks and he is said to have created the drink for her as a present. In 1944 Danny moved to Tijuana, Mexico, and became a bartender at the Agua Caliente Racetrack, a place which has some claim to be the birthplace of the Margarita in the early 1930s.<br />       <br />Vernon Underwood was president of Young's Market Company, who in the 1930s had started distributing Cuervo tequila. He went to Johnny Durlesser, head bartender of the Tail O' The Cock in LA, and asked him to create something using his spirit, then named it after his wife Margaret (Margarita).<br />       <br />Sara Morales, an expert in Mexican folklore, claimed the Margarita was created in 1930 by Do~na Bertha, owner of Bertha's Bar in Taxco, Mexico.<br />      <br />The socialite Margaret Sames held a Christmas party in Acapulco, Mexico, in 1948, and created the first Margarita. She thought nothing of it until, when flying home to San Antonio from Acapulco airport, she saw a bar advertising 'Margarita's Drink', a cocktail with exactly the same ingredients as her own.<br />       <br />So... Plenty of Margarets and even Margaritas: there is also a popular holiday destination called Margarita Island, located in the Caribbean north of Venezuela, two-and-a-half hours from Miami.<br />       <br />It could simply be a twist on the 'Daisy', a classic cocktail dating back to Victorian times and made with citrus juice, sweetened with a syrup or liqueur, and fortified with a base spirit. Margarita is the Spanish word for daisy. A British antecedent of the Margarita called a 'Picador' has recently been unearthed.<br /><br />"
-  Variant: Margaritas made with premium tequilas are sometimes referred to as 'Deluxe' or 'Cadillac' Margaritas.
-  source: www.diffordsguide.com (1254)
-ingredients: 
-- - "2"
-  - shot
-  - Herradura 100% agave tequila
-- - "1"
-  - shot
-  - Cointreau triple sec
-- - "1"
-  - shot
-  - Freshly squeezed lime juice
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: Margarita Straight-Up (Standard Recipe)
-rate: 4.5
+comment: For the perfect salt rim, liquidise sea salt to make it finer, then run a
+  lime wedge around the outside edge of the glass before dipping the rim in salt.
+  Rimming only half the glass with salt gives the drinker the option of enjoying the
+  cocktail with or without salt.<br /><br />
+aka: 
+variant: Margaritas made with premium tequilas are sometimes referred to as 'Deluxe'
+  or 'Cadillac' Margaritas.
+origin: 'The Margarita can be considered a Tequila Sour, or a Tequila Sidecar, and
+  two variations of this classic cocktail date back to the 1930s: the Tequila Daisy
+  and the Picador. Both, however, lack the distinctive salt rim.<br />       <br />There
+  are many people who claim to have invented the Margarita, which, as Spanish for
+  ''daisy'' and a popular woman''s name, would have been a very common name for a
+  drink. A brief summary of the top claimants:<br />       <br />Francisco ''Pancho''
+  Morales, while working in a bar called Tommy''s Place in Ciudad Juarez, Mexico,
+  was asked to make a ''Magnolia'' on the 4th July 1942, but couldn''t remember it
+  so created this drink. The customer''s name may even have been Margarita.<br />       <br
+  />Carlos ''Danny'' Herrera created the cocktail either in 1947 or 1948 at his Rancho
+  La Gloria bar in Rosarito, Mexico, for an actress called Marjorie King who drank
+  no spirit but tequila. He added Cointreau and lime, and the unique salt rim that
+  caught people''s attention at the bar, then named his creation Margarita, the Spanish
+  for Marjorie.<br />       <br />Daniel (Danny) Negrete created the drink in 1936
+  when he was the manager of Garci Crespo Hotel in Puebla, Mexico. His girlfriend,
+  Margarita, apparently liked salt in her drinks and he is said to have created the
+  drink for her as a present. In 1944 Danny moved to Tijuana, Mexico, and became a
+  bartender at the Agua Caliente Racetrack, a place which has some claim to be the
+  birthplace of the Margarita in the early 1930s.<br />       <br />Vernon Underwood
+  was president of Young''s Market Company, who in the 1930s had started distributing
+  Cuervo tequila. He went to Johnny Durlesser, head bartender of the Tail O'' The
+  Cock in LA, and asked him to create something using his spirit, then named it after
+  his wife Margaret (Margarita).<br />       <br />Sara Morales, an expert in Mexican
+  folklore, claimed the Margarita was created in 1930 by Do~na Bertha, owner of Bertha''s
+  Bar in Taxco, Mexico.<br />      <br />The socialite Margaret Sames held a Christmas
+  party in Acapulco, Mexico, in 1948, and created the first Margarita. She thought
+  nothing of it until, when flying home to San Antonio from Acapulco airport, she
+  saw a bar advertising ''Margarita''s Drink'', a cocktail with exactly the same ingredients
+  as her own.<br />       <br />So... Plenty of Margarets and even Margaritas: there
+  is also a popular holiday destination called Margarita Island, located in the Caribbean
+  north of Venezuela, two-and-a-half hours from Miami.<br />       <br />It could
+  simply be a twist on the ''Daisy'', a classic cocktail dating back to Victorian
+  times and made with citrus juice, sweetened with a syrup or liqueur, and fortified
+  with a base spirit. Margarita is the Spanish word for daisy. A British antecedent
+  of the Margarita called a ''Picador'' has recently been unearthed.<br /><br />'
+source: www.diffordsguide.com (1254)
+recipe_steps:
+- amount: '1'
+  doze: shot
+  ingredient_name: Cointreau triple sec
+- amount: '1'
+  doze: shot
+  ingredient_name: Freshly squeezed lime juice
+- amount: '2'
+  doze: shot
+  ingredient_name: Herradura 100% agave tequila

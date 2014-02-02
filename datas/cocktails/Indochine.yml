@@ -1,20 +1,23 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Indochine
+method: SHAKE all ingredients with ice and fine strain into chilled glass.<br /><br
+  />
+rate: 4.0
 garnish: Fresh ginger slice<br />
 glass: Martini
-infos: 
-  Comment: Slightly sweet and very frothy. Easy drinking with a ginger kick.
-  Origin: Adapted from a drink promoted at the end of 2007 by the makers of Canton ginger liqueur.<br /><br />
-  source: www.diffordsguide.com (2453)
-ingredients: 
-- - "2"
-  - shot
-  - Ketel One vodka
-- - "1"
-  - shot
-  - Domaine de Canton ginger liqueur
-- - " 3/4 "
-  - shot
-  - Fresh pressed pineapple juice
-method: SHAKE all ingredients with ice and fine strain into chilled glass.<br /><br />
-name: Indochine
-rate: 4.0
+comment: Slightly sweet and very frothy. Easy drinking with a ginger kick.
+aka: 
+variant: 
+origin: Adapted from a drink promoted at the end of 2007 by the makers of Canton ginger
+  liqueur.<br /><br />
+source: www.diffordsguide.com (2453)
+recipe_steps:
+- amount: '2'
+  doze: shot
+  ingredient_name: Ketel One vodka
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Fresh pressed pineapple juice
+- amount: '1'
+  doze: shot
+  ingredient_name: Domaine de Canton ginger liqueur

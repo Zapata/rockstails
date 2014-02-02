@@ -1,19 +1,21 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Blow Job
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 3.5
 garnish: None<br />
 glass: Shot
-infos: 
-  Comment: A juvenile but pleasant tasting sweet shot.
-  source: www.diffordsguide.com (253)
-ingredients: 
-- - " 1/2 "
-  - shot
-  - Grand Marnier liqueur
-- - " 1/2 "
-  - shot
-  - "Cr\xE8me de banane liqueur"
-- - " 1/2 "
-  - shot
-  - Kahla coffee liqueur
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: Blow Job
-rate: 3.5
+comment: A juvenile but pleasant tasting sweet shot.
+aka: 
+variant: 
+origin: 
+source: www.diffordsguide.com (253)
+recipe_steps:
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Crème de banane liqueur
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Grand Marnier liqueur
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Kahla coffee liqueur

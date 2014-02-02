@@ -1,22 +1,24 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Brass Monkey
+method: SHAKE all ingredients with ice and strain into ice-filled glass.
+rate: 3.5
 garnish: Lemon slice
 glass: Collins
-infos: 
-  Comment: Tangy, alcoholic, almost sherbety lemonade. Packed with Vitamin C.
-  source: www.diffordsguide.com (563)
-ingredients: 
-- - "1"
-  - shot
-  - Bacardi Superior rum
-- - "1"
-  - shot
-  - Ketel One vodka
-- - "2 1/2 "
-  - shot
-  - Freshly squeezed lemon juice
-- - "1"
-  - shot
-  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
-method: SHAKE all ingredients with ice and strain into ice-filled glass.
-name: Brass Monkey
-rate: 3.5
+comment: Tangy, alcoholic, almost sherbety lemonade. Packed with Vitamin C.
+aka: 
+variant: 
+origin: 
+source: www.diffordsguide.com (563)
+recipe_steps:
+- amount: '1'
+  doze: shot
+  ingredient_name: Ketel One vodka
+- amount: '2 1/2 '
+  doze: shot
+  ingredient_name: Freshly squeezed lemon juice
+- amount: '1'
+  doze: shot
+  ingredient_name: Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- amount: '1'
+  doze: shot
+  ingredient_name: Bacardi Superior rum

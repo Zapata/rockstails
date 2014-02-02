@@ -1,26 +1,29 @@
---- !ruby/object:DirtyCocktail 
+---
+name: The Sun Salutation
+method: MUDDLE mint in base of shaker. Add next 3 ingredients, SHAKE with ice and
+  fine strain into ice-filled glass. TOP with soda.
+rate: 4.0
 garnish: Berries &amp; mint sprig
 glass: Collins
-infos: 
-  Comment: Mint with a hint of lychee - long and refreshing.
-  Origin: Adapted from a recipe by David Nepove, Enrico's Bar &amp; Restaurant, San Francisco.
-  source: www.diffordsguide.com (1898)
-ingredients: 
-- - "10"
-  - fresh
-  - Mint leaves
-- - "1"
-  - shot
-  - Ketel One vodka
-- - "1 1/2 "
-  - shot
-  - Soho lychee liqueur
-- - " 3/4 "
-  - shot
-  - Freshly squeezed lemon juice
-- - "1"
-  - top up with
-  - Soda (club soda)
-method: MUDDLE mint in base of shaker. Add next 3 ingredients, SHAKE with ice and fine strain into ice-filled glass. TOP with soda.
-name: The Sun Salutation
-rate: 4.0
+comment: Mint with a hint of lychee - long and refreshing.
+aka: 
+variant: 
+origin: Adapted from a recipe by David Nepove, Enrico's Bar &amp; Restaurant, San
+  Francisco.
+source: www.diffordsguide.com (1898)
+recipe_steps:
+- amount: '10'
+  doze: fresh
+  ingredient_name: Mint leaves
+- amount: '1'
+  doze: shot
+  ingredient_name: Ketel One vodka
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Freshly squeezed lemon juice
+- amount: '1'
+  doze: top up with
+  ingredient_name: Soda (club soda)
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Soho lychee liqueur

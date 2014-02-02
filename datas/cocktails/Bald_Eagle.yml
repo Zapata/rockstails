@@ -1,29 +1,32 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Bald Eagle
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 4.5
 garnish: Salt rim
 glass: Martini
-infos: 
-  Comment: If you like tequila and you like your drinks on the sour side, this is for you.
-  Origin: Created for me in 2001 by Salvatore Calabrese at The Lanesborough Hotel's Library Bar, London, England.
-  source: www.diffordsguide.com (151)
-ingredients: 
-- - "2"
-  - shot
-  - Herradura 100% agave tequila
-- - " 3/4 "
-  - shot
-  - Freshly squeezed grapefruit juice
-- - " 1/2 "
-  - shot
-  - Ocean Spray cranberry juice
-- - " 1/4 "
-  - shot
-  - Freshly squeezed lime juice
-- - " 1/4 "
-  - shot
-  - Freshly squeezed lemon juice
-- - " 1/4 "
-  - shot
-  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: Bald Eagle
-rate: 4.5
+comment: If you like tequila and you like your drinks on the sour side, this is for
+  you.
+aka: 
+variant: 
+origin: Created for me in 2001 by Salvatore Calabrese at The Lanesborough Hotel's
+  Library Bar, London, England.
+source: www.diffordsguide.com (151)
+recipe_steps:
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Ocean Spray cranberry juice
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Freshly squeezed lime juice
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Freshly squeezed lemon juice
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Freshly squeezed grapefruit juice
+- amount: '2'
+  doze: shot
+  ingredient_name: Herradura 100% agave tequila

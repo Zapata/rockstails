@@ -1,26 +1,27 @@
---- !ruby/object:DirtyCocktail 
+---
+name: 'Shamrock #2'
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 4.0
 garnish: Mint leaf
 glass: Martini
-infos: 
-  Comment: A great drink for St Patrick's Day.
-  Origin: Adapted from a recipe in Harry Craddock's 1930 Savoy Cocktail Book.
-  source: www.diffordsguide.com (1814)
-ingredients: 
-- - "1 1/2 "
-  - shot
-  - Jameson Irish whiskey
-- - "1 1/2 "
-  - shot
-  - Noilly Prat dry vermouth
-- - " 1/2 "
-  - shot
-  - Chartreuse Green liqueur
-- - " 1/2 "
-  - shot
-  - "Green cr\xE8me de menthe liqueur"
-- - " 1/2 "
-  - shot
-  - Chilled mineral water
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: "Shamrock #2"
-rate: 4.0
+comment: A great drink for St Patrick's Day.
+aka: 
+variant: 
+origin: Adapted from a recipe in Harry Craddock's 1930 Savoy Cocktail Book.
+source: www.diffordsguide.com (1814)
+recipe_steps:
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Noilly Prat dry vermouth
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Chartreuse Green liqueur
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Chilled mineral water
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Green crème de menthe liqueur
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Jameson Irish whiskey

@@ -1,22 +1,25 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Quince Sour
+method: STIR quince jam with vodka in base of shaker to dissolve jam. Add other ingredients,
+  SHAKE with ice and fine strain into ice-filled glass.
+rate: 4.0
 garnish: Lemon slice &amp; cherry (sail)
 glass: Old-fashioned
-infos: 
-  Comment: The sweet quince both flavours and balances the sour.
-  source: www.diffordsguide.com (1626)
-ingredients: 
-- - "3"
-  - spoon
-  - Quince mustard jam
-- - "2"
-  - shot
-  - Ketel One vodka
-- - "1"
-  - shot
-  - Freshly squeezed lemon juice
-- - " 1/2 "
-  - fresh
-  - Egg white
-method: STIR quince jam with vodka in base of shaker to dissolve jam. Add other ingredients, SHAKE with ice and fine strain into ice-filled glass.
-name: Quince Sour
-rate: 4.0
+comment: The sweet quince both flavours and balances the sour.
+aka: 
+variant: 
+origin: 
+source: www.diffordsguide.com (1626)
+recipe_steps:
+- amount: '2'
+  doze: shot
+  ingredient_name: Ketel One vodka
+- amount: '1'
+  doze: shot
+  ingredient_name: Freshly squeezed lemon juice
+- amount: ' 1/2 '
+  doze: fresh
+  ingredient_name: Egg white
+- amount: '3'
+  doze: spoon
+  ingredient_name: Quince mustard jam

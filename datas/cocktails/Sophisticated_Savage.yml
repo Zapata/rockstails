@@ -1,23 +1,24 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Sophisticated Savage
+method: SHAKE all ingredients with ice and strain into ice-filled glass.
+rate: 3.5
 garnish: Lime wedge
 glass: Old-fashioned
-infos: 
-  Comment: A sour drink with a horse's kick leading into a smooth subtle finish.
-  Origin: Created by Poul Jensen, Brighton, England.
-  source: www.diffordsguide.com (1842)
-ingredients: 
-- - "2"
-  - shot
-  - Tuaca liqueur
-- - "1"
-  - shot
-  - Leblon cachaca
-- - " 1/2 "
-  - shot
-  - Freshly squeezed lime juice
-- - " 1/2 "
-  - fresh
-  - Egg white
-method: SHAKE all ingredients with ice and strain into ice-filled glass.
-name: Sophisticated Savage
-rate: 3.5
+comment: A sour drink with a horse's kick leading into a smooth subtle finish.
+aka: 
+variant: 
+origin: Created by Poul Jensen, Brighton, England.
+source: www.diffordsguide.com (1842)
+recipe_steps:
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Freshly squeezed lime juice
+- amount: ' 1/2 '
+  doze: fresh
+  ingredient_name: Egg white
+- amount: '1'
+  doze: shot
+  ingredient_name: Leblon cachaca
+- amount: '2'
+  doze: shot
+  ingredient_name: Tuaca liqueur

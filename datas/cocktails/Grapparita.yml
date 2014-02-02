@@ -1,23 +1,26 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Grapparita
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 3.5
 garnish: Lime wedge on rim
 glass: Coupette
-infos: 
-  Comment: Grappa replaces tequila and lemon liqueur triple sec in this Italian twist in the classic Margarita.
-  Origin: Adapted from a drink discovered in 2005 at Alfredo's of Rome, New York City, USA. The original called for a sour mix.
-  source: www.diffordsguide.com (903)
-ingredients: 
-- - "2"
-  - shot
-  - Francoli Moscato grappa
-- - "1"
-  - shot
-  - Luxardo limoncello liqueur
-- - "1"
-  - shot
-  - Freshly squeezed lemon juice
-- - " 1/2 "
-  - fresh
-  - Egg white
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: Grapparita
-rate: 3.5
+comment: Grappa replaces tequila and lemon liqueur triple sec in this Italian twist
+  in the classic Margarita.
+aka: 
+variant: 
+origin: Adapted from a drink discovered in 2005 at Alfredo's of Rome, New York City,
+  USA. The original called for a sour mix.
+source: www.diffordsguide.com (903)
+recipe_steps:
+- amount: '1'
+  doze: shot
+  ingredient_name: Freshly squeezed lemon juice
+- amount: ' 1/2 '
+  doze: fresh
+  ingredient_name: Egg white
+- amount: '1'
+  doze: shot
+  ingredient_name: Luxardo limoncello liqueur
+- amount: '2'
+  doze: shot
+  ingredient_name: Francoli Moscato grappa

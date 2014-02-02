@@ -1,18 +1,19 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Vodkatini
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 4.5
 garnish: Lemon zest twist or olive
 glass: Martini
-infos: 
-  AKA: Kangaroo
-  Comment: Temperature is key to the enjoyment of this modern classic. Consume while icy cold
-  Variant: Stir rather than shake.
-  source: www.diffordsguide.com (2054)
-ingredients: 
-- - "2 1/2 "
-  - shot
-  - Ketel One vodka
-- - " 1/4 "
-  - shot
-  - Noilly Prat dry vermouth
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: Vodkatini
-rate: 4.5
+comment: Temperature is key to the enjoyment of this modern classic. Consume while
+  icy cold
+aka: Kangaroo
+variant: Stir rather than shake.
+origin: 
+source: www.diffordsguide.com (2054)
+recipe_steps:
+- amount: '2 1/2 '
+  doze: shot
+  ingredient_name: Ketel One vodka
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Noilly Prat dry vermouth

@@ -1,23 +1,25 @@
---- !ruby/object:DirtyCocktail 
+---
+name: The Hive
+method: STIR honey with vodka until honey dissolves. Add other ingredients, SHAKE
+  with ice and fine strain into chilled glass.
+rate: 4.0
 garnish: Orange zest twist
 glass: Martini
-infos: 
-  Comment: Sour grapefruit balanced by sweet honey.
-  Origin: Discovered in 2004 at Circus, London, England.
-  source: www.diffordsguide.com (957)
-ingredients: 
-- - "2"
-  - spoon
-  - Runny honey
-- - "1"
-  - shot
-  - Ketel One vodka
-- - "1"
-  - shot
-  - Krupnik spiced honey liqueur
-- - "2"
-  - shot
-  - Freshly squeezed grapefruit juice
-method: STIR honey with vodka until honey dissolves. Add other ingredients, SHAKE with ice and fine strain into chilled glass.
-name: The Hive
-rate: 4.0
+comment: Sour grapefruit balanced by sweet honey.
+aka: 
+variant: 
+origin: Discovered in 2004 at Circus, London, England.
+source: www.diffordsguide.com (957)
+recipe_steps:
+- amount: '1'
+  doze: shot
+  ingredient_name: Ketel One vodka
+- amount: '2'
+  doze: spoon
+  ingredient_name: Runny honey
+- amount: '2'
+  doze: shot
+  ingredient_name: Freshly squeezed grapefruit juice
+- amount: '1'
+  doze: shot
+  ingredient_name: Krupnik spiced honey liqueur

@@ -1,25 +1,27 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Highland Sling
+method: SHAKE all ingredients with ice and strain into ice-filled glass.
+rate: 4.0
 garnish: Apple wedge
 glass: Sling
-infos: 
-  Comment: A surprisingly good combination of diverse flavours.
-  source: www.diffordsguide.com (956)
-ingredients: 
-- - "1 1/2 "
-  - shot
-  - Johnnie Walker Scotch Whisky
-- - "1"
-  - shot
-  - Chambord
-- - " 1/2 "
-  - shot
-  - Bols apricot brandy liqueur
-- - " 1/2 "
-  - shot
-  - Galliano L'Autentico liqueur
-- - "2"
-  - shot
-  - Pressed apple juice
-method: SHAKE all ingredients with ice and strain into ice-filled glass.
-name: Highland Sling
-rate: 4.0
+comment: A surprisingly good combination of diverse flavours.
+aka: 
+variant: 
+origin: 
+source: www.diffordsguide.com (956)
+recipe_steps:
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Bols apricot brandy liqueur
+- amount: '2'
+  doze: shot
+  ingredient_name: Pressed apple juice
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Galliano L'Autentico liqueur
+- amount: '1'
+  doze: shot
+  ingredient_name: Chambord
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Johnnie Walker Scotch Whisky

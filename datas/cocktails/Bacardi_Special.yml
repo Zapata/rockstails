@@ -1,29 +1,34 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Bacardi Special
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 5.0
 garnish: Maraschino cherry
 glass: Martini
-infos: 
-  Comment: Hit the perfect proportions and you will strike a wondrous balance of flavoursome rum, gin botanicals, limey sourness and fruity sweetness.
-  Origin: <div>Adapted from Harry Craddock's 1930 'The Savoy Cocktail Book' which also has the following notation to this vintage adaptation of the 'Bacardi Cocktail', "Made famous by Karl K. Kitchen, the well-known New York Newspaper Columnist." </div><div><br /></div>
-  source: www.diffordsguide.com (2143)
-ingredients: 
-- - "1 1/2 "
-  - shot
-  - Bacardi Superior rum
-- - " 3/4 "
-  - shot
-  - Bombay London dry gin
-- - " 1/2 "
-  - shot
-  - Freshly squeezed lime juice
-- - " 1/4 "
-  - shot
-  - Pomegranate (grenadine) syrup
-- - " 1/8 "
-  - shot
-  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
-- - " 1/2 "
-  - shot
-  - Chilled mineral water
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: Bacardi Special
-rate: 5.0
+comment: Hit the perfect proportions and you will strike a wondrous balance of flavoursome
+  rum, gin botanicals, limey sourness and fruity sweetness.
+aka: 
+variant: 
+origin: <div>Adapted from Harry Craddock's 1930 'The Savoy Cocktail Book' which also
+  has the following notation to this vintage adaptation of the 'Bacardi Cocktail',
+  "Made famous by Karl K. Kitchen, the well-known New York Newspaper Columnist." </div><div><br
+  /></div>
+source: www.diffordsguide.com (2143)
+recipe_steps:
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Freshly squeezed lime juice
+- amount: ' 1/8 '
+  doze: shot
+  ingredient_name: Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Bacardi Superior rum
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Chilled mineral water
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Bombay London dry gin
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Pomegranate (grenadine) syrup

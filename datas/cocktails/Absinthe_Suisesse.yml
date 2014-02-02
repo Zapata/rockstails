@@ -1,27 +1,28 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Absinthe Suisesse
+method: SHAKE all ingredients with ice and strain into glass filled with crushed ice.
+rate: 3.0
 garnish: Mint sprig
 glass: Old-fashioned
-infos: 
-  Comment: Absinthe smoothed with cream and sweet almond.
-  Origin: New Orleans 1930s.
-  Variant: Also spelt 'Suissesse' and sometimes made with absinthe, vermouth, sugar, crème de menthe and egg white shaken and topped with sparkling water.
-  source: www.diffordsguide.com (8)
-ingredients: 
-- - "1 1/2 "
-  - shot
-  - "La F\xE9e Parisienne (68%) absinthe"
-- - " 1/2 "
-  - shot
-  - Monin Almond (orgeat) syrup
-- - "1"
-  - fresh
-  - Egg white
-- - " 1/2 "
-  - shot
-  - Milk
-- - " 1/2 "
-  - shot
-  - Double (heavy) cream
-method: SHAKE all ingredients with ice and strain into glass filled with crushed ice.
-name: Absinthe Suisesse
-rate: 3.0
+comment: Absinthe smoothed with cream and sweet almond.
+aka: 
+variant: Also spelt 'Suissesse' and sometimes made with absinthe, vermouth, sugar,
+  crème de menthe and egg white shaken and topped with sparkling water.
+origin: New Orleans 1930s.
+source: www.diffordsguide.com (8)
+recipe_steps:
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: La Fée Parisienne (68%) absinthe
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Double (heavy) cream
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Milk
+- amount: '1'
+  doze: fresh
+  ingredient_name: Egg white
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Monin Almond (orgeat) syrup

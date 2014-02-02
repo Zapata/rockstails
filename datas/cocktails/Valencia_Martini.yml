@@ -1,18 +1,19 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Valencia Martini
+method: STIR all ingredients with ice and strain into chilled glass.
+rate: 4.5
 garnish: Orange zest twist<br />
 glass: Martini
-infos: 
-  AKA: Spanish Martini
-  Comment: A Martini-style drink but using fino sherry instead of vermouth. Crisp and dry.<br />
-  Variant: Flame of Love Martini<br />
-  source: www.diffordsguide.com (2596)
-ingredients: 
-- - "2 1/2 "
-  - shot
-  - Bombay London dry gin
-- - " 1/2 "
-  - shot
-  - Tio Pepe fino sherry
-method: STIR all ingredients with ice and strain into chilled glass.
-name: Valencia Martini
-rate: 4.5
+comment: A Martini-style drink but using fino sherry instead of vermouth. Crisp and
+  dry.<br />
+aka: Spanish Martini
+variant: Flame of Love Martini<br />
+origin: 
+source: www.diffordsguide.com (2596)
+recipe_steps:
+- amount: '2 1/2 '
+  doze: shot
+  ingredient_name: Bombay London dry gin
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Tio Pepe fino sherry

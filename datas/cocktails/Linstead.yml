@@ -1,22 +1,25 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Linstead
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 4.5
 garnish: Lemon zest twist
 glass: Martini
-infos: 
-  Comment: Absinthe and pineapple come through first, with Scotch last. A great medley of flavours.
-  source: www.diffordsguide.com (1173)
-ingredients: 
-- - "2"
-  - shot
-  - Johnnie Walker Scotch Whisky
-- - "2"
-  - shot
-  - Fresh pressed pineapple juice
-- - " 1/4 "
-  - shot
-  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
-- - " 1/8 "
-  - shot
-  - "La F\xE9e Parisienne (68%) absinthe"
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: Linstead
-rate: 4.5
+comment: Absinthe and pineapple come through first, with Scotch last. A great medley
+  of flavours.
+aka: 
+variant: 
+origin: 
+source: www.diffordsguide.com (1173)
+recipe_steps:
+- amount: ' 1/8 '
+  doze: shot
+  ingredient_name: La Fée Parisienne (68%) absinthe
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- amount: '2'
+  doze: shot
+  ingredient_name: Fresh pressed pineapple juice
+- amount: '2'
+  doze: shot
+  ingredient_name: Johnnie Walker Scotch Whisky

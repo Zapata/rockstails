@@ -1,28 +1,30 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Dulchin
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 4.5
 garnish: Orange zest twist
 glass: Martini
-infos: 
-  Comment: This dry, amber coloured, fruity cocktail carries a pisco punch.
-  source: www.diffordsguide.com (679)
-ingredients: 
-- - "2"
-  - shot
-  - Macchu pisco
-- - " 1/2 "
-  - shot
-  - Grand Marnier liqueur
-- - " 1/2 "
-  - shot
-  - Bols apricot brandy liqueur
-- - " 1/4 "
-  - shot
-  - Rose's lime cordial
-- - " 1/4 "
-  - shot
-  - Pomegranate (grenadine) syrup
-- - " 3/4 "
-  - shot
-  - Chilled mineral water
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: Dulchin
-rate: 4.5
+comment: This dry, amber coloured, fruity cocktail carries a pisco punch.
+aka: 
+variant: 
+origin: 
+source: www.diffordsguide.com (679)
+recipe_steps:
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Rose's lime cordial
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Bols apricot brandy liqueur
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Chilled mineral water
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Grand Marnier liqueur
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Pomegranate (grenadine) syrup
+- amount: '2'
+  doze: shot
+  ingredient_name: Macchu pisco

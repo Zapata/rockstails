@@ -1,26 +1,37 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Sour (Generic Name)
+method: SHAKE all ingredients with ice and strain into ice-filled glass.
+rate: 3.5
 garnish: Lemon slice &amp; cherry on stick (sail)
 glass: Old-fashioned
-infos: 
-  Comment: "This 4:2:8 formula is a tad sourer than the classic 3:4:8 which translates as: three quarter part of the sour ingredient (lemon juice), one part of the sweet ingredient (sugar syrup) and two parts of the strong ingredient (spirit). So if you find my formula to sour than best follow the classic proportions in future.<br /><br />"
-  Origin: Sours are aptly named drinks. Their flavour comes from either lemon or lime juice, which is balanced with sugar. Sours can be based on practically any spirit but the bourbon based Whiskey Sour is by far the most popular. Many (including myself) believe this drink is only properly made when smoothed with a little egg white.<br /><br />Sours are served either straight-up in a Sour glass (rather like a small flute) or on the rocks in an old-fashioned glass. They are traditionally garnished with a cherry and an orange slice, or sometimes a lemon slice. <br />
-  source: www.diffordsguide.com (1795)
-ingredients: 
-- - "2"
-  - shot
-  - Brandy, whisk(e)y, gin, rum etc.
-- - "1"
-  - shot
-  - Freshly squeezed lemon juice
-- - " 1/2 "
-  - shot
-  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
-- - "3"
-  - dash
-  - Angostura aromatic bitters
-- - " 1/2 "
-  - fresh
-  - Egg white
-method: SHAKE all ingredients with ice and strain into ice-filled glass.
-name: Sour (Generic Name)
-rate: 3.5
+comment: 'This 4:2:8 formula is a tad sourer than the classic 3:4:8 which translates
+  as: three quarter part of the sour ingredient (lemon juice), one part of the sweet
+  ingredient (sugar syrup) and two parts of the strong ingredient (spirit). So if
+  you find my formula to sour than best follow the classic proportions in future.<br
+  /><br />'
+aka: 
+variant: 
+origin: Sours are aptly named drinks. Their flavour comes from either lemon or lime
+  juice, which is balanced with sugar. Sours can be based on practically any spirit
+  but the bourbon based Whiskey Sour is by far the most popular. Many (including myself)
+  believe this drink is only properly made when smoothed with a little egg white.<br
+  /><br />Sours are served either straight-up in a Sour glass (rather like a small
+  flute) or on the rocks in an old-fashioned glass. They are traditionally garnished
+  with a cherry and an orange slice, or sometimes a lemon slice. <br />
+source: www.diffordsguide.com (1795)
+recipe_steps:
+- amount: '1'
+  doze: shot
+  ingredient_name: Freshly squeezed lemon juice
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- amount: '3'
+  doze: dash
+  ingredient_name: Angostura aromatic bitters
+- amount: ' 1/2 '
+  doze: fresh
+  ingredient_name: Egg white
+- amount: '2'
+  doze: shot
+  ingredient_name: Brandy, whisk(e)y, gin, rum etc.

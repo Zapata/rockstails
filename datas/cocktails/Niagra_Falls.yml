@@ -1,25 +1,28 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Niagra Falls
+method: SHAKE first 4 ingredients with ice and strain into chilled glass. TOP with
+  ginger ale and lightly stir.
+rate: 3.5
 garnish: Physalis
 glass: Flute
-infos: 
-  Comment: Ginger ale and orange complement each other, fortified by vodka.
-  source: www.diffordsguide.com (1400)
-ingredients: 
-- - "1"
-  - shot
-  - Ketel One vodka
-- - "1"
-  - shot
-  - Grand Marnier liqueur
-- - " 1/2 "
-  - shot
-  - Freshly squeezed lemon juice
-- - " 1/4 "
-  - shot
-  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
-- - "1"
-  - top up with
-  - Ginger ale
-method: SHAKE first 4 ingredients with ice and strain into chilled glass. TOP with ginger ale and lightly stir.
-name: Niagra Falls
-rate: 3.5
+comment: Ginger ale and orange complement each other, fortified by vodka.
+aka: 
+variant: 
+origin: 
+source: www.diffordsguide.com (1400)
+recipe_steps:
+- amount: '1'
+  doze: shot
+  ingredient_name: Ketel One vodka
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Freshly squeezed lemon juice
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- amount: '1'
+  doze: shot
+  ingredient_name: Grand Marnier liqueur
+- amount: '1'
+  doze: top up with
+  ingredient_name: Ginger ale

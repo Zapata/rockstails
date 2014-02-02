@@ -1,29 +1,31 @@
---- !ruby/object:DirtyCocktail 
-garnish: " Float thin apple slice<br />"
-glass: Coupette
-infos: 
-  Comment: "This drink looks like it is going to be good for you and it sure tastes good - fresh and enlivening. "
-  Origin: " Adapted from a drink created by Aisha Sharpe, New York City, USA.<br />"
-  source: www.diffordsguide.com (2773)
-ingredients:
-- - "5"
-  - fresh
-  - Basil leaves
-- - "1 1/2 "
-  - shot
-  - Herradura 100% agave tequila
-- - " 1/2 "
-  - shot
-  - Chartreuse Green liqueur 
-- - "1"
-  - shot
-  - Freshly squeezed grapefruit juice
-- - "3/4"
-  - shot
-  - Freshly squeezed lime juice
-- - "1/2"
-  - shot
-  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
-method: " Shake all ingredients with ice and fine strain into chilled glass. <br />"
+---
 name: Apple Fool
+method: ' Shake all ingredients with ice and fine strain into chilled glass. <br />'
 rate: 4.0
+garnish: ' Float thin apple slice<br />'
+glass: Coupette
+comment: 'This drink looks like it is going to be good for you and it sure tastes
+  good - fresh and enlivening. '
+aka: 
+variant: 
+origin: ' Adapted from a drink created by Aisha Sharpe, New York City, USA.<br />'
+source: www.diffordsguide.com (2773)
+recipe_steps:
+- amount: 3/4
+  doze: shot
+  ingredient_name: Freshly squeezed lime juice
+- amount: 1/2
+  doze: shot
+  ingredient_name: Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Chartreuse Green liqueur
+- amount: '1'
+  doze: shot
+  ingredient_name: Freshly squeezed grapefruit juice
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Herradura 100% agave tequila
+- amount: '5'
+  doze: fresh
+  ingredient_name: Basil leaves

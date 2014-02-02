@@ -1,26 +1,28 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Apricot Sour
+method: STIR apricot jam (preserve) with bourbon until it dissolves. Add other ingredients,
+  SHAKE with ice and fine strain into ice-filled glass.
+rate: 4.0
 garnish: Lemon zest twist
 glass: Old-fashioned
-infos: 
-  Comment: Short and fruity.
-  Origin: Created in 2005 by Wayne Collins for Maxxium UK.
-  source: www.diffordsguide.com (104)
-ingredients: 
-- - "2"
-  - spoon
-  - Apricot jam (preserve)
-- - "1 1/2 "
-  - shot
-  - Maker's Mark bourbon
-- - " 1/2 "
-  - shot
-  - Bols apricot brandy liqueur
-- - "1"
-  - shot
-  - Pressed apple juice
-- - " 1/2 "
-  - shot
-  - Freshly squeezed lemon juice
-method: STIR apricot jam (preserve) with bourbon until it dissolves. Add other ingredients, SHAKE with ice and fine strain into ice-filled glass.
-name: Apricot Sour
-rate: 4.0
+comment: Short and fruity.
+aka: 
+variant: 
+origin: Created in 2005 by Wayne Collins for Maxxium UK.
+source: www.diffordsguide.com (104)
+recipe_steps:
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Freshly squeezed lemon juice
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Bols apricot brandy liqueur
+- amount: '1'
+  doze: shot
+  ingredient_name: Pressed apple juice
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Maker's Mark bourbon
+- amount: '2'
+  doze: spoon
+  ingredient_name: Apricot jam (preserve)

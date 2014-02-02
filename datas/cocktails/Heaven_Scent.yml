@@ -1,23 +1,24 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Heaven Scent
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 3.5
 garnish: Orange zest twist
 glass: Martini
-infos: 
-  Comment: Honey, vanilla and lemon - reminiscent of a chilled, straight-up toddy.
-  Origin: Discovered in 2003 at Oxo Tower Bar, London, England.
-  source: www.diffordsguide.com (950)
-ingredients: 
-- - "1 1/2 "
-  - shot
-  - Vanilla-infused Ketel One vodka
-- - "1 1/2 "
-  - shot
-  - Krupnik spiced honey liqueur
-- - " 1/2 "
-  - shot
-  - Freshly squeezed lemon juice
-- - " 3/4 "
-  - shot
-  - Chilled mineral water
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: Heaven Scent
-rate: 3.5
+comment: Honey, vanilla and lemon - reminiscent of a chilled, straight-up toddy.
+aka: 
+variant: 
+origin: Discovered in 2003 at Oxo Tower Bar, London, England.
+source: www.diffordsguide.com (950)
+recipe_steps:
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Freshly squeezed lemon juice
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Vanilla-infused Ketel One vodka
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Chilled mineral water
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Krupnik spiced honey liqueur

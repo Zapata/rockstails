@@ -1,23 +1,24 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Black Feather
+method: STIR all ingredients with ice and strain into chilled glass.
+rate: 4.0
 garnish: Lemon zest twist
 glass: Martini
-infos: 
-  Comment: Rounded cognac notes with a hint of orange. For dry, adult palates.
-  Origin: Adapted from a drink created in 2000 by Robert Hess and published on drinkboy.com
-  source: www.diffordsguide.com (551)
-ingredients: 
-- - "2"
-  - shot
-  - Courvoisier V.S.O.P cognac
-- - " 1/2 "
-  - shot
-  - Cointreau triple sec
-- - "1"
-  - shot
-  - Noilly Prat dry vermouth
-- - "1"
-  - dash
-  - Angostura aromatic bitters
-method: STIR all ingredients with ice and strain into chilled glass.
-name: Black Feather
-rate: 4.0
+comment: Rounded cognac notes with a hint of orange. For dry, adult palates.
+aka: 
+variant: 
+origin: Adapted from a drink created in 2000 by Robert Hess and published on drinkboy.com
+source: www.diffordsguide.com (551)
+recipe_steps:
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Cointreau triple sec
+- amount: '1'
+  doze: shot
+  ingredient_name: Noilly Prat dry vermouth
+- amount: '1'
+  doze: dash
+  ingredient_name: Angostura aromatic bitters
+- amount: '2'
+  doze: shot
+  ingredient_name: Courvoisier V.S.O.P cognac

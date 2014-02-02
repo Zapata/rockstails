@@ -1,16 +1,19 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Cordless Screwdriver
+method: POUR vodka and champagne into glass and serve. Instruct drinker to down in
+  one and then bite into the orange wedge.
+rate: 3.0
 garnish: Sugar coated half orange slice
 glass: Shot
-infos: 
-  Comment: A slammer style drink for those looking for a fruity alternative to tequila.
-  source: www.diffordsguide.com (468)
-ingredients: 
-- - "1"
-  - shot
-  - Orange-infused Ketel One vodka
-- - "1"
-  - top up with
-  - Perrier Jouet brut champagne
-method: POUR vodka and champagne into glass and serve. Instruct drinker to down in one and then bite into the orange wedge.
-name: Cordless Screwdriver
-rate: 3.0
+comment: A slammer style drink for those looking for a fruity alternative to tequila.
+aka: 
+variant: 
+origin: 
+source: www.diffordsguide.com (468)
+recipe_steps:
+- amount: '1'
+  doze: top up with
+  ingredient_name: Perrier Jouet brut champagne
+- amount: '1'
+  doze: shot
+  ingredient_name: Orange-infused Ketel One vodka

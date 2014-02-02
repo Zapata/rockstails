@@ -1,16 +1,18 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Sakini
+method: STIR all ingredients with ice and strain into chilled glass.
+rate: 4.0
 garnish: Olives on stick
 glass: Martini
-infos: 
-  Comment: Very dry. The sake creates an almost wine-like delicacy.
-  source: www.diffordsguide.com (1733)
-ingredients: 
-- - "2 1/2 "
-  - shot
-  - Ketel One vodka
-- - "1"
-  - shot
-  - Sake
-method: STIR all ingredients with ice and strain into chilled glass.
-name: Sakini
-rate: 4.0
+comment: Very dry. The sake creates an almost wine-like delicacy.
+aka: 
+variant: 
+origin: 
+source: www.diffordsguide.com (1733)
+recipe_steps:
+- amount: '2 1/2 '
+  doze: shot
+  ingredient_name: Ketel One vodka
+- amount: '1'
+  doze: shot
+  ingredient_name: Sake

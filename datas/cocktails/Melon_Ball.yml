@@ -1,19 +1,21 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Melon Ball
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 3.0
 garnish: 
 glass: Shot
-infos: 
-  Comment: A vivid green combination of vodka, melon and orange.
-  source: www.diffordsguide.com (1283)
-ingredients: 
-- - " 1/2 "
-  - shot
-  - Ketel One vodka
-- - " 1/2 "
-  - shot
-  - Midori green melon liqueur
-- - " 3/4 "
-  - shot
-  - Freshly squeezed orange juice
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: Melon Ball
-rate: 3.0
+comment: A vivid green combination of vodka, melon and orange.
+aka: 
+variant: 
+origin: 
+source: www.diffordsguide.com (1283)
+recipe_steps:
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Ketel One vodka
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Freshly squeezed orange juice
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Midori green melon liqueur

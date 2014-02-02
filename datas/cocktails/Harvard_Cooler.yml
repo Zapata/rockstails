@@ -1,22 +1,25 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Harvard Cooler
+method: SHAKE first 3 ingredients with ice and strain into ice-filled glass. TOP with
+  soda, stir and serve with straws.
+rate: 4.5
 garnish: Lime wedge
 glass: Collins
-infos: 
-  Comment: Refreshing and not too sweet. Lime and sugar enhance the appley spirit.
-  source: www.diffordsguide.com (935)
-ingredients: 
-- - "2"
-  - shot
-  - Boulard Grand Solage calvados
-- - "1"
-  - shot
-  - Freshly squeezed lime juice
-- - " 1/2 "
-  - shot
-  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
-- - "1"
-  - top up with
-  - Soda (club soda)
-method: SHAKE first 3 ingredients with ice and strain into ice-filled glass. TOP with soda, stir and serve with straws.
-name: Harvard Cooler
-rate: 4.5
+comment: Refreshing and not too sweet. Lime and sugar enhance the appley spirit.
+aka: 
+variant: 
+origin: 
+source: www.diffordsguide.com (935)
+recipe_steps:
+- amount: '1'
+  doze: shot
+  ingredient_name: Freshly squeezed lime juice
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- amount: '1'
+  doze: top up with
+  ingredient_name: Soda (club soda)
+- amount: '2'
+  doze: shot
+  ingredient_name: Boulard Grand Solage calvados

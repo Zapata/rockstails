@@ -1,23 +1,26 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Especie
+method: <p>SHAKE all ingredients with ice and fine strain into chilled glass.</p><br
+  />
+rate: 3.5
 garnish: <p>Lime zest twist </p>
 glass: Martini
-infos: 
-  Comment: <p>Rum laced and rust coloured with hints of clove and jasmine. A touch syrupy.</p><br />
-  Origin: "<p>Created in 2008 by Juraj Ivan at Coq D'Argent, London, England.</p> "
-  source: www.diffordsguide.com (2400)
-ingredients: 
-- - "2 1/2 "
-  - shot
-  - Bacardi Superior rum
-- - "1"
-  - shot
-  - Velvet Falernum liqueur
-- - " 3/4 "
-  - shot
-  - Chilled mineral water
-- - "2"
-  - dash
-  - Angostura aromatic bitters
-method: <p>SHAKE all ingredients with ice and fine strain into chilled glass.</p><br />
-name: Especie
-rate: 3.5
+comment: <p>Rum laced and rust coloured with hints of clove and jasmine. A touch syrupy.</p><br
+  />
+aka: 
+variant: 
+origin: '<p>Created in 2008 by Juraj Ivan at Coq D''Argent, London, England.</p> '
+source: www.diffordsguide.com (2400)
+recipe_steps:
+- amount: '2 1/2 '
+  doze: shot
+  ingredient_name: Bacardi Superior rum
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Chilled mineral water
+- amount: '2'
+  doze: dash
+  ingredient_name: Angostura aromatic bitters
+- amount: '1'
+  doze: shot
+  ingredient_name: Velvet Falernum liqueur

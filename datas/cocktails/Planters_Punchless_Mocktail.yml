@@ -1,22 +1,25 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Planter's Punchless (Mocktail)
+method: SHAKE first 3 ingredients with ice and strain into ice-filled glass. TOP with
+  lemonade, lightly stir and serve with straws.
+rate: 3.0
 garnish: Lime wedge
 glass: Collins
-infos: 
-  Comment: A pleasant, if uninspiring, driver's option.
-  source: www.diffordsguide.com (1567)
-ingredients: 
-- - "2"
-  - shot
-  - Pressed apple juice
-- - " 3/4 "
-  - shot
-  - Freshly squeezed lime juice
-- - " 1/4 "
-  - shot
-  - Pomegranate (grenadine) syrup
-- - "1"
-  - top up with
-  - Lemonade/Sprite/7-Up
-method: SHAKE first 3 ingredients with ice and strain into ice-filled glass. TOP with lemonade, lightly stir and serve with straws.
-name: Planter's Punchless (Mocktail)
-rate: 3.0
+comment: A pleasant, if uninspiring, driver's option.
+aka: 
+variant: 
+origin: 
+source: www.diffordsguide.com (1567)
+recipe_steps:
+- amount: '1'
+  doze: top up with
+  ingredient_name: Lemonade/Sprite/7-Up
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Freshly squeezed lime juice
+- amount: '2'
+  doze: shot
+  ingredient_name: Pressed apple juice
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Pomegranate (grenadine) syrup

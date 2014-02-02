@@ -1,20 +1,21 @@
---- !ruby/object:DirtyCocktail 
+---
+name: 'French Tear #1'
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 4.0
 garnish: Pineapple wedge on rim
 glass: Martini
-infos: 
-  Comment: Light, flavoursome, easy drinking. Altogether very gluggable.
-  Origin: Discovered in 2000 at Quo Vadis, London, England.
-  source: www.diffordsguide.com (802)
-ingredients: 
-- - "1 3/4 "
-  - shot
-  - Bacardi Superior rum
-- - " 3/4 "
-  - shot
-  - Grand Marnier liqueur
-- - "2"
-  - shot
-  - Fresh pressed pineapple juice
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: "French Tear #1"
-rate: 4.0
+comment: Light, flavoursome, easy drinking. Altogether very gluggable.
+aka: 
+variant: 
+origin: Discovered in 2000 at Quo Vadis, London, England.
+source: www.diffordsguide.com (802)
+recipe_steps:
+- amount: '1 3/4 '
+  doze: shot
+  ingredient_name: Bacardi Superior rum
+- amount: '2'
+  doze: shot
+  ingredient_name: Fresh pressed pineapple juice
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Grand Marnier liqueur

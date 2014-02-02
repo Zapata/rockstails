@@ -1,23 +1,25 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Bronze Adonis
+method: STIR all ingredients with ice and strain into a chilled glass.
+rate: 4.0
 garnish: Lemon spiral<br />
 glass: Martini
-infos: 
-  Comment: A simple yet fabulous twist on the Adonis.<br _moz_editor_bogus_node="TRUE" />
-  Origin: Created in 2008 by Julian de Feral at The Player, London, England.
-  source: www.diffordsguide.com (2323)
-ingredients: 
-- - "1 1/2 "
-  - shot
-  - Tio Pepe fino sherry
-- - "1 1/2 "
-  - shot
-  - Noilly Ambre vermouth
-- - " 1/2 "
-  - shot
-  - Manzanilla Sherry
-- - "2"
-  - dash
-  - Angostura orange bitters
-method: STIR all ingredients with ice and strain into a chilled glass.
-name: Bronze Adonis
-rate: 4.0
+comment: A simple yet fabulous twist on the Adonis.<br _moz_editor_bogus_node="TRUE"
+  />
+aka: 
+variant: 
+origin: Created in 2008 by Julian de Feral at The Player, London, England.
+source: www.diffordsguide.com (2323)
+recipe_steps:
+- amount: '2'
+  doze: dash
+  ingredient_name: Angostura orange bitters
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Tio Pepe fino sherry
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Manzanilla Sherry
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Noilly Ambre vermouth

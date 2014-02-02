@@ -1,20 +1,22 @@
---- !ruby/object:DirtyCocktail 
+---
+name: China Blue
+method: SHAKE all ingredients with ice and strain into ice-filled glass.
+rate: 3.5
 garnish: Orange slice in drink
 glass: Collins
-infos: 
-  Comment: Looks sweet, but due to a generous splash of grapefruit is actually balanced and refreshing.
-  Origin: Emerged in Japan in the late 1990s and still popular along the Pacific Rim.
-  source: www.diffordsguide.com (418)
-ingredients: 
-- - "1"
-  - shot
-  - Soho lychee liqueur
-- - "1"
-  - shot
-  - Bols blue curacao liqueur
-- - "4"
-  - shot
-  - Freshly squeezed grapefruit juice
-method: SHAKE all ingredients with ice and strain into ice-filled glass.
-name: China Blue
-rate: 3.5
+comment: Looks sweet, but due to a generous splash of grapefruit is actually balanced
+  and refreshing.
+aka: 
+variant: 
+origin: Emerged in Japan in the late 1990s and still popular along the Pacific Rim.
+source: www.diffordsguide.com (418)
+recipe_steps:
+- amount: '4'
+  doze: shot
+  ingredient_name: Freshly squeezed grapefruit juice
+- amount: '1'
+  doze: shot
+  ingredient_name: Soho lychee liqueur
+- amount: '1'
+  doze: shot
+  ingredient_name: Bols blue curacao liqueur

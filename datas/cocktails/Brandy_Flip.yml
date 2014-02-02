@@ -1,23 +1,24 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Brandy Flip
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 4.5
 garnish: Dust with freshly ground nutmeg
 glass: Martini
-infos: 
-  Comment: A serious alternative to advocaat for those without raw egg inhibitions.
-  Origin: A forgotten classic
-  source: www.diffordsguide.com (313)
-ingredients: 
-- - "1 1/2 "
-  - shot
-  - Courvoisier V.S.O.P cognac
-- - " 1/4 "
-  - shot
-  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
-- - " 1/4 "
-  - shot
-  - Double (heavy) cream
-- - "1"
-  - fresh
-  - Egg
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: Brandy Flip
-rate: 4.5
+comment: A serious alternative to advocaat for those without raw egg inhibitions.
+aka: 
+variant: 
+origin: A forgotten classic
+source: www.diffordsguide.com (313)
+recipe_steps:
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Double (heavy) cream
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Courvoisier V.S.O.P cognac
+- amount: '1'
+  doze: fresh
+  ingredient_name: Egg

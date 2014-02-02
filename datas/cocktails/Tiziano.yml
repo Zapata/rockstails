@@ -1,20 +1,24 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Tiziano
+method: MUDDLE grapes in base of shaker. Add Dubbonet, SHAKE with ice and fine strain
+  into chilled glass. Slowly TOP with Prosecco and lightly stir.
+rate: 3.5
 garnish: Grapes on rim
 glass: Flute
-infos: 
-  Comment: Not dissimilar to a sparkling Shiraz wine.
-  Origin: Named for the 15th century Venetian painter Titian, who was celebrated for his use of auburn red, this cocktail is commonplace in his home town, where it is made without the Dubbonet.
-  source: www.diffordsguide.com (1961)
-ingredients: 
-- - "10"
-  - fresh
-  - Seedless white grapes
-- - "1"
-  - shot
-  - Dubonnet Red (French made)
-- - "1"
-  - top up with
-  - Prosecco sparkling wine
-method: MUDDLE grapes in base of shaker. Add Dubbonet, SHAKE with ice and fine strain into chilled glass. Slowly TOP with Prosecco and lightly stir.
-name: Tiziano
-rate: 3.5
+comment: Not dissimilar to a sparkling Shiraz wine.
+aka: 
+variant: 
+origin: Named for the 15th century Venetian painter Titian, who was celebrated for
+  his use of auburn red, this cocktail is commonplace in his home town, where it is
+  made without the Dubbonet.
+source: www.diffordsguide.com (1961)
+recipe_steps:
+- amount: '1'
+  doze: shot
+  ingredient_name: Dubonnet Red (French made)
+- amount: '10'
+  doze: fresh
+  ingredient_name: Seedless white grapes
+- amount: '1'
+  doze: top up with
+  ingredient_name: Prosecco sparkling wine

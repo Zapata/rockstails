@@ -1,30 +1,30 @@
---- !ruby/object:DirtyCocktail 
+---
+name: The Journalist
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 4.0
 garnish: Maraschino cherry
 glass: Martini
-infos: 
-  AKA: Periodista ('journalist' in Spanish).
-  Comment: Like some journalists I've met, this gin Martini is bitter and sour.
-  Origin: <br />
-  source: www.diffordsguide.com (1072)
-ingredients: 
-- - "2"
-  - shot
-  - Bombay London dry gin
-- - " 1/4 "
-  - shot
-  - Cointreau triple sec
-- - " 1/2 "
-  - shot
-  - Noilly Prat dry vermouth
-- - " 1/2 "
-  - shot
-  - Martini Rosso sweet vermouth
-- - " 1/4 "
-  - shot
-  - Freshly squeezed lemon juice
-- - "2"
-  - dash
-  - Angostura aromatic bitters
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: The Journalist
-rate: 4.0
+comment: Like some journalists I've met, this gin Martini is bitter and sour.
+aka: Periodista ('journalist' in Spanish).
+variant: 
+origin: <br />
+source: www.diffordsguide.com (1072)
+recipe_steps:
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Cointreau triple sec
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Freshly squeezed lemon juice
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Noilly Prat dry vermouth
+- amount: '2'
+  doze: shot
+  ingredient_name: Bombay London dry gin
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Martini Rosso sweet vermouth
+- amount: '2'
+  doze: dash
+  ingredient_name: Angostura aromatic bitters

@@ -1,22 +1,24 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Lemon Chiffon Pie
+method: BLEND all ingredients with crushed ice and serve with straws.
+rate: 4.0
 garnish: Grated lemon zest
 glass: Coupette
-infos: 
-  Comment: Creamy and tangy - like a lemon pie. Consume in place of desert.
-  source: www.diffordsguide.com (1141)
-ingredients: 
-- - "1"
-  - shot
-  - Bacardi Superior rum
-- - "1"
-  - shot
-  - "White cr\xE8me de cacao liqueur"
-- - "1"
-  - shot
-  - Freshly squeezed lemon juice
-- - "2"
-  - scoop
-  - Haagen Dazs vanilla ice cream
-method: BLEND all ingredients with crushed ice and serve with straws.
-name: Lemon Chiffon Pie
-rate: 4.0
+comment: Creamy and tangy - like a lemon pie. Consume in place of desert.
+aka: 
+variant: 
+origin: 
+source: www.diffordsguide.com (1141)
+recipe_steps:
+- amount: '1'
+  doze: shot
+  ingredient_name: Freshly squeezed lemon juice
+- amount: '1'
+  doze: shot
+  ingredient_name: Bacardi Superior rum
+- amount: '1'
+  doze: shot
+  ingredient_name: White crème de cacao liqueur
+- amount: '2'
+  doze: scoop
+  ingredient_name: Haagen Dazs vanilla ice cream

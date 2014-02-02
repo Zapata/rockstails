@@ -1,20 +1,22 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Olympic
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 4.5
 garnish: Orange zest twist
 glass: Martini
-infos: 
-  Comment: The perfect balance of cognac and orange juice. One to celebrate the 2012 Games perhaps.
-  Origin: Adapted from a recipe in Harry Craddock's 1930 Savoy Cocktail Book.
-  source: www.diffordsguide.com (1432)
-ingredients: 
-- - "1 1/4 "
-  - shot
-  - Courvoisier V.S.O.P cognac
-- - "1 1/4 "
-  - shot
-  - Grand Marnier liqueur
-- - "1 1/4 "
-  - shot
-  - Freshly squeezed orange juice
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: Olympic
-rate: 4.5
+comment: The perfect balance of cognac and orange juice. One to celebrate the 2012
+  Games perhaps.
+aka: 
+variant: 
+origin: Adapted from a recipe in Harry Craddock's 1930 Savoy Cocktail Book.
+source: www.diffordsguide.com (1432)
+recipe_steps:
+- amount: '1 1/4 '
+  doze: shot
+  ingredient_name: Freshly squeezed orange juice
+- amount: '1 1/4 '
+  doze: shot
+  ingredient_name: Grand Marnier liqueur
+- amount: '1 1/4 '
+  doze: shot
+  ingredient_name: Courvoisier V.S.O.P cognac

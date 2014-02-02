@@ -1,23 +1,25 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Irish Coffee Martini
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 4.5
 garnish: Float three coffee beans
 glass: Martini
-infos: 
-  Comment: Forget sipping warm java through a cold head of cream. This Martini version of the classic Irish Coffee offers all the flavour without the moustache.
-  Origin: Created in 2003 by Yours Truly (Simon Difford).
-  source: www.diffordsguide.com (1022)
-ingredients: 
-- - "1 1/2 "
-  - shot
-  - Jameson Irish whiskey
-- - "2"
-  - shot
-  - Hot espresso coffee
-- - " 1/2 "
-  - shot
-  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
-- - "1"
-  - shot
-  - Double (heavy) cream
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: Irish Coffee Martini
-rate: 4.5
+comment: Forget sipping warm java through a cold head of cream. This Martini version
+  of the classic Irish Coffee offers all the flavour without the moustache.
+aka: 
+variant: 
+origin: Created in 2003 by Yours Truly (Simon Difford).
+source: www.diffordsguide.com (1022)
+recipe_steps:
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- amount: '1'
+  doze: shot
+  ingredient_name: Double (heavy) cream
+- amount: '2'
+  doze: shot
+  ingredient_name: Hot espresso coffee
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Jameson Irish whiskey

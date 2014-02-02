@@ -1,17 +1,20 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Lincoln Club Cooler
+method: POUR ingredients into ice-filled glass and gently stir.<br />
+rate: 3.5
 garnish: Lime wedge<br />
 glass: Collins
-infos: 
-  Comment: Basically a rum and ginger ale Highball but Lincoln Club Cooler has mor4e of a ring to it.
-  Origin: Adapted from a drink origionally published in George J. Kappeler's 1895 'Modern American Drinks'. Kappeler grigionally called for St. Croix rum. <br />
-  source: www.diffordsguide.com (2818)
-ingredients: 
-- - "2"
-  - shot
-  - Bacardi Oro golden rum
-- - "1"
-  - top up with
-  - Ginger ale
-method: POUR ingredients into ice-filled glass and gently stir.<br />
-name: Lincoln Club Cooler
-rate: 3.5
+comment: Basically a rum and ginger ale Highball but Lincoln Club Cooler has mor4e
+  of a ring to it.
+aka: 
+variant: 
+origin: Adapted from a drink origionally published in George J. Kappeler's 1895 'Modern
+  American Drinks'. Kappeler grigionally called for St. Croix rum. <br />
+source: www.diffordsguide.com (2818)
+recipe_steps:
+- amount: '2'
+  doze: shot
+  ingredient_name: Bacardi Oro golden rum
+- amount: '1'
+  doze: top up with
+  ingredient_name: Ginger ale

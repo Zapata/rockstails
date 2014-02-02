@@ -1,23 +1,25 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Jasmine
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 4.0
 garnish: Lemon zest twist
 glass: Martini
-infos: 
-  Comment: This bittersweet cocktail will only appeal to drinkers who have acquired the taste for Campari.
-  Origin: Created in 1999 by Paul Harrington, Berkeley, California, USA.
-  source: www.diffordsguide.com (1058)
-ingredients: 
-- - "1 1/2 "
-  - shot
-  - Bombay London dry gin
-- - "1"
-  - shot
-  - Cointreau triple sec
-- - " 3/4 "
-  - shot
-  - Campari Bitter
-- - " 1/2 "
-  - shot
-  - Freshly squeezed lemon juice
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: Jasmine
-rate: 4.0
+comment: This bittersweet cocktail will only appeal to drinkers who have acquired
+  the taste for Campari.
+aka: 
+variant: 
+origin: Created in 1999 by Paul Harrington, Berkeley, California, USA.
+source: www.diffordsguide.com (1058)
+recipe_steps:
+- amount: '1'
+  doze: shot
+  ingredient_name: Cointreau triple sec
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Freshly squeezed lemon juice
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Bombay London dry gin
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Campari Bitter

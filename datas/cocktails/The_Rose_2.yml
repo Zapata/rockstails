@@ -1,20 +1,21 @@
---- !ruby/object:DirtyCocktail 
+---
+name: 'The Rose #2'
+method: STIR all ingredients with ice and fine strain into chilled glass.
+rate: 3.5
 garnish: Maraschino cherry
 glass: Martini
-infos: 
-  Comment: Cherry and gin dried with vermouth.
-  Origin: Adapted from a recipe in Harry Craddock's 1930 Savoy Cocktail book.
-  source: www.diffordsguide.com (1692)
-ingredients: 
-- - "2"
-  - shot
-  - Bombay London dry gin
-- - "1"
-  - shot
-  - Heering cherry brandy liqueur
-- - "1"
-  - shot
-  - Noilly Prat dry vermouth
-method: STIR all ingredients with ice and fine strain into chilled glass.
-name: "The Rose #2"
-rate: 3.5
+comment: Cherry and gin dried with vermouth.
+aka: 
+variant: 
+origin: Adapted from a recipe in Harry Craddock's 1930 Savoy Cocktail book.
+source: www.diffordsguide.com (1692)
+recipe_steps:
+- amount: '1'
+  doze: shot
+  ingredient_name: Heering cherry brandy liqueur
+- amount: '1'
+  doze: shot
+  ingredient_name: Noilly Prat dry vermouth
+- amount: '2'
+  doze: shot
+  ingredient_name: Bombay London dry gin

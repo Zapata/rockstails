@@ -1,26 +1,28 @@
---- !ruby/object:DirtyCocktail 
-garnish: Pie rim (wipe with cream mix and dip into crushed Graham Crackers or digestive biscuits)
-glass: Martini
-infos: 
-  Comment: My favourite rendition of this dessert-in-a-glass cocktail.
-  Origin: Recipe adapted from one by Claire Smith in 2005, London, England.
-  source: www.diffordsguide.com (1103)
-ingredients: 
-- - "2"
-  - shot
-  - Ketel One Citroen vodka
-- - " 1/2 "
-  - shot
-  - Vanilla schnapps
-- - "1 1/2 "
-  - shot
-  - Fresh pressed pineapple juice
-- - " 1/2 "
-  - shot
-  - Freshly squeezed lime juice
-- - " 1/4 "
-  - shot
-  - Rose's lime cordial
+---
+name: 'Key Lime Pie #3'
 method: Shake all ingredients with ice and fine strain into chilled, rimmed glass.
-name: "Key Lime Pie #3"
 rate: 4.0
+garnish: Pie rim (wipe with cream mix and dip into crushed Graham Crackers or digestive
+  biscuits)
+glass: Martini
+comment: My favourite rendition of this dessert-in-a-glass cocktail.
+aka: 
+variant: 
+origin: Recipe adapted from one by Claire Smith in 2005, London, England.
+source: www.diffordsguide.com (1103)
+recipe_steps:
+- amount: '2'
+  doze: shot
+  ingredient_name: Ketel One Citroen vodka
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Freshly squeezed lime juice
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Rose's lime cordial
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Fresh pressed pineapple juice
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Vanilla schnapps

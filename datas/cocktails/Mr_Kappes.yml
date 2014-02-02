@@ -1,20 +1,21 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Mr Kappes
+method: STIR all ingredients with ice and fine strain into chilled glass. <br />
+rate: 4.0
 garnish: Lemon zest twist<br />
 glass: Coupette
-infos: 
-  Comment: "A quality Germanic brand of Kirswasser is key to this complex drink. "
-  Origin: Created in 2009 by Diana Haider, Frankfurt, Germany.<br />
-  source: www.diffordsguide.com (2813)
-ingredients: 
-- - "2"
-  - shot
-  - Kirschwasser eau de vie
-- - "1"
-  - shot
-  - Lillet Blanc
-- - "1"
-  - shot
-  - Pedro Ximnez sherry
-method: STIR all ingredients with ice and fine strain into chilled glass. <br />
-name: Mr Kappes
-rate: 4.0
+comment: 'A quality Germanic brand of Kirswasser is key to this complex drink. '
+aka: 
+variant: 
+origin: Created in 2009 by Diana Haider, Frankfurt, Germany.<br />
+source: www.diffordsguide.com (2813)
+recipe_steps:
+- amount: '1'
+  doze: shot
+  ingredient_name: Pedro Ximnez sherry
+- amount: '2'
+  doze: shot
+  ingredient_name: Kirschwasser eau de vie
+- amount: '1'
+  doze: shot
+  ingredient_name: Lillet Blanc

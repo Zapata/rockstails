@@ -1,20 +1,21 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Tick-Tack Martini
+method: STIR all ingredients with ice and strain into chilled glass.
+rate: 3.0
 garnish: Three Tic-Tac mints
 glass: Martini
-infos: 
-  Comment: Strangely enough, tastes like a Tic-Tac mint.
-  Origin: Created in 2001 by Rodolphe Sorel.
-  source: www.diffordsguide.com (1953)
-ingredients: 
-- - "2"
-  - shot
-  - Ketel One vodka
-- - " 1/2 "
-  - shot
-  - Luxardo sambuca dei cesari
-- - " 1/2 "
-  - shot
-  - Giffard Menthe Pastille liqueur
-method: STIR all ingredients with ice and strain into chilled glass.
-name: Tick-Tack Martini
-rate: 3.0
+comment: Strangely enough, tastes like a Tic-Tac mint.
+aka: 
+variant: 
+origin: Created in 2001 by Rodolphe Sorel.
+source: www.diffordsguide.com (1953)
+recipe_steps:
+- amount: '2'
+  doze: shot
+  ingredient_name: Ketel One vodka
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Luxardo sambuca dei cesari
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Giffard Menthe Pastille liqueur

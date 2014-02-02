@@ -1,23 +1,25 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Mimosa
+method: POUR ingredients into chilled glass and gently stir.
+rate: 3.5
 garnish: Orange zest twist
 glass: Flute
-infos: 
-  Comment: |-
-    A
-    									liqueur-infused take on the Buck's Fizz.
-  Origin: Created in 1925 at the Ritz Hotel in Paris and named after the tropical flowering shrub.<br />    <br />In his 1948 'Fine Art of Mixing Drinks', David A. Embury writes of this drink, "Just another freak champagne mixture. It is not half bad and the ladies usually like it. Use a good quality domestic champagne, medium dry.&quot;<br /><br />
-  Variant: When made with mandarin juice this becomes a Puccini.
-  source: www.diffordsguide.com (1324)
-ingredients: 
-- - " 1/2 "
-  - shot
-  - Grand Marnier liqueur
-- - "1 3/4 "
-  - shot
-  - Freshly squeezed orange juice
-- - "1"
-  - top up with
-  - Perrier Jouet brut champagne
-method: POUR ingredients into chilled glass and gently stir.
-name: Mimosa
-rate: 3.5
+comment: "A\n\n\t\t\t\t\t\t\t\t\tliqueur-infused take on the Buck's Fizz."
+aka: 
+variant: When made with mandarin juice this becomes a Puccini.
+origin: Created in 1925 at the Ritz Hotel in Paris and named after the tropical flowering
+  shrub.<br />    <br />In his 1948 'Fine Art of Mixing Drinks', David A. Embury writes
+  of this drink, "Just another freak champagne mixture. It is not half bad and the
+  ladies usually like it. Use a good quality domestic champagne, medium dry.&quot;<br
+  /><br />
+source: www.diffordsguide.com (1324)
+recipe_steps:
+- amount: '1 3/4 '
+  doze: shot
+  ingredient_name: Freshly squeezed orange juice
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Grand Marnier liqueur
+- amount: '1'
+  doze: top up with
+  ingredient_name: Perrier Jouet brut champagne

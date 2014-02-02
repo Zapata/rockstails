@@ -1,16 +1,19 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Oil Slick
+method: Refrigerate ingredients then LAYER in chilled glass by carefully pouring in
+  the following order.
+rate: 2.5
 garnish: 
 glass: Shot
-infos: 
-  Comment: Whiskey cream and liquorice.
-  source: www.diffordsguide.com (1426)
-ingredients: 
-- - " 3/4 "
-  - shot
-  - Baileys Irish cream liqueur
-- - " 3/4 "
-  - shot
-  - Opal Nera black sambuca
-method: Refrigerate ingredients then LAYER in chilled glass by carefully pouring in the following order.
-name: Oil Slick
-rate: 2.5
+comment: Whiskey cream and liquorice.
+aka: 
+variant: 
+origin: 
+source: www.diffordsguide.com (1426)
+recipe_steps:
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Baileys Irish cream liqueur
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Opal Nera black sambuca

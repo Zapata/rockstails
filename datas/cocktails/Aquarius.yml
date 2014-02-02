@@ -1,19 +1,21 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Aquarius
+method: SHAKE all ingredients with ice and strain into ice-filled glass.
+rate: 3.5
 garnish: 
 glass: Old-fashioned
-infos: 
-  Comment: A sweet cherry edge is balanced by the dryness of cranberry and Scotch.
-  source: www.diffordsguide.com (105)
-ingredients: 
-- - "2"
-  - shot
-  - Johnnie Walker Scotch Whisky
-- - "1"
-  - shot
-  - Heering cherry brandy liqueur
-- - "1 1/2 "
-  - shot
-  - Ocean Spray cranberry juice
-method: SHAKE all ingredients with ice and strain into ice-filled glass.
-name: Aquarius
-rate: 3.5
+comment: A sweet cherry edge is balanced by the dryness of cranberry and Scotch.
+aka: 
+variant: 
+origin: 
+source: www.diffordsguide.com (105)
+recipe_steps:
+- amount: '1'
+  doze: shot
+  ingredient_name: Heering cherry brandy liqueur
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Ocean Spray cranberry juice
+- amount: '2'
+  doze: shot
+  ingredient_name: Johnnie Walker Scotch Whisky

@@ -1,26 +1,29 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Bobby De Niro
+method: STIR jam with gin until jam is dissolved. Add other ingredients, SHAKE with
+  ice and fine strain into chilled glass.<br /><br />
+rate: 3.5
 garnish: Dried apricot on rim<br />
 glass: Martini
-infos: 
-  Comment: An apricot flavoured twist on the classic Casino cocktail.<br _moz_editor_bogus_node="TRUE" />
-  Origin: Adapted from a drink discovered in 2008 at Westbourne House, London, England.
-  source: www.diffordsguide.com (2314)
-ingredients: 
-- - "1"
-  - spoon
-  - Apricot jam (preserve)
-- - "2"
-  - shot
-  - Bombay London dry gin
-- - " 1/4 "
-  - shot
-  - Bols apricot brandy liqueur
-- - " 1/2 "
-  - shot
-  - Freshly squeezed lemon juice
-- - "1"
-  - dash
-  - Angostura orange bitters
-method: STIR jam with gin until jam is dissolved. Add other ingredients, SHAKE with ice and fine strain into chilled glass.<br /><br />
-name: Bobby De Niro
-rate: 3.5
+comment: An apricot flavoured twist on the classic Casino cocktail.<br _moz_editor_bogus_node="TRUE"
+  />
+aka: 
+variant: 
+origin: Adapted from a drink discovered in 2008 at Westbourne House, London, England.
+source: www.diffordsguide.com (2314)
+recipe_steps:
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Freshly squeezed lemon juice
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Bols apricot brandy liqueur
+- amount: '2'
+  doze: shot
+  ingredient_name: Bombay London dry gin
+- amount: '1'
+  doze: dash
+  ingredient_name: Angostura orange bitters
+- amount: '1'
+  doze: spoon
+  ingredient_name: Apricot jam (preserve)

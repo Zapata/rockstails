@@ -3,8 +3,8 @@ class Cocktail < ActiveRecord::Base
   validates :method, presence: true
   validates :rate, numericality: { greater_than_or_equal_to: 0.0, less_than_or_equal_to: 5.0 }
   validates :aka, length: { maximum: 100 }
-  validates :variant, length: { maximum: 250 }
-  validates :garnish, length: { maximum: 250 }
+  validates :variant, length: { maximum: 500 }
+  validates :garnish, length: { maximum: 500 }
   validates :glass, length: { maximum: 250 }
   validates :source, length: { maximum: 250 }, presence: true
 

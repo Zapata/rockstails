@@ -1,23 +1,25 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Saturn Martini
+method: MUDDLE grapes in base of shaker.  STIR honey with vodka and grapes to dissolve
+  honey. Add wine, SHAKE with ice and fine strain into chilled glass.
+rate: 4.5
 garnish: Grapes on stick
 glass: Martini
-infos: 
-  Comment: Delicate, beautifully balanced and subtly flavoured.
-  Origin: Created in 2001 by Tony Conigliaro at Isola, Knightsbridge, London, England.
-  source: www.diffordsguide.com (1749)
-ingredients: 
-- - "7"
-  - fresh
-  - Seedless white grapes
-- - "1 1/2 "
-  - shot
-  - Ketel One Citroen vodka
-- - "2"
-  - shot
-  - Runny honey
-- - "1 1/2 "
-  - shot
-  - Sauvignon blanc wine
-method: MUDDLE grapes in base of shaker.  STIR honey with vodka and grapes to dissolve honey. Add wine, SHAKE with ice and fine strain into chilled glass.
-name: Saturn Martini
-rate: 4.5
+comment: Delicate, beautifully balanced and subtly flavoured.
+aka: 
+variant: 
+origin: Created in 2001 by Tony Conigliaro at Isola, Knightsbridge, London, England.
+source: www.diffordsguide.com (1749)
+recipe_steps:
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Sauvignon blanc wine
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Ketel One Citroen vodka
+- amount: '2'
+  doze: shot
+  ingredient_name: Runny honey
+- amount: '7'
+  doze: fresh
+  ingredient_name: Seedless white grapes

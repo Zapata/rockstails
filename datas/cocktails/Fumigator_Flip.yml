@@ -1,29 +1,33 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Fumigator Flip
+method: <p>WASH chilled glass with whisky (swirl to coat inside and shake to discard
+  excess). SHAKE other ingredients with ice and fine strain into whisky coated chilled
+  glass.</p><br />
+rate: 3.5
 garnish: <p>Nutmeg &amp; cherry</p>
 glass: Sour or Martini/Coupette
-infos: 
-  Comment: <p>Subtle notes, smoky malt with rum and cherry, smoothed by egg and cream. </p><br />
-  Origin: <p>Created in 2008 by Julian de Feral at Bureau, London, England.</p>
-  source: www.diffordsguide.com (2419)
-ingredients: 
-- - " 1/4 "
-  - shot
-  - Lagavulin 16yo malt whisky
-- - "2"
-  - shot
-  - Zacapa aged rum
-- - "1"
-  - shot
-  - Heering cherry brandy liqueur
-- - " 1/8 "
-  - shot
-  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
-- - " 1/2 "
-  - shot
-  - Double (heavy) cream
-- - "1"
-  - fresh
-  - Egg yolk
-method: <p>WASH chilled glass with whisky (swirl to coat inside and shake to discard excess). SHAKE other ingredients with ice and fine strain into whisky coated chilled glass.</p><br />
-name: Fumigator Flip
-rate: 3.5
+comment: <p>Subtle notes, smoky malt with rum and cherry, smoothed by egg and cream.
+  </p><br />
+aka: 
+variant: 
+origin: <p>Created in 2008 by Julian de Feral at Bureau, London, England.</p>
+source: www.diffordsguide.com (2419)
+recipe_steps:
+- amount: '1'
+  doze: shot
+  ingredient_name: Heering cherry brandy liqueur
+- amount: ' 1/8 '
+  doze: shot
+  ingredient_name: Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Double (heavy) cream
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Lagavulin 16yo malt whisky
+- amount: '2'
+  doze: shot
+  ingredient_name: Zacapa aged rum
+- amount: '1'
+  doze: fresh
+  ingredient_name: Egg yolk

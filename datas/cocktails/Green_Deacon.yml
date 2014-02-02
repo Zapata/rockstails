@@ -1,23 +1,27 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Green Deacon
+method: MIST glass with spray or rinse of absinthe. Separately SHAKE gin, sloe gin
+  and grapefruit with ice and STRAIN contents of shaker into absinthe-coated glass.<br
+  />
+rate: 3.5
 garnish: Grapefruit zest twist (discarded)<br />
 glass: Martini
-infos: 
-  Comment: Actually red and not green, this is a most unusual combination of absinthe, gin, sloe gin and grapefruit.
-  Origin: Created in 2009 by Jim Meehan at PDT, New York City, USA.<br />
-  source: www.diffordsguide.com (2890)
-ingredients: 
-- - " 1/2 "
-  - shot
-  - "La F\xE9e Parisienne (68%) absinthe"
-- - "1 1/2 "
-  - shot
-  - Bombay London dry gin
-- - " 3/4 "
-  - shot
-  - Sloe Gin liqueur
-- - "1"
-  - shot
-  - Freshly squeezed grapefruit juice
-method: MIST glass with spray or rinse of absinthe. Separately SHAKE gin, sloe gin and grapefruit with ice and STRAIN contents of shaker into absinthe-coated glass.<br />
-name: Green Deacon
-rate: 3.5
+comment: Actually red and not green, this is a most unusual combination of absinthe,
+  gin, sloe gin and grapefruit.
+aka: 
+variant: 
+origin: Created in 2009 by Jim Meehan at PDT, New York City, USA.<br />
+source: www.diffordsguide.com (2890)
+recipe_steps:
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: La Fée Parisienne (68%) absinthe
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Bombay London dry gin
+- amount: '1'
+  doze: shot
+  ingredient_name: Freshly squeezed grapefruit juice
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Sloe Gin liqueur

@@ -1,25 +1,27 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Smooth & Creamy'Tini
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 4.0
 garnish: Dust with grated nutmeg
 glass: Martini
-infos: 
-  Comment: Creamy and moreish.
-  source: www.diffordsguide.com (1786)
-ingredients: 
-- - "1 1/2 "
-  - shot
-  - Bacardi Oro golden rum
-- - "1"
-  - shot
-  - Malibu coconut rum liqueur
-- - " 1/4 "
-  - shot
-  - "Cr\xE8me de banane liqueur"
-- - " 3/4 "
-  - shot
-  - Double (heavy) cream
-- - " 3/4 "
-  - shot
-  - Milk
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: Smooth & Creamy'Tini
-rate: 4.0
+comment: Creamy and moreish.
+aka: 
+variant: 
+origin: 
+source: www.diffordsguide.com (1786)
+recipe_steps:
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Bacardi Oro golden rum
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Crème de banane liqueur
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Double (heavy) cream
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Milk
+- amount: '1'
+  doze: shot
+  ingredient_name: Malibu coconut rum liqueur

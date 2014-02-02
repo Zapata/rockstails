@@ -1,26 +1,28 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Lemongrad
+method: SHAKE first 4 ingredients with ice and strain into ice-filled glass. TOP with
+  tonic and lightly stir.
+rate: 4.5
 garnish: Lemon wedge squeezed over rim
 glass: Collins
-infos: 
-  Comment: A great summer afternoon drink. Fresh lemon with elderflower and quinine.
-  Origin: Created in 2002 by Alex Kammerling, London, England.
-  source: www.diffordsguide.com (1151)
-ingredients: 
-- - "2"
-  - shot
-  - Ketel One vodka
-- - " 1/2 "
-  - shot
-  - Ketel One Citroen vodka
-- - " 1/2 "
-  - shot
-  - Freshly squeezed lemon juice
-- - " 1/2 "
-  - shot
-  - St-Germain elderflower liqueur
-- - "1"
-  - top up with
-  - Tonic water
-method: SHAKE first 4 ingredients with ice and strain into ice-filled glass. TOP with tonic and lightly stir.
-name: Lemongrad
-rate: 4.5
+comment: A great summer afternoon drink. Fresh lemon with elderflower and quinine.
+aka: 
+variant: 
+origin: Created in 2002 by Alex Kammerling, London, England.
+source: www.diffordsguide.com (1151)
+recipe_steps:
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: St-Germain elderflower liqueur
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Ketel One Citroen vodka
+- amount: '2'
+  doze: shot
+  ingredient_name: Ketel One vodka
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Freshly squeezed lemon juice
+- amount: '1'
+  doze: top up with
+  ingredient_name: Tonic water

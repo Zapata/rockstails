@@ -1,23 +1,25 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Vodka Collins
+method: SHAKE first 3 ingredients with ice and strain into ice-filled glass. TOP with
+  soda, lightly stir and serve with straws.
+rate: 4.0
 garnish: Orange slice &amp; cherry on stick (sail)
 glass: Collins
-infos: 
-  AKA: Joe Collins
-  Comment: A Tom Collins with vodka - a refreshing balance of sweet and sour.
-  source: www.diffordsguide.com (2050)
-ingredients: 
-- - "2"
-  - shot
-  - Ketel One vodka
-- - "1"
-  - shot
-  - Freshly squeezed lemon juice
-- - " 1/2 "
-  - shot
-  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
-- - "1"
-  - top up with
-  - Soda (club soda)
-method: SHAKE first 3 ingredients with ice and strain into ice-filled glass. TOP with soda, lightly stir and serve with straws.
-name: Vodka Collins
-rate: 4.0
+comment: A Tom Collins with vodka - a refreshing balance of sweet and sour.
+aka: Joe Collins
+variant: 
+origin: 
+source: www.diffordsguide.com (2050)
+recipe_steps:
+- amount: '2'
+  doze: shot
+  ingredient_name: Ketel One vodka
+- amount: '1'
+  doze: shot
+  ingredient_name: Freshly squeezed lemon juice
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- amount: '1'
+  doze: top up with
+  ingredient_name: Soda (club soda)

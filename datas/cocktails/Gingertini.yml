@@ -1,26 +1,27 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Gingertini
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 4.0
 garnish: Orange zest twist
 glass: Martini
-infos: 
-  Comment: A delicate Martini with a warming hint of ginger.
-  Origin: Created by Yours Truly (Simon Difford) in 2002.
-  source: www.diffordsguide.com (858)
-ingredients: 
-- - "2"
-  - shot
-  - Bombay London dry gin
-- - " 1/2 "
-  - shot
-  - Domaine de Canton ginger liqueur
-- - " 1/4 "
-  - shot
-  - Noilly Prat dry vermouth
-- - " 1/4 "
-  - shot
-  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
-- - " 1/2 "
-  - shot
-  - Chilled mineral water
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: Gingertini
-rate: 4.0
+comment: A delicate Martini with a warming hint of ginger.
+aka: 
+variant: 
+origin: Created by Yours Truly (Simon Difford) in 2002.
+source: www.diffordsguide.com (858)
+recipe_steps:
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Noilly Prat dry vermouth
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Chilled mineral water
+- amount: '2'
+  doze: shot
+  ingredient_name: Bombay London dry gin
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Domaine de Canton ginger liqueur

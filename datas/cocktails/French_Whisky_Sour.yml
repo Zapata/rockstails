@@ -1,29 +1,32 @@
---- !ruby/object:DirtyCocktail 
+---
+name: French Whisky Sour
+method: <p>SHAKE all ingredients with ice and strain into ice-filled glass.</p>
+rate: 4.5
 garnish: <p>Lemon slice &amp; cherry on stick (sail) </p>
 glass: Old-fashioned
-infos: 
-  Comment: <p>Pastis adds a pleasing hint of anise and liquorice to the classic Whisky Sour. </p>
-  Origin: <p>Created in 2006 by Simon Difford and inspired by Tony Conigliaro's Liquorice Whisky Sour.</p><br />
-  source: www.diffordsguide.com (2416)
-ingredients: 
-- - "2"
-  - shot
-  - Johnnie Walker Scotch Whisky
-- - " 1/2 "
-  - shot
-  - Ricard Pastis
-- - "1"
-  - shot
-  - Freshly squeezed lemon juice
-- - " 1/2 "
-  - shot
-  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
-- - " 1/2 "
-  - fresh
-  - Egg white
-- - "3"
-  - dash
-  - Angostura aromatic bitters
-method: <p>SHAKE all ingredients with ice and strain into ice-filled glass.</p>
-name: French Whisky Sour
-rate: 4.5
+comment: <p>Pastis adds a pleasing hint of anise and liquorice to the classic Whisky
+  Sour. </p>
+aka: 
+variant: 
+origin: <p>Created in 2006 by Simon Difford and inspired by Tony Conigliaro's Liquorice
+  Whisky Sour.</p><br />
+source: www.diffordsguide.com (2416)
+recipe_steps:
+- amount: '1'
+  doze: shot
+  ingredient_name: Freshly squeezed lemon juice
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- amount: '3'
+  doze: dash
+  ingredient_name: Angostura aromatic bitters
+- amount: ' 1/2 '
+  doze: fresh
+  ingredient_name: Egg white
+- amount: '2'
+  doze: shot
+  ingredient_name: Johnnie Walker Scotch Whisky
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Ricard Pastis

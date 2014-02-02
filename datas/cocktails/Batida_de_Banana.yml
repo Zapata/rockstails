@@ -1,20 +1,22 @@
---- !ruby/object:DirtyCocktail 
-garnish: " Banana chunk on rim<br />"
-glass: Collins
-infos: 
-  Comment: So thick that this is something of a liquid dessert - surprisingly yummy.
-  Origin: " The Batida (meaning 'shake') is a traditional Brazilian drink."
-  source: www.diffordsguide.com (2280)
-ingredients: 
-- - "2"
-  - shot
-  - Leblon cachaca
-- - "1"
-  - fresh
-  - Banana (peeled)
-- - "1"
-  - shot
-  - Condensed milk
-method: " BLEND ingredients with 12oz scoop of crushed ice. Pour into glass and serve with straws."
+---
 name: Batida de Banana
+method: ' BLEND ingredients with 12oz scoop of crushed ice. Pour into glass and serve
+  with straws.'
 rate: 3.5
+garnish: ' Banana chunk on rim<br />'
+glass: Collins
+comment: So thick that this is something of a liquid dessert - surprisingly yummy.
+aka: 
+variant: 
+origin: ' The Batida (meaning ''shake'') is a traditional Brazilian drink.'
+source: www.diffordsguide.com (2280)
+recipe_steps:
+- amount: '2'
+  doze: shot
+  ingredient_name: Leblon cachaca
+- amount: '1'
+  doze: fresh
+  ingredient_name: Banana (peeled)
+- amount: '1'
+  doze: shot
+  ingredient_name: Condensed milk

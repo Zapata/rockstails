@@ -1,24 +1,24 @@
---- !ruby/object:DirtyCocktail 
+---
+name: 'Hop Toad #1'
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 4.0
 garnish: Apricot wedge on rim
 glass: Martini
-infos: 
-  Comment: Resembles an apricot Daiquiri that's heavy on the lime yet balanced.
-  Origin: First published in Tom Bullock's 'Ideal Bartender', circa 1917.
-  source: www.diffordsguide.com (976)
-  Variant: Made with brandy this is sometimes known as a Bullfrog.
-ingredients: 
-- - "1 1/4 "
-  - shot
-  - Bacardi Superior rum
-- - "1 1/4 "
-  - shot
-  - Bols apricot brandy liqueur
-- - "1 1/4 "
-  - shot
-  - Freshly squeezed lime juice
-- - " 1/2 "
-  - shot
-  - Chilled mineral water
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: "Hop Toad #1"
-rate: 4.0
+comment: Resembles an apricot Daiquiri that's heavy on the lime yet balanced.
+aka: 
+variant: Made with brandy this is sometimes known as a Bullfrog.
+origin: First published in Tom Bullock's 'Ideal Bartender', circa 1917.
+source: www.diffordsguide.com (976)
+recipe_steps:
+- amount: '1 1/4 '
+  doze: shot
+  ingredient_name: Freshly squeezed lime juice
+- amount: '1 1/4 '
+  doze: shot
+  ingredient_name: Bacardi Superior rum
+- amount: '1 1/4 '
+  doze: shot
+  ingredient_name: Bols apricot brandy liqueur
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Chilled mineral water

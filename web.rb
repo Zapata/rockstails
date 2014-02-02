@@ -1,7 +1,8 @@
 require 'sinatra'
 require 'sinatra/reloader' if development?
 require 'haml'
-require "sinatra/activerecord"
+require 'sinatra/activerecord'
+require 'shellwords'
 require_relative 'model/activerecord/active_record_db'
 require_relative 'model/file/file_db'
 require_relative 'model/file/bar'
@@ -51,7 +52,7 @@ get '/search' do
   @selected_bar = params[:usebar]
   logger.info "Searching cocktails with criteria: #{@criteria}."
   beginning_time = Time.now
-  found_cocktails =  @db.search(@criteria, @selected_bar);
+  found_cocktails =  @db.search(Shellwords.split(@criteria), @selected_bar);
   end_time = Time.now
   elapsed_time = (end_time - beginning_time) * 1000
   haml :list, locals:  { cocktails: found_cocktails, elapsed_time: elapsed_time.to_i }

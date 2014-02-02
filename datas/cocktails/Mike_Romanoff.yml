@@ -1,26 +1,44 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Mike Romanoff
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 3.5
 garnish: Orange zest twist
 glass: Martini
-infos: 
-  Comment: A Vodka Daisy sweetened with triple sec, apricot brandy and a touch of sugar. <br /><br />
-  Origin: Michael Romanoff (1890-1971) was a Hollywood impresario. Born Hershel Geguzin in Lithuania he immigrated to New York City aged ten and changed his name to Harry F. Gerguson. He moved to Hollywood where he took on the Michael Romanoff persona, claiming to be born Prince Michael Alexandrovitch Dimitri Obolensky Romanoff, nephew of Tsar Nicholas II. Scotland Yard described the former British and French convict as a "rouge of uncertain nationality." He was another actor in a town of actors and when a filmmaker needed a 'technical adviser' for a movie set in Europe, Romanoff was the obvious well paid expert. He was a popular Hollywood figure and he opened Romanoff's, a Beverly Hills restaurant popular with movie stars in the 1940s and 1950s.<br />       <br />Humphrey Bogart was a good friend of Romanoff and a regular at the restaurant. Hollywood legend has it that one day in 1955 Bogie was lunching with Frank Sinatra, Judy Garland and Jimmy Van Heusen when Mrs Bogart, A.K.A. Lauren Bacall walked into the restaurant and on seeing the group exclaimed, &quot;I see the rat pack is all here&quot;. Thus Romanoff's became the place where the Rat Pack term was first coined and also where this drink was created.<br />       <br />David Niven was also a close friend and in his book 'Bring on the Empty Horses' he devotes chapter eight, 'The Emperor', to the colourful Romanoff.<br /><br />
-  source: www.diffordsguide.com (2499)
-ingredients: 
-- - "2"
-  - shot
-  - Ketel One vodka
-- - " 1/8 "
-  - shot
-  - Cointreau triple sec
-- - " 1/8 "
-  - shot
-  - Bols apricot brandy liqueur
-- - " 3/4 "
-  - shot
-  - Freshly squeezed lime juice
-- - " 1/4 "
-  - shot
-  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: Mike Romanoff
-rate: 3.5
+comment: A Vodka Daisy sweetened with triple sec, apricot brandy and a touch of sugar.
+  <br /><br />
+aka: 
+variant: 
+origin: Michael Romanoff (1890-1971) was a Hollywood impresario. Born Hershel Geguzin
+  in Lithuania he immigrated to New York City aged ten and changed his name to Harry
+  F. Gerguson. He moved to Hollywood where he took on the Michael Romanoff persona,
+  claiming to be born Prince Michael Alexandrovitch Dimitri Obolensky Romanoff, nephew
+  of Tsar Nicholas II. Scotland Yard described the former British and French convict
+  as a "rouge of uncertain nationality." He was another actor in a town of actors
+  and when a filmmaker needed a 'technical adviser' for a movie set in Europe, Romanoff
+  was the obvious well paid expert. He was a popular Hollywood figure and he opened
+  Romanoff's, a Beverly Hills restaurant popular with movie stars in the 1940s and
+  1950s.<br />       <br />Humphrey Bogart was a good friend of Romanoff and a regular
+  at the restaurant. Hollywood legend has it that one day in 1955 Bogie was lunching
+  with Frank Sinatra, Judy Garland and Jimmy Van Heusen when Mrs Bogart, A.K.A. Lauren
+  Bacall walked into the restaurant and on seeing the group exclaimed, &quot;I see
+  the rat pack is all here&quot;. Thus Romanoff's became the place where the Rat Pack
+  term was first coined and also where this drink was created.<br />       <br />David
+  Niven was also a close friend and in his book 'Bring on the Empty Horses' he devotes
+  chapter eight, 'The Emperor', to the colourful Romanoff.<br /><br />
+source: www.diffordsguide.com (2499)
+recipe_steps:
+- amount: ' 1/8 '
+  doze: shot
+  ingredient_name: Cointreau triple sec
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Freshly squeezed lime juice
+- amount: '2'
+  doze: shot
+  ingredient_name: Ketel One vodka
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- amount: ' 1/8 '
+  doze: shot
+  ingredient_name: Bols apricot brandy liqueur

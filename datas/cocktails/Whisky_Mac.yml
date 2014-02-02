@@ -1,16 +1,18 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Whisky Mac
+method: POUR ingredients into ice-filled glass and lightly stir.
+rate: 3.5
 garnish: 
 glass: Old-fashioned
-infos: 
-  Comment: Ginger wine smoothes and spices Scotch.
-  source: www.diffordsguide.com (2086)
-ingredients: 
-- - "2"
-  - shot
-  - Johnnie Walker Scotch Whisky
-- - "1"
-  - shot
-  - Stone's green ginger wine
-method: POUR ingredients into ice-filled glass and lightly stir.
-name: Whisky Mac
-rate: 3.5
+comment: Ginger wine smoothes and spices Scotch.
+aka: 
+variant: 
+origin: 
+source: www.diffordsguide.com (2086)
+recipe_steps:
+- amount: '2'
+  doze: shot
+  ingredient_name: Johnnie Walker Scotch Whisky
+- amount: '1'
+  doze: shot
+  ingredient_name: Stone's green ginger wine

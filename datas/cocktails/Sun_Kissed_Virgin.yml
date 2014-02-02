@@ -1,22 +1,25 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Sun Kissed Virgin
+method: SHAKE all ingredients with ice and strain into ice-filled glass.
+rate: 3.0
 garnish: Physalis (cape gooseberry) on rim
 glass: Sling
-infos: 
-  Comment: Golden, slightly sweet and very fruity - just like a Sun Kissed Virgin should be. (Sorry.)
-  source: www.diffordsguide.com (1897)
-ingredients: 
-- - "2"
-  - shot
-  - Freshly squeezed orange juice
-- - "2"
-  - shot
-  - Fresh pressed pineapple juice
-- - "1"
-  - shot
-  - Freshly squeezed lime juice
-- - " 1/2 "
-  - shot
-  - Monin Almond (orgeat) syrup
-method: SHAKE all ingredients with ice and strain into ice-filled glass.
-name: Sun Kissed Virgin
-rate: 3.0
+comment: Golden, slightly sweet and very fruity - just like a Sun Kissed Virgin should
+  be. (Sorry.)
+aka: 
+variant: 
+origin: 
+source: www.diffordsguide.com (1897)
+recipe_steps:
+- amount: '1'
+  doze: shot
+  ingredient_name: Freshly squeezed lime juice
+- amount: '2'
+  doze: shot
+  ingredient_name: Fresh pressed pineapple juice
+- amount: '2'
+  doze: shot
+  ingredient_name: Freshly squeezed orange juice
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Monin Almond (orgeat) syrup

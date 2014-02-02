@@ -1,23 +1,44 @@
---- !ruby/object:DirtyCocktail 
-garnish: The trick is to find a lemon or a small orange. I favour lemon, which fits into a small wineglass tightly enough to act as a watertight extension to the glass. Cut off both ends of the fruit and carefully remove the pulp to leave a barrel-shaped shell of skin. Place in the top of the glass - wineglasses tend to curve in on themselves and this helps retain the fruit. Wet the edge of the glass and exposed fruit shell with sugar syrup and dip in caster sugar to frost the edge of both peel and glass. Leave for a couple of hours to form hard crust.<br /><br />
-glass: Wine
-infos: 
-  Comment: Some cocktail historians, Ted Haigh included, consider the Crusta the forerunner of the Sidecar and in turn the Margarita. It's a very logical argument.<br /><br />
-  Origin: The invention of the Crusta is credited to a Joseph Santina at the Jewel of the South or a Joseph Santini at the City Exchange in New Orleans sometime during the 1840s or 1850s. It first appeared in print as 'The Brandy Crusta' in Jerry Thomas' 1862 bartender's guide.<br />    <br />Crustas always contain a spirit, lemon juice and sugar - sometimes in the form of a liqueur or liqueurs. They are so named due to their sugar rim, which should be applied hours before the drink is made so that it is dried hard, or indeed crusty, when the drink is served. Crustas are also distinguished by being garnished with a band of orange or lemon zest, and are drunk from the rim of the fruit, rather than the rim of the glass.<br />    <br />As David A. Embury writes in his 1948 'The Fine Art of Mixing Drinks', "The distinguishing feature of the Crusta is that the entire inside of the glass is lined with lemon or orange peel. The drink may be served in either a wineglass or an Old-Fashioned glass, although it is much harder to make the peel fit in the Old-Fashioned glass."<br />    <br />Embury goes on to say, "While the 'Brandy Crusta' is the most common form of this drink, it is, after all, merely a Sour-type drink served in fancy style. Substitution of a different liquor as a base will give a Gin Crusta, a Rum Crusta, an Applejack Crusta, A Whisky Crusta, and so on."<br /><br />
-  source: www.diffordsguide.com (2152)
-ingredients: 
-- - "2"
-  - shot
-  - Brandy, whisk(e)y, gin, rum etc.
-- - " 1/2 "
-  - shot
-  - Freshly squeezed lemon juice
-- - " 1/4 "
-  - shot
-  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
-- - "1"
-  - dash
-  - Angostura aromatic bitters
-method: SHAKE all ingredients with ice and fine strain into pre-prepared glass.<br /><br />
+---
 name: Crustas (generic name)
+method: |
+  SHAKE all ingredients with ice and fine strain into pre-prepared glass.
+  TFor the garnish, the trick is to find a lemon or a small orange. I favour lemon, which fits into a small wineglass tightly enough to act as a watertight extension to the glass. Cut off both ends of the fruit and carefully remove the pulp to leave a barrel-shaped shell of skin. Place in the top of the glass - wineglasses tend to curve in on themselves and this helps retain the fruit. Wet the edge of the glass and exposed fruit shell with sugar syrup and dip in caster sugar to frost the edge of both peel and glass. Leave for a couple of hours to form hard crust.
 rate: 3.5
+garnish: Lemon or orange that fit the rim (see method).
+glass: Wine
+comment: Some cocktail historians, Ted Haigh included, consider the Crusta the forerunner
+  of the Sidecar and in turn the Margarita. It's a very logical argument.<br /><br
+  />
+aka: 
+variant: 
+origin: The invention of the Crusta is credited to a Joseph Santina at the Jewel of
+  the South or a Joseph Santini at the City Exchange in New Orleans sometime during
+  the 1840s or 1850s. It first appeared in print as 'The Brandy Crusta' in Jerry Thomas'
+  1862 bartender's guide.<br />    <br />Crustas always contain a spirit, lemon juice
+  and sugar - sometimes in the form of a liqueur or liqueurs. They are so named due
+  to their sugar rim, which should be applied hours before the drink is made so that
+  it is dried hard, or indeed crusty, when the drink is served. Crustas are also distinguished
+  by being garnished with a band of orange or lemon zest, and are drunk from the rim
+  of the fruit, rather than the rim of the glass.<br />    <br />As David A. Embury
+  writes in his 1948 'The Fine Art of Mixing Drinks', "The distinguishing feature
+  of the Crusta is that the entire inside of the glass is lined with lemon or orange
+  peel. The drink may be served in either a wineglass or an Old-Fashioned glass, although
+  it is much harder to make the peel fit in the Old-Fashioned glass."<br />    <br
+  />Embury goes on to say, "While the 'Brandy Crusta' is the most common form of this
+  drink, it is, after all, merely a Sour-type drink served in fancy style. Substitution
+  of a different liquor as a base will give a Gin Crusta, a Rum Crusta, an Applejack
+  Crusta, A Whisky Crusta, and so on."<br /><br />
+source: www.diffordsguide.com (2152)
+recipe_steps:
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Freshly squeezed lemon juice
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- amount: '1'
+  doze: dash
+  ingredient_name: Angostura aromatic bitters
+- amount: '2'
+  doze: shot
+  ingredient_name: Brandy, whisk(e)y, gin, rum etc.

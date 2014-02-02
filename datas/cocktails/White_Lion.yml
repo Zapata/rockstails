@@ -1,23 +1,26 @@
---- !ruby/object:DirtyCocktail 
+---
+name: White Lion
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 4.0
 garnish: Lime wedge on rim
 glass: Martini
-infos: 
-  Comment: This fruity Daiquiri is superb when made with quality pomegranate syrup and rum.
-  Origin: Adapted from a recipe purloined from David Embury's classic book, The Fine Art of Mixing Drinks.
-  source: www.diffordsguide.com (2092)
-ingredients: 
-- - "2"
-  - shot
-  - Bacardi Superior rum
-- - " 1/4 "
-  - shot
-  - Cointreau triple sec
-- - " 1/4 "
-  - shot
-  - Pomegranate (grenadine) syrup
-- - " 1/2 "
-  - shot
-  - Freshly squeezed lime juice
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: White Lion
-rate: 4.0
+comment: This fruity Daiquiri is superb when made with quality pomegranate syrup and
+  rum.
+aka: 
+variant: 
+origin: Adapted from a recipe purloined from David Embury's classic book, The Fine
+  Art of Mixing Drinks.
+source: www.diffordsguide.com (2092)
+recipe_steps:
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Cointreau triple sec
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Freshly squeezed lime juice
+- amount: '2'
+  doze: shot
+  ingredient_name: Bacardi Superior rum
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Pomegranate (grenadine) syrup

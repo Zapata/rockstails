@@ -1,29 +1,30 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Screaming Banana Banshee
+method: BLEND all ingredients with 12oz scoop of crushed ice and serve with straws.
+rate: 3.5
 garnish: Banana chunk on rim
 glass: Hurricane
-infos: 
-  Comment: An alcoholic milkshake - not too sweet.
-  Origin: Without the vodka this is a plain 'Banana Banshee'
-  source: www.diffordsguide.com (1805)
-ingredients: 
-- - "2"
-  - shot
-  - Ketel One vodka
-- - "1"
-  - shot
-  - "Cr\xE8me de banane liqueur"
-- - "1"
-  - shot
-  - "White cr\xE8me de cacao liqueur"
-- - "1 1/2 "
-  - shot
-  - Double (heavy) cream
-- - "1 1/2 "
-  - shot
-  - Milk
-- - " 1/2 "
-  - fresh
-  - Banana (peeled)
-method: BLEND all ingredients with 12oz scoop of crushed ice and serve with straws.
-name: Screaming Banana Banshee
-rate: 3.5
+comment: An alcoholic milkshake - not too sweet.
+aka: 
+variant: 
+origin: Without the vodka this is a plain 'Banana Banshee'
+source: www.diffordsguide.com (1805)
+recipe_steps:
+- amount: '2'
+  doze: shot
+  ingredient_name: Ketel One vodka
+- amount: '1'
+  doze: shot
+  ingredient_name: White crème de cacao liqueur
+- amount: '1'
+  doze: shot
+  ingredient_name: Crème de banane liqueur
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Double (heavy) cream
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Milk
+- amount: ' 1/2 '
+  doze: fresh
+  ingredient_name: Banana (peeled)

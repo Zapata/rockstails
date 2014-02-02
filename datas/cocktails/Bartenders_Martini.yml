@@ -1,25 +1,28 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Bartender's Martini
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 4.0
 garnish: Orange zest twist
 glass: Martini
-infos: 
-  Comment: This classic cocktail resembles an aromatic Martini. Hints of sherry and orange are followed by a dry finish.
-  source: www.diffordsguide.com (174)
-ingredients: 
-- - "1"
-  - shot
-  - Bombay London dry gin
-- - "1"
-  - shot
-  - Tio Pepe fino sherry
-- - "1"
-  - shot
-  - Dubonnet Red (French made)
-- - "1"
-  - shot
-  - Noilly Prat dry vermouth
-- - " 1/2 "
-  - shot
-  - Grand Marnier liqueur
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: Bartender's Martini
-rate: 4.0
+comment: This classic cocktail resembles an aromatic Martini. Hints of sherry and
+  orange are followed by a dry finish.
+aka: 
+variant: 
+origin: 
+source: www.diffordsguide.com (174)
+recipe_steps:
+- amount: '1'
+  doze: shot
+  ingredient_name: Dubonnet Red (French made)
+- amount: '1'
+  doze: shot
+  ingredient_name: Noilly Prat dry vermouth
+- amount: '1'
+  doze: shot
+  ingredient_name: Bombay London dry gin
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Grand Marnier liqueur
+- amount: '1'
+  doze: shot
+  ingredient_name: Tio Pepe fino sherry

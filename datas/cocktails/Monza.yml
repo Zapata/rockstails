@@ -1,26 +1,29 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Monza
+method: Cut passion fruit in half and scoop flesh into shaker. Add other ingredients,
+  SHAKE with ice and strain into ice-filled glass.
+rate: 4.0
 garnish: Slice of apple
 glass: Collins
-infos: 
-  Comment: If you like Campari you'll love this.
-  Origin: A classic cocktail promoted by Campari and named after the Italian Grand Prix circuit.
-  source: www.diffordsguide.com (1358)
-ingredients: 
-- - "1"
-  - fresh
-  - Passion fruit
-- - "2"
-  - shot
-  - Ketel One vodka
-- - "2"
-  - shot
-  - Campari Bitter
-- - "2"
-  - shot
-  - Pressed apple juice
-- - " 1/4 "
-  - shot
-  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
-method: Cut passion fruit in half and scoop flesh into shaker. Add other ingredients, SHAKE with ice and strain into ice-filled glass.
-name: Monza
-rate: 4.0
+comment: If you like Campari you'll love this.
+aka: 
+variant: 
+origin: A classic cocktail promoted by Campari and named after the Italian Grand Prix
+  circuit.
+source: www.diffordsguide.com (1358)
+recipe_steps:
+- amount: '2'
+  doze: shot
+  ingredient_name: Ketel One vodka
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- amount: '2'
+  doze: shot
+  ingredient_name: Pressed apple juice
+- amount: '1'
+  doze: fresh
+  ingredient_name: Passion fruit
+- amount: '2'
+  doze: shot
+  ingredient_name: Campari Bitter

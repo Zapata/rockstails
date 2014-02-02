@@ -1,23 +1,25 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Cuban Liberal
+method: SHAKE all ingredients with ice and fine strain into chilled glass. <br />
+rate: 5.0
 garnish: Orange zest twist<br />
 glass: Coupette
-infos: 
-  Comment: <br _moz_editor_bogus_node="TRUE" />
-  Origin: Adapted from a drink featured in bar La Florida (El Floridita) Cocktails of 1935.<br />
-  source: www.diffordsguide.com (2793)
-ingredients: 
-- - "1 1/2 "
-  - shot
-  - Bacardi Superior rum
-- - "1"
-  - shot
-  - Martini Rosso sweet vermouth
-- - " 1/2 "
-  - spoon
-  - Amer Picon
-- - "2"
-  - dash
-  - Angostura orange bitters
-method: SHAKE all ingredients with ice and fine strain into chilled glass. <br />
-name: Cuban Liberal
-rate: 5.0
+comment: <br _moz_editor_bogus_node="TRUE" />
+aka: 
+variant: 
+origin: Adapted from a drink featured in bar La Florida (El Floridita) Cocktails of
+  1935.<br />
+source: www.diffordsguide.com (2793)
+recipe_steps:
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Bacardi Superior rum
+- amount: '1'
+  doze: shot
+  ingredient_name: Martini Rosso sweet vermouth
+- amount: '2'
+  doze: dash
+  ingredient_name: Angostura orange bitters
+- amount: ' 1/2 '
+  doze: spoon
+  ingredient_name: Amer Picon

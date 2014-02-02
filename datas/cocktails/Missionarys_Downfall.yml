@@ -1,29 +1,32 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Missionary's Downfall
+method: Lightly MUDDLE mint (just to bruise) in base of shaker. Add other ingredients,
+  SHAKE with ice and strain into glass filled with crushed ice.
+rate: 5.0
 garnish: Mint sprig
 glass: Collins
-infos: 
-  Comment: Superbly balanced and refreshing rum, lime, mint and a hint of peach.
-  Origin: Created in the 1930's by Don The Beachcomber at his restaurant in Hollywood, California, USA.
-  source: www.diffordsguide.com (1334)
-ingredients: 
-- - "12"
-  - fresh
-  - Mint leaves
-- - "2"
-  - shot
-  - Bacardi Superior rum
-- - " 1/2 "
-  - shot
-  - Peach Tree peach schnapps
-- - "1 1/2 "
-  - shot
-  - Freshly squeezed lime juice
-- - "2"
-  - shot
-  - Fresh pressed pineapple juice
-- - " 1/2 "
-  - shot
-  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
-method: Lightly MUDDLE mint (just to bruise) in base of shaker. Add other ingredients, SHAKE with ice and strain into glass filled with crushed ice.
-name: Missionary's Downfall
-rate: 5.0
+comment: Superbly balanced and refreshing rum, lime, mint and a hint of peach.
+aka: 
+variant: 
+origin: Created in the 1930's by Don The Beachcomber at his restaurant in Hollywood,
+  California, USA.
+source: www.diffordsguide.com (1334)
+recipe_steps:
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Freshly squeezed lime juice
+- amount: '12'
+  doze: fresh
+  ingredient_name: Mint leaves
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- amount: '2'
+  doze: shot
+  ingredient_name: Bacardi Superior rum
+- amount: '2'
+  doze: shot
+  ingredient_name: Fresh pressed pineapple juice
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Peach Tree peach schnapps

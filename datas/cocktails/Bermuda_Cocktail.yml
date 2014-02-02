@@ -1,23 +1,25 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Bermuda Cocktail
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 4.0
 garnish: Orange zest twist
 glass: Martini
-infos: 
-  Comment: Gin with a sweetening touch of peach, orange and pomegranate.
-  Origin: Adapted from Victor Bergeron's 'Trader Vic's Bartender's Guide' (1972 revised edition).
-  source: www.diffordsguide.com (542)
-ingredients: 
-- - "2"
-  - shot
-  - Bombay London dry gin
-- - " 1/2 "
-  - shot
-  - Peach Tree peach schnapps
-- - " 1/2 "
-  - shot
-  - Freshly squeezed orange juice
-- - " 1/4 "
-  - shot
-  - Pomegranate (grenadine) syrup
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: Bermuda Cocktail
-rate: 4.0
+comment: Gin with a sweetening touch of peach, orange and pomegranate.
+aka: 
+variant: 
+origin: Adapted from Victor Bergeron's 'Trader Vic's Bartender's Guide' (1972 revised
+  edition).
+source: www.diffordsguide.com (542)
+recipe_steps:
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Freshly squeezed orange juice
+- amount: '2'
+  doze: shot
+  ingredient_name: Bombay London dry gin
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Pomegranate (grenadine) syrup
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Peach Tree peach schnapps

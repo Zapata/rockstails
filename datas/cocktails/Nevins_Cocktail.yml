@@ -1,25 +1,28 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Nevins Cocktail
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 3.5
 garnish: Lemon zest twist
 glass: Martini
-infos: 
-  Comment: Whiskey and apricot combine beautifully with a light burst of citrus in this easy sipper.
-  source: www.diffordsguide.com (2189)
-ingredients: 
-- - "1 1/2 "
-  - shot
-  - Maker's Mark bourbon
-- - " 1/2 "
-  - shot
-  - Bols apricot brandy liqueur
-- - " 1/2 "
-  - shot
-  - Freshly squeezed grapefruit juice
-- - " 1/4 "
-  - shot
-  - Freshly squeezed lemon juice
-- - "1"
-  - dash
-  - Angostura aromatic bitters
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: Nevins Cocktail
-rate: 3.5
+comment: Whiskey and apricot combine beautifully with a light burst of citrus in this
+  easy sipper.
+aka: 
+variant: 
+origin: 
+source: www.diffordsguide.com (2189)
+recipe_steps:
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Freshly squeezed lemon juice
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Bols apricot brandy liqueur
+- amount: '1'
+  doze: dash
+  ingredient_name: Angostura aromatic bitters
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Freshly squeezed grapefruit juice
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Maker's Mark bourbon

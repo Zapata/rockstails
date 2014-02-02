@@ -1,26 +1,29 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Golden Mac
+method: MUDDLE ginger in base of shaker. Add honey and Scotch and STIR until honey
+  dissolves. Add other ingredients, SHAKE with ice and fine strain into ice-filled
+  glass.
+rate: 3.5
 garnish: Orange zest twist
 glass: Old-fashioned
-infos: 
-  Comment: Looks, and even tastes golden.
-  Origin: Adapted from a drink discovered in 2003 at Golden Mac, Glasgow, Scotland.
-  source: www.diffordsguide.com (879)
-ingredients: 
-- - "2"
-  - slice
-  - Fresh root ginger (thumbnail sized)
-- - "2"
-  - spoon
-  - Runny honey
-- - "2"
-  - shot
-  - Johnnie Walker Scotch Whisky
-- - " 1/4 "
-  - shot
-  - Hazelnut liqueur
-- - " 1/4 "
-  - shot
-  - Teichenn butterscotch schnapps
-method: MUDDLE ginger in base of shaker. Add honey and Scotch and STIR until honey dissolves. Add other ingredients, SHAKE with ice and fine strain into ice-filled glass.
-name: Golden Mac
-rate: 3.5
+comment: Looks, and even tastes golden.
+aka: 
+variant: 
+origin: Adapted from a drink discovered in 2003 at Golden Mac, Glasgow, Scotland.
+source: www.diffordsguide.com (879)
+recipe_steps:
+- amount: '2'
+  doze: spoon
+  ingredient_name: Runny honey
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Teichenn butterscotch schnapps
+- amount: '2'
+  doze: shot
+  ingredient_name: Johnnie Walker Scotch Whisky
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Hazelnut liqueur
+- amount: '2'
+  doze: slice
+  ingredient_name: Fresh root ginger (thumbnail sized)

@@ -1,20 +1,21 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Karamel Sutra Martini
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 3.0
 garnish: Fudge on rim
 glass: Martini
-infos: 
-  Comment: Liquid confectionery that bites back.
-  Origin: Adapted from a drink discovered in 2003 at the Bellagio, Las Vegas, USA.
-  source: www.diffordsguide.com (1089)
-ingredients: 
-- - "1 1/2 "
-  - shot
-  - Vanilla-infused Ketel One vodka
-- - "1 1/2 "
-  - shot
-  - Tuaca liqueur
-- - "1"
-  - shot
-  - Toffee liqueur
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: Karamel Sutra Martini
-rate: 3.0
+comment: Liquid confectionery that bites back.
+aka: 
+variant: 
+origin: Adapted from a drink discovered in 2003 at the Bellagio, Las Vegas, USA.
+source: www.diffordsguide.com (1089)
+recipe_steps:
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Vanilla-infused Ketel One vodka
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Tuaca liqueur
+- amount: '1'
+  doze: shot
+  ingredient_name: Toffee liqueur

@@ -1,23 +1,26 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Port & Melon Martini
+method: CUT melon into eight segments and deseed. Cut cubes of flesh from skin of
+  one segment and MUDDLE in base of shaker. Add other ingredients, SHAKE with ice
+  and fine strain into a chilled glass.
+rate: 4.5
 garnish: Melon wedge on rim
 glass: Martini
-infos: 
-  Comment: The classic seventies starter served as a Martini.
-  Origin: Created in 2004 by Yours Truly (Simon Difford).
-  source: www.diffordsguide.com (1590)
-ingredients: 
-- - " 1/8 "
-  - fresh
-  - Cantaloupe melon
-- - "1 1/2 "
-  - shot
-  - Ketel One vodka
-- - "1 1/2 "
-  - shot
-  - Taylor's Chip dry white port
-- - "1 1/2 "
-  - shot
-  - Warre's Otima tawny port
-method: CUT melon into eight segments and deseed. Cut cubes of flesh from skin of one segment and MUDDLE in base of shaker. Add other ingredients, SHAKE with ice and fine strain into a chilled glass.
-name: Port & Melon Martini
-rate: 4.5
+comment: The classic seventies starter served as a Martini.
+aka: 
+variant: 
+origin: Created in 2004 by Yours Truly (Simon Difford).
+source: www.diffordsguide.com (1590)
+recipe_steps:
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Ketel One vodka
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Warre's Otima tawny port
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Taylor's Chip dry white port
+- amount: ' 1/8 '
+  doze: fresh
+  ingredient_name: Cantaloupe melon

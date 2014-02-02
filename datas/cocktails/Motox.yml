@@ -1,29 +1,32 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Motox
+method: MUDDLE ginger and coriander in base of shaker. Add other ingredients, SHAKE
+  with ice and fine strain into chilled glass.
+rate: 4.0
 garnish: Coriander leaf.
 glass: Martini
-infos: 
-  Comment: Each sip is fruity, lemon fresh and followed by a hot ginger hit.
-  Origin: Adapted from a drink discovered in 2005 at Mo Bar, Landmark Mandarin Oriental Hotel, Hong Kong.
-  source: www.diffordsguide.com (1367)
-ingredients: 
-- - "1"
-  - slice
-  - Fresh root ginger (thumbnail sized)
-- - "10"
-  - fresh
-  - Coriander (cilantro)
-- - "1 1/2 "
-  - shot
-  - Ketel One Citroen vodka
-- - " 1/2 "
-  - shot
-  - Luxardo limoncello liqueur
-- - "1"
-  - shot
-  - Fresh pressed pineapple juice
-- - "1"
-  - shot
-  - Pressed apple juice
-method: MUDDLE ginger and coriander in base of shaker. Add other ingredients, SHAKE with ice and fine strain into chilled glass.
-name: Motox
-rate: 4.0
+comment: Each sip is fruity, lemon fresh and followed by a hot ginger hit.
+aka: 
+variant: 
+origin: Adapted from a drink discovered in 2005 at Mo Bar, Landmark Mandarin Oriental
+  Hotel, Hong Kong.
+source: www.diffordsguide.com (1367)
+recipe_steps:
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Ketel One Citroen vodka
+- amount: '1'
+  doze: shot
+  ingredient_name: Fresh pressed pineapple juice
+- amount: '1'
+  doze: shot
+  ingredient_name: Pressed apple juice
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Luxardo limoncello liqueur
+- amount: '10'
+  doze: fresh
+  ingredient_name: Coriander (cilantro)
+- amount: '1'
+  doze: slice
+  ingredient_name: Fresh root ginger (thumbnail sized)

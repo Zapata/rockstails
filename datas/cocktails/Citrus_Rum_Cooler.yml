@@ -1,22 +1,25 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Citrus Rum Cooler
+method: SHAKE first three ingredients with ice and strain into ice-filled glass. TOP
+  with lemonade. Lightly stir and serve with straws.
+rate: 4.0
 garnish: Orange slice
 glass: Collins
-infos: 
-  Comment: Light, fruity, easy and very refreshing.
-  source: www.diffordsguide.com (2150)
-ingredients: 
-- - "1"
-  - shot
-  - Bacardi Superior rum
-- - " 1/2 "
-  - shot
-  - Grand Marnier liqueur
-- - "2"
-  - shot
-  - Freshly squeezed orange juice
-- - "1"
-  - top up with
-  - Lemonade/Sprite/7-Up
-method: SHAKE first three ingredients with ice and strain into ice-filled glass. TOP with lemonade. Lightly stir and serve with straws.
-name: Citrus Rum Cooler
-rate: 4.0
+comment: Light, fruity, easy and very refreshing.
+aka: 
+variant: 
+origin: 
+source: www.diffordsguide.com (2150)
+recipe_steps:
+- amount: '1'
+  doze: top up with
+  ingredient_name: Lemonade/Sprite/7-Up
+- amount: '1'
+  doze: shot
+  ingredient_name: Bacardi Superior rum
+- amount: '2'
+  doze: shot
+  ingredient_name: Freshly squeezed orange juice
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Grand Marnier liqueur

@@ -1,22 +1,25 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Brazilian Monk
+method: BLEND ingredients with 12oz scoop of crushed ice. Pour into glass and serve
+  with straws.
+rate: 3.5
 garnish: Cadbury's Flake in drink
 glass: Hurricane
-infos: 
-  Comment: Nutty and rich dessert in a glass.
-  source: www.diffordsguide.com (320)
-ingredients: 
-- - "1"
-  - shot
-  - Hazelnut liqueur
-- - "1"
-  - shot
-  - Kahla coffee liqueur
-- - "1"
-  - shot
-  - "Brown cr\xE8me de cacao liqueur"
-- - "3"
-  - scoop
-  - Haagen Dazs vanilla ice cream
-method: BLEND ingredients with 12oz scoop of crushed ice. Pour into glass and serve with straws.
-name: Brazilian Monk
-rate: 3.5
+comment: Nutty and rich dessert in a glass.
+aka: 
+variant: 
+origin: 
+source: www.diffordsguide.com (320)
+recipe_steps:
+- amount: '1'
+  doze: shot
+  ingredient_name: Brown crème de cacao liqueur
+- amount: '3'
+  doze: scoop
+  ingredient_name: Haagen Dazs vanilla ice cream
+- amount: '1'
+  doze: shot
+  ingredient_name: Kahla coffee liqueur
+- amount: '1'
+  doze: shot
+  ingredient_name: Hazelnut liqueur

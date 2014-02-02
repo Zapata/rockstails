@@ -1,23 +1,27 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Mexican Melon Ball
+method: Cut melon into 8 segments and deseed. Cut cubes of flesh from skin of one
+  segment and MUDDLE in base of shaker. Add other ingredients, SHAKE with ice and
+  fine strain into ice-filled glass.
+rate: 3.5
 garnish: Melon balls on stick
 glass: Collins
-infos: 
-  Comment: Orange and melon laced with tequila.
-  Origin: Adapted from a drink discovered at the Flying V Bar &amp; Grill, Tuscon, Arizona, USA.
-  source: www.diffordsguide.com (1305)
-ingredients: 
-- - " 1/8 "
-  - fresh
-  - Cantaloupe melon
-- - "2"
-  - shot
-  - Herradura 100% agave tequila
-- - "2"
-  - shot
-  - Freshly squeezed orange juice
-- - " 1/4 "
-  - shot
-  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
-method: Cut melon into 8 segments and deseed. Cut cubes of flesh from skin of one segment and MUDDLE in base of shaker. Add other ingredients, SHAKE with ice and fine strain into ice-filled glass.
-name: Mexican Melon Ball
-rate: 3.5
+comment: Orange and melon laced with tequila.
+aka: 
+variant: 
+origin: Adapted from a drink discovered at the Flying V Bar &amp; Grill, Tuscon, Arizona,
+  USA.
+source: www.diffordsguide.com (1305)
+recipe_steps:
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- amount: '2'
+  doze: shot
+  ingredient_name: Freshly squeezed orange juice
+- amount: '2'
+  doze: shot
+  ingredient_name: Herradura 100% agave tequila
+- amount: ' 1/8 '
+  doze: fresh
+  ingredient_name: Cantaloupe melon

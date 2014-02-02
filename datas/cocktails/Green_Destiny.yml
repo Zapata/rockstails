@@ -1,26 +1,28 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Green Destiny
+method: MUDDLE cucumber and kiwi in base of shaker. Add other ingredients, SHAKE with
+  ice and fine strain into glass filled with crushed ice.
+rate: 3.5
 garnish: Kiwi slice
 glass: Old-fashioned
-infos: 
-  Comment: Looks green and even tastes green, but pleasantly so.
-  Origin: Created in 2001 by Andrew Tiunos @ Hakk, Warsaw, Poland.
-  source: www.diffordsguide.com (909)
-ingredients: 
-- - "1"
-  - inch
-  - Cucumber (chopped & peeled)
-- - " 1/2 "
-  - fresh
-  - Kiwi fruit
-- - "2"
-  - shot
-  - Zubrwka bison vodka
-- - "1 1/2 "
-  - shot
-  - Pressed apple juice
-- - " 1/4 "
-  - shot
-  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
-method: MUDDLE cucumber and kiwi in base of shaker. Add other ingredients, SHAKE with ice and fine strain into glass filled with crushed ice.
-name: Green Destiny
-rate: 3.5
+comment: Looks green and even tastes green, but pleasantly so.
+aka: 
+variant: 
+origin: Created in 2001 by Andrew Tiunos @ Hakk, Warsaw, Poland.
+source: www.diffordsguide.com (909)
+recipe_steps:
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Pressed apple juice
+- amount: '2'
+  doze: shot
+  ingredient_name: Zubrwka bison vodka
+- amount: '1'
+  doze: inch
+  ingredient_name: Cucumber (chopped & peeled)
+- amount: ' 1/2 '
+  doze: fresh
+  ingredient_name: Kiwi fruit

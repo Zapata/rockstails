@@ -1,20 +1,23 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Le Grand Feu
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 3.0
 garnish: Mint sprig<br />
 glass: Martini
-infos: 
-  Comment: Cognac smoothed with vanilla and cream, spiced with chai tea.<br _moz_editor_bogus_node="TRUE" />
-  Origin: Adapted from a recipe by Tony Venci, La Femme Bar, MGM Grand Hotel, Las Vegas, USA.
-  source: www.diffordsguide.com (2672)
-ingredients: 
-- - "1 1/2 "
-  - shot
-  - Courvoisier V.S.O.P cognac
-- - "1 1/2 "
-  - shot
-  - Vanilla schnapps
-- - " 1/2 "
-  - shot
-  - Baileys Irish cream liqueur
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: Le Grand Feu
-rate: 3.0
+comment: Cognac smoothed with vanilla and cream, spiced with chai tea.<br _moz_editor_bogus_node="TRUE"
+  />
+aka: 
+variant: 
+origin: Adapted from a recipe by Tony Venci, La Femme Bar, MGM Grand Hotel, Las Vegas,
+  USA.
+source: www.diffordsguide.com (2672)
+recipe_steps:
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Baileys Irish cream liqueur
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Courvoisier V.S.O.P cognac
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Vanilla schnapps

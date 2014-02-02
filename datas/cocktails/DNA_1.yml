@@ -1,26 +1,28 @@
---- !ruby/object:DirtyCocktail 
+---
+name: 'DNA #1'
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 3.5
 garnish: Orange zest twist
 glass: Martini
-infos: 
-  Comment: Slightly sharp and very fruity, but pleasantly so.
-  Origin: Created by Emmanuel Audermatte at The Atlantic Bar and Grill, London, England, 1999.
-  source: www.diffordsguide.com (654)
-ingredients: 
-- - "1 1/2 "
-  - shot
-  - Bombay London dry gin
-- - " 3/4 "
-  - shot
-  - Bols apricot brandy liqueur
-- - "1"
-  - shot
-  - Freshly squeezed lemon juice
-- - " 1/4 "
-  - shot
-  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
-- - "2"
-  - dash
-  - Angostura orange bitters
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: "DNA #1"
-rate: 3.5
+comment: Slightly sharp and very fruity, but pleasantly so.
+aka: 
+variant: 
+origin: Created by Emmanuel Audermatte at The Atlantic Bar and Grill, London, England,
+  1999.
+source: www.diffordsguide.com (654)
+recipe_steps:
+- amount: '1'
+  doze: shot
+  ingredient_name: Freshly squeezed lemon juice
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Bols apricot brandy liqueur
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Bombay London dry gin
+- amount: '2'
+  doze: dash
+  ingredient_name: Angostura orange bitters

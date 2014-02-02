@@ -1,25 +1,27 @@
---- !ruby/object:DirtyCocktail 
+---
+name: International Incident
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 4.0
 garnish: Dust with freshly grated nutmeg
 glass: Martini
-infos: 
-  Comment: Rich and creamy.
-  source: www.diffordsguide.com (1016)
-ingredients: 
-- - " 3/4 "
-  - shot
-  - Ketel One vodka
-- - " 3/4 "
-  - shot
-  - Luxardo Amaretto di Saschira
-- - "1 1/2 "
-  - shot
-  - Baileys Irish cream liqueur
-- - " 3/4 "
-  - shot
-  - Kahla coffee liqueur
-- - " 3/4 "
-  - shot
-  - Hazelnut liqueur
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: International Incident
-rate: 4.0
+comment: Rich and creamy.
+aka: 
+variant: 
+origin: 
+source: www.diffordsguide.com (1016)
+recipe_steps:
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Ketel One vodka
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Baileys Irish cream liqueur
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Kahla coffee liqueur
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Hazelnut liqueur
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Luxardo Amaretto di Saschira

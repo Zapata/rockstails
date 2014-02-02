@@ -1,26 +1,30 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Queen's Park Swizzle
+method: Lightly MUDDLE mint (just to bruise) in base of glass, add other ingredients
+  and half fill glass with crushed ice. SWIZZLE with a swizzle stick or CHURN (stir)
+  with a bar spoon. Fill glass with more crushed ice and repeat. Serve with straws.
+rate: 4.0
 garnish: Lime wedge &amp; mint sprig
 glass: Collins
-infos: 
-  Comment: This close relation to the Mojito is drier, more complex and less minty than its sibling.
-  Origin: Created at the Queen's Park Hotel, Port of Spain, Trinidad.
-  source: www.diffordsguide.com (2740)
-ingredients: 
-- - "7"
-  - fresh
-  - Mint leaves
-- - "2"
-  - shot
-  - Zacapa aged rum
-- - " 3/4 "
-  - shot
-  - Freshly squeezed lime juice
-- - " 1/2 "
-  - shot
-  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
-- - "3"
-  - dash
-  - Angostura aromatic bitters
-method: Lightly MUDDLE mint (just to bruise) in base of glass, add other ingredients and half fill glass with crushed ice. SWIZZLE with a swizzle stick or CHURN (stir) with a bar spoon. Fill glass with more crushed ice and repeat. Serve with straws.
-name: Queen's Park Swizzle
-rate: 4.0
+comment: This close relation to the Mojito is drier, more complex and less minty than
+  its sibling.
+aka: 
+variant: 
+origin: Created at the Queen's Park Hotel, Port of Spain, Trinidad.
+source: www.diffordsguide.com (2740)
+recipe_steps:
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Freshly squeezed lime juice
+- amount: '7'
+  doze: fresh
+  ingredient_name: Mint leaves
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- amount: '3'
+  doze: dash
+  ingredient_name: Angostura aromatic bitters
+- amount: '2'
+  doze: shot
+  ingredient_name: Zacapa aged rum

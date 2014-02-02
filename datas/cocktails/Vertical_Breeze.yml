@@ -1,19 +1,22 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Vert'ical Breeze
+method: SHAKE all ingredients with ice and strain into ice-filled glass.
+rate: 4.0
 garnish: Lemon wedge
 glass: Collins
-infos: 
-  Comment: For those who don't speak French, 'vert' means green - the colour of absinthe. Vertical suggests take-off - try it and see.
-  source: www.diffordsguide.com (2045)
-ingredients: 
-- - "1 1/2 "
-  - shot
-  - "La F\xE9e Parisienne (68%) absinthe"
-- - "3"
-  - shot
-  - Ocean Spray cranberry juice
-- - "3"
-  - shot
-  - Freshly squeezed grapefruit juice
-method: SHAKE all ingredients with ice and strain into ice-filled glass.
-name: Vert'ical Breeze
-rate: 4.0
+comment: For those who don't speak French, 'vert' means green - the colour of absinthe.
+  Vertical suggests take-off - try it and see.
+aka: 
+variant: 
+origin: 
+source: www.diffordsguide.com (2045)
+recipe_steps:
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: La Fée Parisienne (68%) absinthe
+- amount: '3'
+  doze: shot
+  ingredient_name: Ocean Spray cranberry juice
+- amount: '3'
+  doze: shot
+  ingredient_name: Freshly squeezed grapefruit juice

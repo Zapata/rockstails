@@ -1,23 +1,25 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Amsterdam Cocktail
+method: Shake all ingredients with ice and fine strain into chilled glass.
+rate: 4.0
 garnish: Orange zest twist
 glass: Martini
-infos: 
-  Comment: Very orange, dry but wonderfully smooth.
-  Origin: Adapted from Victor Bergeron's 'Trader Vic's Bartender's Guide' (1972 revised edition).
-  source: www.diffordsguide.com (520)
-ingredients: 
-- - "2"
-  - shot
-  - Bokma oude genever
-- - "1"
-  - shot
-  - Cointreau triple sec
-- - "1"
-  - shot
-  - Freshly squeezed orange juice
-- - "3"
-  - dash
-  - Angostura orange bitters
-method: Shake all ingredients with ice and fine strain into chilled glass.
-name: Amsterdam Cocktail
-rate: 4.0
+comment: Very orange, dry but wonderfully smooth.
+aka: 
+variant: 
+origin: Adapted from Victor Bergeron's 'Trader Vic's Bartender's Guide' (1972 revised
+  edition).
+source: www.diffordsguide.com (520)
+recipe_steps:
+- amount: '1'
+  doze: shot
+  ingredient_name: Cointreau triple sec
+- amount: '1'
+  doze: shot
+  ingredient_name: Freshly squeezed orange juice
+- amount: '3'
+  doze: dash
+  ingredient_name: Angostura orange bitters
+- amount: '2'
+  doze: shot
+  ingredient_name: Bokma oude genever

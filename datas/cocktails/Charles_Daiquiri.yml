@@ -1,28 +1,30 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Charles Daiquiri
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 4.5
 garnish: Lime wedge on rim
 glass: Martini
-infos: 
-  Comment: Navy rum and triple sec add special interest to this Daiquiri.
-  source: www.diffordsguide.com (397)
-ingredients: 
-- - "1"
-  - shot
-  - Bacardi Superior rum
-- - "1"
-  - shot
-  - Pusser's Navy rum
-- - " 1/2 "
-  - shot
-  - Cointreau triple sec
-- - " 1/2 "
-  - shot
-  - Freshly squeezed lime juice
-- - " 1/8 "
-  - shot
-  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
-- - " 1/2 "
-  - shot
-  - Chilled mineral water
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: Charles Daiquiri
-rate: 4.5
+comment: Navy rum and triple sec add special interest to this Daiquiri.
+aka: 
+variant: 
+origin: 
+source: www.diffordsguide.com (397)
+recipe_steps:
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Cointreau triple sec
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Freshly squeezed lime juice
+- amount: ' 1/8 '
+  doze: shot
+  ingredient_name: Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- amount: '1'
+  doze: shot
+  ingredient_name: Bacardi Superior rum
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Chilled mineral water
+- amount: '1'
+  doze: shot
+  ingredient_name: Pusser's Navy rum

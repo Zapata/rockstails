@@ -1,26 +1,28 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Strawberry Blonde Martini
+method: MUDDLE basil in mixing glass. Add other ingredients, STIR with ice and fine
+  strain into chilled glass.
+rate: 3.5
 garnish: Float basil leaf
 glass: Martini
-infos: 
-  Comment: Berry vodka dominates with hints of strawberry and basil.
-  Origin: Adapted from a recipe discovered in 2003 at Oxo Tower Bar, London, England
-  source: www.diffordsguide.com (1881)
-ingredients: 
-- - "4"
-  - fresh
-  - Torn basil leaves
-- - "2 1/2 "
-  - shot
-  - Raspberry flavoured vodka
-- - " 1/2 "
-  - shot
-  - "Cr\xE8me de fraise du bois liqueur"
-- - " 1/2 "
-  - shot
-  - Noilly Prat dry vermouth
-- - " 1/8 "
-  - shot
-  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
-method: MUDDLE basil in mixing glass. Add other ingredients, STIR with ice and fine strain into chilled glass.
-name: Strawberry Blonde Martini
-rate: 3.5
+comment: Berry vodka dominates with hints of strawberry and basil.
+aka: 
+variant: 
+origin: Adapted from a recipe discovered in 2003 at Oxo Tower Bar, London, England
+source: www.diffordsguide.com (1881)
+recipe_steps:
+- amount: '2 1/2 '
+  doze: shot
+  ingredient_name: Raspberry flavoured vodka
+- amount: ' 1/8 '
+  doze: shot
+  ingredient_name: Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Noilly Prat dry vermouth
+- amount: '4'
+  doze: fresh
+  ingredient_name: Torn basil leaves
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Crème de fraise du bois liqueur

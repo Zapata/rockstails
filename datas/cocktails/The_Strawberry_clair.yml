@@ -1,20 +1,22 @@
---- !ruby/object:DirtyCocktail 
+---
+name: The Strawberry clair
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 4.0
 garnish: 
 glass: Shot
-infos: 
-  Comment: Far from sophisticated (some would say like Australia) but very appropriately named.
-  Origin: This drink heralds from Australia where it is a popular shot.
-  source: www.diffordsguide.com (1884)
-ingredients: 
-- - " 1/2 "
-  - shot
-  - "Cr\xE8me de fraise du bois liqueur"
-- - " 1/2 "
-  - shot
-  - Hazelnut liqueur
-- - " 1/4 "
-  - shot
-  - Freshly squeezed lime juice
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: The Strawberry clair
-rate: 4.0
+comment: Far from sophisticated (some would say like Australia) but very appropriately
+  named.
+aka: 
+variant: 
+origin: This drink heralds from Australia where it is a popular shot.
+source: www.diffordsguide.com (1884)
+recipe_steps:
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Freshly squeezed lime juice
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Hazelnut liqueur
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Crème de fraise du bois liqueur

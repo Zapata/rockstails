@@ -1,23 +1,24 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Too Close For Comfort
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 3.5
 garnish: Lemon zest twist
 glass: Martini
-infos: 
-  Comment: Sweet and sour with the distinctive flavour of Southern Comfort.
-  Origin: Adapted from a drink discovered in 2005 at Mezza9, Singapore.
-  source: www.diffordsguide.com (1977)
-ingredients: 
-- - "1 1/2 "
-  - shot
-  - Ketel One vodka
-- - "1"
-  - shot
-  - Southern Comfort liqueur
-- - "1"
-  - shot
-  - Freshly squeezed lemon juice
-- - " 1/2 "
-  - shot
-  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: Too Close For Comfort
-rate: 3.5
+comment: Sweet and sour with the distinctive flavour of Southern Comfort.
+aka: 
+variant: 
+origin: Adapted from a drink discovered in 2005 at Mezza9, Singapore.
+source: www.diffordsguide.com (1977)
+recipe_steps:
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Ketel One vodka
+- amount: '1'
+  doze: shot
+  ingredient_name: Freshly squeezed lemon juice
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- amount: '1'
+  doze: shot
+  ingredient_name: Southern Comfort liqueur

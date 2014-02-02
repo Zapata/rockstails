@@ -1,19 +1,21 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Nutcracker Sweet
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 3.5
 garnish: Dust with cocoa powder
 glass: Martini
-infos: 
-  Comment: After dinner, fortified almond and chocolate.
-  source: www.diffordsguide.com (1415)
-ingredients: 
-- - "2"
-  - shot
-  - Ketel One vodka
-- - "1"
-  - shot
-  - "White cr\xE8me de cacao liqueur"
-- - " 3/4 "
-  - shot
-  - Luxardo Amaretto di Saschira
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: Nutcracker Sweet
-rate: 3.5
+comment: After dinner, fortified almond and chocolate.
+aka: 
+variant: 
+origin: 
+source: www.diffordsguide.com (1415)
+recipe_steps:
+- amount: '2'
+  doze: shot
+  ingredient_name: Ketel One vodka
+- amount: '1'
+  doze: shot
+  ingredient_name: White crème de cacao liqueur
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Luxardo Amaretto di Saschira

@@ -1,23 +1,24 @@
---- !ruby/object:DirtyCocktail 
+---
+name: 'Ruby Martini #2'
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 3.5
 garnish: Raspberry &amp; lemon twist
 glass: Martini
-infos: 
-  Comment: Fruity and slightly sweet.
-  Origin: Created by Wayne Collins, London, England.
-  source: www.diffordsguide.com (1708)
-ingredients: 
-- - "1 1/2 "
-  - shot
-  - Courvoisier V.S.O.P cognac
-- - " 1/2 "
-  - shot
-  - Cointreau triple sec
-- - " 1/2 "
-  - shot
-  - "Cr\xE8me de framboise liqueur"
-- - " 1/2 "
-  - shot
-  - Martini Rosso sweet vermouth
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: "Ruby Martini #2"
-rate: 3.5
+comment: Fruity and slightly sweet.
+aka: 
+variant: 
+origin: Created by Wayne Collins, London, England.
+source: www.diffordsguide.com (1708)
+recipe_steps:
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Cointreau triple sec
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Martini Rosso sweet vermouth
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Courvoisier V.S.O.P cognac
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Crème de framboise liqueur

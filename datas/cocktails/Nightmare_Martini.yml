@@ -1,22 +1,24 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Nightmare Martini
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 3.0
 garnish: Maraschino cherry
 glass: Martini
-infos: 
-  Comment: Pleasant enough, with hints of cherry. Hardly a nightmare.
-  source: www.diffordsguide.com (1405)
-ingredients: 
-- - "1"
-  - shot
-  - Bombay London dry gin
-- - " 1/2 "
-  - shot
-  - Heering cherry brandy liqueur
-- - "1"
-  - shot
-  - Dubonnet Red (French made)
-- - "2"
-  - shot
-  - Freshly squeezed orange juice
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: Nightmare Martini
-rate: 3.0
+comment: Pleasant enough, with hints of cherry. Hardly a nightmare.
+aka: 
+variant: 
+origin: 
+source: www.diffordsguide.com (1405)
+recipe_steps:
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Heering cherry brandy liqueur
+- amount: '1'
+  doze: shot
+  ingredient_name: Dubonnet Red (French made)
+- amount: '2'
+  doze: shot
+  ingredient_name: Freshly squeezed orange juice
+- amount: '1'
+  doze: shot
+  ingredient_name: Bombay London dry gin

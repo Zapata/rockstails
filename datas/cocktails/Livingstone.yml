@@ -1,21 +1,24 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Livingstone
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 4.0
 garnish: Lemon peel twist
 glass: Martini
-infos: 
-  Comment: The classic gin and vermouth Martini made more approachable with a dash of sugar.
-  Origin: This 1930's classic was named after Doctor Livingstone, the famous African missionary.
-  Variant: Use pomegranate syrup in place of sugar and you have a Red Livingstone, named after London's 'lefty' ex-mayor, Ken.
-  source: www.diffordsguide.com (1180)
-ingredients: 
-- - "2"
-  - shot
-  - Bombay London dry gin
-- - "1"
-  - shot
-  - Noilly Prat dry vermouth
-- - " 1/4 "
-  - shot
-  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: Livingstone
-rate: 4.0
+comment: The classic gin and vermouth Martini made more approachable with a dash of
+  sugar.
+aka: 
+variant: Use pomegranate syrup in place of sugar and you have a Red Livingstone, named
+  after London's 'lefty' ex-mayor, Ken.
+origin: This 1930's classic was named after Doctor Livingstone, the famous African
+  missionary.
+source: www.diffordsguide.com (1180)
+recipe_steps:
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- amount: '1'
+  doze: shot
+  ingredient_name: Noilly Prat dry vermouth
+- amount: '2'
+  doze: shot
+  ingredient_name: Bombay London dry gin

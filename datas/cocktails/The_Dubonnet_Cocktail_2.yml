@@ -1,20 +1,22 @@
---- !ruby/object:DirtyCocktail 
+---
+name: 'The Dubonnet Cocktail #2'
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 3.5
 garnish: Lemon zest twist<br />
 glass: Martini
-infos: 
-  Comment: Gin and Dubonnet with a hint of citrus. Be sure your Dubonnet is the French stuff.
-  Origin: Vintage cocktail of unknown origin.
-  source: www.diffordsguide.com (2388)
-ingredients: 
-- - "1 1/2 "
-  - shot
-  - Bombay London dry gin
-- - "1 1/2 "
-  - shot
-  - Dubonnet Red (French made)
-- - " 1/4 "
-  - shot
-  - Freshly squeezed lemon juice
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: "The Dubonnet Cocktail #2"
-rate: 3.5
+comment: Gin and Dubonnet with a hint of citrus. Be sure your Dubonnet is the French
+  stuff.
+aka: 
+variant: 
+origin: Vintage cocktail of unknown origin.
+source: www.diffordsguide.com (2388)
+recipe_steps:
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Freshly squeezed lemon juice
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Dubonnet Red (French made)
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Bombay London dry gin

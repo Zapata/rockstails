@@ -1,24 +1,28 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Kiwi Crush
+method: Cut kiwi fruit in half, scoop out flesh into base of shaker and MUDDLE. Add
+  other ingredients, SHAKE with ice and fine strain into chilled glass.
+rate: 4.0
 garnish: 
 glass: Martini
-infos: 
-  source: www.diffordsguide.com (1114)
-ingredients: 
-- - "1"
-  - fresh
-  - Kiwi fruit
-- - "2"
-  - shot
-  - Ketel One Citroen vodka
-- - "1"
-  - shot
-  - Pressed apple juice
-- - " 1/2 "
-  - shot
-  - Freshly squeezed lemon juice
-- - " 1/4 "
-  - shot
-  - Monin Almond (orgeat) syrup
-method: 
-name: Kiwi Crush
-rate: 4.0
+comment: Spirit laced kiwi, citrus and almond.
+aka: 
+variant: 
+origin: Adapted from a recipe by Claire Smith in 2005, London, England.
+source: www.diffordsguide.com (1114)
+recipe_steps:
+- amount: '2'
+  doze: shot
+  ingredient_name: Ketel One Citroen vodka
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Freshly squeezed lemon juice
+- amount: '1'
+  doze: shot
+  ingredient_name: Pressed apple juice
+- amount: '1'
+  doze: fresh
+  ingredient_name: Kiwi fruit
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Monin Almond (orgeat) syrup

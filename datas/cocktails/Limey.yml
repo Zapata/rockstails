@@ -1,29 +1,32 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Limey
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 3.5
 garnish: Lime zest twist
 glass: Martini
-infos: 
-  Comment: A rust coloured drink with a delicately sour flavour.
-  Origin: I created and named this drink after the British Naval tradition of mixing lime juice with spirits in an attempt to prevent scurvy. This practice gained British sailors the nickname 'limeys'.
-  source: www.diffordsguide.com (1165)
-ingredients: 
-- - "2"
-  - shot
-  - Lime flavoured vodka
-- - " 1/2 "
-  - shot
-  - Freshly squeezed lime juice
-- - " 1/2 "
-  - shot
-  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
-- - " 1/8 "
-  - shot
-  - Rose's lime cordial
-- - "3"
-  - dash
-  - Angostura aromatic bitters
-- - " 1/2 "
-  - shot
-  - Chilled mineral water
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: Limey
-rate: 3.5
+comment: A rust coloured drink with a delicately sour flavour.
+aka: 
+variant: 
+origin: I created and named this drink after the British Naval tradition of mixing
+  lime juice with spirits in an attempt to prevent scurvy. This practice gained British
+  sailors the nickname 'limeys'.
+source: www.diffordsguide.com (1165)
+recipe_steps:
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Freshly squeezed lime juice
+- amount: ' 1/8 '
+  doze: shot
+  ingredient_name: Rose's lime cordial
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Chilled mineral water
+- amount: '3'
+  doze: dash
+  ingredient_name: Angostura aromatic bitters
+- amount: '2'
+  doze: shot
+  ingredient_name: Lime flavoured vodka

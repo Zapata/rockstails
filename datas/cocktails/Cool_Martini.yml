@@ -1,19 +1,22 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Cool Martini
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 3.5
 garnish: Apple slice chevron
 glass: Martini
-infos: 
-  Comment: Tastes nothing like the ingredients - which include melon, tequila and cranberry juice. Try it and see if you taste toffee.
-  source: www.diffordsguide.com (464)
-ingredients: 
-- - "1 1/2 "
-  - shot
-  - Midori green melon liqueur
-- - "1"
-  - shot
-  - Herradura 100% agave tequila
-- - "1 1/2 "
-  - shot
-  - Ocean Spray cranberry juice
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: Cool Martini
-rate: 3.5
+comment: Tastes nothing like the ingredients - which include melon, tequila and cranberry
+  juice. Try it and see if you taste toffee.
+aka: 
+variant: 
+origin: 
+source: www.diffordsguide.com (464)
+recipe_steps:
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Ocean Spray cranberry juice
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Midori green melon liqueur
+- amount: '1'
+  doze: shot
+  ingredient_name: Herradura 100% agave tequila

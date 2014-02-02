@@ -1,29 +1,32 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Rumba
+method: SHAKE all ingredients with ice and strain into glass filled with crushed ice.
+  Serve with straws.
+rate: 4.0
 garnish: Lime wedge
 glass: Old-fashioned
-infos: 
-  Comment: To quote Embury, &quot;Whoever thought up this snootful of liquid dynamite certainly liked his liquor hard!&quot;
-  Origin: Recipe adapted from David Embury's classic book, The Fine Art of Mixing Drinks.
-  source: www.diffordsguide.com (1714)
-ingredients: 
-- - " 3/4 "
-  - shot
-  - Wray & Nephew overproof rum
-- - "1"
-  - shot
-  - Bombay London dry gin
-- - "1"
-  - shot
-  - Freshly squeezed lime juice
-- - " 1/4 "
-  - shot
-  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
-- - " 1/2 "
-  - shot
-  - Pomegranate (grenadine) syrup
-- - " 1/2 "
-  - shot
-  - Chilled mineral water
-method: SHAKE all ingredients with ice and strain into glass filled with crushed ice. Serve with straws.
-name: Rumba
-rate: 4.0
+comment: To quote Embury, &quot;Whoever thought up this snootful of liquid dynamite
+  certainly liked his liquor hard!&quot;
+aka: 
+variant: 
+origin: Recipe adapted from David Embury's classic book, The Fine Art of Mixing Drinks.
+source: www.diffordsguide.com (1714)
+recipe_steps:
+- amount: '1'
+  doze: shot
+  ingredient_name: Freshly squeezed lime juice
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Chilled mineral water
+- amount: '1'
+  doze: shot
+  ingredient_name: Bombay London dry gin
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Pomegranate (grenadine) syrup
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Wray & Nephew overproof rum

@@ -1,19 +1,22 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Caipi
+method: MUDDLE lime in base of shaker. Add rest of ingredients, SHAKE with 6oz scoop
+  of crushed ice and pour without straining into glass.
+rate: 3.0
 garnish: 
 glass: Old-fashioned
-infos: 
-  Comment: Bittersweet Campari and lime.<br _moz_editor_bogus_node="TRUE" />
-  source: www.diffordsguide.com (2328)
-ingredients: 
-- - " 3/4 "
-  - fresh
-  - Lime
-- - "2"
-  - shot
-  - Campari Bitter
-- - " 1/2 "
-  - shot
-  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
-method: MUDDLE lime in base of shaker. Add rest of ingredients, SHAKE with 6oz scoop of crushed ice and pour without straining into glass.
-name: Caipi
-rate: 3.0
+comment: Bittersweet Campari and lime.<br _moz_editor_bogus_node="TRUE" />
+aka: 
+variant: 
+origin: 
+source: www.diffordsguide.com (2328)
+recipe_steps:
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- amount: '2'
+  doze: shot
+  ingredient_name: Campari Bitter
+- amount: ' 3/4 '
+  doze: fresh
+  ingredient_name: Lime

@@ -1,35 +1,39 @@
---- !ruby/object:DirtyCocktail 
-garnish: " Seasonal berries<br />"
-glass: Collins
-infos: 
-  Comment: Easy on the palate yet incredibly complex. Linseed oil notes of genever shine through. <br /><br />
-  Origin: Adapted from Hebert Asbury's 1928 reprint of Jerry Thomas' 1862 How to Mix Drink, or The Bon Vivant's Companion.<br /><br />
-  source: www.diffordsguide.com (2423)
-ingredients: 
-- - "3"
-  - shot
-  - Bokma oude genever
-- - " 1/2 "
-  - shot
-  - Freshly squeezed lemon juice
-- - " 1/4 "
-  - shot
-  - Raspberries
-- - " 1/4 "
-  - shot
-  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
-- - " 1/4 "
-  - shot
-  - Freshly squeezed orange juice
-- - " 1/8 "
-  - shot
-  - Fresh pressed pineapple juice
-- - " 1/8 "
-  - shot
-  - Luxardo maraschino liqueur
-- - "2"
-  - shot
-  - Chilled mineral water
-method: SHAKE all ingredients with ice and strain into ice-filled glass. Serve with straws.<br />
-name: "Gin Punch #2"
+---
+name: 'Gin Punch #2'
+method: SHAKE all ingredients with ice and strain into ice-filled glass. Serve with
+  straws.<br />
 rate: 4.0
+garnish: ' Seasonal berries<br />'
+glass: Collins
+comment: Easy on the palate yet incredibly complex. Linseed oil notes of genever shine
+  through. <br /><br />
+aka: 
+variant: 
+origin: Adapted from Hebert Asbury's 1928 reprint of Jerry Thomas' 1862 How to Mix
+  Drink, or The Bon Vivant's Companion.<br /><br />
+source: www.diffordsguide.com (2423)
+recipe_steps:
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Freshly squeezed lemon juice
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- amount: ' 1/8 '
+  doze: shot
+  ingredient_name: Fresh pressed pineapple juice
+- amount: '2'
+  doze: shot
+  ingredient_name: Chilled mineral water
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Freshly squeezed orange juice
+- amount: ' 1/8 '
+  doze: shot
+  ingredient_name: Luxardo maraschino liqueur
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Raspberries
+- amount: '3'
+  doze: shot
+  ingredient_name: Bokma oude genever

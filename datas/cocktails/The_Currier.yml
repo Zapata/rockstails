@@ -1,23 +1,25 @@
---- !ruby/object:DirtyCocktail 
+---
+name: The Currier
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 4.0
 garnish: Float mint leaf
 glass: Martini
-infos: 
-  Comment: A wonderfully cleansing after dinner cocktail with bourbon and lime plus hints of caraway and fennel courtesy of K"ummel.
-  Origin: Recipe submitted in July 2006 by Murray Stenson at ZigZag Caf, Seattle, USA.
-  source: www.diffordsguide.com (608)
-ingredients: 
-- - "1 1/2 "
-  - shot
-  - Maker's Mark bourbon
-- - " 1/2 "
-  - shot
-  - Kummel
-- - " 1/4 "
-  - shot
-  - Freshly squeezed lime juice
-- - " 1/4 "
-  - shot
-  - Rose's lime cordial
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: The Currier
-rate: 4.0
+comment: A wonderfully cleansing after dinner cocktail with bourbon and lime plus
+  hints of caraway and fennel courtesy of K"ummel.
+aka: 
+variant: 
+origin: Recipe submitted in July 2006 by Murray Stenson at ZigZag Caf, Seattle, USA.
+source: www.diffordsguide.com (608)
+recipe_steps:
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Freshly squeezed lime juice
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Rose's lime cordial
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Maker's Mark bourbon
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Kummel

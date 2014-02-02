@@ -1,32 +1,33 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Swedish Blue Martini
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 3.5
 garnish: Orange peel twist
 glass: Martini
-infos: 
-  Comment: A fruity, blue concoction with vodka. Slightly sweet.
-  Origin: Created in 1999 by Timothy Schofield at Teatro, London, England
-  source: www.diffordsguide.com (1909)
-ingredients: 
-- - "2"
-  - shot
-  - Ketel One vodka
-- - " 1/2 "
-  - shot
-  - Bols blue curacao liqueur
-- - " 1/2 "
-  - shot
-  - Peach Tree peach schnapps
-- - " 1/4 "
-  - shot
-  - Freshly squeezed lime juice
-- - " 1/4 "
-  - shot
-  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
-- - "2"
-  - dash
-  - Angostura orange bitters
-- - " 1/2 "
-  - shot
-  - Chilled mineral water
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: Swedish Blue Martini
-rate: 3.5
+comment: A fruity, blue concoction with vodka. Slightly sweet.
+aka: 
+variant: 
+origin: Created in 1999 by Timothy Schofield at Teatro, London, England
+source: www.diffordsguide.com (1909)
+recipe_steps:
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Freshly squeezed lime juice
+- amount: '2'
+  doze: shot
+  ingredient_name: Ketel One vodka
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Chilled mineral water
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Peach Tree peach schnapps
+- amount: '2'
+  doze: dash
+  ingredient_name: Angostura orange bitters
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Bols blue curacao liqueur

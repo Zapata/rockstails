@@ -1,23 +1,26 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Perfect Lady
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 4.5
 garnish: Lemon zest twist (spay &amp; discard) &amp; peach slice
 glass: Martini
-infos: 
-  Comment: This twist on a White Lady uses peach liqueur in place of triple sec to make a lighter, fruitier elaboration.
-  Origin: Created by S. Cox for a London cocktail competition in 1936 where it took the 1st Prize.<br /><br />
-  source: www.diffordsguide.com (2541)
-ingredients: 
-- - "2"
-  - shot
-  - Bombay London dry gin
-- - " 3/4 "
-  - shot
-  - "Cr\xE8me p\xEAche de vigne liqueur"
-- - " 3/4 "
-  - shot
-  - Freshly squeezed lemon juice
-- - " 1/2 "
-  - fresh
-  - Egg white
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: Perfect Lady
-rate: 4.5
+comment: This twist on a White Lady uses peach liqueur in place of triple sec to make
+  a lighter, fruitier elaboration.
+aka: 
+variant: 
+origin: Created by S. Cox for a London cocktail competition in 1936 where it took
+  the 1st Prize.<br /><br />
+source: www.diffordsguide.com (2541)
+recipe_steps:
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Freshly squeezed lemon juice
+- amount: '2'
+  doze: shot
+  ingredient_name: Bombay London dry gin
+- amount: ' 1/2 '
+  doze: fresh
+  ingredient_name: Egg white
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Crème pêche de vigne liqueur

@@ -1,26 +1,31 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Myrtle Bank Special Rum Punch
+method: SHAKE all ingredients with ice and strain into ice-filled glass.
+rate: 4.5
 garnish: Maraschino cherry
 glass: Old-fashioned
-infos: 
-  Comment: A rich fruity Daiquiri with tangy molasses.
-  Origin: Originally made at the Myrtle Bank Hotel, Kingston, Jamaica. Built in the mid-1800s, the Myrtle Bank, was converted from a shipyard into a select boarding house. After the hotel was destroyed in the 1907 earthquake it was reconstructed in 1918 and was then the largest hotel in Jamaica with 205 rooms and a filtered salt water pool.<br /><br />
-  source: www.diffordsguide.com (2513)
-ingredients: 
-- - "2"
-  - shot
-  - Myer's Planter's Punch rum
-- - "1"
-  - shot
-  - Freshly squeezed lime juice
-- - " 1/8 "
-  - shot
-  - Heering cherry brandy liqueur
-- - " 1/2 "
-  - shot
-  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
-- - " 1/2 "
-  - shot
-  - Chilled mineral water
-method: SHAKE all ingredients with ice and strain into ice-filled glass.
-name: Myrtle Bank Special Rum Punch
-rate: 4.5
+comment: A rich fruity Daiquiri with tangy molasses.
+aka: 
+variant: 
+origin: Originally made at the Myrtle Bank Hotel, Kingston, Jamaica. Built in the
+  mid-1800s, the Myrtle Bank, was converted from a shipyard into a select boarding
+  house. After the hotel was destroyed in the 1907 earthquake it was reconstructed
+  in 1918 and was then the largest hotel in Jamaica with 205 rooms and a filtered
+  salt water pool.<br /><br />
+source: www.diffordsguide.com (2513)
+recipe_steps:
+- amount: ' 1/8 '
+  doze: shot
+  ingredient_name: Heering cherry brandy liqueur
+- amount: '1'
+  doze: shot
+  ingredient_name: Freshly squeezed lime juice
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Chilled mineral water
+- amount: '2'
+  doze: shot
+  ingredient_name: Myer's Planter's Punch rum

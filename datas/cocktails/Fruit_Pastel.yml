@@ -1,22 +1,24 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Fruit Pastel
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 3.5
 garnish: Fruit Pastille sweets
 glass: Martini
-infos: 
-  Comment: Tastes distinctly like a Fruit Pastille sweet.
-  source: www.diffordsguide.com (2662)
-ingredients: 
-- - "1 1/2 "
-  - shot
-  - Ketel One Citroen vodka
-- - " 1/2 "
-  - shot
-  - Parfait Amour liqueur
-- - " 1/2 "
-  - shot
-  - Berentzen Apple schnapps
-- - " 1/4 "
-  - shot
-  - Freshly squeezed lime juice
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: Fruit Pastel
-rate: 3.5
+comment: Tastes distinctly like a Fruit Pastille sweet.
+aka: 
+variant: 
+origin: 
+source: www.diffordsguide.com (2662)
+recipe_steps:
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Ketel One Citroen vodka
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Freshly squeezed lime juice
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Berentzen Apple schnapps
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Parfait Amour liqueur

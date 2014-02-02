@@ -4,11 +4,11 @@ class Cocktails < ActiveRecord::Migration
       t.string :name, limit: 100, null: false
       t.text :method, null: false
       t.decimal :rate, precision: 2, scale: 1, null: true
-      t.string :garnish, limit: 250, null: true
+      t.string :garnish, limit: 500, null: true
       t.string :glass, limit: 50, null: true
       t.text :comment, null: true
       t.text :aka, limit: 100, null: true
-      t.text :variant, limit: 250, null: true
+      t.text :variant, limit: 500, null: true
       t.text :origin, null: true
       t.string :source, limit: 250, null: false
       t.timestamps

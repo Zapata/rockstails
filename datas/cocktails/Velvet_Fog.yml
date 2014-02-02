@@ -1,26 +1,27 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Velvet Fog
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 4.5
 garnish: Orange peel twist (discarded) &amp; freshly grated nutmeg
 glass: Martini
-infos: 
-  Comment: Tangy, fresh and bittersweet.
-  Origin: Created by Dale DeGroff, New York City, USA.
-  source: www.diffordsguide.com (2038)
-ingredients: 
-- - "1 1/2 "
-  - shot
-  - Ketel One vodka
-- - " 3/4 "
-  - shot
-  - Velvet Falernum liqueur
-- - "1 1/4 "
-  - shot
-  - Freshly squeezed lime juice
-- - " 3/4 "
-  - shot
-  - Freshly squeezed orange juice
-- - "2"
-  - dash
-  - Angostura aromatic bitters
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: Velvet Fog
-rate: 4.5
+comment: Tangy, fresh and bittersweet.
+aka: 
+variant: 
+origin: Created by Dale DeGroff, New York City, USA.
+source: www.diffordsguide.com (2038)
+recipe_steps:
+- amount: '1 1/4 '
+  doze: shot
+  ingredient_name: Freshly squeezed lime juice
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Ketel One vodka
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Freshly squeezed orange juice
+- amount: '2'
+  doze: dash
+  ingredient_name: Angostura aromatic bitters
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Velvet Falernum liqueur

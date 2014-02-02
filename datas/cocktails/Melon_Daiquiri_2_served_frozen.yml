@@ -1,22 +1,26 @@
---- !ruby/object:DirtyCocktail 
+---
+name: 'Melon Daiquiri #2 (served frozen)'
+method: Cut melon into 8 segments and deseed. Cut cubes of flesh from skin of one
+  segment and place in blender. Add other ingredients and BLEND with half scoop of
+  crushed ice. Serve with straws.
+rate: 4.0
 garnish: Melon slice or melon balls
 glass: Martini
-infos: 
-  Comment: A cooling, fruity Daiquiri.
-  source: www.diffordsguide.com (1286)
-ingredients: 
-- - " 1/8 "
-  - fresh
-  - Cantaloupe melon
-- - "2"
-  - shot
-  - Bacardi Superior rum
-- - " 1/2 "
-  - shot
-  - Midori green melon liqueur
-- - " 1/2 "
-  - shot
-  - Freshly squeezed lime juice
-method: Cut melon into 8 segments and deseed. Cut cubes of flesh from skin of one segment and place in blender. Add other ingredients and BLEND with half scoop of crushed ice. Serve with straws.
-name: "Melon Daiquiri #2 (served frozen)"
-rate: 4.0
+comment: A cooling, fruity Daiquiri.
+aka: 
+variant: 
+origin: 
+source: www.diffordsguide.com (1286)
+recipe_steps:
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Freshly squeezed lime juice
+- amount: '2'
+  doze: shot
+  ingredient_name: Bacardi Superior rum
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Midori green melon liqueur
+- amount: ' 1/8 '
+  doze: fresh
+  ingredient_name: Cantaloupe melon

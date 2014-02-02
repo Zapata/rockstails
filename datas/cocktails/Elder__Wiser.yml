@@ -1,20 +1,22 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Elder & Wiser
+method: SHAKE all ingredients with ice and fine strain into ice-filled glass.
+rate: 4.0
 garnish: Lemon zest twist<br />
 glass: Old-fashioned
-infos: 
-  Comment: Apple and elderflower combine wonderfully with bourbon.
-  Origin: Created in 2006 by Yours Truly (Simon Difford) and named for its original base, Wiser's Canadian whisky.
-  source: www.diffordsguide.com (2636)
-ingredients: 
-- - "2"
-  - shot
-  - Maker's Mark bourbon
-- - "1"
-  - shot
-  - St-Germain elderflower liqueur
-- - "1"
-  - shot
-  - Pressed apple juice
-method: SHAKE all ingredients with ice and fine strain into ice-filled glass.
-name: Elder & Wiser
-rate: 4.0
+comment: Apple and elderflower combine wonderfully with bourbon.
+aka: 
+variant: 
+origin: Created in 2006 by Yours Truly (Simon Difford) and named for its original
+  base, Wiser's Canadian whisky.
+source: www.diffordsguide.com (2636)
+recipe_steps:
+- amount: '1'
+  doze: shot
+  ingredient_name: St-Germain elderflower liqueur
+- amount: '1'
+  doze: shot
+  ingredient_name: Pressed apple juice
+- amount: '2'
+  doze: shot
+  ingredient_name: Maker's Mark bourbon

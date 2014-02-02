@@ -1,23 +1,25 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Lychee Martini
+method: STIR all ingredients with ice and fine strain into chilled glass.
+rate: 4.0
 garnish: Whole lychee from tin
 glass: Martini
-infos: 
-  Comment: If you like lychee you'll love this delicate Martini.
-  Origin: Thought to have been first made in 2001 at Clay, a Korean restaurant in New York City, USA.
-  source: www.diffordsguide.com (1209)
-ingredients: 
-- - "2"
-  - shot
-  - Ketel One vodka
-- - " 1/2 "
-  - shot
-  - Soho lychee liqueur
-- - "1"
-  - shot
-  - Lychee syrup (from tinned fruit)
-- - " 1/2 "
-  - shot
-  - Noilly Prat dry vermouth
-method: STIR all ingredients with ice and fine strain into chilled glass.
-name: Lychee Martini
-rate: 4.0
+comment: If you like lychee you'll love this delicate Martini.
+aka: 
+variant: 
+origin: Thought to have been first made in 2001 at Clay, a Korean restaurant in New
+  York City, USA.
+source: www.diffordsguide.com (1209)
+recipe_steps:
+- amount: '2'
+  doze: shot
+  ingredient_name: Ketel One vodka
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Noilly Prat dry vermouth
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Soho lychee liqueur
+- amount: '1'
+  doze: shot
+  ingredient_name: Lychee syrup (from tinned fruit)

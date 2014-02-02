@@ -1,23 +1,24 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Chimayo
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 4.0
 garnish: Float apple slice
 glass: Martini
-infos: 
-  Comment: Apple juice and cassis take the sting off tequila.
-  Origin: Named after El Potrero de Chimayo in northern New Mexico, USA
-  source: www.diffordsguide.com (415)
-ingredients: 
-- - "2"
-  - shot
-  - Herradura 100% agave tequila
-- - " 1/2 "
-  - shot
-  - "Cr\xE8me de cassis liqueur"
-- - " 3/4 "
-  - shot
-  - Pressed apple juice
-- - " 1/4 "
-  - shot
-  - Freshly squeezed lemon juice
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: Chimayo
-rate: 4.0
+comment: Apple juice and cassis take the sting off tequila.
+aka: 
+variant: 
+origin: Named after El Potrero de Chimayo in northern New Mexico, USA
+source: www.diffordsguide.com (415)
+recipe_steps:
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Freshly squeezed lemon juice
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Pressed apple juice
+- amount: '2'
+  doze: shot
+  ingredient_name: Herradura 100% agave tequila
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Crème de cassis liqueur

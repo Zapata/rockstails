@@ -1,26 +1,28 @@
---- !ruby/object:DirtyCocktail 
+---
+name: The Mayflower Martini
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 4.0
 garnish: Lemon zest twist
 glass: Martini
-infos: 
-  Comment: Fragrant balance of English fruits and flowers.<br /><br />
-  Origin: Adapted from a drink created in 2002 by Wayne Collins, London, England.<br /><br />
-  source: www.diffordsguide.com (2495)
-ingredients: 
-- - "1 1/2 "
-  - shot
-  - Bombay London dry gin
-- - " 1/2 "
-  - shot
-  - St-Germain elderflower liqueur
-- - " 1/2 "
-  - shot
-  - Bols apricot brandy liqueur
-- - " 1/2 "
-  - shot
-  - Pressed apple juice
-- - " 1/2 "
-  - shot
-  - Freshly squeezed lemon juice
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: The Mayflower Martini
-rate: 4.0
+comment: Fragrant balance of English fruits and flowers.<br /><br />
+aka: 
+variant: 
+origin: Adapted from a drink created in 2002 by Wayne Collins, London, England.<br
+  /><br />
+source: www.diffordsguide.com (2495)
+recipe_steps:
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: St-Germain elderflower liqueur
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Freshly squeezed lemon juice
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Bols apricot brandy liqueur
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Pressed apple juice
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Bombay London dry gin

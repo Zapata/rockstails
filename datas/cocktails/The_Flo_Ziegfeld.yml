@@ -1,20 +1,23 @@
---- !ruby/object:DirtyCocktail 
+---
+name: The Flo Ziegfeld
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 3.5
 garnish: Pineapple wedge on rim
 glass: Martini
-infos: 
-  Comment: The original recipe omits sugar but was probably made with sweetened pineapple juice.
-  Origin: Named after Florenz Ziegfeld, the Broadway Impresario, who's widow released the recipe for the 1946 'Stork Club Bar Book'.
-  source: www.diffordsguide.com (2165)
-ingredients: 
-- - "2"
-  - shot
-  - Bombay London dry gin
-- - "1"
-  - shot
-  - Fresh pressed pineapple juice
-- - " 1/4 "
-  - shot
-  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: The Flo Ziegfeld
-rate: 3.5
+comment: The original recipe omits sugar but was probably made with sweetened pineapple
+  juice.
+aka: 
+variant: 
+origin: Named after Florenz Ziegfeld, the Broadway Impresario, who's widow released
+  the recipe for the 1946 'Stork Club Bar Book'.
+source: www.diffordsguide.com (2165)
+recipe_steps:
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- amount: '1'
+  doze: shot
+  ingredient_name: Fresh pressed pineapple juice
+- amount: '2'
+  doze: shot
+  ingredient_name: Bombay London dry gin

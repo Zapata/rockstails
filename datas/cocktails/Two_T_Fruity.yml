@@ -1,20 +1,22 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Two 'T' Fruity
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 4.0
 garnish: Tooty Frooties
 glass: Martini
-infos: 
-  Comment: Simple is beautiful - this drink is both. The rawness of vodka is balanced with sweet passion fruit and hints of orange bitters.
-  Origin: Created in 2002  at Hush, London, England.
-  source: www.diffordsguide.com (2009)
-ingredients: 
-- - "2 1/2 "
-  - shot
-  - Ketel One vodka
-- - "3"
-  - dash
-  - Angostura orange bitters
-- - " 3/4 "
-  - shot
-  - Passion fruit syrup
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: Two 'T' Fruity
-rate: 4.0
+comment: Simple is beautiful - this drink is both. The rawness of vodka is balanced
+  with sweet passion fruit and hints of orange bitters.
+aka: 
+variant: 
+origin: Created in 2002  at Hush, London, England.
+source: www.diffordsguide.com (2009)
+recipe_steps:
+- amount: '2 1/2 '
+  doze: shot
+  ingredient_name: Ketel One vodka
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Passion fruit syrup
+- amount: '3'
+  doze: dash
+  ingredient_name: Angostura orange bitters

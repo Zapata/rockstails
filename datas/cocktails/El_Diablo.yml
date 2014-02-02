@@ -1,23 +1,27 @@
---- !ruby/object:DirtyCocktail 
+---
+name: El Diablo
+method: SHAKE first 3 ingredients with ice and strain into ice-filled glass. TOP with
+  ginger beer.
+rate: 4.0
 garnish: Lime wedge
 glass: Collins
-infos: 
-  Comment: The tequlia, red fruit and ginger aren't exactly a subtle combination but it is one that has proved bith popular and enduring. <br />
-  Origin: Thought to gave originated in California during the 1940's. The name translates as 'The Devil'.
-  source: www.diffordsguide.com (700)
-ingredients: 
-- - "2"
-  - shot
-  - Herradura 100% agave tequila
-- - " 3/4 "
-  - shot
-  - "Cr\xE8me de cassis liqueur"
-- - "1"
-  - shot
-  - Freshly squeezed lime juice
-- - "1"
-  - top up with
-  - Ginger beer
-method: SHAKE first 3 ingredients with ice and strain into ice-filled glass. TOP with ginger beer.
-name: El Diablo
-rate: 4.0
+comment: The tequlia, red fruit and ginger aren't exactly a subtle combination but
+  it is one that has proved bith popular and enduring. <br />
+aka: 
+variant: 
+origin: Thought to gave originated in California during the 1940's. The name translates
+  as 'The Devil'.
+source: www.diffordsguide.com (700)
+recipe_steps:
+- amount: '1'
+  doze: shot
+  ingredient_name: Freshly squeezed lime juice
+- amount: '2'
+  doze: shot
+  ingredient_name: Herradura 100% agave tequila
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Crème de cassis liqueur
+- amount: '1'
+  doze: top up with
+  ingredient_name: Ginger beer

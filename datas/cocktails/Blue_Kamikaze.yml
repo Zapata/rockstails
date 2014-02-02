@@ -1,19 +1,21 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Blue Kamikaze
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 3.5
 garnish: None
 glass: Shot
-infos: 
-  Comment: Tangy orange - except it's blue.
-  source: www.diffordsguide.com (262)
-ingredients: 
-- - " 1/2 "
-  - shot
-  - Ketel One vodka
-- - " 1/2 "
-  - shot
-  - Bols blue curacao liqueur
-- - " 1/2 "
-  - shot
-  - Freshly squeezed lime juice
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: Blue Kamikaze
-rate: 3.5
+comment: Tangy orange - except it's blue.
+aka: 
+variant: 
+origin: 
+source: www.diffordsguide.com (262)
+recipe_steps:
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Freshly squeezed lime juice
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Ketel One vodka
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Bols blue curacao liqueur

@@ -1,32 +1,36 @@
---- !ruby/object:DirtyCocktail 
+---
+name: 'Hurricane #1'
+method: SHAKE all ingredients with ice and strain into ice-filled glass.
+rate: 4.0
 garnish: Pineapple wedge &amp; cherry on rim
 glass: Hurricane
-infos: 
-  Comment: A strong, tangy, refreshing drink packed with fruit and laced with rum.
-  Origin: Named after the shape of a hurricane lamp and served in the tall, shapely glass of the same name. Thought to have originated in 1939 at The Hurricane Bar, New York City, but made famous at Pat O'Brien's in New Orleans. Some old cocktail books list a much earlier Hurricane made with<br />cognac, absinthe and vodka.
-  source: www.diffordsguide.com (993)
-ingredients: 
-- - "1 1/2 "
-  - shot
-  - Bacardi Superior rum
-- - "1"
-  - shot
-  - Pusser's Navy rum
-- - "1"
-  - shot
-  - Freshly squeezed orange juice
-- - "1"
-  - shot
-  - Fresh pressed pineapple juice
-- - " 1/2 "
-  - shot
-  - Freshly squeezed lime juice
-- - " 1/4 "
-  - shot
-  - Passion fruit syrup
-- - " 3/4 "
-  - shot
-  - Rose's lime cordial
-method: SHAKE all ingredients with ice and strain into ice-filled glass.
-name: "Hurricane #1"
-rate: 4.0
+comment: A strong, tangy, refreshing drink packed with fruit and laced with rum.
+aka: 
+variant: 
+origin: Named after the shape of a hurricane lamp and served in the tall, shapely
+  glass of the same name. Thought to have originated in 1939 at The Hurricane Bar,
+  New York City, but made famous at Pat O'Brien's in New Orleans. Some old cocktail
+  books list a much earlier Hurricane made with<br />cognac, absinthe and vodka.
+source: www.diffordsguide.com (993)
+recipe_steps:
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Freshly squeezed lime juice
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Rose's lime cordial
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Bacardi Superior rum
+- amount: '1'
+  doze: shot
+  ingredient_name: Fresh pressed pineapple juice
+- amount: '1'
+  doze: shot
+  ingredient_name: Freshly squeezed orange juice
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Passion fruit syrup
+- amount: '1'
+  doze: shot
+  ingredient_name: Pusser's Navy rum

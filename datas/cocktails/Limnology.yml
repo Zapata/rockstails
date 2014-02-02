@@ -1,20 +1,22 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Limnology
+method: STIR all ingredients with ice and fine strain into chilled glass.
+rate: 3.5
 garnish: Lime zest twist
 glass: Martini
-infos: 
-  Comment: A vodka Gimlet made with lime flavoured vodka.
-  Origin: The name means the study of the physical phenomena of lakes and other fresh waters - appropriate for this fresh green drink.
-  source: www.diffordsguide.com (1170)
-ingredients: 
-- - "2"
-  - shot
-  - Lime flavoured vodka
-- - "1"
-  - shot
-  - Rose's lime cordial
-- - " 3/4 "
-  - shot
-  - Chilled mineral water
-method: STIR all ingredients with ice and fine strain into chilled glass.
-name: Limnology
-rate: 3.5
+comment: A vodka Gimlet made with lime flavoured vodka.
+aka: 
+variant: 
+origin: The name means the study of the physical phenomena of lakes and other fresh
+  waters - appropriate for this fresh green drink.
+source: www.diffordsguide.com (1170)
+recipe_steps:
+- amount: '1'
+  doze: shot
+  ingredient_name: Rose's lime cordial
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Chilled mineral water
+- amount: '2'
+  doze: shot
+  ingredient_name: Lime flavoured vodka

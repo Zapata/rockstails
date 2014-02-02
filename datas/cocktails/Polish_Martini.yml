@@ -1,23 +1,25 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Polish Martini
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 5.0
 garnish: Apple slice<br />
 glass: Martini
-infos: 
-  Comment: Bison vodka and apple juice are a classic comb, here also an additional splash of Polish honey liqueur.<br /><br />
-  Origin: Created by Dick Bradsell, for his (Polish) father-in-law, Victor Sarge.
-  source: www.diffordsguide.com (1579)
-ingredients: 
-- - " 3/4 "
-  - shot
-  - Ketel One vodka
-- - " 3/4 "
-  - shot
-  - Zubrwka bison vodka
-- - " 3/4 "
-  - shot
-  - Krupnik spiced honey liqueur
-- - " 3/4 "
-  - shot
-  - Pressed apple juice
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: Polish Martini
-rate: 5.0
+comment: Bison vodka and apple juice are a classic comb, here also an additional splash
+  of Polish honey liqueur.<br /><br />
+aka: 
+variant: 
+origin: Created by Dick Bradsell, for his (Polish) father-in-law, Victor Sarge.
+source: www.diffordsguide.com (1579)
+recipe_steps:
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Ketel One vodka
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Pressed apple juice
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Zubrwka bison vodka
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Krupnik spiced honey liqueur

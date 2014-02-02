@@ -1,23 +1,24 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Pomegranate Margarita
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 4.5
 garnish: Lime wedge on rim
 glass: Coupette
-infos: 
-  Comment: Pomegranate and tequila combine harmoniously in this Margarita.
-  Origin: Recipe by Yours Truly (Simon Difford) in 2006.
-  source: www.diffordsguide.com (1582)
-ingredients: 
-- - "2"
-  - shot
-  - Herradura 100% agave tequila
-- - "1"
-  - shot
-  - Pomegranate juice
-- - " 1/4 "
-  - shot
-  - Pomegranate (grenadine) syrup
-- - " 1/2 "
-  - shot
-  - Freshly squeezed lime juice
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: Pomegranate Margarita
-rate: 4.5
+comment: Pomegranate and tequila combine harmoniously in this Margarita.
+aka: 
+variant: 
+origin: Recipe by Yours Truly (Simon Difford) in 2006.
+source: www.diffordsguide.com (1582)
+recipe_steps:
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Freshly squeezed lime juice
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Pomegranate (grenadine) syrup
+- amount: '2'
+  doze: shot
+  ingredient_name: Herradura 100% agave tequila
+- amount: '1'
+  doze: shot
+  ingredient_name: Pomegranate juice

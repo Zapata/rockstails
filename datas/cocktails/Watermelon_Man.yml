@@ -1,29 +1,35 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Watermelon Man
+method: SHAKE first four ingredients with ice and strain into ice-filled glass. Top
+  with lemonade and serve with straws.
+rate: 3.5
 garnish: Lime wedge
 glass: Collins
-infos: 
-  Comment: Sweet and far from sophisticated, but better than the fodder peddled at most clubs.
-  Origin: Named after the Herbie Hancock track and popularised by a club night promoter called Cookie in Berlin during the mid-1990s. He started serving this cocktail at his club nights and now practically every bar in Berlin offers it. Try the original at his Cookie Club.
-  source: www.diffordsguide.com (2070)
-ingredients: 
-- - "2"
-  - shot
-  - Ketel One vodka
-- - "1"
-  - shot
-  - Watermelon liqueur
-- - " 1/4 "
-  - shot
-  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
-- - " 1/2 "
-  - shot
-  - Freshly squeezed lime juice
-- - "1"
-  - shot
-  - Pomegranate (grenadine) syrup
-- - "1"
-  - top up with
-  - Soda (club soda)
-method: SHAKE first four ingredients with ice and strain into ice-filled glass. Top with lemonade and serve with straws.
-name: Watermelon Man
-rate: 3.5
+comment: Sweet and far from sophisticated, but better than the fodder peddled at most
+  clubs.
+aka: 
+variant: 
+origin: Named after the Herbie Hancock track and popularised by a club night promoter
+  called Cookie in Berlin during the mid-1990s. He started serving this cocktail at
+  his club nights and now practically every bar in Berlin offers it. Try the original
+  at his Cookie Club.
+source: www.diffordsguide.com (2070)
+recipe_steps:
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Freshly squeezed lime juice
+- amount: '2'
+  doze: shot
+  ingredient_name: Ketel One vodka
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- amount: '1'
+  doze: top up with
+  ingredient_name: Soda (club soda)
+- amount: '1'
+  doze: shot
+  ingredient_name: Pomegranate (grenadine) syrup
+- amount: '1'
+  doze: shot
+  ingredient_name: Watermelon liqueur

@@ -1,28 +1,32 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Wimbledon Martini
+method: MUDDLE strawberries in base of shaker. Add other ingredients, SHAKE with ice
+  and fine strain into chilled glass.
+rate: 4.0
 garnish: Strawberry on rim
 glass: Martini
-infos: 
-  Comment: Takes some getting through the strainer, but when you do it's simply strawberries and cream.
-  source: www.diffordsguide.com (2102)
-ingredients: 
-- - "6"
-  - fresh
-  - Strawberries (hulled)
-- - "1 1/2 "
-  - shot
-  - Bacardi Superior rum
-- - "1 1/2 "
-  - shot
-  - "Cr\xE8me de fraise du bois liqueur"
-- - " 1/4 "
-  - shot
-  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
-- - " 1/2 "
-  - shot
-  - Milk
-- - " 1/2 "
-  - shot
-  - Double (heavy) cream
-method: MUDDLE strawberries in base of shaker. Add other ingredients, SHAKE with ice and fine strain into chilled glass.
-name: Wimbledon Martini
-rate: 4.0
+comment: Takes some getting through the strainer, but when you do it's simply strawberries
+  and cream.
+aka: 
+variant: 
+origin: 
+source: www.diffordsguide.com (2102)
+recipe_steps:
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Bacardi Superior rum
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Double (heavy) cream
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Milk
+- amount: '6'
+  doze: fresh
+  ingredient_name: Strawberries (hulled)
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Crème de fraise du bois liqueur

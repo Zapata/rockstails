@@ -1,22 +1,26 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Appleissimo
+method: SHAKE first 3ingredients with ice and strain into ice-filled glass. TOP with
+  anis and serve with straws.
+rate: 4.0
 garnish: Apple slice on rim
 glass: Collins
-infos: 
-  Comment: Stir the anis in with straws before drinking. Anis is best added last as it reacts on contact with ice.
-  source: www.diffordsguide.com (89)
-ingredients: 
-- - "1 1/2 "
-  - shot
-  - Berentzen Apple schnapps
-- - "2"
-  - shot
-  - Pressed apple juice
-- - "1 1/2 "
-  - shot
-  - Ocean Spray cranberry juice
-- - "1 1/2 "
-  - shot
-  - Pernod anis
-method: SHAKE first 3ingredients with ice and strain into ice-filled glass. TOP with anis and serve with straws.
-name: Appleissimo
-rate: 4.0
+comment: Stir the anis in with straws before drinking. Anis is best added last as
+  it reacts on contact with ice.
+aka: 
+variant: 
+origin: 
+source: www.diffordsguide.com (89)
+recipe_steps:
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Ocean Spray cranberry juice
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Berentzen Apple schnapps
+- amount: '2'
+  doze: shot
+  ingredient_name: Pressed apple juice
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Pernod anis

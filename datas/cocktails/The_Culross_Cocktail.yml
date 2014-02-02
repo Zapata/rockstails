@@ -1,22 +1,25 @@
---- !ruby/object:DirtyCocktail 
+---
+name: The Culross Cocktail
+method: SHAKE all ingredients with ice and fine strain into chilled glass.<br />
+rate: 4.0
 garnish: Orange zest twist<br />
 glass: Coupette
-infos: 
-  Comment: "Light rum, aromatic wine served 'up' with the marzipan and almond notes of apricot liqueur. "
-  source: www.diffordsguide.com (2794)
-ingredients: 
-- - "1"
-  - shot
-  - Bacardi Superior rum
-- - "1"
-  - shot
-  - Bols apricot brandy liqueur
-- - "1"
-  - shot
-  - Lillet Blanc
-- - " 3/4 "
-  - shot
-  - Freshly squeezed lemon juice
-method: SHAKE all ingredients with ice and fine strain into chilled glass.<br />
-name: The Culross Cocktail
-rate: 4.0
+comment: 'Light rum, aromatic wine served ''up'' with the marzipan and almond notes
+  of apricot liqueur. '
+aka: 
+variant: 
+origin: 
+source: www.diffordsguide.com (2794)
+recipe_steps:
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Freshly squeezed lemon juice
+- amount: '1'
+  doze: shot
+  ingredient_name: Bacardi Superior rum
+- amount: '1'
+  doze: shot
+  ingredient_name: Bols apricot brandy liqueur
+- amount: '1'
+  doze: shot
+  ingredient_name: Lillet Blanc

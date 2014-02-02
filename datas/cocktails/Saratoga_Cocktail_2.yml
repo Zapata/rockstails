@@ -1,28 +1,31 @@
---- !ruby/object:DirtyCocktail 
+---
+name: 'Saratoga Cocktail #2'
+method: SHAKE all ingredients with ice and fine strain into chilled glass
+rate: 4.0
 garnish: Maraschino cherry<br />
 glass: Coupette
-infos: 
-  Comment: Dry and robust with cognac character combining well with maraschino and raspberry.<br /><br />
-  source: www.diffordsguide.com (2572)
-ingredients: 
-- - "2"
-  - shot
-  - Courvoisier V.S.O.P cognac
-- - " 1/4 "
-  - shot
-  - Luxardo maraschino liqueur
-- - " 1/2 "
-  - shot
-  - Fresh pressed pineapple juice
-- - " 1/2 "
-  - shot
-  - Freshly squeezed lemon juice
-- - "1"
-  - dash
-  - Angostura aromatic bitters
-- - " 1/2 "
-  - shot
-  - Chilled mineral water
-method: SHAKE all ingredients with ice and fine strain into chilled glass
-name: "Saratoga Cocktail #2"
-rate: 4.0
+comment: Dry and robust with cognac character combining well with maraschino and raspberry.<br
+  /><br />
+aka: 
+variant: 
+origin: 
+source: www.diffordsguide.com (2572)
+recipe_steps:
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Freshly squeezed lemon juice
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Fresh pressed pineapple juice
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Chilled mineral water
+- amount: '1'
+  doze: dash
+  ingredient_name: Angostura aromatic bitters
+- amount: '2'
+  doze: shot
+  ingredient_name: Courvoisier V.S.O.P cognac
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Luxardo maraschino liqueur

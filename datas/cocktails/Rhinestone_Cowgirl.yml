@@ -1,26 +1,28 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Rhinestone Cowgirl
+method: SHAKE all ingredients with ice and strain into chilled glass.
+rate: 3.5
 garnish: Orange slice<br />
 glass: Collins
-infos: 
-  Comment: Tangy, citrus, cranberry and berry fruit laced with sweetened bourbon.<br /><br /><br _moz_editor_bogus_node="TRUE" />
-  Origin: <br _moz_editor_bogus_node="TRUE" />
-  source: www.diffordsguide.com (2561)
-ingredients: 
-- - "2"
-  - shot
-  - Maker's Mark bourbon
-- - " 3/4 "
-  - shot
-  - "Cr\xE8me de cassis liqueur"
-- - "2"
-  - shot
-  - Ocean Spray cranberry juice
-- - "1"
-  - shot
-  - Freshly squeezed lemon juice
-- - " 1/2 "
-  - shot
-  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
-method: SHAKE all ingredients with ice and strain into chilled glass.
-name: Rhinestone Cowgirl
-rate: 3.5
+comment: Tangy, citrus, cranberry and berry fruit laced with sweetened bourbon.<br
+  /><br /><br _moz_editor_bogus_node="TRUE" />
+aka: 
+variant: 
+origin: <br _moz_editor_bogus_node="TRUE" />
+source: www.diffordsguide.com (2561)
+recipe_steps:
+- amount: '2'
+  doze: shot
+  ingredient_name: Ocean Spray cranberry juice
+- amount: '1'
+  doze: shot
+  ingredient_name: Freshly squeezed lemon juice
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Crème de cassis liqueur
+- amount: '2'
+  doze: shot
+  ingredient_name: Maker's Mark bourbon

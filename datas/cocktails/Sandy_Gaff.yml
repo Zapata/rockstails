@@ -1,18 +1,19 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Sandy Gaff
+method: POUR ale into glass, top with ginger ale and lightly stir.
+rate: 3.5
 garnish: 
 glass: Boston
-infos: 
-  AKA: Shandy Gaff
-  Comment: Better than you average lager shandy.
-  Origin: Adapted from a recipe purloined from David Embury's classic book, The Fine Art of Mixing Drinks.
-  source: www.diffordsguide.com (1739)
-ingredients: 
-- - "23"
-  - unit
-  - Guiness
-- - "1"
-  - top up with
-  - Ginger ale
-method: POUR ale into glass, top with ginger ale and lightly stir.
-name: Sandy Gaff
-rate: 3.5
+comment: Better than you average lager shandy.
+aka: Shandy Gaff
+variant: 
+origin: Adapted from a recipe purloined from David Embury's classic book, The Fine
+  Art of Mixing Drinks.
+source: www.diffordsguide.com (1739)
+recipe_steps:
+- amount: '1'
+  doze: top up with
+  ingredient_name: Ginger ale
+- amount: '23'
+  doze: unit
+  ingredient_name: Guiness

@@ -1,29 +1,31 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Causeway
+method: SHAKE first 5 ingredients with ice and strain into ice-filled glass,TOP with
+  ginger ale.
+rate: 3.5
 garnish: 
 glass: Collins
-infos: 
-  Comment: Day aromatic long whiskey drink.
-  Origin: Created by David Myers at Titanic, London, England.
-  source: www.diffordsguide.com (388)
-ingredients: 
-- - "2"
-  - shot
-  - Jameson Irish whiskey
-- - "1"
-  - shot
-  - Drambuie
-- - "2"
-  - dash
-  - Angostura orange bitters
-- - "4"
-  - dash
-  - Angostura aromatic bitters
-- - " 1/4 "
-  - shot
-  - Freshly squeezed lemon juice
-- - "1"
-  - top up with
-  - Ginger ale
-method: SHAKE first 5 ingredients with ice and strain into ice-filled glass,TOP with ginger ale.
-name: Causeway
-rate: 3.5
+comment: Day aromatic long whiskey drink.
+aka: 
+variant: 
+origin: Created by David Myers at Titanic, London, England.
+source: www.diffordsguide.com (388)
+recipe_steps:
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Freshly squeezed lemon juice
+- amount: '4'
+  doze: dash
+  ingredient_name: Angostura aromatic bitters
+- amount: '1'
+  doze: top up with
+  ingredient_name: Ginger ale
+- amount: '2'
+  doze: dash
+  ingredient_name: Angostura orange bitters
+- amount: '1'
+  doze: shot
+  ingredient_name: Drambuie
+- amount: '2'
+  doze: shot
+  ingredient_name: Jameson Irish whiskey

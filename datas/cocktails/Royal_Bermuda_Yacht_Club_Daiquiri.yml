@@ -1,23 +1,26 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Royal Bermuda Yacht Club Daiquiri
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 4.0
 garnish: Lime wedge on rim
 glass: Martini
-infos: 
-  Comment: A full-flavoured, tangy Daiquiri.
-  Origin: Created at the eponymous club, established in Bermuda in 1844 and largely frequented by British Army Officers. This recipe is adapted from one in Trader Vic's Bartender's Guide.
-  source: www.diffordsguide.com (1701)
-ingredients: 
-- - "2 1/2 "
-  - shot
-  - Bacardi Oro golden rum
-- - " 1/2 "
-  - shot
-  - Velvet Falernum liqueur
-- - " 1/4 "
-  - shot
-  - Cointreau triple sec
-- - " 3/4 "
-  - shot
-  - Freshly squeezed lime juice
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: Royal Bermuda Yacht Club Daiquiri
-rate: 4.0
+comment: A full-flavoured, tangy Daiquiri.
+aka: 
+variant: 
+origin: Created at the eponymous club, established in Bermuda in 1844 and largely
+  frequented by British Army Officers. This recipe is adapted from one in Trader Vic's
+  Bartender's Guide.
+source: www.diffordsguide.com (1701)
+recipe_steps:
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Cointreau triple sec
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Freshly squeezed lime juice
+- amount: '2 1/2 '
+  doze: shot
+  ingredient_name: Bacardi Oro golden rum
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Velvet Falernum liqueur

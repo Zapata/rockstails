@@ -1,25 +1,28 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Cactus Jack
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 3.5
 garnish: Pineapple leaf
 glass: Martini
-infos: 
-  Comment: Vivid in colour, this orange led, Tequila based drink has a balanced sweet and sourness.
-  source: www.diffordsguide.com (352)
-ingredients: 
-- - "1"
-  - shot
-  - Herradura 100% agave tequila
-- - " 3/4 "
-  - shot
-  - Bols blue curacao liqueur
-- - "1 1/4 "
-  - shot
-  - Freshly squeezed orange juice
-- - "1"
-  - shot
-  - Fresh pressed pineapple juice
-- - " 1/2 "
-  - shot
-  - Freshly squeezed lemon juice
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: Cactus Jack
-rate: 3.5
+comment: Vivid in colour, this orange led, Tequila based drink has a balanced sweet
+  and sourness.
+aka: 
+variant: 
+origin: 
+source: www.diffordsguide.com (352)
+recipe_steps:
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Freshly squeezed lemon juice
+- amount: '1'
+  doze: shot
+  ingredient_name: Fresh pressed pineapple juice
+- amount: '1 1/4 '
+  doze: shot
+  ingredient_name: Freshly squeezed orange juice
+- amount: '1'
+  doze: shot
+  ingredient_name: Herradura 100% agave tequila
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Bols blue curacao liqueur

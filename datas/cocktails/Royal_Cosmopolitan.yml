@@ -1,26 +1,29 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Royal Cosmopolitan
+method: SHAKE first 4 ingredients with ice and fine strain into chilled glass. TOP
+  with champagne.
+rate: 4.0
 garnish: Orange zest twist
 glass: Martini
-infos: 
-  Comment: The classic Cosmopolitan with a layer of fizz on top adding a biscuity complexity. Sex And The City meets Ab Fab.
-  Origin: Created in 2003 by Wayne Collins, London, UK
-  source: www.diffordsguide.com (1702)
-ingredients: 
-- - "1"
-  - shot
-  - Ketel One Citroen vodka
-- - " 1/2 "
-  - shot
-  - Cointreau triple sec
-- - "1"
-  - shot
-  - Ocean Spray cranberry juice
-- - " 1/4 "
-  - shot
-  - Freshly squeezed lime juice
-- - "1"
-  - top up with
-  - Perrier Jouet brut champagne
-method: SHAKE first 4 ingredients with ice and fine strain into chilled glass. TOP with champagne.
-name: Royal Cosmopolitan
-rate: 4.0
+comment: The classic Cosmopolitan with a layer of fizz on top adding a biscuity complexity.
+  Sex And The City meets Ab Fab.
+aka: 
+variant: 
+origin: Created in 2003 by Wayne Collins, London, UK
+source: www.diffordsguide.com (1702)
+recipe_steps:
+- amount: '1'
+  doze: shot
+  ingredient_name: Ketel One Citroen vodka
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Cointreau triple sec
+- amount: '1'
+  doze: shot
+  ingredient_name: Ocean Spray cranberry juice
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Freshly squeezed lime juice
+- amount: '1'
+  doze: top up with
+  ingredient_name: Perrier Jouet brut champagne

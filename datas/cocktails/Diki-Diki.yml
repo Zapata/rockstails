@@ -1,20 +1,21 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Diki-Diki
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 4.5
 garnish: Half sugar rim<br />
 glass: Martini
-infos: 
-  Comment: Fruity yet tart. The sourness is a challenge initially but very rewarding.
-  Origin: Adapted from Harry Craddock's 1930 'The Savoy Cocktail Book'.
-  source: www.diffordsguide.com (2628)
-ingredients: 
-- - "2"
-  - shot
-  - Boulard Grand Solage calvados
-- - " 1/2 "
-  - shot
-  - Swedish Punch liqueur
-- - " 1/2 "
-  - shot
-  - Freshly squeezed grapefruit juice
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: Diki-Diki
-rate: 4.5
+comment: Fruity yet tart. The sourness is a challenge initially but very rewarding.
+aka: 
+variant: 
+origin: Adapted from Harry Craddock's 1930 'The Savoy Cocktail Book'.
+source: www.diffordsguide.com (2628)
+recipe_steps:
+- amount: '2'
+  doze: shot
+  ingredient_name: Boulard Grand Solage calvados
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Freshly squeezed grapefruit juice
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Swedish Punch liqueur

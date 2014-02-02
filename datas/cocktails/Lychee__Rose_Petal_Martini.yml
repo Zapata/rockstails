@@ -1,23 +1,24 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Lychee & Rose Petal Martini
+method: STIR all ingredients with ice and strain into chilled glass.
+rate: 4.0
 garnish: Float rose petal
 glass: Martini
-infos: 
-  Comment: Light pink in colour and subtle in flavour.
-  Origin: Created in 2002 by Dick Bradsell for Opium, London, England.
-  source: www.diffordsguide.com (1206)
-ingredients: 
-- - "2"
-  - shot
-  - Bombay London dry gin
-- - "1"
-  - shot
-  - Lanique rose petal liqueur
-- - "1"
-  - shot
-  - Lychee syrup (from tinned fruit)
-- - "2"
-  - dash
-  - Peychaud's aromatic bitters
-method: STIR all ingredients with ice and strain into chilled glass.
-name: Lychee & Rose Petal Martini
-rate: 4.0
+comment: Light pink in colour and subtle in flavour.
+aka: 
+variant: 
+origin: Created in 2002 by Dick Bradsell for Opium, London, England.
+source: www.diffordsguide.com (1206)
+recipe_steps:
+- amount: '2'
+  doze: shot
+  ingredient_name: Bombay London dry gin
+- amount: '1'
+  doze: shot
+  ingredient_name: Lanique rose petal liqueur
+- amount: '2'
+  doze: dash
+  ingredient_name: Peychaud's aromatic bitters
+- amount: '1'
+  doze: shot
+  ingredient_name: Lychee syrup (from tinned fruit)

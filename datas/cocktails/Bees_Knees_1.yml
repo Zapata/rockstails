@@ -1,28 +1,31 @@
---- !ruby/object:DirtyCocktail 
+---
+name: 'Bee''s Knees #1'
+method: STIR honey with rum until honey dissolves. Add other ingredients, SHAKE with
+  ice and fine strain into chilled glass.
+rate: 4.0
 garnish: Orange zest twist
 glass: Martini
-infos: 
-  Comment: Smooth and orangey to start, with a rum and honey finish.
-  source: www.diffordsguide.com (195)
-ingredients: 
-- - "1 1/4 "
-  - shot
-  - Bacardi Superior rum
-- - "1 1/4 "
-  - shot
-  - Pusser's Navy rum
-- - "2"
-  - spoon
-  - Runny honey
-- - "1"
-  - shot
-  - Freshly squeezed orange juice
-- - " 1/2 "
-  - shot
-  - Milk
-- - " 1/2 "
-  - shot
-  - Double (heavy) cream
-method: STIR honey with rum until honey dissolves. Add other ingredients, SHAKE with ice and fine strain into chilled glass.
-name: "Bee's Knees #1"
-rate: 4.0
+comment: Smooth and orangey to start, with a rum and honey finish.
+aka: 
+variant: 
+origin: 
+source: www.diffordsguide.com (195)
+recipe_steps:
+- amount: '1 1/4 '
+  doze: shot
+  ingredient_name: Bacardi Superior rum
+- amount: '1'
+  doze: shot
+  ingredient_name: Freshly squeezed orange juice
+- amount: '2'
+  doze: spoon
+  ingredient_name: Runny honey
+- amount: '1 1/4 '
+  doze: shot
+  ingredient_name: Pusser's Navy rum
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Double (heavy) cream
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Milk

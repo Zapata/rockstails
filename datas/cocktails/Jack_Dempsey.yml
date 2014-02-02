@@ -1,25 +1,27 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Jack Dempsey
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 3.5
 garnish: Maraschino cherry
 glass: Martini
-infos: 
-  Comment: Dilution makes or breaks this subtle, gin laced drink.
-  source: www.diffordsguide.com (1035)
-ingredients: 
-- - "1 1/2 "
-  - shot
-  - Bacardi Superior rum
-- - "1 1/2 "
-  - shot
-  - Bombay London dry gin
-- - " 1/4 "
-  - shot
-  - Freshly squeezed lemon juice
-- - " 1/4 "
-  - shot
-  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
-- - " 3/4 "
-  - shot
-  - Chilled mineral water
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: Jack Dempsey
-rate: 3.5
+comment: Dilution makes or breaks this subtle, gin laced drink.
+aka: 
+variant: 
+origin: 
+source: www.diffordsguide.com (1035)
+recipe_steps:
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Freshly squeezed lemon juice
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Bacardi Superior rum
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Chilled mineral water
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Bombay London dry gin

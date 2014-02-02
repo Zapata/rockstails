@@ -1,26 +1,30 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Walnut Alexander
+method: SHAKE all ingredients with ice and fine strain into chilled glass.<br /><br
+  />
+rate: 4.0
 garnish: Nutmeg dust<br />
 glass: Martini
-infos: 
-  Comment: One to accompany the nutty chocolates from the after-dinner selection box.<br /><br />
-  Origin: Created in 2008 by Simon Difford at The Cabinet Room, London, England.<br /><br />
-  source: www.diffordsguide.com (2602)
-ingredients: 
-- - "2"
-  - shot
-  - Courvoisier V.S.O.P cognac
-- - " 1/2 "
-  - shot
-  - Nocello walnut liqueur
-- - " 1/4 "
-  - shot
-  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
-- - " 1/2 "
-  - shot
-  - Milk
-- - " 1/2 "
-  - shot
-  - Double (heavy) cream
-method: SHAKE all ingredients with ice and fine strain into chilled glass.<br /><br />
-name: Walnut Alexander
-rate: 4.0
+comment: One to accompany the nutty chocolates from the after-dinner selection box.<br
+  /><br />
+aka: 
+variant: 
+origin: Created in 2008 by Simon Difford at The Cabinet Room, London, England.<br
+  /><br />
+source: www.diffordsguide.com (2602)
+recipe_steps:
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Double (heavy) cream
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Milk
+- amount: '2'
+  doze: shot
+  ingredient_name: Courvoisier V.S.O.P cognac
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Nocello walnut liqueur

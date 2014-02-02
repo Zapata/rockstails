@@ -1,25 +1,28 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Raspberry Watkins
+method: SHAKE first 4 ingredients with ice and strain into ice-filled glass.  TOP
+  with soda, lightly stir and serve with straws.
+rate: 3.5
 garnish: Three raspberries
 glass: Sling
-infos: 
-  Comment: A light, long, fizzy and refreshing drink.
-  source: www.diffordsguide.com (1640)
-ingredients: 
-- - "2"
-  - shot
-  - Ketel One vodka
-- - " 1/2 "
-  - shot
-  - Chambord
-- - " 1/2 "
-  - shot
-  - Freshly squeezed lime juice
-- - " 1/4 "
-  - shot
-  - Pomegranate (grenadine) syrup
-- - "1"
-  - top up with
-  - Soda (club soda)
-method: SHAKE first 4 ingredients with ice and strain into ice-filled glass.  TOP with soda, lightly stir and serve with straws.
-name: Raspberry Watkins
-rate: 3.5
+comment: A light, long, fizzy and refreshing drink.
+aka: 
+variant: 
+origin: 
+source: www.diffordsguide.com (1640)
+recipe_steps:
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Freshly squeezed lime juice
+- amount: '2'
+  doze: shot
+  ingredient_name: Ketel One vodka
+- amount: '1'
+  doze: top up with
+  ingredient_name: Soda (club soda)
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Chambord
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Pomegranate (grenadine) syrup

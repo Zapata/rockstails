@@ -1,25 +1,28 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Bulldog
+method: SHAKE first 4 ingredients with ice and strain into ice-filled glass. TOP with
+  cola, stir and serve with straws.
+rate: 3.5
 garnish: 
 glass: Collins
-infos: 
-  Comment: Surprisingly nice - cola cuts through the cream.
-  source: www.diffordsguide.com (334)
-ingredients: 
-- - "1"
-  - shot
-  - Bacardi Superior rum
-- - "1"
-  - shot
-  - Kahla coffee liqueur
-- - "1 1/2 "
-  - shot
-  - Milk
-- - "1 1/2 "
-  - shot
-  - Double (heavy) cream
-- - "1"
-  - top up with
-  - Coca-cola
-method: SHAKE first 4 ingredients with ice and strain into ice-filled glass. TOP with cola, stir and serve with straws.
-name: Bulldog
-rate: 3.5
+comment: Surprisingly nice - cola cuts through the cream.
+aka: 
+variant: 
+origin: 
+source: www.diffordsguide.com (334)
+recipe_steps:
+- amount: '1'
+  doze: shot
+  ingredient_name: Bacardi Superior rum
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Double (heavy) cream
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Milk
+- amount: '1'
+  doze: shot
+  ingredient_name: Kahla coffee liqueur
+- amount: '1'
+  doze: top up with
+  ingredient_name: Coca-cola

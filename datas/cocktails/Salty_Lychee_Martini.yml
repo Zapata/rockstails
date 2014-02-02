@@ -1,20 +1,22 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Salty Lychee Martini
+method: STIR all ingredients with ice and strain into chilled glass.
+rate: 4.0
 garnish: Lychee from tin
 glass: Martini
-infos: 
-  Comment: Light pink in colour and subtle in flavour with the salty tang of Fino sherry.
-  Origin: I created this drink in 2002 after trying Dick Bradsell's Lychee &amp; Rose Petal Martini (also in this guide).
-  source: www.diffordsguide.com (1736)
-ingredients: 
-- - "2"
-  - shot
-  - Tio Pepe fino sherry
-- - "1"
-  - shot
-  - Lanique rose petal liqueur
-- - "1"
-  - shot
-  - Soho lychee liqueur
-method: STIR all ingredients with ice and strain into chilled glass.
-name: Salty Lychee Martini
-rate: 4.0
+comment: Light pink in colour and subtle in flavour with the salty tang of Fino sherry.
+aka: 
+variant: 
+origin: I created this drink in 2002 after trying Dick Bradsell's Lychee &amp; Rose
+  Petal Martini (also in this guide).
+source: www.diffordsguide.com (1736)
+recipe_steps:
+- amount: '1'
+  doze: shot
+  ingredient_name: Lanique rose petal liqueur
+- amount: '1'
+  doze: shot
+  ingredient_name: Soho lychee liqueur
+- amount: '2'
+  doze: shot
+  ingredient_name: Tio Pepe fino sherry

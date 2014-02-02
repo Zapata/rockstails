@@ -1,23 +1,25 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Gin Cocktail
+method: STIR all ingredients with ice and fine strain into chilled glass.
+rate: 4.0
 garnish: Lemon zest twist
 glass: Martini
-infos: 
-  Comment: A pink gin made more approachable by a splash of triple sec and sugar syrup.
-  Origin: A classic that was already well-established when Jerry Thomas recorded his version of the recipe in 1862.
-  source: www.diffordsguide.com (2173)
-ingredients: 
-- - "2 1/2 "
-  - shot
-  - Bombay London dry gin
-- - " 1/8 "
-  - shot
-  - Cointreau triple sec
-- - " 1/8 "
-  - shot
-  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
-- - "2"
-  - dash
-  - Angostura aromatic bitters
-method: STIR all ingredients with ice and fine strain into chilled glass.
-name: Gin Cocktail
-rate: 4.0
+comment: A pink gin made more approachable by a splash of triple sec and sugar syrup.
+aka: 
+variant: 
+origin: A classic that was already well-established when Jerry Thomas recorded his
+  version of the recipe in 1862.
+source: www.diffordsguide.com (2173)
+recipe_steps:
+- amount: ' 1/8 '
+  doze: shot
+  ingredient_name: Cointreau triple sec
+- amount: ' 1/8 '
+  doze: shot
+  ingredient_name: Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- amount: '2 1/2 '
+  doze: shot
+  ingredient_name: Bombay London dry gin
+- amount: '2'
+  doze: dash
+  ingredient_name: Angostura aromatic bitters

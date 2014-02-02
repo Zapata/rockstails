@@ -1,26 +1,28 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Daiquiri Elixir
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 5.0
 garnish: Lime wedge on rim
 glass: Martini
-infos: 
-  Comment: Freshly pressed sugar cane syrup and the French elixir Chartreuse add complexity to the classic Daiquiri.<br _moz_editor_bogus_node="TRUE" />
-  Origin: Another Daiquiri variation from Yours Truly (Simon Difford).
-  source: www.diffordsguide.com (2618)
-ingredients: 
-- - "2"
-  - shot
-  - Bacardi Superior rum
-- - " 1/2 "
-  - shot
-  - Freshly squeezed lime juice
-- - " 1/4 "
-  - shot
-  - Martinique cane sugar syrup
-- - " 1/8 "
-  - shot
-  - Chartreuse Green liqueur
-- - " 1/2 "
-  - shot
-  - Chilled mineral water
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: Daiquiri Elixir
-rate: 5.0
+comment: Freshly pressed sugar cane syrup and the French elixir Chartreuse add complexity
+  to the classic Daiquiri.<br _moz_editor_bogus_node="TRUE" />
+aka: 
+variant: 
+origin: Another Daiquiri variation from Yours Truly (Simon Difford).
+source: www.diffordsguide.com (2618)
+recipe_steps:
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Freshly squeezed lime juice
+- amount: '2'
+  doze: shot
+  ingredient_name: Bacardi Superior rum
+- amount: ' 1/8 '
+  doze: shot
+  ingredient_name: Chartreuse Green liqueur
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Chilled mineral water
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Martinique cane sugar syrup

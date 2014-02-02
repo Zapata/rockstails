@@ -1,23 +1,24 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Fat Tire
+method: SHAKE all ingredients with ice and fine strain into ice-filled glass.
+rate: 4.0
 garnish: Orange zest twist<br />
 glass: Old-fashioned
-infos: 
-  Comment: This flavourful, bittersweet aperitif won't be to everyone's taste.
-  Origin: Discovered in San Francisco in 2006, hence the American spelling of 'tyre'.
-  source: www.diffordsguide.com (2653)
-ingredients: 
-- - "1 1/2 "
-  - shot
-  - Zacapa aged rum
-- - "1"
-  - shot
-  - Averna Amaro
-- - " 1/2 "
-  - shot
-  - Freshly squeezed orange juice
-- - " 1/2 "
-  - shot
-  - Fresh pressed pineapple juice
-method: SHAKE all ingredients with ice and fine strain into ice-filled glass.
-name: Fat Tire
-rate: 4.0
+comment: This flavourful, bittersweet aperitif won't be to everyone's taste.
+aka: 
+variant: 
+origin: Discovered in San Francisco in 2006, hence the American spelling of 'tyre'.
+source: www.diffordsguide.com (2653)
+recipe_steps:
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Fresh pressed pineapple juice
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Freshly squeezed orange juice
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Zacapa aged rum
+- amount: '1'
+  doze: shot
+  ingredient_name: Averna Amaro

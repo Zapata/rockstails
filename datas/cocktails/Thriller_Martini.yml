@@ -1,22 +1,24 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Thriller Martini
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 4.0
 garnish: Orange zest twist
 glass: Martini
-infos: 
-  Comment: Spiced Scotch with a hint of orange.
-  source: www.diffordsguide.com (1949)
-ingredients: 
-- - "2 1/2 "
-  - shot
-  - Johnnie Walker Scotch Whisky
-- - " 3/4 "
-  - shot
-  - Bombay London dry gin
-- - " 3/4 "
-  - shot
-  - Freshly squeezed orange juice
-- - " 1/8 "
-  - shot
-  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: Thriller Martini
-rate: 4.0
+comment: Spiced Scotch with a hint of orange.
+aka: 
+variant: 
+origin: 
+source: www.diffordsguide.com (1949)
+recipe_steps:
+- amount: ' 1/8 '
+  doze: shot
+  ingredient_name: Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Freshly squeezed orange juice
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Bombay London dry gin
+- amount: '2 1/2 '
+  doze: shot
+  ingredient_name: Johnnie Walker Scotch Whisky

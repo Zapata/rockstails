@@ -1,19 +1,21 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Jack Maples
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 3.5
 garnish: Dust with ground cinnamon
 glass: Martini
-infos: 
-  Comment: Maple syrup smoothes apple brandy, even as it enhances its character.
-  source: www.diffordsguide.com (2697)
-ingredients: 
-- - "2"
-  - shot
-  - Boulard Grand Solage calvados
-- - " 1/4 "
-  - shot
-  - Maple syrup
-- - "1"
-  - dash
-  - Angostura orange bitters
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: Jack Maples
-rate: 3.5
+comment: Maple syrup smoothes apple brandy, even as it enhances its character.
+aka: 
+variant: 
+origin: 
+source: www.diffordsguide.com (2697)
+recipe_steps:
+- amount: '2'
+  doze: shot
+  ingredient_name: Boulard Grand Solage calvados
+- amount: '1'
+  doze: dash
+  ingredient_name: Angostura orange bitters
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Maple syrup

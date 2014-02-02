@@ -1,23 +1,24 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Finitaly
+method: <p>SHAKE all ingredients with ice and fine strain into chilled glass.</p>
+rate: 4.0
 garnish: <p>Blueberries or raspberries</p>
 glass: Martini
-infos: 
-  Comment: <p>A simple, berry led Martini.</p>
-  Origin: <p>Created by Michael Mahe at Hush, London, England.</p>
-  source: www.diffordsguide.com (747)
-ingredients: 
-- - "1 1/2 "
-  - shot
-  - Ketel One vodka
-- - " 1/2 "
-  - shot
-  - Chambord
-- - " 1/2 "
-  - shot
-  - Martini Rosso sweet vermouth
-- - " 3/4 "
-  - shot
-  - Chilled mineral water
-method: <p>SHAKE all ingredients with ice and fine strain into chilled glass.</p>
-name: Finitaly
-rate: 4.0
+comment: <p>A simple, berry led Martini.</p>
+aka: 
+variant: 
+origin: <p>Created by Michael Mahe at Hush, London, England.</p>
+source: www.diffordsguide.com (747)
+recipe_steps:
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Ketel One vodka
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Chilled mineral water
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Martini Rosso sweet vermouth
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Chambord

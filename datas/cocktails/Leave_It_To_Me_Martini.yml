@@ -1,26 +1,28 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Leave It To Me Martini
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 3.5
 garnish: Lemon zest twist
 glass: Martini
-infos: 
-  Comment: Gin, apricot, vermouth and lemon create an old-fashioned but well balanced drink.
-  Origin: Adapted from a recipe in Harry Craddock's 1930 Savoy Cocktail Book.
-  source: www.diffordsguide.com (1137)
-ingredients: 
-- - "1 1/2 "
-  - shot
-  - Bombay London dry gin
-- - " 1/2 "
-  - shot
-  - Bols apricot brandy liqueur
-- - " 3/4 "
-  - shot
-  - Martini Rosso sweet vermouth
-- - " 1/2 "
-  - shot
-  - Freshly squeezed lemon juice
-- - " 1/4 "
-  - shot
-  - Pomegranate (grenadine) syrup
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: Leave It To Me Martini
-rate: 3.5
+comment: Gin, apricot, vermouth and lemon create an old-fashioned but well balanced
+  drink.
+aka: 
+variant: 
+origin: Adapted from a recipe in Harry Craddock's 1930 Savoy Cocktail Book.
+source: www.diffordsguide.com (1137)
+recipe_steps:
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Freshly squeezed lemon juice
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Bols apricot brandy liqueur
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Bombay London dry gin
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Martini Rosso sweet vermouth
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Pomegranate (grenadine) syrup

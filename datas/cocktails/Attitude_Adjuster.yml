@@ -1,28 +1,32 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Attitude Adjuster
+method: SHAKE first 3 ingredients with ice and strain into ice-filled glass. TOP with
+  Coca-Cola then DRIZZLE orange and coffee liqueurs.
+rate: 3.0
 garnish: Orange slice &amp; cherry on stick (sail)
 glass: Hurricane
-infos: 
-  Comment: I've simplified and tried to improve this somewhat dodgy but popular cocktail - sorry, I failed!
-  source: www.diffordsguide.com (117)
-ingredients: 
-- - "2"
-  - shot
-  - Bombay London dry gin
-- - "1"
-  - shot
-  - Cointreau triple sec
-- - " 3/4 "
-  - shot
-  - Freshly squeezed lime juice
-- - "1"
-  - top up with
-  - Coca-cola
-- - " 1/4 "
-  - shot
-  - Grand Marnier liqueur
-- - " 1/4 "
-  - shot
-  - Kahla coffee liqueur
-method: SHAKE first 3 ingredients with ice and strain into ice-filled glass. TOP with Coca-Cola then DRIZZLE orange and coffee liqueurs.
-name: Attitude Adjuster
-rate: 3.0
+comment: I've simplified and tried to improve this somewhat dodgy but popular cocktail
+  - sorry, I failed!
+aka: 
+variant: 
+origin: 
+source: www.diffordsguide.com (117)
+recipe_steps:
+- amount: '1'
+  doze: shot
+  ingredient_name: Cointreau triple sec
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Freshly squeezed lime juice
+- amount: '2'
+  doze: shot
+  ingredient_name: Bombay London dry gin
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Grand Marnier liqueur
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Kahla coffee liqueur
+- amount: '1'
+  doze: top up with
+  ingredient_name: Coca-cola

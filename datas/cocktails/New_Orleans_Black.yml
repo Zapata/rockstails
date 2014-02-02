@@ -1,26 +1,29 @@
---- !ruby/object:DirtyCocktail 
+---
+name: New Orleans Black
+method: SHAKE first 4 ingredients with ice and strain into ice-filled glass. TOP with
+  ginger beer.<br /><br />
+rate: 3.5
 garnish: Lime wedge<br />
 glass: Old-fashioned
-infos: 
-  Comment: Agricole character bursts out of this spiced Daiquiri.
-  Origin: Created in 2008 by Jonny Raglin at Absinthe, San Francisco, USA.<br /><br />
-  source: www.diffordsguide.com (2519)
-ingredients: 
-- - "1 1/2 "
-  - shot
-  - Martinique agricole rum
-- - " 1/2 "
-  - shot
-  - Freshly squeezed lime juice
-- - " 1/8 "
-  - shot
-  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
-- - "2"
-  - dash
-  - Peychaud's aromatic bitters
-- - "1"
-  - top up with
-  - Ginger beer
-method: SHAKE first 4 ingredients with ice and strain into ice-filled glass. TOP with ginger beer.<br /><br />
-name: New Orleans Black
-rate: 3.5
+comment: Agricole character bursts out of this spiced Daiquiri.
+aka: 
+variant: 
+origin: Created in 2008 by Jonny Raglin at Absinthe, San Francisco, USA.<br /><br
+  />
+source: www.diffordsguide.com (2519)
+recipe_steps:
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Freshly squeezed lime juice
+- amount: ' 1/8 '
+  doze: shot
+  ingredient_name: Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- amount: '1'
+  doze: top up with
+  ingredient_name: Ginger beer
+- amount: '2'
+  doze: dash
+  ingredient_name: Peychaud's aromatic bitters
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Martinique agricole rum

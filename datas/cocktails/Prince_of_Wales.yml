@@ -1,25 +1,28 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Prince of Wales
+method: RUB sugar cube with lemon zest, coat with bitters and drop into glass. POUR
+  cognac and liqueur over soaked cube and TOP with champagne.
+rate: 3.5
 garnish: Lemon zest twist
 glass: Flute
-infos: 
-  Comment: More interesting than a Classic Champagne Cocktail.
-  source: www.diffordsguide.com (1601)
-ingredients: 
-- - "1"
-  - cube
-  - Brown sugar
-- - "2"
-  - dash
-  - Angostura aromatic bitters
-- - " 1/2 "
-  - shot
-  - Courvoisier V.S.O.P cognac
-- - " 1/2 "
-  - shot
-  - Grand Marnier liqueur
-- - "1"
-  - top up with
-  - Perrier Jouet brut champagne
-method: RUB sugar cube with lemon zest, coat with bitters and drop into glass. POUR cognac and liqueur over soaked cube and TOP with champagne.
-name: Prince of Wales
-rate: 3.5
+comment: More interesting than a Classic Champagne Cocktail.
+aka: 
+variant: 
+origin: 
+source: www.diffordsguide.com (1601)
+recipe_steps:
+- amount: '2'
+  doze: dash
+  ingredient_name: Angostura aromatic bitters
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Grand Marnier liqueur
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Courvoisier V.S.O.P cognac
+- amount: '1'
+  doze: top up with
+  ingredient_name: Perrier Jouet brut champagne
+- amount: '1'
+  doze: cube
+  ingredient_name: Brown sugar

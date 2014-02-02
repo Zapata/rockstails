@@ -1,23 +1,24 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Toffee Apple Martini
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 4.0
 garnish: Apple and fudge on rim
 glass: Martini
-infos: 
-  Comment: This amber, liquid toffee apple is almost creamy on the palate.
-  Origin: Created in 2003 by Yours Truly (Simon Difford).
-  source: www.diffordsguide.com (1966)
-ingredients: 
-- - "1"
-  - shot
-  - Boulard Grand Solage calvados
-- - "1"
-  - shot
-  - Ketel One vodka
-- - "1"
-  - shot
-  - Toffee liqueur
-- - "1 1/2 "
-  - shot
-  - Pressed apple juice
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: Toffee Apple Martini
-rate: 4.0
+comment: This amber, liquid toffee apple is almost creamy on the palate.
+aka: 
+variant: 
+origin: Created in 2003 by Yours Truly (Simon Difford).
+source: www.diffordsguide.com (1966)
+recipe_steps:
+- amount: '1'
+  doze: shot
+  ingredient_name: Ketel One vodka
+- amount: '1'
+  doze: shot
+  ingredient_name: Boulard Grand Solage calvados
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Pressed apple juice
+- amount: '1'
+  doze: shot
+  ingredient_name: Toffee liqueur

@@ -1,19 +1,21 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Carrot Cake
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 3.5
 garnish: Dust with cinnamon powder
 glass: Martini
-infos: 
-  Comment: Tastes nothing like carrot cake - surely that's a good thing.
-  source: www.diffordsguide.com (381)
-ingredients: 
-- - "2"
-  - shot
-  - Baileys Irish cream liqueur
-- - " 3/4 "
-  - shot
-  - Goldschlager cinnamon schnapps
-- - "1 1/2 "
-  - shot
-  - Kahla coffee liqueur
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: Carrot Cake
-rate: 3.5
+comment: Tastes nothing like carrot cake - surely that's a good thing.
+aka: 
+variant: 
+origin: 
+source: www.diffordsguide.com (381)
+recipe_steps:
+- amount: '2'
+  doze: shot
+  ingredient_name: Baileys Irish cream liqueur
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Kahla coffee liqueur
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Goldschlager cinnamon schnapps

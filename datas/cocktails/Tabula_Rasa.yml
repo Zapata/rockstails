@@ -1,20 +1,22 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Tabula Rasa
+method: POUR ingredients into ice-filled glass and stir.<br />
+rate: 4.0
 garnish: Orange zest twist<br />
 glass: Old-fashioned
-infos: 
-  Comment: "A chocolate Negroni-style - bitter chocolate laced with alcohol. "
-  Origin: Created in 2009 by Klaus St Rainer at Schumann's Bar, Munich, Germany.<br />
-  source: www.diffordsguide.com (2862)
-ingredients: 
-- - "1"
-  - shot
-  - Brandy, whisk(e)y, gin, rum etc.
-- - " 3/4 "
-  - shot
-  - Campari Bitter
-- - " 3/4 "
-  - shot
-  - Carpano Antica Formula
-method: POUR ingredients into ice-filled glass and stir.<br />
-name: Tabula Rasa
-rate: 4.0
+comment: 'A chocolate Negroni-style - bitter chocolate laced with alcohol. '
+aka: 
+variant: 
+origin: Created in 2009 by Klaus St Rainer at Schumann's Bar, Munich, Germany.<br
+  />
+source: www.diffordsguide.com (2862)
+recipe_steps:
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Campari Bitter
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Carpano Antica Formula
+- amount: '1'
+  doze: shot
+  ingredient_name: Brandy, whisk(e)y, gin, rum etc.

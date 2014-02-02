@@ -1,27 +1,28 @@
---- !ruby/object:DirtyCocktail 
+---
+name: 'Mayfair Cocktail #2'
+method: MUDDLE cloves in base of shaker. Add other ingredients, SHAKE with ice and
+  fine strain into chilled glass.
+rate: 4.0
 garnish: Orange zest twist
 glass: Martini
-infos: 
-  Comment: Gin with spicy cloves and hints of apricot and orange.
-  Origin: <br /><br />
-  Variant: <br />
-  source: www.diffordsguide.com (2494)
-ingredients: 
-- - "2"
-  - shot
-  - Bombay London dry gin
-- - "1"
-  - shot
-  - Bols apricot brandy liqueur
-- - "2"
-  - dried
-  - Clove
-- - "1"
-  - shot
-  - Freshly squeezed orange juice
-- - " 1/4 "
-  - shot
-  - Berry Hill pimento allspice liqueur
-method: MUDDLE cloves in base of shaker. Add other ingredients, SHAKE with ice and fine strain into chilled glass.
-name: "Mayfair Cocktail #2"
-rate: 4.0
+comment: Gin with spicy cloves and hints of apricot and orange.
+aka: 
+variant: <br />
+origin: <br /><br />
+source: www.diffordsguide.com (2494)
+recipe_steps:
+- amount: '1'
+  doze: shot
+  ingredient_name: Bols apricot brandy liqueur
+- amount: '1'
+  doze: shot
+  ingredient_name: Freshly squeezed orange juice
+- amount: '2'
+  doze: shot
+  ingredient_name: Bombay London dry gin
+- amount: '2'
+  doze: dried
+  ingredient_name: Clove
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Berry Hill pimento allspice liqueur

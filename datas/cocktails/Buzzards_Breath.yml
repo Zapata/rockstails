@@ -1,22 +1,25 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Buzzard's Breath
+method: BLEND ingredients with 12oz scoop of crushed ice. Pour into glass and serve
+  with straws.
+rate: 3.5
 garnish: Pineapple wedge on rim
 glass: Hurricane
-infos: 
-  Comment: A Pi~na Colada made with cachaca.
-  source: www.diffordsguide.com (346)
-ingredients: 
-- - "2 1/2 "
-  - shot
-  - Leblon cachaca
-- - "1"
-  - shot
-  - Coco Lpez cream of coconut
-- - "2"
-  - shot
-  - Fresh pressed pineapple juice
-- - " 1/4 "
-  - shot
-  - Double (heavy) cream
-method: BLEND ingredients with 12oz scoop of crushed ice. Pour into glass and serve with straws.
-name: Buzzard's Breath
-rate: 3.5
+comment: A Pi~na Colada made with cachaca.
+aka: 
+variant: 
+origin: 
+source: www.diffordsguide.com (346)
+recipe_steps:
+- amount: '2'
+  doze: shot
+  ingredient_name: Fresh pressed pineapple juice
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Double (heavy) cream
+- amount: '2 1/2 '
+  doze: shot
+  ingredient_name: Leblon cachaca
+- amount: '1'
+  doze: shot
+  ingredient_name: Coco Lpez cream of coconut

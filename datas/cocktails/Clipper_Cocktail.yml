@@ -1,20 +1,22 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Clipper Cocktail
+method: SHAKE all ingredients and fine strain into glass filled with crushed ice.
+rate: 3.5
 garnish: Lemon peel knot
 glass: Martini
-infos: 
-  Comment: Light, easy drinking and very refreshing.
-  Origin: Peggy Guggenheim's biography mentions that this cocktail was served during the 1940s on the Boeing flying boats known as Clippers.
-  source: www.diffordsguide.com (444)
-ingredients: 
-- - "2"
-  - shot
-  - Bacardi Superior rum
-- - "2"
-  - shot
-  - Noilly Prat dry vermouth
-- - " 1/2 "
-  - shot
-  - Pomegranate (grenadine) syrup
-method: SHAKE all ingredients and fine strain into glass filled with crushed ice.
-name: Clipper Cocktail
-rate: 3.5
+comment: Light, easy drinking and very refreshing.
+aka: 
+variant: 
+origin: Peggy Guggenheim's biography mentions that this cocktail was served during
+  the 1940s on the Boeing flying boats known as Clippers.
+source: www.diffordsguide.com (444)
+recipe_steps:
+- amount: '2'
+  doze: shot
+  ingredient_name: Noilly Prat dry vermouth
+- amount: '2'
+  doze: shot
+  ingredient_name: Bacardi Superior rum
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Pomegranate (grenadine) syrup

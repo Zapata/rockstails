@@ -1,25 +1,27 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Apple Brandy Sour
+method: SHAKE all ingredients with ice and fine strain into ice-filled glass.
+rate: 4.5
 garnish: Lemon slice &amp; cherry on stick (sail)
 glass: Old-fashioned
-infos: 
-  Comment: Sour by name - balanced sweet and sour apple by nature.
-  source: www.diffordsguide.com (72)
-ingredients: 
-- - "2"
-  - shot
-  - Boulard Grand Solage calvados
-- - "1"
-  - shot
-  - Freshly squeezed lemon juice
-- - " 3/4 "
-  - shot
-  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
-- - "3"
-  - dash
-  - Angostura aromatic bitters
-- - " 1/2 "
-  - fresh
-  - Egg white
-method: SHAKE all ingredients with ice and fine strain into ice-filled glass.
-name: Apple Brandy Sour
-rate: 4.5
+comment: Sour by name - balanced sweet and sour apple by nature.
+aka: 
+variant: 
+origin: 
+source: www.diffordsguide.com (72)
+recipe_steps:
+- amount: '1'
+  doze: shot
+  ingredient_name: Freshly squeezed lemon juice
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- amount: '2'
+  doze: shot
+  ingredient_name: Boulard Grand Solage calvados
+- amount: '3'
+  doze: dash
+  ingredient_name: Angostura aromatic bitters
+- amount: ' 1/2 '
+  doze: fresh
+  ingredient_name: Egg white

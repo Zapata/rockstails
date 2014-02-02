@@ -1,26 +1,27 @@
---- !ruby/object:DirtyCocktail 
+---
+name: 'Savoy Special #1'
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 4.0
 garnish: Orange zest twist
 glass: Martini
-infos: 
-  Comment: Wonderfully dry and aromatic.
-  Origin: Adapted from Harry Craddock's 1930 Savoy Cocktail Book.
-  source: www.diffordsguide.com (1751)
-ingredients: 
-- - "2"
-  - shot
-  - Bombay London dry gin
-- - "1"
-  - shot
-  - Noilly Prat dry vermouth
-- - " 1/4 "
-  - shot
-  - Pomegranate (grenadine) syrup
-- - " 1/8 "
-  - shot
-  - "La F\xE9e Parisienne (68%) absinthe"
-- - " 1/2 "
-  - shot
-  - Chilled mineral water
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: "Savoy Special #1"
-rate: 4.0
+comment: Wonderfully dry and aromatic.
+aka: 
+variant: 
+origin: Adapted from Harry Craddock's 1930 Savoy Cocktail Book.
+source: www.diffordsguide.com (1751)
+recipe_steps:
+- amount: ' 1/8 '
+  doze: shot
+  ingredient_name: La Fée Parisienne (68%) absinthe
+- amount: '1'
+  doze: shot
+  ingredient_name: Noilly Prat dry vermouth
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Chilled mineral water
+- amount: '2'
+  doze: shot
+  ingredient_name: Bombay London dry gin
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Pomegranate (grenadine) syrup

@@ -1,24 +1,49 @@
---- !ruby/object:DirtyCocktail 
+---
+name: 'Singapore Sling #1 (Baker''s Formula)'
+method: SHAKE first 3 ingredients with ice and strain into ice-filled glass. TOP with
+  soda, lightly stir and serve with straws.
+rate: 3.5
 garnish: Lemon slice &amp; cherry (sail)
 glass: Collins
-infos: 
-  Comment: Lacks the citrus of other Singapore Slings but dilution cuts and so balances the sweetness of the liqueurs.<br /><br />
-  Origin: Adapted from a recipe by Charles H. Baker Jr. and published in his 1946 Gentleman's Companion. This drink was created some time between 1911 and 1915 by Chinese-born Ngiam Tong Boon at the Long Bar in Raffles Hotel, Singapore.<br />        <br />Raffles Hotel is named after the colonial founder of Singapore, Sir Stamford Raffles, and was the Near East's ex-pat central. As Charles H. Baker Jr. wrote in his 1946 Gentleman's Companion, "Just looking around the terrace porch we've seen Frank Buck, the Sultan of Johor, Aimee Semple McPherson, Somerset Maugham, Dick Halliburton, Doug Fairbanks, Bob Ripley, Ruth Elder and Walker Camp - not that this is any wonder". Raffles still sticks out of modern-day Singapore like a vast, colonial Christmas cake.<br />        <br />Although there is little controversy as to who created the Singapore Sling, where he created it and (roughly) when, there is huge debate over the original name and ingredients. Singapore and the locality was colonially known as the 'Straits Settlements' and it seems certain that Boon's drink was similarly named the 'Straits Sling'. The name appears to have changed sometime between 1922 and 1930.<br />        <br />Not even the Raffles Hotel itself appears sure of the original recipe and visiting the present day Long Bar in search of enlightenment is hopeless. Sadly, the Singapore Slings now served there are made from a powdered pre-mix, which is also available in the gift shop below.<br /><br />While contemporary sources are clear that it was cherry brandy that distinguishes the Singapore Sling from another kind of sling, a great debate rages over the type of cherry brandy used. Was it a cherry 'brandy' liqueur or actually a cherry eau de vie? Did fruit juice feature in the original recipe at all? We shall probably never know, so I've listed several versions which are generally accepted to pass for a Singapore Sling today. Please also see the entry for 'Straits Sling'.<br /><br />
-  Variant: Straits Sling
-  source: www.diffordsguide.com (1824)
-ingredients: 
-- - "2"
-  - shot
-  - Old Tom gin
-- - " 3/4 "
-  - shot
-  - Bénédictine D.O.M.
-- - " 3/4 "
-  - shot
-  - Heering cherry brandy liqueur
-- - "1"
-  - top up with
-  - Soda (club soda)
-method: SHAKE first 3 ingredients with ice and strain into ice-filled glass. TOP with soda, lightly stir and serve with straws.
-name: "Singapore Sling #1 (Baker's Formula)"
-rate: 3.5
+comment: Lacks the citrus of other Singapore Slings but dilution cuts and so balances
+  the sweetness of the liqueurs.<br /><br />
+aka: 
+variant: Straits Sling
+origin: Adapted from a recipe by Charles H. Baker Jr. and published in his 1946 Gentleman's
+  Companion. This drink was created some time between 1911 and 1915 by Chinese-born
+  Ngiam Tong Boon at the Long Bar in Raffles Hotel, Singapore.<br />        <br />Raffles
+  Hotel is named after the colonial founder of Singapore, Sir Stamford Raffles, and
+  was the Near East's ex-pat central. As Charles H. Baker Jr. wrote in his 1946 Gentleman's
+  Companion, "Just looking around the terrace porch we've seen Frank Buck, the Sultan
+  of Johor, Aimee Semple McPherson, Somerset Maugham, Dick Halliburton, Doug Fairbanks,
+  Bob Ripley, Ruth Elder and Walker Camp - not that this is any wonder". Raffles still
+  sticks out of modern-day Singapore like a vast, colonial Christmas cake.<br />        <br
+  />Although there is little controversy as to who created the Singapore Sling, where
+  he created it and (roughly) when, there is huge debate over the original name and
+  ingredients. Singapore and the locality was colonially known as the 'Straits Settlements'
+  and it seems certain that Boon's drink was similarly named the 'Straits Sling'.
+  The name appears to have changed sometime between 1922 and 1930.<br />        <br
+  />Not even the Raffles Hotel itself appears sure of the original recipe and visiting
+  the present day Long Bar in search of enlightenment is hopeless. Sadly, the Singapore
+  Slings now served there are made from a powdered pre-mix, which is also available
+  in the gift shop below.<br /><br />While contemporary sources are clear that it
+  was cherry brandy that distinguishes the Singapore Sling from another kind of sling,
+  a great debate rages over the type of cherry brandy used. Was it a cherry 'brandy'
+  liqueur or actually a cherry eau de vie? Did fruit juice feature in the original
+  recipe at all? We shall probably never know, so I've listed several versions which
+  are generally accepted to pass for a Singapore Sling today. Please also see the
+  entry for 'Straits Sling'.<br /><br />
+source: www.diffordsguide.com (1824)
+recipe_steps:
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Heering cherry brandy liqueur
+- amount: '1'
+  doze: top up with
+  ingredient_name: Soda (club soda)
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Bénédictine D.O.M.
+- amount: '2'
+  doze: shot
+  ingredient_name: Old Tom gin

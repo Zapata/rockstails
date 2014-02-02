@@ -1,26 +1,29 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Rock 'n' Rye
+method: SHAKE all ingredients with ice and strain into ice-filled glass.<br />
+rate: 4.5
 garnish: Orange zest twist (discarded) and maraschino cherry<br />
 glass: Old-fashioned
-infos: 
-  Comment: Great rye whiskey notes with hints of orange and cherry. Slightly sweet but all too easy.
-  Origin: Created in January 2010 by Yours Truly at the Cabinet Room, London, England.<br />
-  source: www.diffordsguide.com (2838)
-ingredients: 
-- - "2 1/2 "
-  - shot
-  - Rye whiskey
-- - " 1/2 "
-  - shot
-  - Freshly squeezed orange juice
-- - " 1/8 "
-  - shot
-  - Freshly squeezed lemon juice
-- - " 1/4 "
-  - shot
-  - Maraschino syrup (from cherry jar)
-- - " 1/4 "
-  - shot
-  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
-method: SHAKE all ingredients with ice and strain into ice-filled glass.<br />
-name: Rock 'n' Rye
-rate: 4.5
+comment: Great rye whiskey notes with hints of orange and cherry. Slightly sweet but
+  all too easy.
+aka: 
+variant: 
+origin: Created in January 2010 by Yours Truly at the Cabinet Room, London, England.<br
+  />
+source: www.diffordsguide.com (2838)
+recipe_steps:
+- amount: ' 1/8 '
+  doze: shot
+  ingredient_name: Freshly squeezed lemon juice
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Freshly squeezed orange juice
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Maraschino syrup (from cherry jar)
+- amount: '2 1/2 '
+  doze: shot
+  ingredient_name: Rye whiskey

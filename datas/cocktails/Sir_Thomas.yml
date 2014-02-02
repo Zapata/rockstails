@@ -1,23 +1,24 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Sir Thomas
+method: STIR all ingredients with ice and strain into chilled glass.
+rate: 4.0
 garnish: Maraschino cherry
 glass: Martini
-infos: 
-  Comment: Akin to a fruit laced Sweet Manhattan.
-  Origin: Created in 2005 by Tom Ward, London, England.
-  source: www.diffordsguide.com (1827)
-ingredients: 
-- - "2"
-  - shot
-  - Maker's Mark bourbon
-- - " 1/2 "
-  - shot
-  - Cointreau triple sec
-- - " 1/2 "
-  - shot
-  - Heering cherry brandy liqueur
-- - " 1/2 "
-  - shot
-  - Martini Rosso sweet vermouth
-method: STIR all ingredients with ice and strain into chilled glass.
-name: Sir Thomas
-rate: 4.0
+comment: Akin to a fruit laced Sweet Manhattan.
+aka: 
+variant: 
+origin: Created in 2005 by Tom Ward, London, England.
+source: www.diffordsguide.com (1827)
+recipe_steps:
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Heering cherry brandy liqueur
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Cointreau triple sec
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Martini Rosso sweet vermouth
+- amount: '2'
+  doze: shot
+  ingredient_name: Maker's Mark bourbon

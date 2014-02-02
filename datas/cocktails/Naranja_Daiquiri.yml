@@ -1,25 +1,27 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Naranja Daiquiri
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 4.0
 garnish: Orange slice on rim
 glass: Martini
-infos: 
-  Comment: The Latino version of an orange Daiquiri.
-  source: www.diffordsguide.com (1387)
-ingredients: 
-- - "1 3/4 "
-  - shot
-  - Bacardi Superior rum
-- - " 3/4 "
-  - shot
-  - Grand Marnier liqueur
-- - "1"
-  - shot
-  - Freshly squeezed orange juice
-- - " 1/2 "
-  - shot
-  - Freshly squeezed lime juice
-- - " 1/8 "
-  - shot
-  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: Naranja Daiquiri
-rate: 4.0
+comment: The Latino version of an orange Daiquiri.
+aka: 
+variant: 
+origin: 
+source: www.diffordsguide.com (1387)
+recipe_steps:
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Freshly squeezed lime juice
+- amount: ' 1/8 '
+  doze: shot
+  ingredient_name: Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- amount: '1 3/4 '
+  doze: shot
+  ingredient_name: Bacardi Superior rum
+- amount: '1'
+  doze: shot
+  ingredient_name: Freshly squeezed orange juice
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Grand Marnier liqueur

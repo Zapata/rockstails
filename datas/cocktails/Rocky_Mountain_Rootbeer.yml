@@ -1,19 +1,22 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Rocky Mountain Rootbeer
+method: POUR vodka and liqueur into ice-filled glass, TOP up with cola and lightly
+  stir.
+rate: 4.0
 garnish: Lime wedge
 glass: Collins
-infos: 
-  Comment: Does indeed taste reminiscent of alcoholic root beer.
-  source: www.diffordsguide.com (1685)
-ingredients: 
-- - "2"
-  - shot
-  - Ketel One vodka
-- - " 3/4 "
-  - shot
-  - Galliano L'Autentico liqueur
-- - "1"
-  - top up with
-  - Coca-cola
-method: POUR vodka and liqueur into ice-filled glass, TOP up with cola and lightly stir.
-name: Rocky Mountain Rootbeer
-rate: 4.0
+comment: Does indeed taste reminiscent of alcoholic root beer.
+aka: 
+variant: 
+origin: 
+source: www.diffordsguide.com (1685)
+recipe_steps:
+- amount: '2'
+  doze: shot
+  ingredient_name: Ketel One vodka
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Galliano L'Autentico liqueur
+- amount: '1'
+  doze: top up with
+  ingredient_name: Coca-cola

@@ -1,22 +1,25 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Death By Chocolate
+method: BLEND all ingredients with two 12oz scoops of crushed ice and serve with straws.
+rate: 4.0
 garnish: Chocolate shavings (crumbled Cadbury's Flake bar)
 glass: Hurricane
-infos: 
-  Comment: Unsophisticated but delicious. Don't be cheap - use deluxe ice cream<br _moz_editor_bogus_node="TRUE" />
-  source: www.diffordsguide.com (2624)
-ingredients: 
-- - "1"
-  - shot
-  - Ketel One vodka
-- - "1 1/2 "
-  - shot
-  - Baileys Irish cream liqueur
-- - "1"
-  - shot
-  - "Brown cr\xE8me de cacao liqueur"
-- - "3"
-  - scoop
-  - Chocolate ice cream
-method: BLEND all ingredients with two 12oz scoops of crushed ice and serve with straws.
-name: Death By Chocolate
-rate: 4.0
+comment: Unsophisticated but delicious. Don't be cheap - use deluxe ice cream<br _moz_editor_bogus_node="TRUE"
+  />
+aka: 
+variant: 
+origin: 
+source: www.diffordsguide.com (2624)
+recipe_steps:
+- amount: '1'
+  doze: shot
+  ingredient_name: Ketel One vodka
+- amount: '1'
+  doze: shot
+  ingredient_name: Brown crème de cacao liqueur
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Baileys Irish cream liqueur
+- amount: '3'
+  doze: scoop
+  ingredient_name: Chocolate ice cream

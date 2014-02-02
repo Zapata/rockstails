@@ -1,23 +1,25 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Zoom
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 4.5
 garnish: Dust with cocoa powder
 glass: Martini
-infos: 
-  Comment: Cognac is smoothed with honey and softened with milk and cream in this classic cocktail.
-  Variant: Base on other spirits or add a dash of cacao.
-  source: www.diffordsguide.com (2132)
-ingredients: 
-- - "2 1/2 "
-  - shot
-  - Courvoisier V.S.O.P cognac
-- - " 1/2 "
-  - shot
-  - Double (heavy) cream
-- - "3"
-  - spoon
-  - Runny honey
-- - " 1/2 "
-  - shot
-  - Milk
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: Zoom
-rate: 4.5
+comment: Cognac is smoothed with honey and softened with milk and cream in this classic
+  cocktail.
+aka: 
+variant: Base on other spirits or add a dash of cacao.
+origin: 
+source: www.diffordsguide.com (2132)
+recipe_steps:
+- amount: '3'
+  doze: spoon
+  ingredient_name: Runny honey
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Double (heavy) cream
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Milk
+- amount: '2 1/2 '
+  doze: shot
+  ingredient_name: Courvoisier V.S.O.P cognac

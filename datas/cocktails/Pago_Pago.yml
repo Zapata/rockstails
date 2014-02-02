@@ -1,28 +1,30 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Pago Pago
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 3.5
 garnish: Lime wedge on rim
 glass: Martini
-infos: 
-  Comment: A Daiquiri with a liqueur twist.
-  source: www.diffordsguide.com (1453)
-ingredients: 
-- - "2"
-  - shot
-  - Bacardi Oro golden rum
-- - " 1/4 "
-  - shot
-  - Chartreuse Green liqueur
-- - " 1/2 "
-  - shot
-  - "White cr\xE8me de cacao liqueur"
-- - " 1/2 "
-  - shot
-  - Freshly squeezed lime juice
-- - " 1/8 "
-  - shot
-  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
-- - " 1/2 "
-  - shot
-  - Chilled mineral water
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: Pago Pago
-rate: 3.5
+comment: A Daiquiri with a liqueur twist.
+aka: 
+variant: 
+origin: 
+source: www.diffordsguide.com (1453)
+recipe_steps:
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Freshly squeezed lime juice
+- amount: ' 1/8 '
+  doze: shot
+  ingredient_name: Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- amount: '2'
+  doze: shot
+  ingredient_name: Bacardi Oro golden rum
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Chartreuse Green liqueur
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: White crème de cacao liqueur
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Chilled mineral water

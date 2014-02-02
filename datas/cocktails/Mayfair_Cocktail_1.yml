@@ -1,27 +1,30 @@
---- !ruby/object:DirtyCocktail 
+---
+name: 'Mayfair Cocktail #1'
+method: MUDDLE cloves in base of shaker. Add other ingredients, SHAKE with ice and
+  fine strain into chilled glass.
+rate: 4.0
 garnish: Orange zest twist
 glass: Martini
-infos: 
-  Comment: Spiced apricot laced with gin. Slightly sweet.
-  Origin: Adapted from a recipe in Harry Craddock's 1930 Savoy Cocktail Book. Apparently this drink celebrates a fair that took place in the month of May during the rein of King Charles II. <br /><br />
-  Variant: <br />
-  source: www.diffordsguide.com (1277)
-ingredients: 
-- - "2"
-  - shot
-  - Bombay London dry gin
-- - "1"
-  - shot
-  - Bols apricot brandy liqueur
-- - "2"
-  - dried
-  - Clove
-- - "1"
-  - shot
-  - Freshly squeezed orange juice
-- - " 1/8 "
-  - shot
-  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
-method: MUDDLE cloves in base of shaker. Add other ingredients, SHAKE with ice and fine strain into chilled glass.
-name: "Mayfair Cocktail #1"
-rate: 4.0
+comment: Spiced apricot laced with gin. Slightly sweet.
+aka: 
+variant: <br />
+origin: Adapted from a recipe in Harry Craddock's 1930 Savoy Cocktail Book. Apparently
+  this drink celebrates a fair that took place in the month of May during the rein
+  of King Charles II. <br /><br />
+source: www.diffordsguide.com (1277)
+recipe_steps:
+- amount: ' 1/8 '
+  doze: shot
+  ingredient_name: Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- amount: '1'
+  doze: shot
+  ingredient_name: Bols apricot brandy liqueur
+- amount: '1'
+  doze: shot
+  ingredient_name: Freshly squeezed orange juice
+- amount: '2'
+  doze: shot
+  ingredient_name: Bombay London dry gin
+- amount: '2'
+  doze: dried
+  ingredient_name: Clove

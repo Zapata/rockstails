@@ -1,19 +1,22 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Bumble Bee
+method: Refrigerate ingredients then LAYER in chilled glass by carefully pouring in
+  the following order.
+rate: 3.5
 garnish: 
 glass: Shot
-infos: 
-  Comment: A B-52 with a liquorice kick.
-  source: www.diffordsguide.com (338)
-ingredients: 
-- - " 1/2 "
-  - shot
-  - Kahla coffee liqueur
-- - " 1/2 "
-  - shot
-  - Luxardo sambuca dei cesari
-- - " 1/2 "
-  - shot
-  - Baileys Irish cream liqueur
-method: Refrigerate ingredients then LAYER in chilled glass by carefully pouring in the following order.
-name: Bumble Bee
-rate: 3.5
+comment: A B-52 with a liquorice kick.
+aka: 
+variant: 
+origin: 
+source: www.diffordsguide.com (338)
+recipe_steps:
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Baileys Irish cream liqueur
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Kahla coffee liqueur
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Luxardo sambuca dei cesari

@@ -1,23 +1,28 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Summit
+method: Lightly MUDDLE lime zest and ginger slices in base of mixing glass. Add other
+  ingredients, STIR with ice and fine strain into ice-filled glass.<br />
+rate: 3.0
 garnish: Long slice cucumber peel<br />
 glass: Old-fashioned
-infos: 
-  Comment: A cocktail created by a committee rather than any one bartender. &quot;How many bartenders does it take to change a light bulb?&quot; jokes are appropriate.<br />
-  Origin: Created in January 2008 when around 20 of the world's top mixologists gathered at The International Cognac Summit at the invitation of the BNIC.<br />
-  source: www.diffordsguide.com (2861)
-ingredients: 
-- - "1"
-  - twist
-  - Lime
-- - "1"
-  - slice
-  - Fresh root ginger (thumbnail sized)
-- - "1 1/2 "
-  - shot
-  - Courvoisier V.S.O.P cognac
-- - "2"
-  - shot
-  - Lemonade/Sprite/7-Up
-method: Lightly MUDDLE lime zest and ginger slices in base of mixing glass. Add other ingredients, STIR with ice and fine strain into ice-filled glass.<br />
-name: Summit
-rate: 3.0
+comment: A cocktail created by a committee rather than any one bartender. &quot;How
+  many bartenders does it take to change a light bulb?&quot; jokes are appropriate.<br
+  />
+aka: 
+variant: 
+origin: Created in January 2008 when around 20 of the world's top mixologists gathered
+  at The International Cognac Summit at the invitation of the BNIC.<br />
+source: www.diffordsguide.com (2861)
+recipe_steps:
+- amount: '2'
+  doze: shot
+  ingredient_name: Lemonade/Sprite/7-Up
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Courvoisier V.S.O.P cognac
+- amount: '1'
+  doze: twist
+  ingredient_name: Lime
+- amount: '1'
+  doze: slice
+  ingredient_name: Fresh root ginger (thumbnail sized)

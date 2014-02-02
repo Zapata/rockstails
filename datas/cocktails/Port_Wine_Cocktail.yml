@@ -1,17 +1,18 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Port Wine Cocktail
+method: STIR all ingredients with ice and strain into chilled glass.
+rate: 3.5
 garnish: Orange zest twist
 glass: Martini
-infos: 
-  Comment: Port and brandy served straight-up and dressed up.
-  Origin: A classic from the early 1900s.
-  source: www.diffordsguide.com (1593)
-ingredients: 
-- - "1"
-  - shot
-  - Courvoisier V.S.O.P cognac
-- - "3"
-  - shot
-  - Warre's Otima tawny port
-method: STIR all ingredients with ice and strain into chilled glass.
-name: Port Wine Cocktail
-rate: 3.5
+comment: Port and brandy served straight-up and dressed up.
+aka: 
+variant: 
+origin: A classic from the early 1900s.
+source: www.diffordsguide.com (1593)
+recipe_steps:
+- amount: '1'
+  doze: shot
+  ingredient_name: Courvoisier V.S.O.P cognac
+- amount: '3'
+  doze: shot
+  ingredient_name: Warre's Otima tawny port

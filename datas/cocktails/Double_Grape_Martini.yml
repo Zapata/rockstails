@@ -1,23 +1,25 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Double Grape Martini
+method: MUDDLE grapes in base of shaker. Add other ingredients, SHAKE with ice and
+  fine strain into chilled glass.
+rate: 4.5
 garnish: Grapes on stick
 glass: Martini
-infos: 
-  Comment: The wine adds complexity to a simple Grape Martini.
-  Origin: Created by Yours Truly (Simon Difford) in 2004.
-  source: www.diffordsguide.com (665)
-ingredients: 
-- - "12"
-  - fresh
-  - Seedless white grapes
-- - "2"
-  - shot
-  - Ketel One vodka
-- - " 3/4 "
-  - shot
-  - Sauvignon blanc wine
-- - " 1/2 "
-  - shot
-  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
-method: MUDDLE grapes in base of shaker. Add other ingredients, SHAKE with ice and fine strain into chilled glass.
-name: Double Grape Martini
-rate: 4.5
+comment: The wine adds complexity to a simple Grape Martini.
+aka: 
+variant: 
+origin: Created by Yours Truly (Simon Difford) in 2004.
+source: www.diffordsguide.com (665)
+recipe_steps:
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Sauvignon blanc wine
+- amount: '2'
+  doze: shot
+  ingredient_name: Ketel One vodka
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- amount: '12'
+  doze: fresh
+  ingredient_name: Seedless white grapes

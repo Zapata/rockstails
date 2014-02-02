@@ -1,23 +1,26 @@
---- !ruby/object:DirtyCocktail 
+---
+name: The Quad
+method: SHAKE all ingredients with ice and fine strain into chilled glass.<br />
+rate: 4.5
 garnish: Orange zest twist<br />
 glass: Coupette
-infos: 
-  Comment: Four different orange flavoured ingredients combine in this complex fruity cocktail.
-  Origin: Created in 2010 by Simon Difford at the Cabinet Room, London, England.<br />
-  source: www.diffordsguide.com (2884)
-ingredients: 
-- - "1 1/2 "
-  - shot
-  - Orange-infused Ketel One vodka
-- - "1"
-  - shot
-  - Cointreau triple sec
-- - " 1/4 "
-  - shot
-  - Campari Bitter
-- - "1"
-  - shot
-  - Freshly squeezed orange juice
-method: SHAKE all ingredients with ice and fine strain into chilled glass.<br />
-name: The Quad
-rate: 4.5
+comment: Four different orange flavoured ingredients combine in this complex fruity
+  cocktail.
+aka: 
+variant: 
+origin: Created in 2010 by Simon Difford at the Cabinet Room, London, England.<br
+  />
+source: www.diffordsguide.com (2884)
+recipe_steps:
+- amount: '1'
+  doze: shot
+  ingredient_name: Cointreau triple sec
+- amount: '1'
+  doze: shot
+  ingredient_name: Freshly squeezed orange juice
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Campari Bitter
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Orange-infused Ketel One vodka

@@ -1,29 +1,56 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Pimm's Cup (or Classic Pimm's)
+method: POUR Pimm's into glass half filled with ice. Add fruit and fill glass with
+  more ice. TOP with lemonade (or ginger ale), lightly stir and serve with straws.
+rate: 3.5
 garnish: Mint sprig
 glass: Collins
-infos: 
-  Comment: You've not properly experienced an English summer until you've drunk one of these whilst sheltering from the rain.<br /><br />
-  Origin: "This quintessential English summer tipple is usually accredited to James Pimm, who in 1823-4 began trading as a shellfish-monger in London's Lombard Street. He later moved to nearby number 3 Poultry, also in the City of London, where he established Pimm's Oyster Warehouse. It is here, in 1840, that he is said to have first served this drink. <br />        <br />Others dispute this, maintaining that James Pimm only unwittingly lent his name to the drink. They say the true credit lies with his successor, Samuel Morey, who is recorded as having taken out a retail liquor licence in 1860. This would appear to be when the oyster bar first offered its customers spirits. Many establishments of the day mixed house spirits to serve with liqueurs and juices as 'cups', in reference to the tankards in which they were sold. Naturally the 'cup' made at Pimm's Oyster Bar was named after the establishment which retained the goodwill of its founder.<br />    <br />Pimm's restaurant became very popular and changed hands a couple more times. Eventually Horatio David Davies, a wine merchant and owner of cafes in London bought the business. He became Sir Horatio, a Member of Parliament and between 1897-1898, Lord Mayor of London. He formed Pimm's into a private company in 1906, which, was controlled by family trusts for another 57 years after his death.<br />    <br />The precise date that the drink Pimm's was first sold outside restaurants and bars controlled by the Pimm's company is unknown. However, it is certain that the original product, No.1, was based on gin and flavoured with numerous botanicals including quinine. A second Pimm's product based on Scotch (Pimm's No.2 Cup) was launched and a third (Pimm's No.3 Cup) was based on brandy. Pimm's became popular in Britain in the 1920s and took off internationally after the Second World War. Other versions were then introduced: Pimm's No.4 based on rum, Pimm's No.6 on vodka and Pimm's No.7 on rye whiskey. <br /><br />"
-  source: www.diffordsguide.com (1523)
-ingredients: 
-- - "2"
-  - shot
-  - Pimm's No.1 Cup
-- - "1"
-  - slice
-  - Fresh orange
-- - "1"
-  - slice
-  - Lemon
-- - "1"
-  - slice
-  - Cucumber (chopped & peeled)
-- - "1"
-  - fresh
-  - Strawberries (hulled)
-- - "1"
-  - top up with
-  - Lemonade/Sprite/7-Up
-method: POUR Pimm's into glass half filled with ice. Add fruit and fill glass with more ice. TOP with lemonade (or ginger ale), lightly stir and serve with straws.
-name: Pimm's Cup (or Classic Pimm's)
-rate: 3.5
+comment: You've not properly experienced an English summer until you've drunk one
+  of these whilst sheltering from the rain.<br /><br />
+aka: 
+variant: 
+origin: 'This quintessential English summer tipple is usually accredited to James
+  Pimm, who in 1823-4 began trading as a shellfish-monger in London''s Lombard Street.
+  He later moved to nearby number 3 Poultry, also in the City of London, where he
+  established Pimm''s Oyster Warehouse. It is here, in 1840, that he is said to have
+  first served this drink. <br />        <br />Others dispute this, maintaining that
+  James Pimm only unwittingly lent his name to the drink. They say the true credit
+  lies with his successor, Samuel Morey, who is recorded as having taken out a retail
+  liquor licence in 1860. This would appear to be when the oyster bar first offered
+  its customers spirits. Many establishments of the day mixed house spirits to serve
+  with liqueurs and juices as ''cups'', in reference to the tankards in which they
+  were sold. Naturally the ''cup'' made at Pimm''s Oyster Bar was named after the
+  establishment which retained the goodwill of its founder.<br />    <br />Pimm''s
+  restaurant became very popular and changed hands a couple more times. Eventually
+  Horatio David Davies, a wine merchant and owner of cafes in London bought the business.
+  He became Sir Horatio, a Member of Parliament and between 1897-1898, Lord Mayor
+  of London. He formed Pimm''s into a private company in 1906, which, was controlled
+  by family trusts for another 57 years after his death.<br />    <br />The precise
+  date that the drink Pimm''s was first sold outside restaurants and bars controlled
+  by the Pimm''s company is unknown. However, it is certain that the original product,
+  No.1, was based on gin and flavoured with numerous botanicals including quinine.
+  A second Pimm''s product based on Scotch (Pimm''s No.2 Cup) was launched and a third
+  (Pimm''s No.3 Cup) was based on brandy. Pimm''s became popular in Britain in the
+  1920s and took off internationally after the Second World War. Other versions were
+  then introduced: Pimm''s No.4 based on rum, Pimm''s No.6 on vodka and Pimm''s No.7
+  on rye whiskey. <br /><br />'
+source: www.diffordsguide.com (1523)
+recipe_steps:
+- amount: '1'
+  doze: top up with
+  ingredient_name: Lemonade/Sprite/7-Up
+- amount: '1'
+  doze: slice
+  ingredient_name: Cucumber (chopped & peeled)
+- amount: '1'
+  doze: slice
+  ingredient_name: Lemon
+- amount: '1'
+  doze: fresh
+  ingredient_name: Strawberries (hulled)
+- amount: '2'
+  doze: shot
+  ingredient_name: Pimm's No.1 Cup
+- amount: '1'
+  doze: slice
+  ingredient_name: Fresh orange

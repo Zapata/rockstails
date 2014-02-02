@@ -1,23 +1,27 @@
---- !ruby/object:DirtyCocktail 
+---
+name: G. G and G
+method: SHAKE all ingredients with ice and fine strain into an ice-filled rocks glass.
+  <br />
+rate: 4.0
 garnish: Grapefruit zest twist<br />
 glass: Old-fashioned
-infos: 
-  Comment: Pine fresh gin notes combine with aniseed and herbal notes, freshened by pink grapefruit and toned by dashes of orange bitters.
-  Origin: " Adapted from a recipe by Ago Perrone, Connaught Hotel, London, England. <br />"
-  source: www.diffordsguide.com (2801)
-ingredients: 
-- - "1 1/2 "
-  - shot
-  - Bombay London dry gin
-- - "1"
-  - shot
-  - Galliano L'Autentico liqueur
-- - "1"
-  - shot
-  - Freshly squeezed pink grapefruit juice
-- - "2"
-  - dash
-  - Angostura orange bitters
-method: SHAKE all ingredients with ice and fine strain into an ice-filled rocks glass. <br />
-name: G. G and G
-rate: 4.0
+comment: Pine fresh gin notes combine with aniseed and herbal notes, freshened by
+  pink grapefruit and toned by dashes of orange bitters.
+aka: 
+variant: 
+origin: ' Adapted from a recipe by Ago Perrone, Connaught Hotel, London, England.
+  <br />'
+source: www.diffordsguide.com (2801)
+recipe_steps:
+- amount: '1'
+  doze: shot
+  ingredient_name: Galliano L'Autentico liqueur
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Bombay London dry gin
+- amount: '2'
+  doze: dash
+  ingredient_name: Angostura orange bitters
+- amount: '1'
+  doze: shot
+  ingredient_name: Freshly squeezed pink grapefruit juice

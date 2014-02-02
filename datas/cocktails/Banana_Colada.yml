@@ -1,25 +1,28 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Banana Colada
+method: BLEND ingredients with 12oz scoop of crushed ice. Pour into glass and serve
+  with straws.
+rate: 4.0
 garnish: Banana chunk on rim
 glass: Hurricane
-infos: 
-  Comment: Don't skimp, use a whole banana per drink for real flavour.
-  source: www.diffordsguide.com (161)
-ingredients: 
-- - "2"
-  - shot
-  - Bacardi Superior rum
-- - " 1/2 "
-  - shot
-  - "Cr\xE8me de banane liqueur"
-- - "4"
-  - shot
-  - Fresh pressed pineapple juice
-- - "1"
-  - fresh
-  - Banana (peeled)
-- - "1"
-  - shot
-  - Coco Lpez cream of coconut
-method: BLEND ingredients with 12oz scoop of crushed ice. Pour into glass and serve with straws.
-name: Banana Colada
-rate: 4.0
+comment: Don't skimp, use a whole banana per drink for real flavour.
+aka: 
+variant: 
+origin: 
+source: www.diffordsguide.com (161)
+recipe_steps:
+- amount: '2'
+  doze: shot
+  ingredient_name: Bacardi Superior rum
+- amount: '4'
+  doze: shot
+  ingredient_name: Fresh pressed pineapple juice
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Crème de banane liqueur
+- amount: '1'
+  doze: fresh
+  ingredient_name: Banana (peeled)
+- amount: '1'
+  doze: shot
+  ingredient_name: Coco Lpez cream of coconut

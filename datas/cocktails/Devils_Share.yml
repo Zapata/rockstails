@@ -1,26 +1,28 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Devil's Share
+method: MUDDLE ginger in base of shaker. Add other ingredients, SHAKE with ice and
+  fine strain into ice-filled glass.<br /><br />
+rate: 4.0
 garnish: Orange zest twist<br />
 glass: Old-fashioned
-infos: 
-  Comment: Ginger, bourbon and lemon makes for a spicy and tasty little devil.
-  Origin: Created in 2006 by Pete Kendall at Match Bar, London, England.
-  source: www.diffordsguide.com (2376)
-ingredients: 
-- - "2"
-  - slice
-  - Fresh root ginger (thumbnail sized)
-- - "2"
-  - shot
-  - Maker's Mark bourbon
-- - " 3/4 "
-  - shot
-  - Freshly squeezed orange juice
-- - "1"
-  - shot
-  - Freshly squeezed lemon juice
-- - " 1/2 "
-  - shot
-  - Monin Honey syrup
-method: MUDDLE ginger in base of shaker. Add other ingredients, SHAKE with ice and fine strain into ice-filled glass.<br /><br />
-name: Devil's Share
-rate: 4.0
+comment: Ginger, bourbon and lemon makes for a spicy and tasty little devil.
+aka: 
+variant: 
+origin: Created in 2006 by Pete Kendall at Match Bar, London, England.
+source: www.diffordsguide.com (2376)
+recipe_steps:
+- amount: '1'
+  doze: shot
+  ingredient_name: Freshly squeezed lemon juice
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Freshly squeezed orange juice
+- amount: '2'
+  doze: shot
+  ingredient_name: Maker's Mark bourbon
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Monin Honey syrup
+- amount: '2'
+  doze: slice
+  ingredient_name: Fresh root ginger (thumbnail sized)

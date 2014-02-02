@@ -1,22 +1,25 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Blue Mountain Cocktail
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 4.0
 garnish: Orange zest twist discarded &amp; 3 coffee beans
 glass: Martini
-infos: 
-  Comment: A balanced wake-up call where the blue mountain means coffee and freshly squeezed orange juice. <br /><br />
-  source: www.diffordsguide.com (2310)
-ingredients: 
-- - "1 1/2 "
-  - shot
-  - Zacapa aged rum
-- - " 1/2 "
-  - shot
-  - Ketel One vodka
-- - " 1/2 "
-  - shot
-  - Kahla coffee liqueur
-- - "1 1/2 "
-  - shot
-  - Freshly squeezed orange juice
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: Blue Mountain Cocktail
-rate: 4.0
+comment: A balanced wake-up call where the blue mountain means coffee and freshly
+  squeezed orange juice. <br /><br />
+aka: 
+variant: 
+origin: 
+source: www.diffordsguide.com (2310)
+recipe_steps:
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Ketel One vodka
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Freshly squeezed orange juice
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Kahla coffee liqueur
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Zacapa aged rum

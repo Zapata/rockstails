@@ -1,26 +1,35 @@
---- !ruby/object:DirtyCocktail 
+---
+name: 'Pisco Punch #2 (Alfredo Micheli''s Formula)'
+method: MUDDLE orange and pineapple in base of shaker. ADD pisco and pineapple marinade.
+  SHAKE with ice and fine strain into ice-filled glass. TOP with no more than 2 shots
+  of soda water.
+rate: 5.0
 garnish: Pineapple wedge on rim
 glass: Goblet
-infos: 
-  Comment: This subtly flavoured drink is justifiably legendary.<br /><br /><span >Recipe for marinade:</span> Core and remove the rind<br />from one ripe pineapple. Cut the pineapple into<br />rings and then into wedges and place in a deep<br />container. Add 30 cloves and one litre of sugar<br />syrup and marinate for 24 hours.<br />
-  Origin: Alfredo Micheli (who went by the nickname Mike) was employed at the Bank Exchange and spied on Duncan Nichol to learn how to make this legendary drink. After he believed he'd learnt the secret he left to start serving at a newly opened competitor to the Bank Exchange, Paoli's on Montgomery Street.
-  source: www.diffordsguide.com (1558)
-ingredients: 
-- - "2"
-  - slice
-  - Fresh orange
-- - "3"
-  - fresh
-  - Marinated pineapple wedges
-- - "2"
-  - shot
-  - Macchu pisco
-- - " 3/4 "
-  - shot
-  - Pineapple marinade
-- - "1"
-  - top up with
-  - Soda (club soda)
-method: MUDDLE orange and pineapple in base of shaker. ADD pisco and pineapple marinade. SHAKE with ice and fine strain into ice-filled glass. TOP with no more than 2 shots of soda water.
-name: "Pisco Punch #2 (Alfredo Micheli's Formula)"
-rate: 5.0
+comment: This subtly flavoured drink is justifiably legendary.<br /><br /><span >Recipe
+  for marinade:</span> Core and remove the rind<br />from one ripe pineapple. Cut
+  the pineapple into<br />rings and then into wedges and place in a deep<br />container.
+  Add 30 cloves and one litre of sugar<br />syrup and marinate for 24 hours.<br />
+aka: 
+variant: 
+origin: Alfredo Micheli (who went by the nickname Mike) was employed at the Bank Exchange
+  and spied on Duncan Nichol to learn how to make this legendary drink. After he believed
+  he'd learnt the secret he left to start serving at a newly opened competitor to
+  the Bank Exchange, Paoli's on Montgomery Street.
+source: www.diffordsguide.com (1558)
+recipe_steps:
+- amount: '1'
+  doze: top up with
+  ingredient_name: Soda (club soda)
+- amount: '2'
+  doze: shot
+  ingredient_name: Macchu pisco
+- amount: '2'
+  doze: slice
+  ingredient_name: Fresh orange
+- amount: '3'
+  doze: fresh
+  ingredient_name: Marinated pineapple wedges
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Pineapple marinade

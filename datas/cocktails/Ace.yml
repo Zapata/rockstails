@@ -1,25 +1,27 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Ace
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 3.5
 garnish: Maraschino cherry on rim
 glass: Martini
-infos: 
-  Comment: Pleasant, creamy, sweetened gin. Add more pomegranate syrup to taste.
-  source: www.diffordsguide.com (13)
-ingredients: 
-- - "2"
-  - shot
-  - Bombay London dry gin
-- - " 1/2 "
-  - shot
-  - Pomegranate (grenadine) syrup
-- - " 1/2 "
-  - shot
-  - Double (heavy) cream
-- - " 1/2 "
-  - shot
-  - Milk
-- - " 1/2 "
-  - fresh
-  - Egg white
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: Ace
-rate: 3.5
+comment: Pleasant, creamy, sweetened gin. Add more pomegranate syrup to taste.
+aka: 
+variant: 
+origin: 
+source: www.diffordsguide.com (13)
+recipe_steps:
+- amount: '2'
+  doze: shot
+  ingredient_name: Bombay London dry gin
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Pomegranate (grenadine) syrup
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Double (heavy) cream
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Milk
+- amount: ' 1/2 '
+  doze: fresh
+  ingredient_name: Egg white

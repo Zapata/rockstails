@@ -1,26 +1,28 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Marie Rose
+method: Strip leaves from rosemary and MUDDLE with grapes in base of shaker. Add other
+  ingredients, SHAKE with ice and fine strain into chilled glass.
+rate: 4.0
 garnish: Rosemary
 glass: Martini
-infos: 
-  Comment: "Rosemary spiced gin with grape juice and elderflower: very aromatic."
-  Origin: Created in 2007 by Renan Lejeune at Zeta Bar, London, England.
-  source: www.diffordsguide.com (2711)
-ingredients: 
-- - " 1/2 "
-  - sprig
-  - Rosemary sprig
-- - "8"
-  - fresh
-  - Seedless white grapes
-- - "2"
-  - shot
-  - Bombay London dry gin
-- - " 3/4 "
-  - shot
-  - St-Germain elderflower liqueur
-- - " 1/4 "
-  - shot
-  - Freshly squeezed lime juice
-method: Strip leaves from rosemary and MUDDLE with grapes in base of shaker. Add other ingredients, SHAKE with ice and fine strain into chilled glass.
-name: Marie Rose
-rate: 4.0
+comment: 'Rosemary spiced gin with grape juice and elderflower: very aromatic.'
+aka: 
+variant: 
+origin: Created in 2007 by Renan Lejeune at Zeta Bar, London, England.
+source: www.diffordsguide.com (2711)
+recipe_steps:
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: St-Germain elderflower liqueur
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Freshly squeezed lime juice
+- amount: '2'
+  doze: shot
+  ingredient_name: Bombay London dry gin
+- amount: ' 1/2 '
+  doze: sprig
+  ingredient_name: Rosemary sprig
+- amount: '8'
+  doze: fresh
+  ingredient_name: Seedless white grapes

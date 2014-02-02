@@ -1,23 +1,26 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Chartreuse Swizzle
+method: POUR ingredients into glass filled with crushed ice and SWIZZLE. (Or SHAKE
+  all ingredients with ice and strain into glass filled with crushed ice).<br /><br
+  />
+rate: 3.5
 garnish: Pineapple wedge &amp; cherry
 glass: Collins
-infos: 
-  Comment: A drink for people like me - Chartreuse lovers.
-  Origin: Created by Marco Dionysos at Tres Agaves, San Francisco, USA.
-  source: www.diffordsguide.com (2336)
-ingredients: 
-- - "1 1/4 "
-  - shot
-  - Chartreuse Green liqueur
-- - " 1/2 "
-  - shot
-  - Velvet Falernum liqueur
-- - "1"
-  - shot
-  - Fresh pressed pineapple juice
-- - " 1/2 "
-  - shot
-  - Freshly squeezed lime juice
-method: POUR ingredients into glass filled with crushed ice and SWIZZLE. (Or SHAKE all ingredients with ice and strain into glass filled with crushed ice).<br /><br />
-name: Chartreuse Swizzle
-rate: 3.5
+comment: A drink for people like me - Chartreuse lovers.
+aka: 
+variant: 
+origin: Created by Marco Dionysos at Tres Agaves, San Francisco, USA.
+source: www.diffordsguide.com (2336)
+recipe_steps:
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Freshly squeezed lime juice
+- amount: '1'
+  doze: shot
+  ingredient_name: Fresh pressed pineapple juice
+- amount: '1 1/4 '
+  doze: shot
+  ingredient_name: Chartreuse Green liqueur
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Velvet Falernum liqueur

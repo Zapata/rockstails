@@ -1,22 +1,24 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Devil's Manhattan
+method: STIR all ingredients with ice and strain into chilled glass.
+rate: 4.0
 garnish: Lemon zest twist
 glass: Martini
-infos: 
-  Comment: A sweet Manhattan with a hint of the south.
-  source: www.diffordsguide.com (639)
-ingredients: 
-- - "2"
-  - shot
-  - Maker's Mark bourbon
-- - "1"
-  - shot
-  - Southern Comfort liqueur
-- - " 1/2 "
-  - shot
-  - Martini Rosso sweet vermouth
-- - "3"
-  - dash
-  - Peychaud's aromatic bitters
-method: STIR all ingredients with ice and strain into chilled glass.
-name: Devil's Manhattan
-rate: 4.0
+comment: A sweet Manhattan with a hint of the south.
+aka: 
+variant: 
+origin: 
+source: www.diffordsguide.com (639)
+recipe_steps:
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Martini Rosso sweet vermouth
+- amount: '2'
+  doze: shot
+  ingredient_name: Maker's Mark bourbon
+- amount: '3'
+  doze: dash
+  ingredient_name: Peychaud's aromatic bitters
+- amount: '1'
+  doze: shot
+  ingredient_name: Southern Comfort liqueur

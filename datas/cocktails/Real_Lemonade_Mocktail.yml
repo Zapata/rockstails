@@ -1,19 +1,21 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Real Lemonade (Mocktail)
+method: POUR ingredients in ice-filled  glass and lightly STIR. Serve with straws.
+rate: 4.0
 garnish: Lemon slice in glass
 glass: Collins
-infos: 
-  Comment: The classic English summertime refresher.
-  source: www.diffordsguide.com (1650)
-ingredients: 
-- - "2"
-  - shot
-  - Freshly squeezed lemon juice
-- - "1"
-  - shot
-  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
-- - "1"
-  - top up with
-  - Soda (club soda)
-method: POUR ingredients in ice-filled  glass and lightly STIR. Serve with straws.
-name: Real Lemonade (Mocktail)
-rate: 4.0
+comment: The classic English summertime refresher.
+aka: 
+variant: 
+origin: 
+source: www.diffordsguide.com (1650)
+recipe_steps:
+- amount: '2'
+  doze: shot
+  ingredient_name: Freshly squeezed lemon juice
+- amount: '1'
+  doze: shot
+  ingredient_name: Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- amount: '1'
+  doze: top up with
+  ingredient_name: Soda (club soda)

@@ -1,19 +1,22 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Burning Bush shot(s)
+method: POUR tequila into chilled glass and then drop Tabasco over the top. This will
+  sink through the tequila.
+rate: 2.0
 garnish: <br />
 glass: Shot
-infos: 
-  AKA: Prairie Dog, Prairie Fire
-  Comment: |-
-    The Mexicans are fans of hot pepper sauce but they probably
-    would not condone this way of drinking tequila.
-  source: www.diffordsguide.com (340)
-ingredients: 
-- - "1"
-  - shot
-  - Herradura 100% agave tequila
-- - "4"
-  - drop
-  - Tobasco hot pepper sauce
-method: POUR tequila into chilled glass and then drop Tabasco over the top. This will sink through the tequila.
-name: Burning Bush shot(s)
-rate: 2.0
+comment: |-
+  The Mexicans are fans of hot pepper sauce but they probably
+
+  would not condone this way of drinking tequila.
+aka: Prairie Dog, Prairie Fire
+variant: 
+origin: 
+source: www.diffordsguide.com (340)
+recipe_steps:
+- amount: '4'
+  doze: drop
+  ingredient_name: Tobasco hot pepper sauce
+- amount: '1'
+  doze: shot
+  ingredient_name: Herradura 100% agave tequila

@@ -7,4 +7,8 @@ class RecipeStep < ActiveRecord::Base
   belongs_to :ingredient
   
   validates :ingredient, uniqueness: { scope: :cocktail }
+    
+  def ingredient_name
+    return ingredient.name
+  end
 end

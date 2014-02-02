@@ -1,22 +1,24 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Flying Scotsman
+method: STIR all ingredients with ice and strain into ice-filled glass.
+rate: 4.0
 garnish: Orange zest twist
 glass: Old-fashioned
-infos: 
-  Comment: "Sweetened Scotch with plenty of spice: like a homemade whisky liqueur."
-  source: www.diffordsguide.com (776)
-ingredients: 
-- - "2"
-  - shot
-  - Johnnie Walker Scotch Whisky
-- - "2"
-  - shot
-  - Martini Rosso sweet vermouth
-- - " 1/4 "
-  - shot
-  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
-- - "3"
-  - dash
-  - Angostura aromatic bitters
-method: STIR all ingredients with ice and strain into ice-filled glass.
-name: Flying Scotsman
-rate: 4.0
+comment: 'Sweetened Scotch with plenty of spice: like a homemade whisky liqueur.'
+aka: 
+variant: 
+origin: 
+source: www.diffordsguide.com (776)
+recipe_steps:
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- amount: '2'
+  doze: shot
+  ingredient_name: Martini Rosso sweet vermouth
+- amount: '3'
+  doze: dash
+  ingredient_name: Angostura aromatic bitters
+- amount: '2'
+  doze: shot
+  ingredient_name: Johnnie Walker Scotch Whisky

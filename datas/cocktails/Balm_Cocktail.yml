@@ -1,26 +1,28 @@
---- !ruby/object:DirtyCocktail 
-garnish: " Olive"
-glass: Martini
-infos: 
-  Comment: <span class="Apple-style-span"><div> Medium dry sherry flavoured with orange and subtle spice.</div></span>
-  Origin: Adapted from Harry Craddock's 1930 'The Savoy Cocktail Book'.
-  source: www.diffordsguide.com (2269)
-ingredients: 
-- - "3"
-  - shot
-  - Manzanilla Sherry
-- - " 1/2 "
-  - shot
-  - Cointreau triple sec
-- - " 1/8 "
-  - shot
-  - Berry Hill pimento allspice liqueur
-- - " 1/2 "
-  - shot
-  - Freshly squeezed orange juice
-- - "1"
-  - dash
-  - Angostura orange bitters
-method: " SHAKE all ingredients with ice and fine strain into chilled glass."
+---
 name: Balm Cocktail
+method: ' SHAKE all ingredients with ice and fine strain into chilled glass.'
 rate: 3.5
+garnish: ' Olive'
+glass: Martini
+comment: <span class="Apple-style-span"><div> Medium dry sherry flavoured with orange
+  and subtle spice.</div></span>
+aka: 
+variant: 
+origin: Adapted from Harry Craddock's 1930 'The Savoy Cocktail Book'.
+source: www.diffordsguide.com (2269)
+recipe_steps:
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Cointreau triple sec
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Freshly squeezed orange juice
+- amount: '1'
+  doze: dash
+  ingredient_name: Angostura orange bitters
+- amount: '3'
+  doze: shot
+  ingredient_name: Manzanilla Sherry
+- amount: ' 1/8 '
+  doze: shot
+  ingredient_name: Berry Hill pimento allspice liqueur

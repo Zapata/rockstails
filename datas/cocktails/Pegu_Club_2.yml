@@ -1,29 +1,30 @@
---- !ruby/object:DirtyCocktail 
+---
+name: 'Pegu Club #2'
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 4.5
 garnish: Lime wedge on rim
 glass: Martini
-infos: 
-  Comment: This version of the Burmese classic is richer in orange.
-  Origin: <br />
-  source: www.diffordsguide.com (2728)
-ingredients: 
-- - "2"
-  - shot
-  - Bombay London dry gin
-- - "1"
-  - shot
-  - Grand Marnier liqueur
-- - " 1/2 "
-  - shot
-  - Freshly squeezed lime juice
-- - "1"
-  - dash
-  - Angostura aromatic bitters
-- - "1"
-  - dash
-  - Angostura orange bitters
-- - " 1/2 "
-  - shot
-  - Chilled mineral water
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: "Pegu Club #2"
-rate: 4.5
+comment: This version of the Burmese classic is richer in orange.
+aka: 
+variant: 
+origin: <br />
+source: www.diffordsguide.com (2728)
+recipe_steps:
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Freshly squeezed lime juice
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Chilled mineral water
+- amount: '2'
+  doze: shot
+  ingredient_name: Bombay London dry gin
+- amount: '1'
+  doze: dash
+  ingredient_name: Angostura aromatic bitters
+- amount: '1'
+  doze: shot
+  ingredient_name: Grand Marnier liqueur
+- amount: '1'
+  doze: dash
+  ingredient_name: Angostura orange bitters

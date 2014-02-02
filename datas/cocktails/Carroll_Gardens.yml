@@ -1,20 +1,24 @@
---- !ruby/object:DirtyCocktail 
-garnish: " Maraschino cherry on stick<br />"
-glass: Coupette
-infos: 
-  Comment: This delightful twist on the Brooklyn is the most Italian American of drinks.
-  Origin: " Created in 2009 by Joaquin Simo at Death and Company, New York City, USA in honour of his neighbourhood, Brooklyn's Carroll Gardens.<br />"
-  source: www.diffordsguide.com (2788)
-ingredients: 
-- - "2"
-  - shot
-  - Rye whiskey
-- - " 1/2 "
-  - shot
-  - Averna Amaro
-- - " 1/8 "
-  - shot
-  - Luxardo maraschino liqueur
-method: STIR ingredients over ice and strain into a cocktail glass. Squeeze lemon twist over the drink, wipe the rim with the peel and discard. Death and Company will serve one to you. <br />
+---
 name: Carroll Gardens
+method: STIR ingredients over ice and strain into a cocktail glass. Squeeze lemon
+  twist over the drink, wipe the rim with the peel and discard. Death and Company
+  will serve one to you. <br />
 rate: 4.5
+garnish: ' Maraschino cherry on stick<br />'
+glass: Coupette
+comment: This delightful twist on the Brooklyn is the most Italian American of drinks.
+aka: 
+variant: 
+origin: ' Created in 2009 by Joaquin Simo at Death and Company, New York City, USA
+  in honour of his neighbourhood, Brooklyn''s Carroll Gardens.<br />'
+source: www.diffordsguide.com (2788)
+recipe_steps:
+- amount: ' 1/8 '
+  doze: shot
+  ingredient_name: Luxardo maraschino liqueur
+- amount: '2'
+  doze: shot
+  ingredient_name: Rye whiskey
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Averna Amaro

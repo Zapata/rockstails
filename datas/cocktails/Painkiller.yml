@@ -1,23 +1,26 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Painkiller
+method: BLEND all ingredients with 12oz scoop of ice.<br />
+rate: 4.0
 garnish: Pineapple wedge &amp; cherry
 glass: Collins
-infos: 
-  Comment: Full-flavoured and fruity.
-  Origin: From the soggy dollar bar on the island of Jost Van Dyke in the British Virgin Islands. The bar's name is logical, as most of the clientele are sailors and there is no dock. Hence they have to swim ashore, often paying for drinks with wet dollars.
-  source: www.diffordsguide.com (1454)
-ingredients: 
-- - "2"
-  - shot
-  - Pusser's Navy rum
-- - "2"
-  - shot
-  - Fresh pressed pineapple juice
-- - "1"
-  - shot
-  - Freshly squeezed orange juice
-- - "1"
-  - shot
-  - Coco Lpez cream of coconut
-method: BLEND all ingredients with 12oz scoop of ice.<br />
-name: Painkiller
-rate: 4.0
+comment: Full-flavoured and fruity.
+aka: 
+variant: 
+origin: From the soggy dollar bar on the island of Jost Van Dyke in the British Virgin
+  Islands. The bar's name is logical, as most of the clientele are sailors and there
+  is no dock. Hence they have to swim ashore, often paying for drinks with wet dollars.
+source: www.diffordsguide.com (1454)
+recipe_steps:
+- amount: '2'
+  doze: shot
+  ingredient_name: Fresh pressed pineapple juice
+- amount: '1'
+  doze: shot
+  ingredient_name: Freshly squeezed orange juice
+- amount: '2'
+  doze: shot
+  ingredient_name: Pusser's Navy rum
+- amount: '1'
+  doze: shot
+  ingredient_name: Coco Lpez cream of coconut

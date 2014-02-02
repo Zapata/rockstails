@@ -1,22 +1,24 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Bazooka
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 2.5
 garnish: 
 glass: Shot
-infos: 
-  Comment: A sticky, pink shot.
-  source: www.diffordsguide.com (185)
-ingredients: 
-- - " 3/4 "
-  - shot
-  - Southern Comfort liqueur
-- - " 1/2 "
-  - shot
-  - "Cr\xE8me de banane liqueur"
-- - " 1/8 "
-  - shot
-  - Pomegranate (grenadine) syrup
-- - " 1/4 "
-  - shot
-  - Double (heavy) cream
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: Bazooka
-rate: 2.5
+comment: A sticky, pink shot.
+aka: 
+variant: 
+origin: 
+source: www.diffordsguide.com (185)
+recipe_steps:
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Crème de banane liqueur
+- amount: ' 1/8 '
+  doze: shot
+  ingredient_name: Pomegranate (grenadine) syrup
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Double (heavy) cream
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Southern Comfort liqueur

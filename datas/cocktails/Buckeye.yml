@@ -1,16 +1,19 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Buckeye
+method: STIR all ingredients with ice and strain into chilled glass.<br />
+rate: 4.5
 garnish: Black olive<br />
 glass: Martini
-infos: 
-  Comment: "A standard Dry Martini - but a Buckeye is always garnished with a black olive instead of a green one. "
-  source: www.diffordsguide.com (2874)
-ingredients: 
-- - "2 1/2 "
-  - shot
-  - Bombay London dry gin
-- - " 1/2 "
-  - shot
-  - Noilly Prat dry vermouth
-method: STIR all ingredients with ice and strain into chilled glass.<br />
-name: Buckeye
-rate: 4.5
+comment: 'A standard Dry Martini - but a Buckeye is always garnished with a black
+  olive instead of a green one. '
+aka: 
+variant: 
+origin: 
+source: www.diffordsguide.com (2874)
+recipe_steps:
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Noilly Prat dry vermouth
+- amount: '2 1/2 '
+  doze: shot
+  ingredient_name: Bombay London dry gin

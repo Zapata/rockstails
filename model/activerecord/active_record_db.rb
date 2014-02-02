@@ -6,8 +6,8 @@ require_relative 'bar'
 ActiveRecord::Base.disable_implicit_join_references = true
 
 class ActiveRecordDB
-  def search(criteria, bar_name)
-    query = build_criteria_query(criteria)
+  def search(keywords, bar_name)
+    query = build_criteria_query(keywords)
     query = append_bar_filter(query, bar_name)
     return query.includes(:ingredients).load
   end
@@ -40,9 +40,8 @@ class ActiveRecordDB
   
   private
   
-  def build_criteria_query(criteria)
-    return Cocktail.all if criteria.nil? or criteria.blank?
-    keywords = criteria.split(' ')
+  def build_criteria_query(keywords)
+    return Cocktail.all if keywords.nil? or keywords.empty?
     query_ingredients = Cocktail.all
     query_name = Cocktail.all
     keywords.each do |k|

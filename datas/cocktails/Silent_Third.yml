@@ -1,22 +1,24 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Silent Third
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 3.5
 garnish: Lemon zest twist
 glass: Martini
-infos: 
-  Comment: Basically a Sidecar made with Scotch in place of cognac.
-  source: www.diffordsguide.com (1822)
-ingredients: 
-- - "1 1/2 "
-  - shot
-  - Johnnie Walker Scotch Whisky
-- - "1"
-  - shot
-  - Cointreau triple sec
-- - " 3/4 "
-  - shot
-  - Freshly squeezed lemon juice
-- - " 1/2 "
-  - shot
-  - Chilled mineral water
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: Silent Third
-rate: 3.5
+comment: Basically a Sidecar made with Scotch in place of cognac.
+aka: 
+variant: 
+origin: 
+source: www.diffordsguide.com (1822)
+recipe_steps:
+- amount: '1'
+  doze: shot
+  ingredient_name: Cointreau triple sec
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Freshly squeezed lemon juice
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Chilled mineral water
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Johnnie Walker Scotch Whisky

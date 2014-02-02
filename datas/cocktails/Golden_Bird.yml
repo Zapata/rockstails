@@ -1,25 +1,27 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Golden Bird
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 3.5
 garnish: Orange 'beak' on rim
 glass: Martini
-infos: 
-  Comment: Fruity and sweet - an after dinner cocktail.
-  source: www.diffordsguide.com (871)
-ingredients: 
-- - "1"
-  - shot
-  - Bacardi Superior rum
-- - "1"
-  - shot
-  - Grand Marnier liqueur
-- - " 1/2 "
-  - shot
-  - "Cr\xE8me de banane liqueur"
-- - "1 1/2 "
-  - shot
-  - Freshly squeezed orange juice
-- - "1"
-  - shot
-  - Fresh pressed pineapple juice
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: Golden Bird
-rate: 3.5
+comment: Fruity and sweet - an after dinner cocktail.
+aka: 
+variant: 
+origin: 
+source: www.diffordsguide.com (871)
+recipe_steps:
+- amount: '1'
+  doze: shot
+  ingredient_name: Bacardi Superior rum
+- amount: '1'
+  doze: shot
+  ingredient_name: Fresh pressed pineapple juice
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Freshly squeezed orange juice
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Crème de banane liqueur
+- amount: '1'
+  doze: shot
+  ingredient_name: Grand Marnier liqueur

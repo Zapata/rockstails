@@ -1,24 +1,27 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Tom Arnold
+method: SHAKE all ingredients with ice and strain into ice-filled glass.
+rate: 4.0
 garnish: Lemon slice
 glass: Collins
-infos: 
-  Comment: Traditional lemonade laced with vodka and lengthened with tea to make a light and refreshing drink.
-  Origin: This is one of a series of tea-based drinks that were originally named after golfers. It takes its name from the actor and comedian who starred in 'National Lampoon's Golf Punk'.
-  Variant: Arnold Palmer, John Daly
-  source: www.diffordsguide.com (2206)
-ingredients: 
-- - "1 1/2 "
-  - shot
-  - Ketel One vodka
-- - "1 1/2 "
-  - shot
-  - Freshly squeezed lemon juice
-- - " 3/4 "
-  - shot
-  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
-- - "2"
-  - shot
-  - Cold English breakfast tea
-method: SHAKE all ingredients with ice and strain into ice-filled glass.
-name: Tom Arnold
-rate: 4.0
+comment: Traditional lemonade laced with vodka and lengthened with tea to make a light
+  and refreshing drink.
+aka: 
+variant: Arnold Palmer, John Daly
+origin: This is one of a series of tea-based drinks that were originally named after
+  golfers. It takes its name from the actor and comedian who starred in 'National
+  Lampoon's Golf Punk'.
+source: www.diffordsguide.com (2206)
+recipe_steps:
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Ketel One vodka
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Freshly squeezed lemon juice
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- amount: '2'
+  doze: shot
+  ingredient_name: Cold English breakfast tea

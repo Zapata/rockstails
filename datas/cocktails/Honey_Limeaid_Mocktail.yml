@@ -1,20 +1,22 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Honey Limeaid (Mocktail)
+method: Stir honey with lime juice in base of shaker until honey dissolves. SHAKE
+  with ice and strain into ice-filled glass. TOP with soda.
+rate: 4.0
 garnish: Lime wedge
 glass: Collins
-infos: 
-  Comment: A refreshing Mexican variation on Real Lemonade.
-  Origin: Discovered in 2005 at Hotel Quinta Real, Guadalajara, Mexico.
-  source: www.diffordsguide.com (966)
-ingredients: 
-- - "7"
-  - spoon
-  - Runny honey
-- - "1 1/2 "
-  - shot
-  - Freshly squeezed lime juice
-- - "1"
-  - top up with
-  - Soda (club soda)
-method: Stir honey with lime juice in base of shaker until honey dissolves. SHAKE with ice and strain into ice-filled glass. TOP with soda.
-name: Honey Limeaid (Mocktail)
-rate: 4.0
+comment: A refreshing Mexican variation on Real Lemonade.
+aka: 
+variant: 
+origin: Discovered in 2005 at Hotel Quinta Real, Guadalajara, Mexico.
+source: www.diffordsguide.com (966)
+recipe_steps:
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Freshly squeezed lime juice
+- amount: '1'
+  doze: top up with
+  ingredient_name: Soda (club soda)
+- amount: '7'
+  doze: spoon
+  ingredient_name: Runny honey

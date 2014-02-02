@@ -1,22 +1,25 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Apricot Rickey
+method: SHAKE first 3 ingredients with ice and strain into ice-filled glass. TOP with
+  soda.
+rate: 4.0
 garnish: Immerse length of lime peel in drink
 glass: Collins (small 8oz)
-infos: 
-  Comment: Light, fruity and refreshing, if a little on the sweet side.
-  source: www.diffordsguide.com (2141)
-ingredients: 
-- - "1"
-  - shot
-  - Bombay London dry gin
-- - "1"
-  - shot
-  - Bols apricot brandy liqueur
-- - " 1/2 "
-  - shot
-  - Freshly squeezed lime juice
-- - "1"
-  - top up with
-  - Soda (club soda)
-method: SHAKE first 3 ingredients with ice and strain into ice-filled glass. TOP with soda.
-name: Apricot Rickey
-rate: 4.0
+comment: Light, fruity and refreshing, if a little on the sweet side.
+aka: 
+variant: 
+origin: 
+source: www.diffordsguide.com (2141)
+recipe_steps:
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Freshly squeezed lime juice
+- amount: '1'
+  doze: top up with
+  ingredient_name: Soda (club soda)
+- amount: '1'
+  doze: shot
+  ingredient_name: Bols apricot brandy liqueur
+- amount: '1'
+  doze: shot
+  ingredient_name: Bombay London dry gin

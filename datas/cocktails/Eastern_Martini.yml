@@ -1,20 +1,21 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Eastern Martini
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 4.5
 garnish: Japanese ume plum in drink
 glass: Martini
-infos: 
-  Comment: Light, fragrant and fruity - distinctly oriental.
-  Origin: Created in 2003 by Chris Langan, Barnomadics, Scotland.
-  source: www.diffordsguide.com (690)
-ingredients: 
-- - "2"
-  - shot
-  - Ketel One vodka
-- - "1 1/2 "
-  - shot
-  - Choya Umeshu plum liqueur
-- - "1"
-  - shot
-  - Pressed apple juice
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: Eastern Martini
-rate: 4.5
+comment: Light, fragrant and fruity - distinctly oriental.
+aka: 
+variant: 
+origin: Created in 2003 by Chris Langan, Barnomadics, Scotland.
+source: www.diffordsguide.com (690)
+recipe_steps:
+- amount: '2'
+  doze: shot
+  ingredient_name: Ketel One vodka
+- amount: '1'
+  doze: shot
+  ingredient_name: Pressed apple juice
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Choya Umeshu plum liqueur

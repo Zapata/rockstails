@@ -1,23 +1,27 @@
---- !ruby/object:DirtyCocktail 
-garnish: " Lemon zest twist<br />"
-glass: Coupette
-infos: 
-  Comment: To quote Fraser Campbell, the drinks creator, &quot;influenced primarily by &quot;The Last Word&quot; with hints of &quot;Yellow Parrot&quot; ...and a tequlia base.&quot;
-  Origin: " Adapted from a drink created in May 2010 by Fraser Campbell at Tony Starrs Kitten Club, Melbourne, Australia.<br />"
-  source: www.diffordsguide.com (2779)
-ingredients: 
-- - "1 1/2 "
-  - shot
-  - Herradura 100% agave tequila
-- - "1"
-  - shot
-  - Chartreuse Yellow liqueur
-- - " 1/2 "
-  - shot
-  - Bols apricot brandy liqueur
-- - "1"
-  - shot
-  - Freshly squeezed lemon juice
-method: " SHAKE all ingredients with ice and fine strain into chilled glass<br />"
+---
 name: The Bird is the Word
+method: ' SHAKE all ingredients with ice and fine strain into chilled glass<br />'
 rate: 4.0
+garnish: ' Lemon zest twist<br />'
+glass: Coupette
+comment: To quote Fraser Campbell, the drinks creator, &quot;influenced primarily
+  by &quot;The Last Word&quot; with hints of &quot;Yellow Parrot&quot; ...and a tequlia
+  base.&quot;
+aka: 
+variant: 
+origin: ' Adapted from a drink created in May 2010 by Fraser Campbell at Tony Starrs
+  Kitten Club, Melbourne, Australia.<br />'
+source: www.diffordsguide.com (2779)
+recipe_steps:
+- amount: '1'
+  doze: shot
+  ingredient_name: Freshly squeezed lemon juice
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Bols apricot brandy liqueur
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Herradura 100% agave tequila
+- amount: '1'
+  doze: shot
+  ingredient_name: Chartreuse Yellow liqueur

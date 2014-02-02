@@ -1,23 +1,25 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Urban Oasis
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 3.5
 garnish: Orange zest twist
 glass: Martini
-infos: 
-  Comment: Alcoholic orange and raspberry sherbet - how bad is that? A crowd pleasing drink.<br />
-  Origin: Discovered in 2003 at Paramount Hotel, New York City, USA.
-  source: www.diffordsguide.com (2018)
-ingredients: 
-- - "1 1/2 "
-  - shot
-  - Orange-infused Ketel One vodka
-- - " 1/2 "
-  - shot
-  - Raspberry flavoured vodka
-- - " 1/4 "
-  - shot
-  - Chambord
-- - "1 1/2 "
-  - shot
-  - Fresh pressed pineapple juice
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: Urban Oasis
-rate: 3.5
+comment: Alcoholic orange and raspberry sherbet - how bad is that? A crowd pleasing
+  drink.<br />
+aka: 
+variant: 
+origin: Discovered in 2003 at Paramount Hotel, New York City, USA.
+source: www.diffordsguide.com (2018)
+recipe_steps:
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Raspberry flavoured vodka
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Fresh pressed pineapple juice
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Chambord
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Orange-infused Ketel One vodka

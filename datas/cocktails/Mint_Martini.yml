@@ -1,29 +1,31 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Mint Martini
+method: Lightly MUDDLE (just to bruise) mint in base of shaker. Add other ingredients,
+  SHAKE with ice and fine strain into chilled glass.
+rate: 4.5
 garnish: Mint leaf
 glass: Martini
-infos: 
-  Comment: An after dinner palate cleanser.
-  Origin: Created in 2005 by Yours Truly (Simon Difford).
-  source: www.diffordsguide.com (1332)
-ingredients: 
-- - "12"
-  - fresh
-  - Mint leaves
-- - "1 1/2 "
-  - shot
-  - Ketel One vodka
-- - " 1/4 "
-  - shot
-  - "Green cr\xE8me de menthe liqueur"
-- - " 1/2 "
-  - shot
-  - Noilly Prat dry vermouth
-- - "1 1/2 "
-  - shot
-  - Sauvignon blanc wine
-- - " 1/4 "
-  - shot
-  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
-method: Lightly MUDDLE (just to bruise) mint in base of shaker. Add other ingredients, SHAKE with ice and fine strain into chilled glass.
-name: Mint Martini
-rate: 4.5
+comment: An after dinner palate cleanser.
+aka: 
+variant: 
+origin: Created in 2005 by Yours Truly (Simon Difford).
+source: www.diffordsguide.com (1332)
+recipe_steps:
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Sauvignon blanc wine
+- amount: '12'
+  doze: fresh
+  ingredient_name: Mint leaves
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Ketel One vodka
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Noilly Prat dry vermouth
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Green crème de menthe liqueur

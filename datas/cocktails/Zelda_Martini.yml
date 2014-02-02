@@ -1,26 +1,30 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Zelda Martini
+method: Lightly MUDDLE mint (just to bruise) in base of shaker. Add other ingredients,
+  SHAKE with ice and fine strain into chilled glass.
+rate: 4.0
 garnish: Mint sprig testing<br />
 glass: Martini
-infos: 
-  Comment: Bison grass vodka combines brilliantly with mint and almond.
-  Origin: Created in May 2002 by Phillip Jeffrey at the GE Club, London, England. He made it for a friend called Zelda - and the name really wouldn't have worked if she'd been called Tracy.
-  source: www.diffordsguide.com (2124)
-ingredients: 
-- - "5"
-  - fresh
-  - Mint leaves
-- - "2"
-  - shot
-  - Zubrwka bison vodka
-- - "1"
-  - shot
-  - Freshly squeezed lime juice
-- - " 3/4 "
-  - shot
-  - Monin Almond (orgeat) syrup
-- - " 1/2 "
-  - shot
-  - Chilled mineral water
-method: Lightly MUDDLE mint (just to bruise) in base of shaker. Add other ingredients, SHAKE with ice and fine strain into chilled glass.
-name: Zelda Martini
-rate: 4.0
+comment: Bison grass vodka combines brilliantly with mint and almond.
+aka: 
+variant: 
+origin: Created in May 2002 by Phillip Jeffrey at the GE Club, London, England. He
+  made it for a friend called Zelda - and the name really wouldn't have worked if
+  she'd been called Tracy.
+source: www.diffordsguide.com (2124)
+recipe_steps:
+- amount: '1'
+  doze: shot
+  ingredient_name: Freshly squeezed lime juice
+- amount: '5'
+  doze: fresh
+  ingredient_name: Mint leaves
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Chilled mineral water
+- amount: '2'
+  doze: shot
+  ingredient_name: Zubrwka bison vodka
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Monin Almond (orgeat) syrup

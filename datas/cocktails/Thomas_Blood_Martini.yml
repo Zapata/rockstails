@@ -1,25 +1,28 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Thomas Blood Martini
+method: STIR honey with vodka in base of shaker until honey dissolves. Add other ingredients,
+  SHAKE with ice and fine strain into chilled glass.
+rate: 3.5
 garnish: Apple wedge on rim
 glass: Martini
-infos: 
-  Comment: An appealing, honey led melange of sweet and sour.
-  source: www.diffordsguide.com (1946)
-ingredients: 
-- - "2"
-  - spoon
-  - Runny honey
-- - "1"
-  - shot
-  - Ketel One vodka
-- - "1"
-  - shot
-  - Krupnik spiced honey liqueur
-- - "1"
-  - shot
-  - Berentzen Apple schnapps
-- - "1"
-  - shot
-  - Freshly squeezed lemon juice
-method: STIR honey with vodka in base of shaker until honey dissolves. Add other ingredients, SHAKE with ice and fine strain into chilled glass.
-name: Thomas Blood Martini
-rate: 3.5
+comment: An appealing, honey led melange of sweet and sour.
+aka: 
+variant: 
+origin: 
+source: www.diffordsguide.com (1946)
+recipe_steps:
+- amount: '1'
+  doze: shot
+  ingredient_name: Ketel One vodka
+- amount: '1'
+  doze: shot
+  ingredient_name: Freshly squeezed lemon juice
+- amount: '1'
+  doze: shot
+  ingredient_name: Berentzen Apple schnapps
+- amount: '2'
+  doze: spoon
+  ingredient_name: Runny honey
+- amount: '1'
+  doze: shot
+  ingredient_name: Krupnik spiced honey liqueur

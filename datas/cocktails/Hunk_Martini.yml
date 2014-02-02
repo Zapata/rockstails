@@ -1,23 +1,27 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Hunk Martini
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 4.5
 garnish: Maraschino cherry in drink
 glass: Martini
-infos: 
-  Comment: Pineapple and vanilla combine wonderfully. American readers may notice more than a passing resemblance to a Key Lime Pie served without the Graham Cracker rim.
-  Origin: The drink Carrie and co discovered in the summer of 2003. In this series the Sex and the City stars dropped Cosmopolitans in favour of Hunks - no change there then.
-  source: www.diffordsguide.com (991)
-ingredients: 
-- - "2"
-  - shot
-  - Ketel One vodka
-- - "1 3/4 "
-  - shot
-  - Fresh pressed pineapple juice
-- - " 1/2 "
-  - shot
-  - Freshly squeezed lime juice
-- - " 1/4 "
-  - shot
-  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: Hunk Martini
-rate: 4.5
+comment: Pineapple and vanilla combine wonderfully. American readers may notice more
+  than a passing resemblance to a Key Lime Pie served without the Graham Cracker rim.
+aka: 
+variant: 
+origin: The drink Carrie and co discovered in the summer of 2003. In this series the
+  Sex and the City stars dropped Cosmopolitans in favour of Hunks - no change there
+  then.
+source: www.diffordsguide.com (991)
+recipe_steps:
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Freshly squeezed lime juice
+- amount: '2'
+  doze: shot
+  ingredient_name: Ketel One vodka
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- amount: '1 3/4 '
+  doze: shot
+  ingredient_name: Fresh pressed pineapple juice

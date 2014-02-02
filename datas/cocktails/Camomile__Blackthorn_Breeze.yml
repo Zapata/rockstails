@@ -1,20 +1,21 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Camomile & Blackthorn Breeze
+method: SHAKE all ingredients with cubed ice and strain into ice-filled glass.
+rate: 3.5
 garnish: Lemon slice
 glass: Collins
-infos: 
-  Comment: Adult, clean and subtle in flavour with a twang of fruit.
-  Origin: Created in 2002 by yours truly.
-  source: www.diffordsguide.com (363)
-ingredients: 
-- - "2"
-  - shot
-  - Ketel One vodka
-- - "3"
-  - shot
-  - Cold camomile tea
-- - "1"
-  - shot
-  - "Cr\xE8me de cassis liqueur"
-method: SHAKE all ingredients with cubed ice and strain into ice-filled glass.
-name: Camomile & Blackthorn Breeze
-rate: 3.5
+comment: Adult, clean and subtle in flavour with a twang of fruit.
+aka: 
+variant: 
+origin: Created in 2002 by yours truly.
+source: www.diffordsguide.com (363)
+recipe_steps:
+- amount: '2'
+  doze: shot
+  ingredient_name: Ketel One vodka
+- amount: '1'
+  doze: shot
+  ingredient_name: Crème de cassis liqueur
+- amount: '3'
+  doze: shot
+  ingredient_name: Cold camomile tea

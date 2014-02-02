@@ -1,19 +1,21 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Irish Chocolate Oranj'tini
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 3.5
 garnish: Crumbled Cadbury's Flake bar
 glass: Martini
-infos: 
-  Comment: A B-52 served 'up'.
-  source: www.diffordsguide.com (1020)
-ingredients: 
-- - "1 1/2 "
-  - shot
-  - Baileys Irish cream liqueur
-- - "1 1/2 "
-  - shot
-  - Kahla coffee liqueur
-- - "1 1/2 "
-  - shot
-  - Grand Marnier liqueur
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: Irish Chocolate Oranj'tini
-rate: 3.5
+comment: A B-52 served 'up'.
+aka: 
+variant: 
+origin: 
+source: www.diffordsguide.com (1020)
+recipe_steps:
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Grand Marnier liqueur
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Baileys Irish cream liqueur
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Kahla coffee liqueur

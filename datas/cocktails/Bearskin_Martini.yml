@@ -1,19 +1,21 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Bearskin Martini
+method: STIR all ingredients with ice and strain into chilled glass.
+rate: 4.0
 garnish: Two Kalamata olives<br />
 glass: Martini
-infos: 
-  Comment: A caraway influenced Martini.<br _moz_editor_bogus_node="TRUE" />
-  source: www.diffordsguide.com (2288)
-ingredients: 
-- - "2 1/2 "
-  - shot
-  - Ketel One vodka
-- - " 1/8 "
-  - shot
-  - Kummel
-- - " 1/8 "
-  - shot
-  - Noilly Prat dry vermouth
-method: STIR all ingredients with ice and strain into chilled glass.
-name: Bearskin Martini
-rate: 4.0
+comment: A caraway influenced Martini.<br _moz_editor_bogus_node="TRUE" />
+aka: 
+variant: 
+origin: 
+source: www.diffordsguide.com (2288)
+recipe_steps:
+- amount: '2 1/2 '
+  doze: shot
+  ingredient_name: Ketel One vodka
+- amount: ' 1/8 '
+  doze: shot
+  ingredient_name: Noilly Prat dry vermouth
+- amount: ' 1/8 '
+  doze: shot
+  ingredient_name: Kummel

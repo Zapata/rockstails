@@ -1,19 +1,23 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Scottish Gypsy
+method: STIR all ingredients with ice and strain into chilled glass.<br />
+rate: 4.0
 garnish: Lemon zest twist<br />
 glass: Coupette
-infos: 
-  Comment: "Scotch and Benedictine complement each other in this wonderfully herbal cocktail which is balanced by the addition of bitters.<span style=\"font-size: 10pt; font-family: Georgia;\" />"
-  source: www.diffordsguide.com (2856)
-ingredients: 
-- - "2"
-  - shot
-  - Johnnie Walker Scotch Whisky
-- - "1"
-  - shot
-  - Bénédictine D.O.M.
-- - "3"
-  - dash
-  - Angostura aromatic bitters
-method: STIR all ingredients with ice and strain into chilled glass.<br />
-name: Scottish Gypsy
-rate: 4.0
+comment: 'Scotch and Benedictine complement each other in this wonderfully herbal
+  cocktail which is balanced by the addition of bitters.<span style="font-size: 10pt;
+  font-family: Georgia;" />'
+aka: 
+variant: 
+origin: 
+source: www.diffordsguide.com (2856)
+recipe_steps:
+- amount: '3'
+  doze: dash
+  ingredient_name: Angostura aromatic bitters
+- amount: '1'
+  doze: shot
+  ingredient_name: Bénédictine D.O.M.
+- amount: '2'
+  doze: shot
+  ingredient_name: Johnnie Walker Scotch Whisky

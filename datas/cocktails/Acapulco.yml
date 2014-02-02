@@ -1,25 +1,27 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Acapulco
+method: SHAKE all ingredients with ice and strain into ice-filled glass.
+rate: 3.5
 garnish: Pineapple wedge on rim
 glass: Collins
-infos: 
-  Comment: An innocuous, fruity mixture laced with tequila and rum.
-  source: www.diffordsguide.com (11)
-ingredients: 
-- - "1"
-  - shot
-  - Herradura 100% agave tequila
-- - "1"
-  - shot
-  - Bacardi Oro golden rum
-- - "1"
-  - shot
-  - Freshly squeezed grapefruit juice
-- - "2 1/2 "
-  - shot
-  - Fresh pressed pineapple juice
-- - " 1/2 "
-  - shot
-  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
-method: SHAKE all ingredients with ice and strain into ice-filled glass.
-name: Acapulco
-rate: 3.5
+comment: An innocuous, fruity mixture laced with tequila and rum.
+aka: 
+variant: 
+origin: 
+source: www.diffordsguide.com (11)
+recipe_steps:
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- amount: '2 1/2 '
+  doze: shot
+  ingredient_name: Fresh pressed pineapple juice
+- amount: '1'
+  doze: shot
+  ingredient_name: Bacardi Oro golden rum
+- amount: '1'
+  doze: shot
+  ingredient_name: Freshly squeezed grapefruit juice
+- amount: '1'
+  doze: shot
+  ingredient_name: Herradura 100% agave tequila

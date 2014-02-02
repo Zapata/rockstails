@@ -1,26 +1,28 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Melba Cocktail
+method: SHAKE all ingredients with ice and fine strain into chilled glass.<br />
+rate: 4.0
 garnish: Mint leaf<br />
 glass: Coupette
-infos: 
-  Comment: A dry Daiquiri-like drink with pomegranate, a touch of absinthe and pine fresh notes.
-  Origin: <br _moz_editor_bogus_node="TRUE" />
-  source: www.diffordsguide.com (2882)
-ingredients: 
-- - "1 1/2 "
-  - shot
-  - Bacardi Superior rum
-- - "1"
-  - shot
-  - Swedish Punch liqueur
-- - " 1/2 "
-  - spoon
-  - "La F\xE9e Parisienne (68%) absinthe"
-- - " 1/2 "
-  - shot
-  - Freshly squeezed lime juice
-- - "1"
-  - spoon
-  - Pomegranate (grenadine) syrup
-method: SHAKE all ingredients with ice and fine strain into chilled glass.<br />
-name: Melba Cocktail
-rate: 4.0
+comment: A dry Daiquiri-like drink with pomegranate, a touch of absinthe and pine
+  fresh notes.
+aka: 
+variant: 
+origin: <br _moz_editor_bogus_node="TRUE" />
+source: www.diffordsguide.com (2882)
+recipe_steps:
+- amount: ' 1/2 '
+  doze: spoon
+  ingredient_name: La Fée Parisienne (68%) absinthe
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Freshly squeezed lime juice
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Bacardi Superior rum
+- amount: '1'
+  doze: spoon
+  ingredient_name: Pomegranate (grenadine) syrup
+- amount: '1'
+  doze: shot
+  ingredient_name: Swedish Punch liqueur

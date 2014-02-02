@@ -1,26 +1,27 @@
---- !ruby/object:DirtyCocktail 
+---
+name: The Elder Aviator
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 4.5
 garnish: Lemon zest twist<br />
 glass: Martini
-infos: 
-  Comment: Fans of the classic Aviation may appreciate this floral twist.
-  Origin: Created in 2006 by Yours Truly (Simon Difford).
-  source: www.diffordsguide.com (2637)
-ingredients: 
-- - "2"
-  - shot
-  - Bombay London dry gin
-- - " 1/2 "
-  - shot
-  - St-Germain elderflower liqueur
-- - " 1/4 "
-  - shot
-  - Luxardo maraschino liqueur
-- - " 1/2 "
-  - shot
-  - Freshly squeezed lemon juice
-- - " 1/2 "
-  - shot
-  - Chilled mineral water
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: The Elder Aviator
-rate: 4.5
+comment: Fans of the classic Aviation may appreciate this floral twist.
+aka: 
+variant: 
+origin: Created in 2006 by Yours Truly (Simon Difford).
+source: www.diffordsguide.com (2637)
+recipe_steps:
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: St-Germain elderflower liqueur
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Freshly squeezed lemon juice
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Chilled mineral water
+- amount: '2'
+  doze: shot
+  ingredient_name: Bombay London dry gin
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Luxardo maraschino liqueur

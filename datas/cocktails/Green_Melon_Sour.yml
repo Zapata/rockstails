@@ -1,19 +1,21 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Green Melon Sour
+method: SHAKE all ingredients with ice and strain into ice-filled glass.
+rate: 3.0
 garnish: Lemon slice &amp; cherry on stick (sail)
 glass: Old-fashioned
-infos: 
-  Comment: Neon green in colour and a tad on the sweet side, but each to their own.
-  source: www.diffordsguide.com (2434)
-ingredients: 
-- - "2"
-  - shot
-  - Midori green melon liqueur
-- - "1"
-  - shot
-  - Freshly squeezed lemon juice
-- - "1"
-  - dash
-  - Angostura aromatic bitters
-method: SHAKE all ingredients with ice and strain into ice-filled glass.
-name: Green Melon Sour
-rate: 3.0
+comment: Neon green in colour and a tad on the sweet side, but each to their own.
+aka: 
+variant: 
+origin: 
+source: www.diffordsguide.com (2434)
+recipe_steps:
+- amount: '1'
+  doze: shot
+  ingredient_name: Freshly squeezed lemon juice
+- amount: '1'
+  doze: dash
+  ingredient_name: Angostura aromatic bitters
+- amount: '2'
+  doze: shot
+  ingredient_name: Midori green melon liqueur

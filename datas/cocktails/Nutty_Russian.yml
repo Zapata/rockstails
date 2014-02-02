@@ -1,19 +1,21 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Nutty Russian
+method: SHAKE all ingredients with ice and strain into ice-filled glass.
+rate: 3.5
 garnish: 
 glass: Old-fashioned
-infos: 
-  Comment: A Black Russian with hazelnut liqueur.
-  source: www.diffordsguide.com (1419)
-ingredients: 
-- - "1 1/2 "
-  - shot
-  - Ketel One vodka
-- - " 3/4 "
-  - shot
-  - Hazelnut liqueur
-- - " 3/4 "
-  - shot
-  - Kahla coffee liqueur
-method: SHAKE all ingredients with ice and strain into ice-filled glass.
-name: Nutty Russian
-rate: 3.5
+comment: A Black Russian with hazelnut liqueur.
+aka: 
+variant: 
+origin: 
+source: www.diffordsguide.com (1419)
+recipe_steps:
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Ketel One vodka
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Kahla coffee liqueur
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Hazelnut liqueur

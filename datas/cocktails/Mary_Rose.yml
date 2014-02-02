@@ -1,26 +1,30 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Mary Rose
+method: MUDDLE rosemary in base of shaker. Add other ingredients, SHAKE with ice and
+  fine strain into chilled glass.
+rate: 4.0
 garnish: Lime twist (discard) &amp; rosemary sprig
 glass: Martini
-infos: 
-  Comment: Herbal, herbal and herbal with a hint of spice.
-  Origin: Created in 1999 by Philip Jeffrey at the Great Eastern Hotel, London, England. Named after King Henry VIII's warship, sunk during an engagement with the French fleet in 1545 and now on display in Portsmouth.
-  source: www.diffordsguide.com (1270)
-ingredients: 
-- - "1"
-  - fresh
-  - Rosemary sprig
-- - "2"
-  - shot
-  - Bombay London dry gin
-- - "1"
-  - shot
-  - Chartreuse Green liqueur
-- - " 1/2 "
-  - shot
-  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
-- - " 1/2 "
-  - shot
-  - Chilled mineral water
-method: MUDDLE rosemary in base of shaker. Add other ingredients, SHAKE with ice and fine strain into chilled glass.
-name: Mary Rose
-rate: 4.0
+comment: Herbal, herbal and herbal with a hint of spice.
+aka: 
+variant: 
+origin: Created in 1999 by Philip Jeffrey at the Great Eastern Hotel, London, England.
+  Named after King Henry VIII's warship, sunk during an engagement with the French
+  fleet in 1545 and now on display in Portsmouth.
+source: www.diffordsguide.com (1270)
+recipe_steps:
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- amount: '1'
+  doze: shot
+  ingredient_name: Chartreuse Green liqueur
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Chilled mineral water
+- amount: '2'
+  doze: shot
+  ingredient_name: Bombay London dry gin
+- amount: '1'
+  doze: fresh
+  ingredient_name: Rosemary sprig

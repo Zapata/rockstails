@@ -1,20 +1,22 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Cherrute
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 4.0
 garnish: Grapefruit zest twist (discarded) &amp; Maraschino cherry<br />
 glass: Martini
-infos: 
-  Comment: Sweet cherry brandy balanced by the fruity acidity of grapefruit, laced with vodka.
-  Origin: Created in the early Noughties by Nicholas P J Snape at Mojo, Leeds, England.
-  source: www.diffordsguide.com (403)
-ingredients: 
-- - "2"
-  - shot
-  - Ketel One vodka
-- - " 1/2 "
-  - shot
-  - Heering cherry brandy liqueur
-- - "1 1/2 "
-  - shot
-  - Freshly squeezed grapefruit juice
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: Cherrute
-rate: 4.0
+comment: Sweet cherry brandy balanced by the fruity acidity of grapefruit, laced with
+  vodka.
+aka: 
+variant: 
+origin: Created in the early Noughties by Nicholas P J Snape at Mojo, Leeds, England.
+source: www.diffordsguide.com (403)
+recipe_steps:
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Heering cherry brandy liqueur
+- amount: '2'
+  doze: shot
+  ingredient_name: Ketel One vodka
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Freshly squeezed grapefruit juice

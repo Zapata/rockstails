@@ -1,26 +1,27 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Coffee & Vanilla Daiquiri
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 4.0
 garnish: Float 3 coffee beans
 glass: Martini
-infos: 
-  Comment: Coffee, vanilla, sweetness and sourness all in harmony.
-  Origin: Created in 2002 by Yours Truly (Simon Difford).
-  source: www.diffordsguide.com (453)
-ingredients: 
-- - "2"
-  - shot
-  - Vanilla-infused Bacardi rum
-- - "1"
-  - shot
-  - Kahla coffee liqueur
-- - " 1/2 "
-  - shot
-  - Freshly squeezed lime juice
-- - " 1/8 "
-  - shot
-  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
-- - " 3/4 "
-  - shot
-  - Chilled mineral water
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: Coffee & Vanilla Daiquiri
-rate: 4.0
+comment: Coffee, vanilla, sweetness and sourness all in harmony.
+aka: 
+variant: 
+origin: Created in 2002 by Yours Truly (Simon Difford).
+source: www.diffordsguide.com (453)
+recipe_steps:
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Freshly squeezed lime juice
+- amount: ' 1/8 '
+  doze: shot
+  ingredient_name: Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Chilled mineral water
+- amount: '1'
+  doze: shot
+  ingredient_name: Kahla coffee liqueur
+- amount: '2'
+  doze: shot
+  ingredient_name: Vanilla-infused Bacardi rum

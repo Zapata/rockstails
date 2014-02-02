@@ -1,26 +1,29 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Daiquiri No.2
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 4.5
 garnish: Lime wedge on rim
 glass: Martini
-infos: 
-  Comment: A Daiquiri with subtle orange notes, but far from being a mere Orange Daiquiri.<br /><br />
-  Origin: Created circa 1915 by Constantino (Constante) Ribalaigua Vert at Floridita bar in Havana, Cuba.
-  source: www.diffordsguide.com (2154)
-ingredients: 
-- - "2"
-  - shot
-  - Bacardi Superior rum
-- - " 1/8 "
-  - shot
-  - Cointreau triple sec
-- - " 1/2 "
-  - shot
-  - Freshly squeezed orange juice
-- - " 1/2 "
-  - shot
-  - Freshly squeezed lime juice
-- - " 1/4 "
-  - shot
-  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: Daiquiri No.2
-rate: 4.5
+comment: A Daiquiri with subtle orange notes, but far from being a mere Orange Daiquiri.<br
+  /><br />
+aka: 
+variant: 
+origin: Created circa 1915 by Constantino (Constante) Ribalaigua Vert at Floridita
+  bar in Havana, Cuba.
+source: www.diffordsguide.com (2154)
+recipe_steps:
+- amount: ' 1/8 '
+  doze: shot
+  ingredient_name: Cointreau triple sec
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Freshly squeezed lime juice
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- amount: '2'
+  doze: shot
+  ingredient_name: Bacardi Superior rum
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Freshly squeezed orange juice

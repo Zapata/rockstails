@@ -1,19 +1,21 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Arizona Breeze
+method: SHAKE all ingredients with ice and strain into ice-filled glass.
+rate: 4.0
 garnish: Grapefruit wedge on rim
 glass: Collins
-infos: 
-  Comment: A tart variation on the Sea Breeze - as dry as Arizona.
-  source: www.diffordsguide.com (106)
-ingredients: 
-- - "2 1/2 "
-  - shot
-  - Bombay London dry gin
-- - "3"
-  - shot
-  - Ocean Spray cranberry juice
-- - "2"
-  - shot
-  - Freshly squeezed grapefruit juice
-method: SHAKE all ingredients with ice and strain into ice-filled glass.
-name: Arizona Breeze
-rate: 4.0
+comment: A tart variation on the Sea Breeze - as dry as Arizona.
+aka: 
+variant: 
+origin: 
+source: www.diffordsguide.com (106)
+recipe_steps:
+- amount: '3'
+  doze: shot
+  ingredient_name: Ocean Spray cranberry juice
+- amount: '2 1/2 '
+  doze: shot
+  ingredient_name: Bombay London dry gin
+- amount: '2'
+  doze: shot
+  ingredient_name: Freshly squeezed grapefruit juice

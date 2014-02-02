@@ -1,23 +1,25 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Earl Grey Fizz
+method: SHAKE first 3 ingredients with ice and strain into chilled glass. TOP with
+  champagne.
+rate: 4.0
 garnish: Lemon knot<br />
 glass: Flute
-infos: 
-  Comment: Looks like a glass of champagne but has a well judged little extra something.
-  Origin: Created in 2002 by Henry Besant at Lonsdale House, London, England.
-  source: www.diffordsguide.com (684)
-ingredients: 
-- - "1"
-  - shot
-  - Ketel One vodka
-- - " 1/2 "
-  - shot
-  - Cold earl gray tea
-- - " 1/4 "
-  - shot
-  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
-- - "1"
-  - top up with
-  - Perrier Jouet brut champagne
-method: SHAKE first 3 ingredients with ice and strain into chilled glass. TOP with champagne.
-name: Earl Grey Fizz
-rate: 4.0
+comment: Looks like a glass of champagne but has a well judged little extra something.
+aka: 
+variant: 
+origin: Created in 2002 by Henry Besant at Lonsdale House, London, England.
+source: www.diffordsguide.com (684)
+recipe_steps:
+- amount: '1'
+  doze: shot
+  ingredient_name: Ketel One vodka
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Cold earl gray tea
+- amount: '1'
+  doze: top up with
+  ingredient_name: Perrier Jouet brut champagne

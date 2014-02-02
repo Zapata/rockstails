@@ -1,24 +1,26 @@
---- !ruby/object:DirtyCocktail 
+---
+name: 'Ribalaigua Daiquiri #3'
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 4.0
 garnish: Mint leaf
 glass: Martini
-infos: 
-  Comment: This unusual Daiquiri leads to with sweet maraschino and finishes with sour grapefruit.
-  Origin: Named for Constatino Ribalaigua, who introduced Hemingway to the Daiquiri at El Floridita, Havana, Cuba
-  Variant: With gin in place of rum this becomes Seventh Heaven No.2
-  source: www.diffordsguide.com (1675)
-ingredients: 
-- - "2"
-  - shot
-  - Bacardi Superior rum
-- - " 1/2 "
-  - shot
-  - Luxardo maraschino liqueur
-- - "1"
-  - shot
-  - Freshly squeezed grapefruit juice
-- - " 1/2 "
-  - shot
-  - Chilled mineral water
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: "Ribalaigua Daiquiri #3"
-rate: 4.0
+comment: This unusual Daiquiri leads to with sweet maraschino and finishes with sour
+  grapefruit.
+aka: 
+variant: With gin in place of rum this becomes Seventh Heaven No.2
+origin: Named for Constatino Ribalaigua, who introduced Hemingway to the Daiquiri
+  at El Floridita, Havana, Cuba
+source: www.diffordsguide.com (1675)
+recipe_steps:
+- amount: '2'
+  doze: shot
+  ingredient_name: Bacardi Superior rum
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Chilled mineral water
+- amount: '1'
+  doze: shot
+  ingredient_name: Freshly squeezed grapefruit juice
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Luxardo maraschino liqueur

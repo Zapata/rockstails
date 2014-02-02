@@ -1,32 +1,35 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Russian Spring Punch
+method: MUDDLE raspberries in base of shaker. Add next 5 ingredients, SHAKE with ice
+  and strain into glass filled with crushed ice. TOP with champagne, lightly stir
+  and serve with straws.<br /><br />
+rate: 4.5
 garnish: Lemon slice &amp; raspberry
 glass: Sling
-infos: 
-  Comment: Well balanced, complex and refreshing.
-  Origin: Created in the 1990s by Dick Bradsell, London, England.
-  source: www.diffordsguide.com (1720)
-ingredients: 
-- - "7"
-  - fresh
-  - Raspberries
-- - "1"
-  - shot
-  - Ketel One vodka
-- - " 1/4 "
-  - shot
-  - "Cr\xE8me de cassis liqueur"
-- - " 1/4 "
-  - shot
-  - "Cr\xE8me de framboise liqueur"
-- - "1"
-  - shot
-  - Freshly squeezed lemon juice
-- - " 1/4 "
-  - shot
-  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
-- - "1"
-  - top up with
-  - Perrier Jouet brut champagne
-method: MUDDLE raspberries in base of shaker. Add next 5 ingredients, SHAKE with ice and strain into glass filled with crushed ice. TOP with champagne, lightly stir and serve with straws.<br /><br />
-name: Russian Spring Punch
-rate: 4.5
+comment: Well balanced, complex and refreshing.
+aka: 
+variant: 
+origin: Created in the 1990s by Dick Bradsell, London, England.
+source: www.diffordsguide.com (1720)
+recipe_steps:
+- amount: '1'
+  doze: shot
+  ingredient_name: Ketel One vodka
+- amount: '1'
+  doze: shot
+  ingredient_name: Freshly squeezed lemon juice
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Crème de cassis liqueur
+- amount: '1'
+  doze: top up with
+  ingredient_name: Perrier Jouet brut champagne
+- amount: '7'
+  doze: fresh
+  ingredient_name: Raspberries
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Crème de framboise liqueur

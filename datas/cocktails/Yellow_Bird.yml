@@ -1,28 +1,31 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Yellow Bird
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 3.0
 garnish: Banana slice on rim
 glass: Martini
-infos: 
-  Comment: A sweet and sour cocktail with four different fruits, rum and a splash of Galliano.
-  source: www.diffordsguide.com (2113)
-ingredients: 
-- - "1 1/2 "
-  - shot
-  - Bacardi Oro golden rum
-- - " 1/2 "
-  - shot
-  - "Cr\xE8me de banane liqueur"
-- - " 1/4 "
-  - shot
-  - Bols apricot brandy liqueur
-- - " 1/4 "
-  - shot
-  - Galliano L'Autentico liqueur
-- - "1 1/2 "
-  - shot
-  - Fresh pressed pineapple juice
-- - " 1/4 "
-  - shot
-  - Freshly squeezed lime juice
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: Yellow Bird
-rate: 3.0
+comment: A sweet and sour cocktail with four different fruits, rum and a splash of
+  Galliano.
+aka: 
+variant: 
+origin: 
+source: www.diffordsguide.com (2113)
+recipe_steps:
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Freshly squeezed lime juice
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Bols apricot brandy liqueur
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Fresh pressed pineapple juice
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Bacardi Oro golden rum
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Galliano L'Autentico liqueur
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Crème de banane liqueur

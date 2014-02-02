@@ -1,16 +1,18 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Grey Mouse
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 3.0
 garnish: 
 glass: Shot
-infos: 
-  Comment: Aniseed and whiskey cream.
-  source: www.diffordsguide.com (918)
-ingredients: 
-- - "1"
-  - shot
-  - Baileys Irish cream liqueur
-- - " 1/2 "
-  - shot
-  - Opal Nera black sambuca
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: Grey Mouse
-rate: 3.0
+comment: Aniseed and whiskey cream.
+aka: 
+variant: 
+origin: 
+source: www.diffordsguide.com (918)
+recipe_steps:
+- amount: '1'
+  doze: shot
+  ingredient_name: Baileys Irish cream liqueur
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Opal Nera black sambuca

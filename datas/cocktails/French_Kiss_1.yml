@@ -1,22 +1,25 @@
---- !ruby/object:DirtyCocktail 
+---
+name: 'French Kiss #1'
+method: SHAKE first 3 ingredients with ice and fine strain into chilled glass. POUR
+  grenadine into centre of drink. (It should sink.)
+rate: 3.0
 garnish: Star anise
 glass: Martini
-infos: 
-  Comment: Looks like a Tequila Sunrise but tastes of anis and orange.
-  source: www.diffordsguide.com (795)
-ingredients: 
-- - "1"
-  - shot
-  - Ketel One vodka
-- - " 3/4 "
-  - shot
-  - Pernod anis
-- - "2"
-  - shot
-  - Freshly squeezed orange juice
-- - " 1/8 "
-  - shot
-  - Pomegranate (grenadine) syrup
-method: SHAKE first 3 ingredients with ice and fine strain into chilled glass. POUR grenadine into centre of drink. (It should sink.)
-name: "French Kiss #1"
-rate: 3.0
+comment: Looks like a Tequila Sunrise but tastes of anis and orange.
+aka: 
+variant: 
+origin: 
+source: www.diffordsguide.com (795)
+recipe_steps:
+- amount: '1'
+  doze: shot
+  ingredient_name: Ketel One vodka
+- amount: '2'
+  doze: shot
+  ingredient_name: Freshly squeezed orange juice
+- amount: ' 1/8 '
+  doze: shot
+  ingredient_name: Pomegranate (grenadine) syrup
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Pernod anis

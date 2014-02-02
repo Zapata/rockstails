@@ -1,17 +1,19 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Black Japan
+method: POUR melon liqueur into chilled glass then float Guinness on top.
+rate: 2.5
 garnish: 
 glass: Collins
-infos: 
-  Comment: This student-style drink will appeal to those with youthful exuberance and a sweet tooth.
-  Origin: Black Japan is the name of a protective lacquer applied to metal.
-  source: www.diffordsguide.com (553)
-ingredients: 
-- - "1 1/2 "
-  - shot
-  - Midori green melon liqueur
-- - "1"
-  - float
-  - Guiness
-method: POUR melon liqueur into chilled glass then float Guinness on top.
-name: Black Japan
-rate: 2.5
+comment: This student-style drink will appeal to those with youthful exuberance and
+  a sweet tooth.
+aka: 
+variant: 
+origin: Black Japan is the name of a protective lacquer applied to metal.
+source: www.diffordsguide.com (553)
+recipe_steps:
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Midori green melon liqueur
+- amount: '1'
+  doze: float
+  ingredient_name: Guiness

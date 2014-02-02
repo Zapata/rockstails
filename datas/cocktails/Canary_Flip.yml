@@ -1,20 +1,21 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Canary Flip
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 4.5
 garnish: Lemon zest twist
 glass: Martini
-infos: 
-  Comment: A delightful balance of egg, brandy and wine.
-  Origin: Created in 2002 by Alex Kammerling, London, England.
-  source: www.diffordsguide.com (366)
-ingredients: 
-- - "2"
-  - shot
-  - Bols advocaat liqueur
-- - "2"
-  - shot
-  - Sauvignon blanc wine
-- - " 3/4 "
-  - shot
-  - Freshly squeezed lemon juice
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: Canary Flip
-rate: 4.5
+comment: A delightful balance of egg, brandy and wine.
+aka: 
+variant: 
+origin: Created in 2002 by Alex Kammerling, London, England.
+source: www.diffordsguide.com (366)
+recipe_steps:
+- amount: '2'
+  doze: shot
+  ingredient_name: Sauvignon blanc wine
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Freshly squeezed lemon juice
+- amount: '2'
+  doze: shot
+  ingredient_name: Bols advocaat liqueur

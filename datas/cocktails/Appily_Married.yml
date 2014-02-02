@@ -1,20 +1,23 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Appily Married
+method: STIR honey with vodka in base of shaker until honey dissolves. Add apple juice,
+  SHAKE with ice and fine strain into chilled glass.
+rate: 4.5
 garnish: Coat half rim with cinnamon and sugar
 glass: Martini
-infos: 
-  Comment: Apple and honey are indeed a marriage made in heaven, especially when laced with grainy vodka notes.
-  Origin: Created in 2005 by Yours Truly (Simon Difford).
-  source: www.diffordsguide.com (97)
-ingredients: 
-- - "2"
-  - spoon
-  - Runny honey
-- - "2 1/2 "
-  - shot
-  - Ketel One vodka
-- - " 1/2 "
-  - shot
-  - Pressed apple juice
-method: STIR honey with vodka in base of shaker until honey dissolves. Add apple juice, SHAKE with ice and fine strain into chilled glass.
-name: Appily Married
-rate: 4.5
+comment: Apple and honey are indeed a marriage made in heaven, especially when laced
+  with grainy vodka notes.
+aka: 
+variant: 
+origin: Created in 2005 by Yours Truly (Simon Difford).
+source: www.diffordsguide.com (97)
+recipe_steps:
+- amount: '2 1/2 '
+  doze: shot
+  ingredient_name: Ketel One vodka
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Pressed apple juice
+- amount: '2'
+  doze: spoon
+  ingredient_name: Runny honey

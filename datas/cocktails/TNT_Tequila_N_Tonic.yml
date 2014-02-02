@@ -1,20 +1,22 @@
---- !ruby/object:DirtyCocktail 
+---
+name: TNT (Tequila 'N' Tonic)
+method: POUR all ingredients into ice-filled glass and STIR.
+rate: 4.0
 garnish: Lime wedge
 glass: Collins
-infos: 
-  Comment: A simple but very tasty way to enjoy tequila.
-  Origin: Adapted from Victor Bergeron's 'Trader Vic's Bartender's Guide' (1972 revised edition).
-  source: www.diffordsguide.com (2205)
-ingredients: 
-- - "1 1/2 "
-  - shot
-  - Herradura 100% agave tequila
-- - " 1/2 "
-  - shot
-  - Freshly squeezed lime juice
-- - "1"
-  - top up with
-  - Tonic water
-method: POUR all ingredients into ice-filled glass and STIR.
-name: TNT (Tequila 'N' Tonic)
-rate: 4.0
+comment: A simple but very tasty way to enjoy tequila.
+aka: 
+variant: 
+origin: Adapted from Victor Bergeron's 'Trader Vic's Bartender's Guide' (1972 revised
+  edition).
+source: www.diffordsguide.com (2205)
+recipe_steps:
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Freshly squeezed lime juice
+- amount: '1'
+  doze: top up with
+  ingredient_name: Tonic water
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Herradura 100% agave tequila

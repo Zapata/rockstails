@@ -1,25 +1,28 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Pineapple Fizz
+method: SHAKE first 4 ingredients with ice and fine strain in chilled glass.  TOP
+  with soda, lightly stir and serve with straws.
+rate: 5.0
 garnish: Lime wedge &amp; cherry
 glass: Collins
-infos: 
-  Comment: A Pineapple Daiquiri lengthened with soda. Surprisingly tasty and refreshing.
-  source: www.diffordsguide.com (1535)
-ingredients: 
-- - "2"
-  - shot
-  - Bacardi Oro golden rum
-- - "1 1/2 "
-  - shot
-  - Fresh pressed pineapple juice
-- - "1"
-  - shot
-  - Freshly squeezed lime juice
-- - " 1/2 "
-  - shot
-  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
-- - "1"
-  - top up with
-  - Soda (club soda)
-method: SHAKE first 4 ingredients with ice and fine strain in chilled glass.  TOP with soda, lightly stir and serve with straws.
-name: Pineapple Fizz
-rate: 5.0
+comment: A Pineapple Daiquiri lengthened with soda. Surprisingly tasty and refreshing.
+aka: 
+variant: 
+origin: 
+source: www.diffordsguide.com (1535)
+recipe_steps:
+- amount: '1'
+  doze: shot
+  ingredient_name: Freshly squeezed lime juice
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- amount: '1'
+  doze: top up with
+  ingredient_name: Soda (club soda)
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Fresh pressed pineapple juice
+- amount: '2'
+  doze: shot
+  ingredient_name: Bacardi Oro golden rum

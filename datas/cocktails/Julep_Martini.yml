@@ -1,23 +1,25 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Julep Martini
+method: Lightly MUDDLE mint in base of shaker (just to bruise). Add other ingredients,
+  SHAKE with ice and fine strain into chilled glass.
+rate: 4.5
 garnish: Mint leaf
 glass: Martini
-infos: 
-  Comment: "A short variation on the classic Julep: sweetened bourbon and mint."
-  Origin: Adapted from a recipe created in the mid 1990s by Dick Bradsell.
-  source: www.diffordsguide.com (1076)
-ingredients: 
-- - "8"
-  - fresh
-  - Mint leaves
-- - "2 1/2 "
-  - shot
-  - Maker's Mark bourbon
-- - " 1/2 "
-  - shot
-  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
-- - " 3/4 "
-  - shot
-  - Chilled mineral water
-method: Lightly MUDDLE mint in base of shaker (just to bruise). Add other ingredients, SHAKE with ice and fine strain into chilled glass.
-name: Julep Martini
-rate: 4.5
+comment: 'A short variation on the classic Julep: sweetened bourbon and mint.'
+aka: 
+variant: 
+origin: Adapted from a recipe created in the mid 1990s by Dick Bradsell.
+source: www.diffordsguide.com (1076)
+recipe_steps:
+- amount: '8'
+  doze: fresh
+  ingredient_name: Mint leaves
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Chilled mineral water
+- amount: '2 1/2 '
+  doze: shot
+  ingredient_name: Maker's Mark bourbon

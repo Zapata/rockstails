@@ -1,39 +1,43 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Hong Kong Fuey
+method: SHAKE first eight ingredients with ice and strain into ice-filled glass. TOP
+  with 7-Up / lemonade, stir and serve with straws.<br /><br />
+rate: 3.5
 garnish: Lime wedge &amp; cherry<br />
 glass: Collins
-infos: 
-  Comment: You may recall Hong Kong Phooey, the 1970s Hanna-Barbera animated children's TV series featuring the mild-mannered janitor Penry and his superhero alter ego. This party drink is little better than Penry's kung fu but deadly all the same.<br /><br />
-  Origin: <br _moz_editor_bogus_node="TRUE" />
-  Variant: "\"Reloaded\" with champagne in place of lemonade"
-  source: www.diffordsguide.com (972)
-ingredients: 
-- - " 1/2 "
-  - shot
-  - Ketel One vodka
-- - " 1/2 "
-  - shot
-  - Bombay London dry gin
-- - " 1/2 "
-  - shot
-  - Bacardi Superior rum
-- - " 1/2 "
-  - shot
-  - Herradura 100% agave tequila
-- - " 3/4 "
-  - shot
-  - Midori green melon liqueur
-- - " 1/4 "
-  - shot
-  - Chartreuse Green liqueur
-- - " 1/4 "
-  - shot
-  - Freshly squeezed lemon juice
-- - " 1/4 "
-  - shot
-  - Rose's lime cordial
-- - "1"
-  - top up with
-  - Lemonade/Sprite/7-Up
-method: SHAKE first eight ingredients with ice and strain into ice-filled glass. TOP with 7-Up / lemonade, stir and serve with straws.<br /><br />
-name: Hong Kong Fuey
-rate: 3.5
+comment: You may recall Hong Kong Phooey, the 1970s Hanna-Barbera animated children's
+  TV series featuring the mild-mannered janitor Penry and his superhero alter ego.
+  This party drink is little better than Penry's kung fu but deadly all the same.<br
+  /><br />
+aka: 
+variant: '"Reloaded" with champagne in place of lemonade'
+origin: <br _moz_editor_bogus_node="TRUE" />
+source: www.diffordsguide.com (972)
+recipe_steps:
+- amount: '1'
+  doze: top up with
+  ingredient_name: Lemonade/Sprite/7-Up
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Rose's lime cordial
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Ketel One vodka
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Freshly squeezed lemon juice
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Bacardi Superior rum
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Chartreuse Green liqueur
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Bombay London dry gin
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Midori green melon liqueur
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Herradura 100% agave tequila

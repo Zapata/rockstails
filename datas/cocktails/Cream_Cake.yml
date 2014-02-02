@@ -1,22 +1,24 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Cream Cake
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 3.5
 garnish: Crumbled Cadbury's Flake bar
 glass: Martini
-infos: 
-  Comment: Creamy pleasure for the sweet of tooth.
-  source: www.diffordsguide.com (486)
-ingredients: 
-- - "1 1/4 "
-  - shot
-  - Baileys Irish cream liqueur
-- - "1 1/4 "
-  - shot
-  - Peach Tree peach schnapps
-- - "1 1/4 "
-  - shot
-  - Luxardo Amaretto di Saschira
-- - "1"
-  - shot
-  - Double (heavy) cream
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: Cream Cake
-rate: 3.5
+comment: Creamy pleasure for the sweet of tooth.
+aka: 
+variant: 
+origin: 
+source: www.diffordsguide.com (486)
+recipe_steps:
+- amount: '1 1/4 '
+  doze: shot
+  ingredient_name: Baileys Irish cream liqueur
+- amount: '1'
+  doze: shot
+  ingredient_name: Double (heavy) cream
+- amount: '1 1/4 '
+  doze: shot
+  ingredient_name: Peach Tree peach schnapps
+- amount: '1 1/4 '
+  doze: shot
+  ingredient_name: Luxardo Amaretto di Saschira

@@ -1,26 +1,27 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Strudel Martini
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 4.5
 garnish: Dust with cinnamon powder
 glass: Martini
-infos: 
-  Comment: Still think sherry is just for Granny?
-  Origin: Created in 2002 by Jason Borthwick, Tiles, Edinburgh, Scotland.
-  source: www.diffordsguide.com (1889)
-ingredients: 
-- - "1 1/2 "
-  - shot
-  - Ketel One vodka
-- - " 1/2 "
-  - shot
-  - Pedro Ximnez sherry
-- - " 3/4 "
-  - shot
-  - Pressed apple juice
-- - " 1/2 "
-  - shot
-  - Milk
-- - " 1/2 "
-  - shot
-  - Double (heavy) cream
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: Strudel Martini
-rate: 4.5
+comment: Still think sherry is just for Granny?
+aka: 
+variant: 
+origin: Created in 2002 by Jason Borthwick, Tiles, Edinburgh, Scotland.
+source: www.diffordsguide.com (1889)
+recipe_steps:
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Ketel One vodka
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Pressed apple juice
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Double (heavy) cream
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Milk
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Pedro Ximnez sherry

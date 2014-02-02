@@ -1,26 +1,28 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Malcom Lowry
+method: SHAKE all ingredients with ice and strain into ice-filled glass.
+rate: 4.0
 garnish: Lime wedge
 glass: Old-fashioned
-infos: 
-  Comment: A suitably 'hard' and flavoursome Daiquiri-like drink.
-  Origin: Created by drinks author David Broom. Named after Malcom Lowry's 1947 novel 'Under the Volcano' which explores a man's battle with alcoholism in Mexico.
-  source: www.diffordsguide.com (1228)
-ingredients: 
-- - "1"
-  - shot
-  - Herradura 100% agave tequila
-- - " 1/2 "
-  - shot
-  - Wray & Nephew overproof rum
-- - " 1/4 "
-  - shot
-  - Cointreau triple sec
-- - " 1/2 "
-  - shot
-  - Freshly squeezed lime juice
-- - " 1/4 "
-  - shot
-  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
-method: SHAKE all ingredients with ice and strain into ice-filled glass.
-name: Malcom Lowry
-rate: 4.0
+comment: A suitably 'hard' and flavoursome Daiquiri-like drink.
+aka: 
+variant: 
+origin: Created by drinks author David Broom. Named after Malcom Lowry's 1947 novel
+  'Under the Volcano' which explores a man's battle with alcoholism in Mexico.
+source: www.diffordsguide.com (1228)
+recipe_steps:
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Cointreau triple sec
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Freshly squeezed lime juice
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- amount: '1'
+  doze: shot
+  ingredient_name: Herradura 100% agave tequila
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Wray & Nephew overproof rum

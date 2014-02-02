@@ -1,23 +1,35 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Moscow Mule
+method: SHAKE first 4 ingredients with ice and strain into ice-filled glass. TOP with
+  ginger beer and stir.<br /><br />
+rate: 4.0
 garnish: Lime wedge &amp; mint sprig
 glass: Collins
-infos: 
-  Comment: A long, vodka based drink with spice provided by ginger beer and Angostura.
-  Origin: This classic combination was born in 1941. John G. Martin had acquired the rights to Smirnoff vodka for Heublein, a small Connecticut based liquor and food distributor. Jack Morgan, the owner of Hollywood's famous Cock'n'Bull Saloon, was trying to launch his own brand of ginger beer. The two men met at New York City's Chatham Bar and hit on the idea of mixing Martin's vodka with Morgan's ginger beer and adding a dash of lime to create a new cocktail, the Moscow Mule.<br />       <br />To help promote the drink, and hence their respective products, Morgan had the idea of marketing the Moscow Mule using specially engraved mugs. The five ounce mugs were embossed with a kicking mule and made at a copper factory a friend of his had recently inherited. The promotion helped turn Smirnoff into a major brand.<br />       <br />
-  source: www.diffordsguide.com (1366)
-ingredients: 
-- - "2"
-  - shot
-  - Ketel One vodka
-- - " 1/2 "
-  - shot
-  - Freshly squeezed lime juice
-- - "3"
-  - dash
-  - Angostura aromatic bitters
-- - "1"
-  - top up with
-  - Ginger beer
-method: SHAKE first 4 ingredients with ice and strain into ice-filled glass. TOP with ginger beer and stir.<br /><br />
-name: Moscow Mule
-rate: 4.0
+comment: A long, vodka based drink with spice provided by ginger beer and Angostura.
+aka: 
+variant: 
+origin: This classic combination was born in 1941. John G. Martin had acquired the
+  rights to Smirnoff vodka for Heublein, a small Connecticut based liquor and food
+  distributor. Jack Morgan, the owner of Hollywood's famous Cock'n'Bull Saloon, was
+  trying to launch his own brand of ginger beer. The two men met at New York City's
+  Chatham Bar and hit on the idea of mixing Martin's vodka with Morgan's ginger beer
+  and adding a dash of lime to create a new cocktail, the Moscow Mule.<br />       <br
+  />To help promote the drink, and hence their respective products, Morgan had the
+  idea of marketing the Moscow Mule using specially engraved mugs. The five ounce
+  mugs were embossed with a kicking mule and made at a copper factory a friend of
+  his had recently inherited. The promotion helped turn Smirnoff into a major brand.<br
+  />       <br />
+source: www.diffordsguide.com (1366)
+recipe_steps:
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Freshly squeezed lime juice
+- amount: '2'
+  doze: shot
+  ingredient_name: Ketel One vodka
+- amount: '3'
+  doze: dash
+  ingredient_name: Angostura aromatic bitters
+- amount: '1'
+  doze: top up with
+  ingredient_name: Ginger beer

@@ -1,25 +1,29 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Raspberry Mule
+method: MUDDLE raspberries in base of shaker. Add next 3 ingredients, SHAKE with ice
+  and fine strain into ice-filled glass. TOP with ginger beer, lightly stir and serve
+  with straws.
+rate: 4.0
 garnish: Lime wedge
 glass: Collins
-infos: 
-  Comment: The fruity alternative to a Moscow Mule.
-  source: www.diffordsguide.com (1638)
-ingredients: 
-- - "12"
-  - fresh
-  - Raspberries
-- - "2"
-  - shot
-  - Ketel One vodka
-- - "1"
-  - shot
-  - Freshly squeezed lime juice
-- - " 1/2 "
-  - shot
-  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
-- - "1"
-  - top up with
-  - Ginger beer
-method: MUDDLE raspberries in base of shaker. Add next 3 ingredients, SHAKE with ice and fine strain into ice-filled glass. TOP with ginger beer, lightly stir and serve with straws.
-name: Raspberry Mule
-rate: 4.0
+comment: The fruity alternative to a Moscow Mule.
+aka: 
+variant: 
+origin: 
+source: www.diffordsguide.com (1638)
+recipe_steps:
+- amount: '1'
+  doze: shot
+  ingredient_name: Freshly squeezed lime juice
+- amount: '2'
+  doze: shot
+  ingredient_name: Ketel One vodka
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- amount: '12'
+  doze: fresh
+  ingredient_name: Raspberries
+- amount: '1'
+  doze: top up with
+  ingredient_name: Ginger beer

@@ -1,32 +1,34 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Basilian
+method: MUDDLE cucumber and basil in base of shaker. Add next 4 ingredients, SHAKE
+  with ice and fine strain into ice-filled glass. TOP with ginger ale.
+rate: 3.5
 garnish: Lime slice &amp; basil leaf (trimmed)
 glass: Collins
-infos: 
-  Comment: Vegetable notes with hints of orange and ginger. Healthy tasting!
-  Origin: Created in 2005 by Duncan McRae at Dragonfly, Edinburgh, Scotland.
-  source: www.diffordsguide.com (539)
-ingredients: 
-- - "1"
-  - inch
-  - Cucumber (chopped & peeled)
-- - "5"
-  - fresh
-  - Torn basil leaves
-- - "2"
-  - shot
-  - Leblon cachaca
-- - " 3/4 "
-  - shot
-  - Grand Marnier liqueur
-- - " 1/2 "
-  - shot
-  - Freshly squeezed lime juice
-- - " 1/4 "
-  - shot
-  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
-- - "1"
-  - top up with
-  - Ginger ale
-method: MUDDLE cucumber and basil in base of shaker. Add next 4 ingredients, SHAKE with ice and fine strain into ice-filled glass. TOP with ginger ale.
-name: Basilian
-rate: 3.5
+comment: Vegetable notes with hints of orange and ginger. Healthy tasting!
+aka: 
+variant: 
+origin: Created in 2005 by Duncan McRae at Dragonfly, Edinburgh, Scotland.
+source: www.diffordsguide.com (539)
+recipe_steps:
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Freshly squeezed lime juice
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Grand Marnier liqueur
+- amount: '1'
+  doze: top up with
+  ingredient_name: Ginger ale
+- amount: '1'
+  doze: inch
+  ingredient_name: Cucumber (chopped & peeled)
+- amount: '2'
+  doze: shot
+  ingredient_name: Leblon cachaca
+- amount: '5'
+  doze: fresh
+  ingredient_name: Torn basil leaves

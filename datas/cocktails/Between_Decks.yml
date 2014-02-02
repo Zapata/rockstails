@@ -1,29 +1,32 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Between Decks
+method: SHAKE all ingredients with ice and strain into ice-filled glass.
+rate: 3.5
 garnish: Pineapple wedge, mint &amp; cherry
 glass: Collins
-infos: 
-  Comment: I've upped the ante on this drink with more gin and less fruit than the original - so beware.
-  Origin: Adapted from Victor Bergeron's 'Trader vic's Bartender's Guide' (1972 revised edition).
-  source: www.diffordsguide.com (545)
-ingredients: 
-- - "2 1/2 "
-  - shot
-  - Bombay London dry gin
-- - "1"
-  - shot
-  - Freshly squeezed orange juice
-- - "1"
-  - shot
-  - Ocean Spray cranberry juice
-- - " 1/2 "
-  - shot
-  - Freshly squeezed lime juice
-- - " 1/4 "
-  - shot
-  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
-- - " 1/2 "
-  - shot
-  - Chilled mineral water
-method: SHAKE all ingredients with ice and strain into ice-filled glass.
-name: Between Decks
-rate: 3.5
+comment: I've upped the ante on this drink with more gin and less fruit than the original
+  - so beware.
+aka: 
+variant: 
+origin: Adapted from Victor Bergeron's 'Trader vic's Bartender's Guide' (1972 revised
+  edition).
+source: www.diffordsguide.com (545)
+recipe_steps:
+- amount: '1'
+  doze: shot
+  ingredient_name: Ocean Spray cranberry juice
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Freshly squeezed lime juice
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Chilled mineral water
+- amount: '1'
+  doze: shot
+  ingredient_name: Freshly squeezed orange juice
+- amount: '2 1/2 '
+  doze: shot
+  ingredient_name: Bombay London dry gin

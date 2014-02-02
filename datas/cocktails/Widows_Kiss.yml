@@ -1,23 +1,27 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Widow's Kiss
+method: STIR all ingredients with ice and fine strain into chilled glass.
+rate: 5.0
 garnish: Mint leaf
 glass: Martini
-infos: 
-  Comment: Fantastically herbal with hints of apple, mint and eucalyptus. This classic is often made with green Chartreuse - I prefer mine with half yellow and half green and dare I say shaken.<br /><br />
-  Origin: Created before 1895 by George Kappeler at New York City's Holland House. <br /><br />
-  source: www.diffordsguide.com (2098)
-ingredients: 
-- - "1 1/2 "
-  - shot
-  - Boulard Grand Solage calvados
-- - " 3/4 "
-  - shot
-  - Bénédictine D.O.M.
-- - " 3/4 "
-  - shot
-  - Chartreuse Yellow liqueur
-- - "2"
-  - dash
-  - Angostura aromatic bitters
-method: STIR all ingredients with ice and fine strain into chilled glass.
-name: Widow's Kiss
-rate: 5.0
+comment: Fantastically herbal with hints of apple, mint and eucalyptus. This classic
+  is often made with green Chartreuse - I prefer mine with half yellow and half green
+  and dare I say shaken.<br /><br />
+aka: 
+variant: 
+origin: Created before 1895 by George Kappeler at New York City's Holland House. <br
+  /><br />
+source: www.diffordsguide.com (2098)
+recipe_steps:
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Boulard Grand Solage calvados
+- amount: '2'
+  doze: dash
+  ingredient_name: Angostura aromatic bitters
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Bénédictine D.O.M.
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Chartreuse Yellow liqueur

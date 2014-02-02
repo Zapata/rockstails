@@ -1,21 +1,22 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Arnold Palmer (Mocktail)
+method: SHAKE all ingredients with ice and strain into ice-filled glass.
+rate: 4.0
 garnish: Lemon slice
 glass: Collins
-infos: 
-  Comment: Real lemon iced tea. Balanced and wonderfully refreshing.
-  Origin: A popular drink throughout the United States. Named after and said to be a favourite of the legendary golfer.
-  Variant: Tom Arnold, John Daly
-  source: www.diffordsguide.com (2142)
-ingredients: 
-- - "3"
-  - shot
-  - Cold English breakfast tea
-- - "2"
-  - shot
-  - Freshly squeezed lemon juice
-- - "1"
-  - shot
-  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
-method: SHAKE all ingredients with ice and strain into ice-filled glass.
-name: Arnold Palmer (Mocktail)
-rate: 4.0
+comment: Real lemon iced tea. Balanced and wonderfully refreshing.
+aka: 
+variant: Tom Arnold, John Daly
+origin: A popular drink throughout the United States. Named after and said to be a
+  favourite of the legendary golfer.
+source: www.diffordsguide.com (2142)
+recipe_steps:
+- amount: '2'
+  doze: shot
+  ingredient_name: Freshly squeezed lemon juice
+- amount: '1'
+  doze: shot
+  ingredient_name: Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- amount: '3'
+  doze: shot
+  ingredient_name: Cold English breakfast tea

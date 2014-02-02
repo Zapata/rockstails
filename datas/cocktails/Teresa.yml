@@ -1,20 +1,22 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Teresa
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 3.0
 garnish: Lime wedge<br />
 glass: Martini
-infos: 
-  Comment: Bold, sweet and sour.
-  Origin: Created by Rafael Ballesteros of Spain, this recipe is taken from The Joy of Mixology by Gary Regan. <br />
-  source: www.diffordsguide.com (2754)
-ingredients: 
-- - "2"
-  - shot
-  - Campari Bitter
-- - " 3/4 "
-  - shot
-  - "Cr\xE8me de cassis liqueur"
-- - "1"
-  - shot
-  - Freshly squeezed lime juice
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: Teresa
-rate: 3.0
+comment: Bold, sweet and sour.
+aka: 
+variant: 
+origin: Created by Rafael Ballesteros of Spain, this recipe is taken from The Joy
+  of Mixology by Gary Regan. <br />
+source: www.diffordsguide.com (2754)
+recipe_steps:
+- amount: '1'
+  doze: shot
+  ingredient_name: Freshly squeezed lime juice
+- amount: '2'
+  doze: shot
+  ingredient_name: Campari Bitter
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Crème de cassis liqueur

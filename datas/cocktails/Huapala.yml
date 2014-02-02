@@ -1,26 +1,29 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Huapala
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 4.0
 garnish: Lemon wedge on rim
 glass: Martini
-infos: 
-  Comment: In his book Vic prefaces this cocktail with the comment, "Nice, easy drink". It's basically a lemon Daiquiri with gin and grenadine.<br /><br />
-  Origin: Adapted from Victor Bergeron's 'Trader Vic's Bartender's Guide' (1972 revised edition).<br /><br />
-  source: www.diffordsguide.com (2183)
-ingredients: 
-- - "1"
-  - shot
-  - Bacardi Superior rum
-- - "1"
-  - shot
-  - Bombay London dry gin
-- - " 1/2 "
-  - shot
-  - Freshly squeezed lemon juice
-- - " 1/4 "
-  - shot
-  - Pomegranate (grenadine) syrup
-- - " 1/2 "
-  - shot
-  - Chilled mineral water
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: Huapala
-rate: 4.0
+comment: In his book Vic prefaces this cocktail with the comment, "Nice, easy drink".
+  It's basically a lemon Daiquiri with gin and grenadine.<br /><br />
+aka: 
+variant: 
+origin: Adapted from Victor Bergeron's 'Trader Vic's Bartender's Guide' (1972 revised
+  edition).<br /><br />
+source: www.diffordsguide.com (2183)
+recipe_steps:
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Freshly squeezed lemon juice
+- amount: '1'
+  doze: shot
+  ingredient_name: Bacardi Superior rum
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Chilled mineral water
+- amount: '1'
+  doze: shot
+  ingredient_name: Bombay London dry gin
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Pomegranate (grenadine) syrup

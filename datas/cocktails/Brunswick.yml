@@ -1,23 +1,27 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Brunswick
+method: SHAKE first 3 ingredients with ice and fine strain into ice-filled glass.
+  FLOAT claret on drink.
+rate: 4.5
 garnish: Orange slice &amp; cherry on stick (sail)
 glass: Old-fashioned
-infos: 
-  Comment: Has the good looks and also the flavour profile to back them up.
-  Origin: Recipe adapted from the 1935 'The Old Waldorf-Astoria Bar Book' in which Albert S. Crocket writes of this drink, "Invented at the Old Hotel Brunswick, once a resort for Fashion, and situated on the north side of Madison Square."
-  source: www.diffordsguide.com (2615)
-ingredients: 
-- - "2"
-  - shot
-  - Rye whiskey
-- - " 3/4 "
-  - shot
-  - Freshly squeezed lemon juice
-- - " 1/2 "
-  - shot
-  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
-- - " 3/4 "
-  - shot
-  - Claret red wine
-method: SHAKE first 3 ingredients with ice and fine strain into ice-filled glass. FLOAT claret on drink.
-name: Brunswick
-rate: 4.5
+comment: Has the good looks and also the flavour profile to back them up.
+aka: 
+variant: 
+origin: Recipe adapted from the 1935 'The Old Waldorf-Astoria Bar Book' in which Albert
+  S. Crocket writes of this drink, "Invented at the Old Hotel Brunswick, once a resort
+  for Fashion, and situated on the north side of Madison Square."
+source: www.diffordsguide.com (2615)
+recipe_steps:
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Freshly squeezed lemon juice
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- amount: '2'
+  doze: shot
+  ingredient_name: Rye whiskey
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Claret red wine

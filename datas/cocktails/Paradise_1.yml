@@ -1,23 +1,25 @@
---- !ruby/object:DirtyCocktail 
+---
+name: 'Paradise #1'
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 3.5
 garnish: Orange zest twist
 glass: Martini
-infos: 
-  Comment: Orange predominates in this strong complex cocktail.
-  Origin: Proportioned according to a recipe in the 1930 edition of the Savoy Cocktail Book by Harry Craddock.
-  source: www.diffordsguide.com (1466)
-ingredients: 
-- - "2"
-  - shot
-  - Bombay London dry gin
-- - "1"
-  - shot
-  - Bols apricot brandy liqueur
-- - "1"
-  - shot
-  - Freshly squeezed orange juice
-- - " 1/4 "
-  - shot
-  - Freshly squeezed lemon juice
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: "Paradise #1"
-rate: 3.5
+comment: Orange predominates in this strong complex cocktail.
+aka: 
+variant: 
+origin: Proportioned according to a recipe in the 1930 edition of the Savoy Cocktail
+  Book by Harry Craddock.
+source: www.diffordsguide.com (1466)
+recipe_steps:
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Freshly squeezed lemon juice
+- amount: '1'
+  doze: shot
+  ingredient_name: Bols apricot brandy liqueur
+- amount: '1'
+  doze: shot
+  ingredient_name: Freshly squeezed orange juice
+- amount: '2'
+  doze: shot
+  ingredient_name: Bombay London dry gin

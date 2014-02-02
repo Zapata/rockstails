@@ -1,22 +1,25 @@
---- !ruby/object:DirtyCocktail 
+---
+name: 'Seabreeze #2 (Layered)'
+method: POUR cranberry juice into ice-filled glass. SHAKE other ingredients with ice
+  and carefully strain into glass to LAYER over the cranberry juice.
+rate: 3.5
 garnish: Lime wedge
 glass: Collins
-infos: 
-  Comment: This layered version requires mixing with straws before drinking.
-  source: www.diffordsguide.com (1806)
-ingredients: 
-- - "2"
-  - shot
-  - Ketel One vodka
-- - "3"
-  - shot
-  - Ocean Spray cranberry juice
-- - "1 1/2 "
-  - shot
-  - Freshly squeezed grapefruit juice
-- - " 1/2 "
-  - shot
-  - Freshly squeezed lime juice
-method: POUR cranberry juice into ice-filled glass. SHAKE other ingredients with ice and carefully strain into glass to LAYER over the cranberry juice.
-name: "Seabreeze #2 (Layered)"
-rate: 3.5
+comment: This layered version requires mixing with straws before drinking.
+aka: 
+variant: 
+origin: 
+source: www.diffordsguide.com (1806)
+recipe_steps:
+- amount: '3'
+  doze: shot
+  ingredient_name: Ocean Spray cranberry juice
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Freshly squeezed lime juice
+- amount: '2'
+  doze: shot
+  ingredient_name: Ketel One vodka
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Freshly squeezed grapefruit juice

@@ -1,23 +1,24 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Zingy Ginger Martini
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 4.0
 garnish: Lemon zest twist
 glass: Martini
-infos: 
-  Comment: It sure is both zingy and gingery.
-  Origin: Created in 2001 by Reece Clark at Hush Up, London, England.
-  source: www.diffordsguide.com (2128)
-ingredients: 
-- - "2 1/2 "
-  - shot
-  - Ketel One Citroen vodka
-- - " 1/2 "
-  - shot
-  - Monin Ginger syrup
-- - " 1/2 "
-  - shot
-  - Freshly squeezed lemon juice
-- - " 1/2 "
-  - shot
-  - Chilled mineral water
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: Zingy Ginger Martini
-rate: 4.0
+comment: It sure is both zingy and gingery.
+aka: 
+variant: 
+origin: Created in 2001 by Reece Clark at Hush Up, London, England.
+source: www.diffordsguide.com (2128)
+recipe_steps:
+- amount: '2 1/2 '
+  doze: shot
+  ingredient_name: Ketel One Citroen vodka
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Freshly squeezed lemon juice
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Chilled mineral water
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Monin Ginger syrup

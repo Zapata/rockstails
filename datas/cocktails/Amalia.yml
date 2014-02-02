@@ -1,30 +1,35 @@
---- !ruby/object:DirtyCocktail 
-garnish: " Pineapple foam"
-glass: Coupette
-infos: 
-  Comment: |-
-    <span ;mso-bidi-font-family:georgia;="" lang="EN-US" mso-ansi-language:en-us;mso-fareast-language:en-us;mso-bidi-language:en-us="" new="" roman="" times="">Sip
-    a gooseberry and mint influenced lemon Daiquiri though a foam topping.</span>
-  Origin: " <span ;mso-bidi-font-family:georgia;=\"\" lang=\"EN-US\" mso-ansi-language:en-us;mso-fareast-language:en-us;mso-bidi-language:en-us=\"\" new=\"\" roman=\"\" times=\"\">Created\r\n\
-    in 2008 by Sam Dean, Mobar, <st1:place w:st=\"on\"><st1:city w:st=\"on\">Nottingham</st1:city>,\r\n <st1:country-region w:st=\"on\">England</st1:country-region></st1:place>.</span>"
-  source: www.diffordsguide.com (2239)
-ingredients: 
-- - "2"
-  - shot
-  - Bacardi Superior rum
-- - " 3/4 "
-  - shot
-  - Freshly squeezed lemon juice
-- - " 1/4 "
-  - shot
-  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
-- - "1"
-  - shot
-  - Sauvignon blanc wine
-- - " 1/8 "
-  - shot
-  - Gooseberry & mint cordial
-method: " <span ;mso-bidi-font-family:georgia;=\"\" lang=\"EN-US\" mso-ansi-language:en-us;mso-fareast-language:en-us;mso-bidi-language:en-us=\"\" new=\"\" roman=\"\" times=\"\">SHAKE\r\n\
-  all ingredients with ice and fine strain into chilled glass."
+---
 name: Amalia
+method: " <span ;mso-bidi-font-family:georgia;=\"\" lang=\"EN-US\" mso-ansi-language:en-us;mso-fareast-language:en-us;mso-bidi-language:en-us=\"\"
+  new=\"\" roman=\"\" times=\"\">SHAKE\r\nall ingredients with ice and fine strain
+  into chilled glass."
 rate: 4.0
+garnish: ' Pineapple foam'
+glass: Coupette
+comment: |-
+  <span ;mso-bidi-font-family:georgia;="" lang="EN-US" mso-ansi-language:en-us;mso-fareast-language:en-us;mso-bidi-language:en-us="" new="" roman="" times="">Sip
+
+  a gooseberry and mint influenced lemon Daiquiri though a foam topping.</span>
+aka: 
+variant: 
+origin: " <span ;mso-bidi-font-family:georgia;=\"\" lang=\"EN-US\" mso-ansi-language:en-us;mso-fareast-language:en-us;mso-bidi-language:en-us=\"\"
+  new=\"\" roman=\"\" times=\"\">Created\r\nin 2008 by Sam Dean, Mobar, <st1:place
+  w:st=\"on\"><st1:city w:st=\"on\">Nottingham</st1:city>,\r\n <st1:country-region
+  w:st=\"on\">England</st1:country-region></st1:place>.</span>"
+source: www.diffordsguide.com (2239)
+recipe_steps:
+- amount: '1'
+  doze: shot
+  ingredient_name: Sauvignon blanc wine
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Freshly squeezed lemon juice
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- amount: '2'
+  doze: shot
+  ingredient_name: Bacardi Superior rum
+- amount: ' 1/8 '
+  doze: shot
+  ingredient_name: Gooseberry & mint cordial

@@ -1,26 +1,28 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Cucumber & Mint Martini
+method: MUDDLE cucumber and mint in base of shaker. Add other ingredients, SHAKE with
+  ice and fine strain into chilled glass.
+rate: 4.0
 garnish: Cucumber slice
 glass: Martini
-infos: 
-  Comment: A well balanced fortified salad in a glass - almost healthy.
-  Origin: Created in 2004 by David Ramos in the Netherlands.
-  source: www.diffordsguide.com (500)
-ingredients: 
-- - "2"
-  - inch
-  - Cucumber (chopped & peeled)
-- - "7"
-  - fresh
-  - Mint leaves
-- - "2"
-  - shot
-  - Ketel One vodka
-- - "1"
-  - shot
-  - Pressed apple juice
-- - " 1/4 "
-  - shot
-  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
-method: MUDDLE cucumber and mint in base of shaker. Add other ingredients, SHAKE with ice and fine strain into chilled glass.
-name: Cucumber & Mint Martini
-rate: 4.0
+comment: A well balanced fortified salad in a glass - almost healthy.
+aka: 
+variant: 
+origin: Created in 2004 by David Ramos in the Netherlands.
+source: www.diffordsguide.com (500)
+recipe_steps:
+- amount: '7'
+  doze: fresh
+  ingredient_name: Mint leaves
+- amount: '2'
+  doze: shot
+  ingredient_name: Ketel One vodka
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- amount: '1'
+  doze: shot
+  ingredient_name: Pressed apple juice
+- amount: '2'
+  doze: inch
+  ingredient_name: Cucumber (chopped & peeled)

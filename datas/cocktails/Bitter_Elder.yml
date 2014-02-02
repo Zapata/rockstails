@@ -1,26 +1,29 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Bitter Elder
+method: SHAKE all ingredients with ice and strain into ice-filled glass.
+rate: 3.5
 garnish: Lemon wedge
 glass: Collins
-infos: 
-  Comment: The eponymous elderflower is well balanced with the other ingredients to make a dry refreshing long drink.
-  Origin: Adapted from a short drink created in 2005 by Tonin Kacaj at Maze, London, England.
-  source: www.diffordsguide.com (219)
-ingredients: 
-- - "2"
-  - shot
-  - Bombay London dry gin
-- - "1"
-  - shot
-  - St-Germain elderflower liqueur
-- - "2"
-  - shot
-  - Pressed apple juice
-- - " 3/4 "
-  - shot
-  - Freshly squeezed lemon juice
-- - "3"
-  - dash
-  - Angostura aromatic bitters
-method: SHAKE all ingredients with ice and strain into ice-filled glass.
-name: Bitter Elder
-rate: 3.5
+comment: The eponymous elderflower is well balanced with the other ingredients to
+  make a dry refreshing long drink.
+aka: 
+variant: 
+origin: Adapted from a short drink created in 2005 by Tonin Kacaj at Maze, London,
+  England.
+source: www.diffordsguide.com (219)
+recipe_steps:
+- amount: '1'
+  doze: shot
+  ingredient_name: St-Germain elderflower liqueur
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Freshly squeezed lemon juice
+- amount: '2'
+  doze: shot
+  ingredient_name: Pressed apple juice
+- amount: '2'
+  doze: shot
+  ingredient_name: Bombay London dry gin
+- amount: '3'
+  doze: dash
+  ingredient_name: Angostura aromatic bitters

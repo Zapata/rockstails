@@ -1,25 +1,28 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Venus Martini
+method: MUDDLE raspberries in base of shaker. Add other ingredients, SHAKE with ice
+  and fine strain into chilled glass.
+rate: 4.0
 garnish: Raspberry in drink
 glass: Martini
-infos: 
-  Comment: Raspberry with hints of bitter orange and gin - surprisingly dry.
-  source: www.diffordsguide.com (2042)
-ingredients: 
-- - "7"
-  - fresh
-  - Raspberries
-- - "2"
-  - shot
-  - Bombay London dry gin
-- - "1"
-  - shot
-  - Cointreau triple sec
-- - " 1/4 "
-  - shot
-  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
-- - "3"
-  - dash
-  - Peychaud's aromatic bitters
-method: MUDDLE raspberries in base of shaker. Add other ingredients, SHAKE with ice and fine strain into chilled glass.
-name: Venus Martini
-rate: 4.0
+comment: Raspberry with hints of bitter orange and gin - surprisingly dry.
+aka: 
+variant: 
+origin: 
+source: www.diffordsguide.com (2042)
+recipe_steps:
+- amount: '1'
+  doze: shot
+  ingredient_name: Cointreau triple sec
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- amount: '2'
+  doze: shot
+  ingredient_name: Bombay London dry gin
+- amount: '7'
+  doze: fresh
+  ingredient_name: Raspberries
+- amount: '3'
+  doze: dash
+  ingredient_name: Peychaud's aromatic bitters

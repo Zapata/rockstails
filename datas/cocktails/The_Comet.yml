@@ -1,23 +1,26 @@
---- !ruby/object:DirtyCocktail 
+---
+name: The Comet
+method: MUDDLE grapes in base of shaker. Add other ingredients, SHAKE with ice and
+  fine strain into chilled glass.
+rate: 4.5
 garnish: Lemon zest twist
 glass: Martini
-infos: 
-  Comment: Cognac with freshly extracted grape juice and a splash of orange liqueur.
-  Origin: Created by Eddie Clark at the Albany Club, Albermarle Street, London, to celebrate the launch of the Comet jetliner in 1952.
-  source: www.diffordsguide.com (588)
-ingredients: 
-- - "7"
-  - fresh
-  - Seedless white grapes
-- - "2"
-  - shot
-  - Courvoisier V.S.O.P cognac
-- - " 3/4 "
-  - shot
-  - Grand Marnier liqueur
-- - "1"
-  - dash
-  - Angostura aromatic bitters
-method: MUDDLE grapes in base of shaker. Add other ingredients, SHAKE with ice and fine strain into chilled glass.
-name: The Comet
-rate: 4.5
+comment: Cognac with freshly extracted grape juice and a splash of orange liqueur.
+aka: 
+variant: 
+origin: Created by Eddie Clark at the Albany Club, Albermarle Street, London, to celebrate
+  the launch of the Comet jetliner in 1952.
+source: www.diffordsguide.com (588)
+recipe_steps:
+- amount: '1'
+  doze: dash
+  ingredient_name: Angostura aromatic bitters
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Grand Marnier liqueur
+- amount: '2'
+  doze: shot
+  ingredient_name: Courvoisier V.S.O.P cognac
+- amount: '7'
+  doze: fresh
+  ingredient_name: Seedless white grapes

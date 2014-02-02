@@ -1,25 +1,27 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Mac Orange
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 3.5
 garnish: Orange zest twist
 glass: Old-fashioned
-infos: 
-  Comment: A Whiskey Mac with orange topping off the ginger.
-  source: www.diffordsguide.com (1213)
-ingredients: 
-- - "2"
-  - shot
-  - Johnnie Walker Scotch Whisky
-- - "1"
-  - shot
-  - Stone's green ginger wine
-- - "1"
-  - shot
-  - Freshly squeezed orange juice
-- - " 1/4 "
-  - shot
-  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
-- - "3"
-  - dash
-  - Angostura orange bitters
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: Mac Orange
-rate: 3.5
+comment: A Whiskey Mac with orange topping off the ginger.
+aka: 
+variant: 
+origin: 
+source: www.diffordsguide.com (1213)
+recipe_steps:
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- amount: '1'
+  doze: shot
+  ingredient_name: Freshly squeezed orange juice
+- amount: '3'
+  doze: dash
+  ingredient_name: Angostura orange bitters
+- amount: '2'
+  doze: shot
+  ingredient_name: Johnnie Walker Scotch Whisky
+- amount: '1'
+  doze: shot
+  ingredient_name: Stone's green ginger wine

@@ -1,27 +1,31 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Southside Royale
+method: Lightly MUDDLE (just to bruise) mint in base of shaker. Add next 3 ingredients,
+  SHAKE with ice and fine strain into chilled glass. TOP with a splash of champagne.
+rate: 4.0
 garnish: Mint leaf
 glass: Martini
-infos: 
-  Comment: A White Lady with fresh mint and champagne
-  Origin: Created during Prohibition, either at a New York City speakeasy called Jack &amp; Charlie's, or at Manhattan's Stork Club, or by Chicago's Southside gang to make their bootleg liquor more palatable.
-  Variant: Topped with soda (from a siphon, please) in place of champagne this becomes a mere 'Southside'.
-  source: www.diffordsguide.com (1849)
-ingredients: 
-- - "7"
-  - fresh
-  - Mint leaves
-- - "2"
-  - shot
-  - Bombay London dry gin
-- - "1"
-  - shot
-  - Freshly squeezed lemon juice
-- - " 1/2 "
-  - shot
-  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
-- - "1"
-  - top up with
-  - Perrier Jouet brut champagne
-method: Lightly MUDDLE (just to bruise) mint in base of shaker. Add next 3 ingredients, SHAKE with ice and fine strain into chilled glass. TOP with a splash of champagne.
-name: Southside Royale
-rate: 4.0
+comment: A White Lady with fresh mint and champagne
+aka: 
+variant: Topped with soda (from a siphon, please) in place of champagne this becomes
+  a mere 'Southside'.
+origin: Created during Prohibition, either at a New York City speakeasy called Jack
+  &amp; Charlie's, or at Manhattan's Stork Club, or by Chicago's Southside gang to
+  make their bootleg liquor more palatable.
+source: www.diffordsguide.com (1849)
+recipe_steps:
+- amount: '7'
+  doze: fresh
+  ingredient_name: Mint leaves
+- amount: '1'
+  doze: shot
+  ingredient_name: Freshly squeezed lemon juice
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- amount: '2'
+  doze: shot
+  ingredient_name: Bombay London dry gin
+- amount: '1'
+  doze: top up with
+  ingredient_name: Perrier Jouet brut champagne

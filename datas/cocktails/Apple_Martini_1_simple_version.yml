@@ -1,21 +1,22 @@
---- !ruby/object:DirtyCocktail 
+---
+name: 'Apple Martini #1 (simple version)'
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 4.0
 garnish: Cherry in base of glass
 glass: Martini
-infos: 
-  Comment: This is subtitled the simple version for good reason but, if freshly pressed juice is used, it's as good if not better than other Apple Martini recipes.
-  Origin: Formula by Simon Difford in 2004.
-  Variant: Sour Apple Martini, Caramelised Apple Martini
-  source: www.diffordsguide.com (81)
-ingredients: 
-- - "2"
-  - shot
-  - Ketel One vodka
-- - "2"
-  - shot
-  - Pressed apple juice
-- - " 1/4 "
-  - shot
-  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: "Apple Martini #1 (simple version)"
-rate: 4.0
+comment: This is subtitled the simple version for good reason but, if freshly pressed
+  juice is used, it's as good if not better than other Apple Martini recipes.
+aka: 
+variant: Sour Apple Martini, Caramelised Apple Martini
+origin: Formula by Simon Difford in 2004.
+source: www.diffordsguide.com (81)
+recipe_steps:
+- amount: '2'
+  doze: shot
+  ingredient_name: Ketel One vodka
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- amount: '2'
+  doze: shot
+  ingredient_name: Pressed apple juice

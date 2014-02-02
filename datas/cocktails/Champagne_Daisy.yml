@@ -1,22 +1,25 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Champagne Daisy
+method: SHAKE first 3 ingredients with ice and fine strain into chilled glass, TOP
+  with champagne.
+rate: 3.0
 garnish: Pomegranate wedge
 glass: Flute
-infos: 
-  Comment: You'll need to like Chartreuse and citrus champagne to appreciate this drink.
-  source: www.diffordsguide.com (395)
-ingredients: 
-- - "1"
-  - shot
-  - Chartreuse Yellow liqueur
-- - " 1/8 "
-  - shot
-  - Pomegranate (grenadine) syrup
-- - "1"
-  - shot
-  - Freshly squeezed lemon juice
-- - "1"
-  - top up with
-  - Perrier Jouet brut champagne
-method: SHAKE first 3 ingredients with ice and fine strain into chilled glass, TOP with champagne.
-name: Champagne Daisy
-rate: 3.0
+comment: You'll need to like Chartreuse and citrus champagne to appreciate this drink.
+aka: 
+variant: 
+origin: 
+source: www.diffordsguide.com (395)
+recipe_steps:
+- amount: '1'
+  doze: shot
+  ingredient_name: Freshly squeezed lemon juice
+- amount: ' 1/8 '
+  doze: shot
+  ingredient_name: Pomegranate (grenadine) syrup
+- amount: '1'
+  doze: top up with
+  ingredient_name: Perrier Jouet brut champagne
+- amount: '1'
+  doze: shot
+  ingredient_name: Chartreuse Yellow liqueur

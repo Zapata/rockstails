@@ -1,29 +1,30 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Mule's Hind Leg
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 4.5
 garnish: Apricot slice on rim
 glass: Martini
-infos: 
-  Comment: Apricot and maple syrup dominate this medium sweet drink.
-  Origin: My version of a classic 1920's recipe.
-  source: www.diffordsguide.com (1378)
-ingredients: 
-- - "1"
-  - shot
-  - Bombay London dry gin
-- - "1"
-  - shot
-  - Bénédictine D.O.M.
-- - "1"
-  - shot
-  - Boulard Grand Solage calvados
-- - " 3/4 "
-  - shot
-  - Bols apricot brandy liqueur
-- - " 1/4 "
-  - shot
-  - Maple syrup
-- - " 1/2 "
-  - shot
-  - Chilled mineral water
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: Mule's Hind Leg
-rate: 4.5
+comment: Apricot and maple syrup dominate this medium sweet drink.
+aka: 
+variant: 
+origin: My version of a classic 1920's recipe.
+source: www.diffordsguide.com (1378)
+recipe_steps:
+- amount: '1'
+  doze: shot
+  ingredient_name: Boulard Grand Solage calvados
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Bols apricot brandy liqueur
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Chilled mineral water
+- amount: '1'
+  doze: shot
+  ingredient_name: Bombay London dry gin
+- amount: '1'
+  doze: shot
+  ingredient_name: Bénédictine D.O.M.
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Maple syrup

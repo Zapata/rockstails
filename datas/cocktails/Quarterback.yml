@@ -1,22 +1,24 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Quarterback
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 4.0
 garnish: Orange zest twist
 glass: Martini
-infos: 
-  Comment: This white, creamy drink has a flavoursome bite.
-  source: www.diffordsguide.com (1622)
-ingredients: 
-- - "1"
-  - shot
-  - Chartreuse Yellow liqueur
-- - "1"
-  - shot
-  - Cointreau triple sec
-- - "1"
-  - shot
-  - Double (heavy) cream
-- - "1"
-  - shot
-  - Milk
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: Quarterback
-rate: 4.0
+comment: This white, creamy drink has a flavoursome bite.
+aka: 
+variant: 
+origin: 
+source: www.diffordsguide.com (1622)
+recipe_steps:
+- amount: '1'
+  doze: shot
+  ingredient_name: Cointreau triple sec
+- amount: '1'
+  doze: shot
+  ingredient_name: Double (heavy) cream
+- amount: '1'
+  doze: shot
+  ingredient_name: Milk
+- amount: '1'
+  doze: shot
+  ingredient_name: Chartreuse Yellow liqueur

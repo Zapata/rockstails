@@ -1,26 +1,29 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Easy Tiger
+method: MUDDLE ginger in base of shaker. Add honey and tequila, and STIR until honey
+  is dissolved. Add other ingredients, SHAKE with ice and fine strain into chilled
+  glass.
+rate: 4.0
 garnish: Orange zest twist
 glass: Martini
-infos: 
-  Comment: Tangy and zesty with rich honey and ginger.
-  Origin: Created in 1999 by Alex Kammerling.
-  source: www.diffordsguide.com (692)
-ingredients: 
-- - "2"
-  - slice
-  - Fresh root ginger (thumbnail sized)
-- - "2"
-  - spoon
-  - Runny honey
-- - "2"
-  - shot
-  - Herradura 100% agave tequila
-- - "1"
-  - shot
-  - Freshly squeezed lime juice
-- - " 3/4 "
-  - shot
-  - Chilled mineral water
-method: MUDDLE ginger in base of shaker. Add honey and tequila, and STIR until honey is dissolved. Add other ingredients, SHAKE with ice and fine strain into chilled glass.
-name: Easy Tiger
-rate: 4.0
+comment: Tangy and zesty with rich honey and ginger.
+aka: 
+variant: 
+origin: Created in 1999 by Alex Kammerling.
+source: www.diffordsguide.com (692)
+recipe_steps:
+- amount: '1'
+  doze: shot
+  ingredient_name: Freshly squeezed lime juice
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Chilled mineral water
+- amount: '2'
+  doze: spoon
+  ingredient_name: Runny honey
+- amount: '2'
+  doze: shot
+  ingredient_name: Herradura 100% agave tequila
+- amount: '2'
+  doze: slice
+  ingredient_name: Fresh root ginger (thumbnail sized)

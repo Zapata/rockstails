@@ -1,20 +1,23 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Geisha Mar-Tea-Knee
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 4.0
 garnish: Open tea pearl
 glass: Martini
-infos: 
-  Comment: Surprisingly fresh and light, this starts slightly sweet but finishes with refreshing bitter tannins. Tea pearls - hand-rolled balls of tea leaves -<br />make a wonderful garnish.<br _moz_editor_bogus_node="TRUE" />
-  Origin: Created in the USA in 2006.
-  source: www.diffordsguide.com (2667)
-ingredients: 
-- - "1 1/2 "
-  - shot
-  - Bombay London dry gin
-- - " 3/4 "
-  - shot
-  - Zen green tea liqueur
-- - "1"
-  - shot
-  - Cold jasmine tea
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: Geisha Mar-Tea-Knee
-rate: 4.0
+comment: Surprisingly fresh and light, this starts slightly sweet but finishes with
+  refreshing bitter tannins. Tea pearls - hand-rolled balls of tea leaves -<br />make
+  a wonderful garnish.<br _moz_editor_bogus_node="TRUE" />
+aka: 
+variant: 
+origin: Created in the USA in 2006.
+source: www.diffordsguide.com (2667)
+recipe_steps:
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Bombay London dry gin
+- amount: '1'
+  doze: shot
+  ingredient_name: Cold jasmine tea
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Zen green tea liqueur

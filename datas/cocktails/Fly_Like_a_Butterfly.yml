@@ -1,23 +1,25 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Fly Like a Butterfly
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 4.0
 garnish: Orange zest twist
 glass: Martini
-infos: 
-  Comment: This light, aromatic, sweet and sour beauty has a grown-up, quinine-rich flavour but lacks the 'sting like a bee' finish.
-  Origin: My take on a classic called a 'Lovely Butterfly'.
-  source: www.diffordsguide.com (773)
-ingredients: 
-- - "1 1/2 "
-  - shot
-  - Noilly Prat dry vermouth
-- - "1 1/2 "
-  - shot
-  - Martini Rosso sweet vermouth
-- - " 3/4 "
-  - shot
-  - Dubonnet Red (French made)
-- - " 3/4 "
-  - shot
-  - Freshly squeezed orange juice
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: Fly Like a Butterfly
-rate: 4.0
+comment: This light, aromatic, sweet and sour beauty has a grown-up, quinine-rich
+  flavour but lacks the 'sting like a bee' finish.
+aka: 
+variant: 
+origin: My take on a classic called a 'Lovely Butterfly'.
+source: www.diffordsguide.com (773)
+recipe_steps:
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Dubonnet Red (French made)
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Noilly Prat dry vermouth
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Freshly squeezed orange juice
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Martini Rosso sweet vermouth

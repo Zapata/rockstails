@@ -1,26 +1,30 @@
---- !ruby/object:DirtyCocktail 
+---
+name: London Scramble
+method: SHAKE first 4 ingredients with ice and fine strain into glass filled with
+  crushed ice. DRIZZLE crème de m^ure over drink (will slowly bleed through the cocktail).<br
+  /><br />
+rate: 4.0
 garnish: Lemon zest twist Spiral &amp; 3 blackberries
 glass: Old-fashioned
-infos: 
-  Comment: A tequila Bramble of which I'm sure Dick would be most approving.
-  Origin: Created in 2007 by Dre Masso &amp; Henry Besant from the World Wide Cocktail Club, London. <br /><br />
-  source: www.diffordsguide.com (2471)
-ingredients: 
-- - "2"
-  - shot
-  - Herradura 100% agave tequila
-- - " 1/2 "
-  - shot
-  - Freshly squeezed lemon juice
-- - " 1/2 "
-  - shot
-  - Freshly squeezed lime juice
-- - " 1/2 "
-  - shot
-  - Agave nectar
-- - " 1/4 "
-  - shot
-  - "Cr\xE8me de M\xFBre liqueur"
-method: SHAKE first 4 ingredients with ice and fine strain into glass filled with crushed ice. DRIZZLE crème de m^ure over drink (will slowly bleed through the cocktail).<br /><br />
-name: London Scramble
-rate: 4.0
+comment: A tequila Bramble of which I'm sure Dick would be most approving.
+aka: 
+variant: 
+origin: Created in 2007 by Dre Masso &amp; Henry Besant from the World Wide Cocktail
+  Club, London. <br /><br />
+source: www.diffordsguide.com (2471)
+recipe_steps:
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Freshly squeezed lime juice
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Freshly squeezed lemon juice
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Crème de Mûre liqueur
+- amount: '2'
+  doze: shot
+  ingredient_name: Herradura 100% agave tequila
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Agave nectar

@@ -1,26 +1,28 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Aphrodisiac
+method: MUDDLE ginger in base of shaker. Add other ingredients, SHAKE with ice and
+  fine strain into ice-filled glass.
+rate: 3.0
 garnish: Apple slice on rim
 glass: Collins
-infos: 
-  Comment: As strong in flavour as it is high in alcohol.
-  Origin: Created in 2002 by Yannick Miseriaux at The Fifth Floor Bar, London, England.
-  source: www.diffordsguide.com (65)
-ingredients: 
-- - "2"
-  - slice
-  - Fresh root ginger (thumbnail sized)
-- - "2"
-  - shot
-  - Vanilla-infused Ketel One vodka
-- - " 1/2 "
-  - shot
-  - Chartreuse Green liqueur
-- - "2 1/2 "
-  - shot
-  - Pressed apple juice
-- - "1 1/2 "
-  - shot
-  - Sauvignon blanc wine
-method: MUDDLE ginger in base of shaker. Add other ingredients, SHAKE with ice and fine strain into ice-filled glass.
-name: Aphrodisiac
-rate: 3.0
+comment: As strong in flavour as it is high in alcohol.
+aka: 
+variant: 
+origin: Created in 2002 by Yannick Miseriaux at The Fifth Floor Bar, London, England.
+source: www.diffordsguide.com (65)
+recipe_steps:
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Sauvignon blanc wine
+- amount: '2 1/2 '
+  doze: shot
+  ingredient_name: Pressed apple juice
+- amount: '2'
+  doze: shot
+  ingredient_name: Vanilla-infused Ketel One vodka
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Chartreuse Green liqueur
+- amount: '2'
+  doze: slice
+  ingredient_name: Fresh root ginger (thumbnail sized)

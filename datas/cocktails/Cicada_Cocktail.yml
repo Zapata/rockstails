@@ -1,23 +1,25 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Cicada Cocktail
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 3.5
 garnish: Dust with freshly grated nutmeg
 glass: Martini
-infos: 
-  Comment: Smoothed whiskey with more than a hint of almond.
-  Origin: Those familiar with the Grasshopper cocktail (named for its green colour) will understand why this one is called the Cicada (they're a bit browner).
-  source: www.diffordsguide.com (432)
-ingredients: 
-- - "2"
-  - shot
-  - Maker's Mark bourbon
-- - "1"
-  - shot
-  - Luxardo Amaretto di Saschira
-- - " 1/2 "
-  - shot
-  - Double (heavy) cream
-- - " 3/4 "
-  - shot
-  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: Cicada Cocktail
-rate: 3.5
+comment: Smoothed whiskey with more than a hint of almond.
+aka: 
+variant: 
+origin: Those familiar with the Grasshopper cocktail (named for its green colour)
+  will understand why this one is called the Cicada (they're a bit browner).
+source: www.diffordsguide.com (432)
+recipe_steps:
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Double (heavy) cream
+- amount: '2'
+  doze: shot
+  ingredient_name: Maker's Mark bourbon
+- amount: '1'
+  doze: shot
+  ingredient_name: Luxardo Amaretto di Saschira

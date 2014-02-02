@@ -1,25 +1,28 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Raspberry Margarita
+method: MUDDLE raspberries in base of shaker. Add other ingredients, SHAKE with ice
+  and fine strain into chilled glass.
+rate: 4.0
 garnish: Lime wedge on rim
 glass: Coupette
-infos: 
-  Comment: Just as it says - a raspberry flavoured Margarita.
-  source: www.diffordsguide.com (1634)
-ingredients: 
-- - "7"
-  - fresh
-  - Raspberries
-- - "2"
-  - shot
-  - Herradura 100% agave tequila
-- - "1"
-  - shot
-  - Cointreau triple sec
-- - "1"
-  - shot
-  - Freshly squeezed lime juice
-- - " 1/8 "
-  - shot
-  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
-method: MUDDLE raspberries in base of shaker. Add other ingredients, SHAKE with ice and fine strain into chilled glass.
-name: Raspberry Margarita
-rate: 4.0
+comment: Just as it says - a raspberry flavoured Margarita.
+aka: 
+variant: 
+origin: 
+source: www.diffordsguide.com (1634)
+recipe_steps:
+- amount: '1'
+  doze: shot
+  ingredient_name: Cointreau triple sec
+- amount: '1'
+  doze: shot
+  ingredient_name: Freshly squeezed lime juice
+- amount: ' 1/8 '
+  doze: shot
+  ingredient_name: Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- amount: '2'
+  doze: shot
+  ingredient_name: Herradura 100% agave tequila
+- amount: '7'
+  doze: fresh
+  ingredient_name: Raspberries

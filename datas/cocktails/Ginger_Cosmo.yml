@@ -1,26 +1,28 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Ginger Cosmo
+method: SHAKE all ingredients with ice and fine strain into glass.
+rate: 4.0
 garnish: Slice of ginger on rim
 glass: Martini
-infos: 
-  Comment: Just what it says on the tin - your everyday Cosmo given extra vitality courtesy of a hint of ginger spice.
-  Origin: Emerged during 2002 in New York City.
-  source: www.diffordsguide.com (849)
-ingredients: 
-- - "2"
-  - shot
-  - Ketel One Citroen vodka
-- - " 3/4 "
-  - shot
-  - Domaine de Canton ginger liqueur
-- - "1 1/4 "
-  - shot
-  - Ocean Spray cranberry juice
-- - " 1/4 "
-  - shot
-  - Freshly squeezed lime juice
-- - " 1/8 "
-  - shot
-  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
-method: SHAKE all ingredients with ice and fine strain into glass.
-name: Ginger Cosmo
-rate: 4.0
+comment: Just what it says on the tin - your everyday Cosmo given extra vitality courtesy
+  of a hint of ginger spice.
+aka: 
+variant: 
+origin: Emerged during 2002 in New York City.
+source: www.diffordsguide.com (849)
+recipe_steps:
+- amount: '2'
+  doze: shot
+  ingredient_name: Ketel One Citroen vodka
+- amount: '1 1/4 '
+  doze: shot
+  ingredient_name: Ocean Spray cranberry juice
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Freshly squeezed lime juice
+- amount: ' 1/8 '
+  doze: shot
+  ingredient_name: Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Domaine de Canton ginger liqueur

@@ -1,25 +1,28 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Buena Vida
+method: SHAKE all ingredients with ice and strain into glass filled with crushed ice.
+rate: 4.5
 garnish: Pineapple wedge on rim
 glass: Old-fashioned
-infos: 
-  Comment: The fruits combine brilliantly with the tequila and spice comes courtesy of Angostura.
-  source: www.diffordsguide.com (332)
-ingredients: 
-- - "2"
-  - shot
-  - Herradura 100% agave tequila
-- - "1 3/4 "
-  - shot
-  - Freshly squeezed grapefruit juice
-- - " 3/4 "
-  - shot
-  - Fresh pressed pineapple juice
-- - "3"
-  - dash
-  - Angostura aromatic bitters
-- - " 1/2 "
-  - shot
-  - Monin Vanilla sugar syrup
-method: SHAKE all ingredients with ice and strain into glass filled with crushed ice.
-name: Buena Vida
-rate: 4.5
+comment: The fruits combine brilliantly with the tequila and spice comes courtesy
+  of Angostura.
+aka: 
+variant: 
+origin: 
+source: www.diffordsguide.com (332)
+recipe_steps:
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Fresh pressed pineapple juice
+- amount: '3'
+  doze: dash
+  ingredient_name: Angostura aromatic bitters
+- amount: '1 3/4 '
+  doze: shot
+  ingredient_name: Freshly squeezed grapefruit juice
+- amount: '2'
+  doze: shot
+  ingredient_name: Herradura 100% agave tequila
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Monin Vanilla sugar syrup

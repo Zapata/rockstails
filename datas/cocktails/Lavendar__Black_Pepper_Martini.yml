@@ -1,20 +1,24 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Lavendar & Black Pepper Martini
+method: Pour the syrup into an ice filled mixing glass. Add the vodka and black pepper.
+  STIR and super-fine strain into chilled glass.
+rate: 4.0
 garnish: 
 glass: Martini
-infos: 
-  Comment: Subtly sweetened and lavender flavoured vodka, with a bump and grind of spicy pepper.
-  Origin: Adapted from a recipe created in 2006 by Richard Gillam at the Kenilworth Hotel, Warwickshire, England.
-  source: www.diffordsguide.com (1128)
-ingredients: 
-- - "2 1/2 "
-  - shot
-  - Ketel One vodka
-- - " 1/4 "
-  - shot
-  - Monin Lavender sugar syrup
-- - "2"
-  - grind
-  - Black pepper
-method: Pour the syrup into an ice filled mixing glass. Add the vodka and black pepper. STIR and super-fine strain into chilled glass.
-name: Lavendar & Black Pepper Martini
-rate: 4.0
+comment: Subtly sweetened and lavender flavoured vodka, with a bump and grind of spicy
+  pepper.
+aka: 
+variant: 
+origin: Adapted from a recipe created in 2006 by Richard Gillam at the Kenilworth
+  Hotel, Warwickshire, England.
+source: www.diffordsguide.com (1128)
+recipe_steps:
+- amount: '2 1/2 '
+  doze: shot
+  ingredient_name: Ketel One vodka
+- amount: '2'
+  doze: grind
+  ingredient_name: Black pepper
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Monin Lavender sugar syrup

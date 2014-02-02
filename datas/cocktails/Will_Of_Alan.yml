@@ -1,29 +1,32 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Will Of Alan
+method: DRY SHAKE all ingredients without ice. Add ice, SHAKE again and strain into
+  ice-filled glass.<br /><br />
+rate: 4.5
 garnish: Lime wedge<br />
 glass: Old-fashioned
-infos: 
-  Comment: Fantastic, spiced, tiki-style twisted Daiquiri.<br _moz_editor_bogus_node="TRUE" />
-  Origin: Discovered in 2008 at Tonic, Edinburgh, Scotland.<br /><br />
-  source: www.diffordsguide.com (2609)
-ingredients: 
-- - "2"
-  - shot
-  - Zacapa aged rum
-- - " 1/2 "
-  - shot
-  - Velvet Falernum liqueur
-- - " 3/4 "
-  - shot
-  - Pineapple (fresh)
-- - " 3/4 "
-  - shot
-  - Freshly squeezed lime juice
-- - "2"
-  - dash
-  - Old-fashioned bitters
-- - " 1/4 "
-  - fresh
-  - Egg white
-method: DRY SHAKE all ingredients without ice. Add ice, SHAKE again and strain into ice-filled glass.<br /><br />
-name: Will Of Alan
-rate: 4.5
+comment: Fantastic, spiced, tiki-style twisted Daiquiri.<br _moz_editor_bogus_node="TRUE"
+  />
+aka: 
+variant: 
+origin: Discovered in 2008 at Tonic, Edinburgh, Scotland.<br /><br />
+source: www.diffordsguide.com (2609)
+recipe_steps:
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Freshly squeezed lime juice
+- amount: ' 1/4 '
+  doze: fresh
+  ingredient_name: Egg white
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Velvet Falernum liqueur
+- amount: '2'
+  doze: shot
+  ingredient_name: Zacapa aged rum
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Pineapple (fresh)
+- amount: '2'
+  doze: dash
+  ingredient_name: Old-fashioned bitters

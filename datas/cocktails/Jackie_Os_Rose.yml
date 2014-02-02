@@ -1,25 +1,28 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Jackie O's Rose
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 4.0
 garnish: Lime wedge on rim
 glass: Martini
-infos: 
-  Comment: In its simplest form this is a Daiquiri with added liqueur - or a Margarita with rum. Whatever, it's a good balance of sweet and sour.
-  source: www.diffordsguide.com (1040)
-ingredients: 
-- - "2"
-  - shot
-  - Bacardi Superior rum
-- - " 1/2 "
-  - shot
-  - Cointreau triple sec
-- - "1"
-  - shot
-  - Freshly squeezed lime juice
-- - " 1/2 "
-  - shot
-  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
-- - " 1/2 "
-  - spoon
-  - Rose water
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: Jackie O's Rose
-rate: 4.0
+comment: In its simplest form this is a Daiquiri with added liqueur - or a Margarita
+  with rum. Whatever, it's a good balance of sweet and sour.
+aka: 
+variant: 
+origin: 
+source: www.diffordsguide.com (1040)
+recipe_steps:
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Cointreau triple sec
+- amount: '1'
+  doze: shot
+  ingredient_name: Freshly squeezed lime juice
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- amount: '2'
+  doze: shot
+  ingredient_name: Bacardi Superior rum
+- amount: ' 1/2 '
+  doze: spoon
+  ingredient_name: Rose water

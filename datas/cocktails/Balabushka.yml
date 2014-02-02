@@ -1,26 +1,28 @@
---- !ruby/object:DirtyCocktail 
-garnish: " Apple slice on rim"
-glass: Martini
-infos: 
-  Comment: This vodka-based cocktail has flavours of apple, lemon, orange and almond.
-  Origin: Created in 2001 by Julien Escot at Langdon Hall Hotel, Cambridge, Ontario, Canada. Named in homage to George Balabushka, the legendary billiards cue maker.
-  source: www.diffordsguide.com (2268)
-ingredients: 
-- - "1 1/2 "
-  - shot
-  - Ketel One vodka
-- - " 1/2 "
-  - shot
-  - Cointreau triple sec
-- - " 1/2 "
-  - shot
-  - Freshly squeezed lemon juice
-- - "1"
-  - shot
-  - Pressed apple juice
-- - " 1/8 "
-  - shot
-  - Monin Almond (orgeat) syrup
-method: " SHAKE all ingredients with ice and fine strain into chilled glass."
+---
 name: Balabushka
+method: ' SHAKE all ingredients with ice and fine strain into chilled glass.'
 rate: 3.5
+garnish: ' Apple slice on rim'
+glass: Martini
+comment: This vodka-based cocktail has flavours of apple, lemon, orange and almond.
+aka: 
+variant: 
+origin: Created in 2001 by Julien Escot at Langdon Hall Hotel, Cambridge, Ontario,
+  Canada. Named in homage to George Balabushka, the legendary billiards cue maker.
+source: www.diffordsguide.com (2268)
+recipe_steps:
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Cointreau triple sec
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Ketel One vodka
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Freshly squeezed lemon juice
+- amount: '1'
+  doze: shot
+  ingredient_name: Pressed apple juice
+- amount: ' 1/8 '
+  doze: shot
+  ingredient_name: Monin Almond (orgeat) syrup

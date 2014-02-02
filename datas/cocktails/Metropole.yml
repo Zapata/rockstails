@@ -1,26 +1,38 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Metropole
+method: STIR all ingredients with ice and strain into chilled glass.
+rate: 4.0
 garnish: Maraschino cherry
 glass: Martini
-infos: 
-  Comment: I've added a dash of cherry syrup and changed the proportions of the original overly dry and hard classic recipe.<br /><br />
-  Origin: Named after The Hotel Metropole, located just off Times Square at 147 West 43rd Street. This was the first hotel in New York City to have running water in every room but had a less than salubrious reputation due to the clientele its all-night licensed street-level Caf Metropole attracted. As Albert Stevens Crockett says in his 1935, 'The Old Waldorf Bar Days', "Attributed to a once well known and somewhat lively hotel, whose bar was a long centre of life after dark in the Times Square district."<br />       <br />In the early morning hours of 16th July 1912 Herman Rosenthal, the owner of several New York gambling dens, was murdered as he left Caf Metropole (a crime recounted in the story of the Jack Rose). Just one week after the murder, The Hotel Metropole went bankrupt, later to become became the Hotel Rosoff.<br /><br />
-  source: www.diffordsguide.com (2496)
-ingredients: 
-- - "1 1/2 "
-  - shot
-  - Courvoisier V.S.O.P cognac
-- - "1 1/2 "
-  - shot
-  - Noilly Prat dry vermouth
-- - "1"
-  - dash
-  - Peychaud's aromatic bitters
-- - "1"
-  - dash
-  - Angostura orange bitters
-- - " 1/4 "
-  - shot
-  - Maraschino syrup (from cherry jar)
-method: STIR all ingredients with ice and strain into chilled glass.
-name: Metropole
-rate: 4.0
+comment: I've added a dash of cherry syrup and changed the proportions of the original
+  overly dry and hard classic recipe.<br /><br />
+aka: 
+variant: 
+origin: Named after The Hotel Metropole, located just off Times Square at 147 West
+  43rd Street. This was the first hotel in New York City to have running water in
+  every room but had a less than salubrious reputation due to the clientele its all-night
+  licensed street-level Caf Metropole attracted. As Albert Stevens Crockett says in
+  his 1935, 'The Old Waldorf Bar Days', "Attributed to a once well known and somewhat
+  lively hotel, whose bar was a long centre of life after dark in the Times Square
+  district."<br />       <br />In the early morning hours of 16th July 1912 Herman
+  Rosenthal, the owner of several New York gambling dens, was murdered as he left
+  Caf Metropole (a crime recounted in the story of the Jack Rose). Just one week after
+  the murder, The Hotel Metropole went bankrupt, later to become became the Hotel
+  Rosoff.<br /><br />
+source: www.diffordsguide.com (2496)
+recipe_steps:
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Noilly Prat dry vermouth
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Courvoisier V.S.O.P cognac
+- amount: '1'
+  doze: dash
+  ingredient_name: Angostura orange bitters
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Maraschino syrup (from cherry jar)
+- amount: '1'
+  doze: dash
+  ingredient_name: Peychaud's aromatic bitters

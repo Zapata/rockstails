@@ -1,24 +1,24 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Kretchma
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 3.5
 garnish: Dust with cocoa powder
 glass: Martini
-infos: 
-  Comment: Fortified Turkish Delight.
-  Origin: Adapted from a recipe in David Embury's 'The Fine Art of Mixing Drinks'.
-  Variant: Without grenadine this is a 'Ninitchka'.
-  source: www.diffordsguide.com (1125)
-ingredients: 
-- - "2"
-  - shot
-  - Ketel One vodka
-- - " 3/4 "
-  - shot
-  - "White cr\xE8me de cacao liqueur"
-- - " 1/2 "
-  - shot
-  - Freshly squeezed lemon juice
-- - " 1/8 "
-  - shot
-  - Pomegranate (grenadine) syrup
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: Kretchma
-rate: 3.5
+comment: Fortified Turkish Delight.
+aka: 
+variant: Without grenadine this is a 'Ninitchka'.
+origin: Adapted from a recipe in David Embury's 'The Fine Art of Mixing Drinks'.
+source: www.diffordsguide.com (1125)
+recipe_steps:
+- amount: '2'
+  doze: shot
+  ingredient_name: Ketel One vodka
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Freshly squeezed lemon juice
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: White crème de cacao liqueur
+- amount: ' 1/8 '
+  doze: shot
+  ingredient_name: Pomegranate (grenadine) syrup

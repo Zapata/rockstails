@@ -1,26 +1,28 @@
---- !ruby/object:DirtyCocktail 
-garnish: " Slice ginger root on rim"
-glass: Martini
-infos: 
-  Comment: Claret-come-mulled wine, but hold out for the warming ginger finish.
-  Origin: An adaptation of a vintage cocktail recipe of unknown origin. Believed to be named after a neighbourhood in South Mumbai, India.
-  source: www.diffordsguide.com (2326)
-ingredients: 
-- - "1"
-  - shot
-  - Tio Pepe fino sherry
-- - "1"
-  - shot
-  - Warre's Otima tawny port
-- - " 1/2 "
-  - shot
-  - Grand Marnier liqueur
-- - " 1/2 "
-  - shot
-  - Domaine de Canton ginger liqueur
-- - " 1/2 "
-  - shot
-  - Chilled mineral water
-method: " SHAKE all ingredients with ice and fine strain into chilled glass."
+---
 name: Byculla
+method: ' SHAKE all ingredients with ice and fine strain into chilled glass.'
 rate: 4.0
+garnish: ' Slice ginger root on rim'
+glass: Martini
+comment: Claret-come-mulled wine, but hold out for the warming ginger finish.
+aka: 
+variant: 
+origin: An adaptation of a vintage cocktail recipe of unknown origin. Believed to
+  be named after a neighbourhood in South Mumbai, India.
+source: www.diffordsguide.com (2326)
+recipe_steps:
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Chilled mineral water
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Grand Marnier liqueur
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Domaine de Canton ginger liqueur
+- amount: '1'
+  doze: shot
+  ingredient_name: Warre's Otima tawny port
+- amount: '1'
+  doze: shot
+  ingredient_name: Tio Pepe fino sherry

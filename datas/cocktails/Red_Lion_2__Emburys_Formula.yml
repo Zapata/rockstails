@@ -1,26 +1,29 @@
---- !ruby/object:DirtyCocktail 
+---
+name: 'Red Lion #2 ( Embury''s Formula)'
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 4.5
 garnish: Orange slice on rim
 glass: Martini
-infos: 
-  Comment: Embury is a Daiquiri fan and this is reminiscent of a Daiquiri in both style and proportions.
-  Origin: Recipe adapted from one originally published in The Fine Art of Mixing Drinks by David Embury.
-  source: www.diffordsguide.com (1658)
-ingredients: 
-- - "2"
-  - shot
-  - Bombay London dry gin
-- - " 1/4 "
-  - shot
-  - Grand Marnier liqueur
-- - " 1/2 "
-  - shot
-  - Freshly squeezed lime juice
-- - " 1/4 "
-  - shot
-  - Pomegranate (grenadine) syrup
-- - " 3/4 "
-  - shot
-  - Chilled mineral water
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: "Red Lion #2 ( Embury's Formula)"
-rate: 4.5
+comment: Embury is a Daiquiri fan and this is reminiscent of a Daiquiri in both style
+  and proportions.
+aka: 
+variant: 
+origin: Recipe adapted from one originally published in The Fine Art of Mixing Drinks
+  by David Embury.
+source: www.diffordsguide.com (1658)
+recipe_steps:
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Freshly squeezed lime juice
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Chilled mineral water
+- amount: '2'
+  doze: shot
+  ingredient_name: Bombay London dry gin
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Grand Marnier liqueur
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Pomegranate (grenadine) syrup

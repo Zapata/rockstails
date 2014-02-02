@@ -1,20 +1,23 @@
---- !ruby/object:DirtyCocktail 
+---
+name: 'Passion Fruit Martini #2'
+method: Cut passion fruit in half and scoop out flesh into shaker. Add other ingredients,
+  SHAKE with ice and fine strain into chilled glass.
+rate: 4.0
 garnish: Star fruit on rim
 glass: Martini
-infos: 
-  Comment: Not for Martini purists, but a fruity, easy drinking concoction for everyone else.
-  Origin: Formula by Yours Truly (Simon Difford) in 2004.
-  source: www.diffordsguide.com (1483)
-ingredients: 
-- - "2"
-  - fresh
-  - Passion fruit
-- - "2"
-  - shot
-  - Ketel One vodka
-- - " 1/2 "
-  - shot
-  - Passion fruit syrup
-method: Cut passion fruit in half and scoop out flesh into shaker. Add other ingredients, SHAKE with ice and fine strain into chilled glass.
-name: "Passion Fruit Martini #2"
-rate: 4.0
+comment: Not for Martini purists, but a fruity, easy drinking concoction for everyone
+  else.
+aka: 
+variant: 
+origin: Formula by Yours Truly (Simon Difford) in 2004.
+source: www.diffordsguide.com (1483)
+recipe_steps:
+- amount: '2'
+  doze: shot
+  ingredient_name: Ketel One vodka
+- amount: '2'
+  doze: fresh
+  ingredient_name: Passion fruit
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Passion fruit syrup

@@ -1,29 +1,31 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Eastern Raspberry Sidecar
+method: MUDDLE raspberries in base of shaker. Add other ingredients, SHAKE with ice
+  and fine strain into chilled glass.<br /><br />
+rate: 4.0
 garnish: Half sugar rim/floating raspberry
 glass: Martini
-infos: 
-  Comment: Refreshing, fruity, easy drinking.<br /><br />
-  Origin: Created by Ryan Magarian, Seattle, USA.
-  source: www.diffordsguide.com (2394)
-ingredients: 
-- - "7"
-  - fresh
-  - Raspberries
-- - "1"
-  - shot
-  - Courvoisier V.S.O.P cognac
-- - "1"
-  - shot
-  - Sake
-- - " 1/2 "
-  - shot
-  - Cointreau triple sec
-- - " 1/2 "
-  - shot
-  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
-- - " 1/2 "
-  - shot
-  - Freshly squeezed lemon juice
-method: MUDDLE raspberries in base of shaker. Add other ingredients, SHAKE with ice and fine strain into chilled glass.<br /><br />
-name: Eastern Raspberry Sidecar
-rate: 4.0
+comment: Refreshing, fruity, easy drinking.<br /><br />
+aka: 
+variant: 
+origin: Created by Ryan Magarian, Seattle, USA.
+source: www.diffordsguide.com (2394)
+recipe_steps:
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Cointreau triple sec
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Freshly squeezed lemon juice
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- amount: '1'
+  doze: shot
+  ingredient_name: Courvoisier V.S.O.P cognac
+- amount: '7'
+  doze: fresh
+  ingredient_name: Raspberries
+- amount: '1'
+  doze: shot
+  ingredient_name: Sake

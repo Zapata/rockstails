@@ -1,20 +1,21 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Oceans 21
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 4.0
 garnish: Flamed orange zest twist
 glass: Martini
-infos: 
-  Comment: Apple, cranberry and orange.
-  Origin: <br _moz_editor_bogus_node="TRUE" />
-  source: www.diffordsguide.com (2526)
-ingredients: 
-- - "1"
-  - shot
-  - Boulard Grand Solage calvados
-- - " 1/2 "
-  - shot
-  - Grand Marnier liqueur
-- - "1 1/2 "
-  - shot
-  - Ocean Spray cranberry juice
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: Oceans 21
-rate: 4.0
+comment: Apple, cranberry and orange.
+aka: 
+variant: 
+origin: <br _moz_editor_bogus_node="TRUE" />
+source: www.diffordsguide.com (2526)
+recipe_steps:
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Ocean Spray cranberry juice
+- amount: '1'
+  doze: shot
+  ingredient_name: Boulard Grand Solage calvados
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Grand Marnier liqueur

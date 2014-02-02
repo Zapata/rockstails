@@ -1,6 +1,5 @@
 require 'set'
 require_relative '../db/database'
-require_relative '../model/file/dirty_cocktail'
 require_relative '../model/activerecord/cocktail'
 require_relative '../model/activerecord/ingredient'
 require_relative '../model/activerecord/recipe_step'
@@ -8,39 +7,23 @@ require_relative '../model/activerecord/bar'
 require_relative '../model/activerecord/active_record_db'
 
 
-def import_cocktails 
-  dynamic_fields = Set.new
+def import_cocktails
   Cocktail.delete_all
   
   Dir['datas/cocktails/*.yml'].each do |f|
-    yml_cocktail = YAML::load_file(f)
-    puts "Processing #{yml_cocktail.name}..."
-    Cocktail.create do |db_cocktail|
-      db_cocktail.name = yml_cocktail.name
-      db_cocktail.glass = yml_cocktail.glass
-      db_cocktail.garnish = yml_cocktail.garnish
-      db_cocktail.rate = yml_cocktail.rate
-      db_cocktail.method = yml_cocktail.method
-      db_cocktail.origin = yml_cocktail.infos['Origin']
-      db_cocktail.comment = yml_cocktail.infos['Comment']
-      db_cocktail.source = yml_cocktail.infos['source']
-      db_cocktail.aka = yml_cocktail.infos['AKA']
-      db_cocktail.variant = yml_cocktail.infos['Variant']
-      dynamic_fields.merge(yml_cocktail.infos.keys)
-      yml_cocktail.ingredients.each_with_index do |arr, index|
-          name = arr[2]
-          ingredient = Ingredient.find_by(name: name)
-          ingredient = Ingredient.create(name: name) if ingredient.nil?
-          db_cocktail.recipe_steps << RecipeStep.new(position: index, amount: arr[0], doze: arr[1], ingredient: ingredient)
+    created = Cocktail.create! do |db_cocktail|
+      yaml_hash = YAML::load_file(f)
+      recipe_steps = yaml_hash.delete('recipe_steps')
+      db_cocktail.attributes = yaml_hash
+      recipe_steps.each_with_index do |step, index|
+        ingredient = Ingredient.where(name: step['ingredient_name']).first_or_create
+        db_cocktail.recipe_steps << RecipeStep.new(position: index, amount: step['amount'], doze: step['doze'], ingredient: ingredient)
       end
     end
-    
+    puts "Created cocktail: #{created.name} with id #{created.id}."
   end
-  
-  puts "Cocktails: " 
-  p Cocktail.all
-  p dynamic_fields
 end
+
 
 def import_bar
   Bar.delete_all
@@ -60,4 +43,27 @@ def import_bar
   
 end
 
-import_bar
+def sanitize_name(name)
+   name = name.gsub(/ /, '_')
+   return name.gsub(/[^0-9A-Za-z_\-]/, '')
+end
+
+require_relative 'activerecord_yaml_serializer'
+def backup
+  Cocktail.all.includes(recipe_steps: [:ingredient]).find_each do |db_cocktail|
+    filename = "datas/cocktails/#{sanitize_name(db_cocktail.name)}.yml"
+    puts "Save '#{db_cocktail.name}' into '#{filename}'."
+    File.open(filename, 'w') do |file|
+      yaml = db_cocktail.as_yaml(except: [:id, :created_at, :updated_at],
+      include: {
+        recipe_steps: {
+          except: [:id, :cocktail_id, :ingredient_id, :position],
+          methods: [:ingredient_name]
+        }
+      })
+      file.write(yaml)
+    end
+  end
+end
+
+import_cocktails

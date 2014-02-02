@@ -1,26 +1,28 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Pepper & Vanilla'tini
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 4.5
 garnish: Strip yellow pepper
 glass: Martini
-infos: 
-  Comment: Vanilla and pepper seem to complement each other in a sweet and sour kind<br />of way.
-  Origin: Formula by Yours Truly (Simon Difford) in 2002.
-  source: www.diffordsguide.com (1505)
-ingredients: 
-- - "1"
-  - shot
-  - Vanilla-infused Ketel One vodka
-- - " 3/4 "
-  - shot
-  - Pepper-infused Ketel One vodka
-- - " 3/4 "
-  - shot
-  - Tuaca liqueur
-- - "1"
-  - shot
-  - Cuarenta y Tres (Licor 43) liqueur
-- - "1"
-  - shot
-  - Yellow bell pepper juice
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: Pepper & Vanilla'tini
-rate: 4.5
+comment: Vanilla and pepper seem to complement each other in a sweet and sour kind<br
+  />of way.
+aka: 
+variant: 
+origin: Formula by Yours Truly (Simon Difford) in 2002.
+source: www.diffordsguide.com (1505)
+recipe_steps:
+- amount: '1'
+  doze: shot
+  ingredient_name: Vanilla-infused Ketel One vodka
+- amount: '1'
+  doze: shot
+  ingredient_name: Cuarenta y Tres (Licor 43) liqueur
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Tuaca liqueur
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Pepper-infused Ketel One vodka
+- amount: '1'
+  doze: shot
+  ingredient_name: Yellow bell pepper juice

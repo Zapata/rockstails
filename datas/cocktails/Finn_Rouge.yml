@@ -1,32 +1,34 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Finn Rouge
+method: <p>MUDDLE raspberries in base of shaker. Add other ingredients, SHAKE with
+  ice and fine strain into chilled glass.</p>
+rate: 3.5
 garnish: <p>Lemon zest twist</p>
 glass: Martini
-infos: 
-  Comment: <p>A rather red, rasping, berry rich drink.</p>
-  Origin: <p>Adapted from a drink created in 2005 by Jamie Stephenson, Manchester, England.</p>
-  source: www.diffordsguide.com (748)
-ingredients: 
-- - "5"
-  - fresh
-  - Raspberries
-- - "1 3/4 "
-  - shot
-  - Cranberry flavoured vodka
-- - " 1/2 "
-  - shot
-  - "Cr\xE8me de framboise liqueur"
-- - " 3/4 "
-  - shot
-  - Ocean Spray cranberry juice
-- - " 1/4 "
-  - shot
-  - Freshly squeezed lemon juice
-- - " 1/8 "
-  - shot
-  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
-- - "1"
-  - grind
-  - Black pepper
-method: <p>MUDDLE raspberries in base of shaker. Add other ingredients, SHAKE with ice and fine strain into chilled glass.</p>
-name: Finn Rouge
-rate: 3.5
+comment: <p>A rather red, rasping, berry rich drink.</p>
+aka: 
+variant: 
+origin: <p>Adapted from a drink created in 2005 by Jamie Stephenson, Manchester, England.</p>
+source: www.diffordsguide.com (748)
+recipe_steps:
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Ocean Spray cranberry juice
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Freshly squeezed lemon juice
+- amount: ' 1/8 '
+  doze: shot
+  ingredient_name: Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- amount: '5'
+  doze: fresh
+  ingredient_name: Raspberries
+- amount: '1 3/4 '
+  doze: shot
+  ingredient_name: Cranberry flavoured vodka
+- amount: '1'
+  doze: grind
+  ingredient_name: Black pepper
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Crème de framboise liqueur

@@ -1,25 +1,27 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Bourbon Milk Punch
+method: SHAKE first four ingredients with ice and fine strain into chilled glass.
+rate: 3.5
 garnish: Dust with freshly grated nutmeg
 glass: Martini
-infos: 
-  Comment: The character of bourbon shines through in this creamy number.
-  source: www.diffordsguide.com (300)
-ingredients: 
-- - "1 1/2 "
-  - shot
-  - Maker's Mark bourbon
-- - " 1/2 "
-  - shot
-  - Galliano L'Autentico liqueur
-- - "1"
-  - shot
-  - Milk
-- - "1"
-  - shot
-  - Double (heavy) cream
-- - " 1/4 "
-  - shot
-  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
-method: SHAKE first four ingredients with ice and fine strain into chilled glass.
-name: Bourbon Milk Punch
-rate: 3.5
+comment: The character of bourbon shines through in this creamy number.
+aka: 
+variant: 
+origin: 
+source: www.diffordsguide.com (300)
+recipe_steps:
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Galliano L'Autentico liqueur
+- amount: '1'
+  doze: shot
+  ingredient_name: Double (heavy) cream
+- amount: '1'
+  doze: shot
+  ingredient_name: Milk
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Maker's Mark bourbon

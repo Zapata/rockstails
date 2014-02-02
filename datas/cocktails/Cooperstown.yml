@@ -1,22 +1,26 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Cooperstown
+method: STIR all ingredients (including mint) with ice and fine strain into chilled
+  glass.<br /><br />
+rate: 3.0
 garnish: Orange zest twist (discarded) &amp; mint sprig
 glass: Coupette
-infos: 
-  Comment: A minty Perfect Martini which is made more widely appreciated by the addition of half a barspoon sugar syrup.<br /><br />
-  source: www.diffordsguide.com (2353)
-ingredients: 
-- - "8"
-  - fresh
-  - Mint leaves
-- - "2 1/2 "
-  - shot
-  - Bombay London dry gin
-- - " 1/4 "
-  - shot
-  - Noilly Prat dry vermouth
-- - " 1/4 "
-  - shot
-  - Martini Rosso sweet vermouth
-method: STIR all ingredients (including mint) with ice and fine strain into chilled glass.<br /><br />
-name: Cooperstown
-rate: 3.0
+comment: A minty Perfect Martini which is made more widely appreciated by the addition
+  of half a barspoon sugar syrup.<br /><br />
+aka: 
+variant: 
+origin: 
+source: www.diffordsguide.com (2353)
+recipe_steps:
+- amount: '8'
+  doze: fresh
+  ingredient_name: Mint leaves
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Noilly Prat dry vermouth
+- amount: '2 1/2 '
+  doze: shot
+  ingredient_name: Bombay London dry gin
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Martini Rosso sweet vermouth

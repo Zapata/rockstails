@@ -1,29 +1,31 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Berry Smash (Mocktail)
+method: SHAKE all ingredients with ice and strain into glass filled with crushed ice.
+rate: 4.0
 garnish: Berries
 glass: Old-fashioned
-infos: 
-  Comment: Red berries with a splash of apple juice and honey served over crushed ice.<br _moz_editor_bogus_node="TRUE" />
-  Origin: <br />
-  source: www.diffordsguide.com (2291)
-ingredients: 
-- - "7"
-  - fresh
-  - Raspberries
-- - "3"
-  - fresh
-  - Blackberries
-- - "2"
-  - shot
-  - Ocean Spray cranberry juice
-- - "1"
-  - shot
-  - Pressed apple juice
-- - " 1/2 "
-  - shot
-  - Freshly squeezed lemon juice
-- - " 1/4 "
-  - spoon
-  - Monin Honey syrup
-method: SHAKE all ingredients with ice and strain into glass filled with crushed ice.
-name: Berry Smash (Mocktail)
-rate: 4.0
+comment: Red berries with a splash of apple juice and honey served over crushed ice.<br
+  _moz_editor_bogus_node="TRUE" />
+aka: 
+variant: 
+origin: <br />
+source: www.diffordsguide.com (2291)
+recipe_steps:
+- amount: '2'
+  doze: shot
+  ingredient_name: Ocean Spray cranberry juice
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Freshly squeezed lemon juice
+- amount: '1'
+  doze: shot
+  ingredient_name: Pressed apple juice
+- amount: '7'
+  doze: fresh
+  ingredient_name: Raspberries
+- amount: '3'
+  doze: fresh
+  ingredient_name: Blackberries
+- amount: ' 1/4 '
+  doze: spoon
+  ingredient_name: Monin Honey syrup

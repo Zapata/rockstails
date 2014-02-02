@@ -1,23 +1,25 @@
---- !ruby/object:DirtyCocktail 
+---
+name: 'Flirtini #2'
+method: <p>SHAKE first 3 ingredients with ice and fine strain into chilled glass.
+  TOP with champagne.</p>
+rate: 4.0
 garnish: <p>Maraschino cherry</p>
 glass: Martini
-infos: 
-  Comment: <p>A flirtatious little number that slips down easily.</p>
-  Origin: <p>Adapted from a recipe by the New York bartender Dale DeGroff.</p>
-  source: www.diffordsguide.com (764)
-ingredients: 
-- - " 3/4 "
-  - shot
-  - Ketel One vodka
-- - " 3/4 "
-  - shot
-  - Cointreau triple sec
-- - "2"
-  - shot
-  - Fresh pressed pineapple juice
-- - "1"
-  - top up with
-  - Perrier Jouet brut champagne
-method: <p>SHAKE first 3 ingredients with ice and fine strain into chilled glass. TOP with champagne.</p>
-name: "Flirtini #2"
-rate: 4.0
+comment: <p>A flirtatious little number that slips down easily.</p>
+aka: 
+variant: 
+origin: <p>Adapted from a recipe by the New York bartender Dale DeGroff.</p>
+source: www.diffordsguide.com (764)
+recipe_steps:
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Cointreau triple sec
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Ketel One vodka
+- amount: '2'
+  doze: shot
+  ingredient_name: Fresh pressed pineapple juice
+- amount: '1'
+  doze: top up with
+  ingredient_name: Perrier Jouet brut champagne

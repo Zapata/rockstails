@@ -1,22 +1,26 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Watermelon & Basil Martini
+method: Cut watermelon into 16 segments, chop the flesh from one segment into cubes
+  and MUDDLE in base of skater. Add other ingredients, SHAKE with ice and fine strain
+  into chilled glass.
+rate: 4.0
 garnish: Watermelon wedge on rim
 glass: Martini
-infos: 
-  Comment: Refreshing watermelon with interesting herbal hints from the basil and gin.
-  source: www.diffordsguide.com (2067)
-ingredients: 
-- - "1"
-  - slice
-  - Fresh watermelon
-- - "7"
-  - fresh
-  - Torn basil leaves
-- - "2"
-  - shot
-  - Bombay London dry gin
-- - " 1/2 "
-  - shot
-  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
-method: Cut watermelon into 16 segments, chop the flesh from one segment into cubes and MUDDLE in base of skater. Add other ingredients, SHAKE with ice and fine strain into chilled glass.
-name: Watermelon & Basil Martini
-rate: 4.0
+comment: Refreshing watermelon with interesting herbal hints from the basil and gin.
+aka: 
+variant: 
+origin: 
+source: www.diffordsguide.com (2067)
+recipe_steps:
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- amount: '2'
+  doze: shot
+  ingredient_name: Bombay London dry gin
+- amount: '1'
+  doze: slice
+  ingredient_name: Fresh watermelon
+- amount: '7'
+  doze: fresh
+  ingredient_name: Torn basil leaves

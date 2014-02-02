@@ -1,29 +1,30 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Bolero Sour
+method: SHAKE all ingredients with ice and fine strain into an ice-filled glass.
+rate: 5.0
 garnish: Orange &amp; lime zest twists (discarded)
 glass: Old-fashioned
-infos: 
-  Comment: A beautifully balanced, flavoursome medley of sweet and sour.
-  Origin: Adapted from David A. Embury's 1948 'The Fine Art of Mixing Drinks'.
-  source: www.diffordsguide.com (284)
-ingredients: 
-- - "1"
-  - shot
-  - Bacardi Superior rum
-- - "1"
-  - shot
-  - Courvoisier V.S.O.P cognac
-- - " 1/2 "
-  - shot
-  - Freshly squeezed orange juice
-- - "1"
-  - shot
-  - Freshly squeezed lime juice
-- - " 1/2 "
-  - shot
-  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
-- - " 1/2 "
-  - fresh
-  - Egg white
-method: SHAKE all ingredients with ice and fine strain into an ice-filled glass.
-name: Bolero Sour
-rate: 5.0
+comment: A beautifully balanced, flavoursome medley of sweet and sour.
+aka: 
+variant: 
+origin: Adapted from David A. Embury's 1948 'The Fine Art of Mixing Drinks'.
+source: www.diffordsguide.com (284)
+recipe_steps:
+- amount: '1'
+  doze: shot
+  ingredient_name: Freshly squeezed lime juice
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- amount: '1'
+  doze: shot
+  ingredient_name: Bacardi Superior rum
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Freshly squeezed orange juice
+- amount: ' 1/2 '
+  doze: fresh
+  ingredient_name: Egg white
+- amount: '1'
+  doze: shot
+  ingredient_name: Courvoisier V.S.O.P cognac

@@ -1,25 +1,27 @@
---- !ruby/object:DirtyCocktail 
+---
+name: 'Bossa Nova #2'
+method: SHAKE all ingredients with ice and strain into ice-filled glass.
+rate: 3.5
 garnish: Pineapple wedge
 glass: Collins
-infos: 
-  Comment: Long and frothy with fruity rum and subtle anis notes. Not too sweet.
-  source: www.diffordsguide.com (294)
-ingredients: 
-- - "2"
-  - shot
-  - Bacardi Superior rum
-- - " 1/2 "
-  - shot
-  - Bols apricot brandy liqueur
-- - " 1/2 "
-  - shot
-  - Galliano L'Autentico liqueur
-- - "2"
-  - shot
-  - Fresh pressed pineapple juice
-- - " 1/2 "
-  - shot
-  - Freshly squeezed lemon juice
-method: SHAKE all ingredients with ice and strain into ice-filled glass.
-name: "Bossa Nova #2"
-rate: 3.5
+comment: Long and frothy with fruity rum and subtle anis notes. Not too sweet.
+aka: 
+variant: 
+origin: 
+source: www.diffordsguide.com (294)
+recipe_steps:
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Freshly squeezed lemon juice
+- amount: '2'
+  doze: shot
+  ingredient_name: Bacardi Superior rum
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Bols apricot brandy liqueur
+- amount: '2'
+  doze: shot
+  ingredient_name: Fresh pressed pineapple juice
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Galliano L'Autentico liqueur

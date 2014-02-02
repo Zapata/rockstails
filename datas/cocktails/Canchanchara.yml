@@ -1,20 +1,25 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Canchanchara
+method: STIR honey with rum in the glass drink is to be served in. Add lemon juice
+  and ice. STIR and serve.
+rate: 3.5
 garnish: Lemon slice
 glass: Old-fashioned
-infos: 
-  Comment: Achieve the perfect balance between sweet honey and sour lemon and this is a great drink.
-  Origin: The Cuban forerunner of the Daiquiri, as drunk by Cuban revolutionaries fighting off the Spanish at the end of the nineteenth century. To be really authentic omit the ice. Origin and the recipe from Christine Sismondo's 2005 'Mondo Cocktail'.
-  source: www.diffordsguide.com (570)
-ingredients: 
-- - "3"
-  - spoon
-  - Runny honey
-- - "3"
-  - shot
-  - Bacardi Superior rum
-- - "1 1/2 "
-  - shot
-  - Freshly squeezed lemon juice
-method: STIR honey with rum in the glass drink is to be served in. Add lemon juice and ice. STIR and serve.
-name: Canchanchara
-rate: 3.5
+comment: Achieve the perfect balance between sweet honey and sour lemon and this is
+  a great drink.
+aka: 
+variant: 
+origin: The Cuban forerunner of the Daiquiri, as drunk by Cuban revolutionaries fighting
+  off the Spanish at the end of the nineteenth century. To be really authentic omit
+  the ice. Origin and the recipe from Christine Sismondo's 2005 'Mondo Cocktail'.
+source: www.diffordsguide.com (570)
+recipe_steps:
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Freshly squeezed lemon juice
+- amount: '3'
+  doze: shot
+  ingredient_name: Bacardi Superior rum
+- amount: '3'
+  doze: spoon
+  ingredient_name: Runny honey

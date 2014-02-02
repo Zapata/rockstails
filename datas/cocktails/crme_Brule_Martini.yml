@@ -1,0 +1,29 @@
+---
+name: crème Br^ule Martini
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 3.5
+garnish: Dust with cinnamon powder
+glass: Martini
+comment: OK, so there's no crust, but this does contain egg yolk, caramel, vanilla,
+  sugar and cream. Due to the cinnamon, it even has a brown top.
+aka: 
+variant: 
+origin: Adapted from a drink created in 2002 by Yannick Miseriaux at the Fifth Floor
+  Bar, London, England.
+source: www.diffordsguide.com (488)
+recipe_steps:
+- amount: '2'
+  doze: shot
+  ingredient_name: Vanilla-infused Ketel One vodka
+- amount: '1'
+  doze: shot
+  ingredient_name: Double (heavy) cream
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Cuarenta y Tres (Licor 43) liqueur
+- amount: ' 1/2 '
+  doze: fresh
+  ingredient_name: Egg yolk
+- amount: ' 1/2 '
+  doze: unit
+  ingredient_name: Giffard caramel liqueur

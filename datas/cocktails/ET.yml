@@ -1,19 +1,22 @@
---- !ruby/object:DirtyCocktail 
+---
+name: E.T.
+method: Refrigerate ingredients and LAYER in chilled glass by carefully pouring in
+  the following order.
+rate: 4.0
 garnish: 
 glass: Shot
-infos: 
-  Comment: Fortified creamy melon.
-  source: www.diffordsguide.com (731)
-ingredients: 
-- - " 1/2 "
-  - shot
-  - Midori green melon liqueur
-- - " 1/2 "
-  - shot
-  - Baileys Irish cream liqueur
-- - " 1/2 "
-  - shot
-  - Ketel One vodka
-method: Refrigerate ingredients and LAYER in chilled glass by carefully pouring in the following order.
-name: E.T.
-rate: 4.0
+comment: Fortified creamy melon.
+aka: 
+variant: 
+origin: 
+source: www.diffordsguide.com (731)
+recipe_steps:
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Ketel One vodka
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Midori green melon liqueur
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Baileys Irish cream liqueur

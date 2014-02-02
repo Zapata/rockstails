@@ -1,26 +1,28 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Cumbersome
+method: MUDDLE cucumber in base of shaker. Add other ingredients, SHAKE with ice and
+  strain into a chilled Martini glass.
+rate: 4.0
 garnish: Physalis (Cape gooseberry) on rim
 glass: Martini
-infos: 
-  Comment: Interesting and fresh as you like with a pleasant bitterness.
-  Origin: Created in 2002 by Shelim Islam at the GE Club, London, England.
-  source: www.diffordsguide.com (502)
-ingredients: 
-- - "4"
-  - inch
-  - Cucumber (chopped & peeled)
-- - "2"
-  - shot
-  - Bombay London dry gin
-- - " 1/2 "
-  - shot
-  - Campari Bitter
-- - "1"
-  - shot
-  - Freshly squeezed orange juice
-- - " 1/2 "
-  - shot
-  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
-method: MUDDLE cucumber in base of shaker. Add other ingredients, SHAKE with ice and strain into a chilled Martini glass.
-name: Cumbersome
-rate: 4.0
+comment: Interesting and fresh as you like with a pleasant bitterness.
+aka: 
+variant: 
+origin: Created in 2002 by Shelim Islam at the GE Club, London, England.
+source: www.diffordsguide.com (502)
+recipe_steps:
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- amount: '1'
+  doze: shot
+  ingredient_name: Freshly squeezed orange juice
+- amount: '2'
+  doze: shot
+  ingredient_name: Bombay London dry gin
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Campari Bitter
+- amount: '4'
+  doze: inch
+  ingredient_name: Cucumber (chopped & peeled)

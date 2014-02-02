@@ -1,16 +1,18 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Saint Clements (Mocktail)
+method: POUR ingredients into ice-filled glass, lightly stir and serve with straws.
+rate: 3.0
 garnish: Lime wedge
 glass: Collins
-infos: 
-  Comment: Only slightly more interesting than orange juice.
-  source: www.diffordsguide.com (1727)
-ingredients: 
-- - "3"
-  - shot
-  - Freshly squeezed orange juice
-- - "1"
-  - top up with
-  - Bitter lemon
-method: POUR ingredients into ice-filled glass, lightly stir and serve with straws.
-name: Saint Clements (Mocktail)
-rate: 3.0
+comment: Only slightly more interesting than orange juice.
+aka: 
+variant: 
+origin: 
+source: www.diffordsguide.com (1727)
+recipe_steps:
+- amount: '3'
+  doze: shot
+  ingredient_name: Freshly squeezed orange juice
+- amount: '1'
+  doze: top up with
+  ingredient_name: Bitter lemon

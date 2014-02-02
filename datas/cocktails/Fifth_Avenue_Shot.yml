@@ -1,19 +1,22 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Fifth Avenue Shot
+method: Refrigerate ingredients then LAYER in chilled glass by carefully pouring in
+  the following order.
+rate: 2.5
 garnish: 
 glass: Shot
-infos: 
-  Comment: A sweet, apricot and chocolate creamy shot.
-  source: www.diffordsguide.com (744)
-ingredients: 
-- - " 1/2 "
-  - shot
-  - "Brown cr\xE8me de cacao liqueur"
-- - " 1/2 "
-  - shot
-  - Bols apricot brandy liqueur
-- - " 1/2 "
-  - shot
-  - Double (heavy) cream
-method: Refrigerate ingredients then LAYER in chilled glass by carefully pouring in the following order.
-name: Fifth Avenue Shot
-rate: 2.5
+comment: A sweet, apricot and chocolate creamy shot.
+aka: 
+variant: 
+origin: 
+source: www.diffordsguide.com (744)
+recipe_steps:
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Bols apricot brandy liqueur
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Brown crème de cacao liqueur
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Double (heavy) cream

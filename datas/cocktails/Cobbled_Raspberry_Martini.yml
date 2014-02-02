@@ -1,23 +1,26 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Cobbled Raspberry Martini
+method: MUDDLE raspberries in base of shaker. Add other ingredients, SHAKE with ice
+  and fine strain into chilled glass.
+rate: 4.5
 garnish: Mint leaf/raspberries on stick
 glass: Martini
-infos: 
-  Comment: The addition of a splash of wine to a simple Raspberry Martini adds another level of complexity.
-  Origin: Created by Yours Truly (Simon Difford) in 2004.
-  source: www.diffordsguide.com (448)
-ingredients: 
-- - "2"
-  - shot
-  - Ketel One vodka
-- - "1"
-  - shot
-  - Shiraz red wine
-- - " 1/4 "
-  - shot
-  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
-- - "12"
-  - fresh
-  - Raspberries
-method: MUDDLE raspberries in base of shaker. Add other ingredients, SHAKE with ice and fine strain into chilled glass.
-name: Cobbled Raspberry Martini
-rate: 4.5
+comment: The addition of a splash of wine to a simple Raspberry Martini adds another
+  level of complexity.
+aka: 
+variant: 
+origin: Created by Yours Truly (Simon Difford) in 2004.
+source: www.diffordsguide.com (448)
+recipe_steps:
+- amount: '2'
+  doze: shot
+  ingredient_name: Ketel One vodka
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- amount: '12'
+  doze: fresh
+  ingredient_name: Raspberries
+- amount: '1'
+  doze: shot
+  ingredient_name: Shiraz red wine

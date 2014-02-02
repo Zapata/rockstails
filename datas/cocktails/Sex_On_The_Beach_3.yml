@@ -1,22 +1,25 @@
---- !ruby/object:DirtyCocktail 
+---
+name: 'Sex On The Beach #3'
+method: Refridgerate ingredients then LAYER in chilled glass by carefully pouring
+  in the following order.
+rate: 2.5
 garnish: 
 glass: Shot
-infos: 
-  Comment: A sweet and sour shot, combining raspberry, melon, lime and pineapple.
-  source: www.diffordsguide.com (1812)
-ingredients: 
-- - " 1/2 "
-  - shot
-  - Chambord
-- - " 1/2 "
-  - shot
-  - Midori green melon liqueur
-- - " 1/2 "
-  - shot
-  - Freshly squeezed lime juice
-- - " 1/2 "
-  - shot
-  - Fresh pressed pineapple juice
-method: Refridgerate ingredients then LAYER in chilled glass by carefully pouring in the following order.
-name: "Sex On The Beach #3"
-rate: 2.5
+comment: A sweet and sour shot, combining raspberry, melon, lime and pineapple.
+aka: 
+variant: 
+origin: 
+source: www.diffordsguide.com (1812)
+recipe_steps:
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Freshly squeezed lime juice
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Fresh pressed pineapple juice
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Chambord
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Midori green melon liqueur

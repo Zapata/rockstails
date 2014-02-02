@@ -1,26 +1,28 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Barnum (Was Right)
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 3.5
 garnish: Lemon zest twist
 glass: Martini
-infos: 
-  Comment: A classic cocktail flavour combination that still pleases.
-  Origin: A classic from the 1930s resurrected by Ted Haigh in his 2004 book 'Vintage Spirits &amp; Forgotten Cocktails'.
-  source: www.diffordsguide.com (173)
-ingredients: 
-- - "2"
-  - shot
-  - Bombay London dry gin
-- - "1"
-  - shot
-  - Bols apricot brandy liqueur
-- - " 1/2 "
-  - shot
-  - Freshly squeezed lemon juice
-- - "2"
-  - dash
-  - Angostura aromatic bitters
-- - " 1/2 "
-  - shot
-  - Chilled mineral water
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: Barnum (Was Right)
-rate: 3.5
+comment: A classic cocktail flavour combination that still pleases.
+aka: 
+variant: 
+origin: A classic from the 1930s resurrected by Ted Haigh in his 2004 book 'Vintage
+  Spirits &amp; Forgotten Cocktails'.
+source: www.diffordsguide.com (173)
+recipe_steps:
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Freshly squeezed lemon juice
+- amount: '1'
+  doze: shot
+  ingredient_name: Bols apricot brandy liqueur
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Chilled mineral water
+- amount: '2'
+  doze: shot
+  ingredient_name: Bombay London dry gin
+- amount: '2'
+  doze: dash
+  ingredient_name: Angostura aromatic bitters

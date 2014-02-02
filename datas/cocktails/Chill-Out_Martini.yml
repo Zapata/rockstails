@@ -1,22 +1,24 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Chill-Out Martini
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 3.5
 garnish: Pineapple wedge on rim
 glass: Martini
-infos: 
-  Comment: Smooth, creamy sweet orange and surprisingly strong.
-  source: www.diffordsguide.com (414)
-ingredients: 
-- - "1 1/4 "
-  - shot
-  - Orange-infused Ketel One vodka
-- - " 3/4 "
-  - shot
-  - Baileys Irish cream liqueur
-- - "1"
-  - shot
-  - Malibu coconut rum liqueur
-- - "1"
-  - shot
-  - Freshly squeezed orange juice
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: Chill-Out Martini
-rate: 3.5
+comment: Smooth, creamy sweet orange and surprisingly strong.
+aka: 
+variant: 
+origin: 
+source: www.diffordsguide.com (414)
+recipe_steps:
+- amount: '1'
+  doze: shot
+  ingredient_name: Freshly squeezed orange juice
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Baileys Irish cream liqueur
+- amount: '1'
+  doze: shot
+  ingredient_name: Malibu coconut rum liqueur
+- amount: '1 1/4 '
+  doze: shot
+  ingredient_name: Orange-infused Ketel One vodka

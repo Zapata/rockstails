@@ -1,30 +1,32 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Apple Virgin Mojito (Mocktail)
+method: <div>PLACE mint, lemon, lime and sugar in glass. Half fill glass with crushed
+  ice and CHURN (stir). Add more crushed ice to fill glass. Add apple juice, top with
+  soda and CHURN some more. Serve with straws.</div><div><br /></div>
+rate: 3.5
 garnish: Mint sprig
 glass: Collins
-infos: 
-  Comment: A very refreshing driver's option.
-  Origin: " Created in 2002 by Tony Conigliaro at Isola, London, England."
-  Variant: <br />
-  source: www.diffordsguide.com (94)
-ingredients: 
-- - "12"
-  - fresh
-  - Mint leaves
-- - " 1/2 "
-  - shot
-  - Freshly squeezed lemon juice
-- - " 1/2 "
-  - shot
-  - Freshly squeezed lime juice
-- - " 3/4 "
-  - shot
-  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
-- - "3"
-  - shot
-  - Pressed apple juice
-- - "1"
-  - top up with
-  - Soda (club soda)
-method: <div>PLACE mint, lemon, lime and sugar in glass. Half fill glass with crushed ice and CHURN (stir). Add more crushed ice to fill glass. Add apple juice, top with soda and CHURN some more. Serve with straws.</div><div><br /></div>
-name: Apple Virgin Mojito (Mocktail)
-rate: 3.5
+comment: A very refreshing driver's option.
+aka: 
+variant: <br />
+origin: ' Created in 2002 by Tony Conigliaro at Isola, London, England.'
+source: www.diffordsguide.com (94)
+recipe_steps:
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Freshly squeezed lime juice
+- amount: '12'
+  doze: fresh
+  ingredient_name: Mint leaves
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Freshly squeezed lemon juice
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- amount: '1'
+  doze: top up with
+  ingredient_name: Soda (club soda)
+- amount: '3'
+  doze: shot
+  ingredient_name: Pressed apple juice

@@ -1,29 +1,30 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Absinthe Special Cocktail
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 3.0
 garnish: Lemon zest twist
 glass: Martini
-infos: 
-  Comment: Tongue-numbingly strong in flavour and alcohol.
-  Origin: A long lost classic
-  source: www.diffordsguide.com (510)
-ingredients: 
-- - "1"
-  - shot
-  - "La F\xE9e Parisienne (68%) absinthe"
-- - " 1/4 "
-  - shot
-  - Bombay London dry gin
-- - " 1/4 "
-  - shot
-  - Marie Brizard anisette liqueur
-- - "2"
-  - dash
-  - Angostura aromatic bitters
-- - "1"
-  - dash
-  - Angostura orange bitters
-- - "1 1/2 "
-  - shot
-  - Chilled mineral water
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: Absinthe Special Cocktail
-rate: 3.0
+comment: Tongue-numbingly strong in flavour and alcohol.
+aka: 
+variant: 
+origin: A long lost classic
+source: www.diffordsguide.com (510)
+recipe_steps:
+- amount: '1'
+  doze: shot
+  ingredient_name: La Fée Parisienne (68%) absinthe
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Chilled mineral water
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Bombay London dry gin
+- amount: '2'
+  doze: dash
+  ingredient_name: Angostura aromatic bitters
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Marie Brizard anisette liqueur
+- amount: '1'
+  doze: dash
+  ingredient_name: Angostura orange bitters

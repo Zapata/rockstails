@@ -1,20 +1,21 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Trifle Martini
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 3.5
 garnish: Hundreds &amp; thousands<br />
 glass: Martini
-infos: 
-  Comment: A cocktail that tastes like its namesake.
-  Origin: Created by Ian Baldwin at GE Club, London, England.
-  source: www.diffordsguide.com (2756)
-ingredients: 
-- - "2"
-  - shot
-  - Raspberry flavoured vodka
-- - " 1/2 "
-  - shot
-  - Chambord
-- - "2"
-  - shot
-  - Drambuie
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: Trifle Martini
-rate: 3.5
+comment: A cocktail that tastes like its namesake.
+aka: 
+variant: 
+origin: Created by Ian Baldwin at GE Club, London, England.
+source: www.diffordsguide.com (2756)
+recipe_steps:
+- amount: '2'
+  doze: shot
+  ingredient_name: Raspberry flavoured vodka
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Chambord
+- amount: '2'
+  doze: shot
+  ingredient_name: Drambuie

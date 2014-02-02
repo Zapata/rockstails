@@ -1,20 +1,22 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Zubway
+method: Chop watermelon and MUDDLE in base of shaker with raspberries. Add other ingredients,
+  SHAKE with ice and fine strain into ice-filled glass.
+rate: 4.0
 garnish: Three raspberries
 glass: Collins
-infos: 
-  Comment: Few ingredients, but loads of flavour.
-  Origin: Created in 1999 by Jamie Terrell, London, England.
-  source: www.diffordsguide.com (2133)
-ingredients: 
-- - "1"
-  - fresh
-  - Fresh watermelon
-- - "2 1/2 "
-  - shot
-  - Zubrwka bison vodka
-- - " 1/2 "
-  - shot
-  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
-method: Chop watermelon and MUDDLE in base of shaker with raspberries. Add other ingredients, SHAKE with ice and fine strain into ice-filled glass.
-name: Zubway
-rate: 4.0
+comment: Few ingredients, but loads of flavour.
+aka: 
+variant: 
+origin: Created in 1999 by Jamie Terrell, London, England.
+source: www.diffordsguide.com (2133)
+recipe_steps:
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- amount: '2 1/2 '
+  doze: shot
+  ingredient_name: Zubrwka bison vodka
+- amount: '1'
+  doze: fresh
+  ingredient_name: Fresh watermelon

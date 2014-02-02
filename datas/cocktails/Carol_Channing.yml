@@ -1,23 +1,28 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Carol Channing
+method: SHAKE first 3 ingredients with ice and strain into chilled glass. TOP with
+  champagne.
+rate: 3.0
 garnish: Raspberries
 glass: Flute
-infos: 
-  Comment: Fortified raspberry and champagne.
-  Origin: Created by Dick Bradsell in 1984 with the milliner Stephen Jones. Named after the famously large mouthed American comedienne Carol Channing because of her appearance in the film 'Thoroughly Modern Milly', where, for some unknown reason, she spends much of the time running around shouting 'raspberries'.
-  source: www.diffordsguide.com (380)
-ingredients: 
-- - " 1/4 "
-  - shot
-  - Eau de Vie Framboise
-- - " 1/4 "
-  - shot
-  - "Cr\xE8me de framboise liqueur"
-- - " 1/8 "
-  - shot
-  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
-- - "1"
-  - top up with
-  - Perrier Jouet brut champagne
-method: SHAKE first 3 ingredients with ice and strain into chilled glass. TOP with champagne.
-name: Carol Channing
-rate: 3.0
+comment: Fortified raspberry and champagne.
+aka: 
+variant: 
+origin: Created by Dick Bradsell in 1984 with the milliner Stephen Jones. Named after
+  the famously large mouthed American comedienne Carol Channing because of her appearance
+  in the film 'Thoroughly Modern Milly', where, for some unknown reason, she spends
+  much of the time running around shouting 'raspberries'.
+source: www.diffordsguide.com (380)
+recipe_steps:
+- amount: ' 1/8 '
+  doze: shot
+  ingredient_name: Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- amount: '1'
+  doze: top up with
+  ingredient_name: Perrier Jouet brut champagne
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Crème de framboise liqueur
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Eau de Vie Framboise

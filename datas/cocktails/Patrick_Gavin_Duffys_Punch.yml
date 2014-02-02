@@ -1,22 +1,25 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Patrick Gavin Duffy's Punch
+method: SHAKE all ingredients with ice and strain into ice-filled glass.
+rate: 3.5
 garnish: Mint sprig<br />
 glass: Collins
-infos: 
-  Comment: Over four shots of alcohol per serve means this sure packs a tasty punch.<br /><br />
-  source: www.diffordsguide.com (2537)
-ingredients: 
-- - "3"
-  - shot
-  - Courvoisier V.S.O.P cognac
-- - "1 1/2 "
-  - shot
-  - Bénédictine D.O.M.
-- - " 1/4 "
-  - shot
-  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
-- - "2 1/2 "
-  - shot
-  - Freshly squeezed orange juice
-method: SHAKE all ingredients with ice and strain into ice-filled glass.
-name: Patrick Gavin Duffy's Punch
-rate: 3.5
+comment: Over four shots of alcohol per serve means this sure packs a tasty punch.<br
+  /><br />
+aka: 
+variant: 
+origin: 
+source: www.diffordsguide.com (2537)
+recipe_steps:
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- amount: '2 1/2 '
+  doze: shot
+  ingredient_name: Freshly squeezed orange juice
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Bénédictine D.O.M.
+- amount: '3'
+  doze: shot
+  ingredient_name: Courvoisier V.S.O.P cognac

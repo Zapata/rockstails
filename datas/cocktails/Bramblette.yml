@@ -1,22 +1,24 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Bramblette
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 3.5
 garnish: Orange zest twist
 glass: Martini
-infos: 
-  Comment: A martini style drink with a floral, gin laced palate.
-  source: www.diffordsguide.com (306)
-ingredients: 
-- - "2"
-  - shot
-  - Bombay London dry gin
-- - "1"
-  - shot
-  - Benoit Serres crème de violette
-- - " 3/4 "
-  - shot
-  - Freshly squeezed lemon juice
-- - " 1/4 "
-  - shot
-  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: Bramblette
-rate: 3.5
+comment: A martini style drink with a floral, gin laced palate.
+aka: 
+variant: 
+origin: 
+source: www.diffordsguide.com (306)
+recipe_steps:
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Freshly squeezed lemon juice
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- amount: '2'
+  doze: shot
+  ingredient_name: Bombay London dry gin
+- amount: '1'
+  doze: shot
+  ingredient_name: Benoit Serres crème de violette

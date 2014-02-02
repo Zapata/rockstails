@@ -1,26 +1,30 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Auntie's Hot Xmas Punch
+method: POUR all ingredients into glass and stir. MICROWAVE for a minute (vary time
+  depending on your microwave oven), stir again and serve.
+rate: 4.0
 garnish: Cinnamon stick in glass
 glass: Toddy
-infos: 
-  Comment: A fruity seasonal warmer.
-  Origin: I created this drink to serve live on Christmas Eve 2002 during a broadcast on BBC radio. 'Auntie' is a nickname for the BBC and the drink uses the traditional punch proportions of 1 sour, 2 sweet, 3 strong and 4 weak.
-  source: www.diffordsguide.com (121)
-ingredients: 
-- - "1 1/2 "
-  - shot
-  - Pedro Ximnez sherry
-- - "2 1/4 "
-  - shot
-  - Courvoisier V.S.O.P cognac
-- - " 3/4 "
-  - shot
-  - Freshly squeezed lemon juice
-- - "3"
-  - shot
-  - Pressed apple juice
-- - "4"
-  - dash
-  - Peychaud's aromatic bitters
-method: POUR all ingredients into glass and stir. MICROWAVE for a minute (vary time depending on your microwave oven), stir again and serve.
-name: Auntie's Hot Xmas Punch
-rate: 4.0
+comment: A fruity seasonal warmer.
+aka: 
+variant: 
+origin: I created this drink to serve live on Christmas Eve 2002 during a broadcast
+  on BBC radio. 'Auntie' is a nickname for the BBC and the drink uses the traditional
+  punch proportions of 1 sour, 2 sweet, 3 strong and 4 weak.
+source: www.diffordsguide.com (121)
+recipe_steps:
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Freshly squeezed lemon juice
+- amount: '3'
+  doze: shot
+  ingredient_name: Pressed apple juice
+- amount: '2 1/4 '
+  doze: shot
+  ingredient_name: Courvoisier V.S.O.P cognac
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Pedro Ximnez sherry
+- amount: '4'
+  doze: dash
+  ingredient_name: Peychaud's aromatic bitters

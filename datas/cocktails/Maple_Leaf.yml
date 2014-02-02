@@ -1,19 +1,21 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Maple Leaf
+method: SHAKE all ingredients with ice and strain into ice-filled glass.
+rate: 4.0
 garnish: Lemon zest twist
 glass: Old-fashioned
-infos: 
-  Comment: This trio combine wonderfully with maple to the fore.
-  source: www.diffordsguide.com (1250)
-ingredients: 
-- - "2"
-  - shot
-  - Maker's Mark bourbon
-- - " 1/2 "
-  - shot
-  - Freshly squeezed lemon juice
-- - " 1/4 "
-  - shot
-  - Maple syrup
-method: SHAKE all ingredients with ice and strain into ice-filled glass.
-name: Maple Leaf
-rate: 4.0
+comment: This trio combine wonderfully with maple to the fore.
+aka: 
+variant: 
+origin: 
+source: www.diffordsguide.com (1250)
+recipe_steps:
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Freshly squeezed lemon juice
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Maple syrup
+- amount: '2'
+  doze: shot
+  ingredient_name: Maker's Mark bourbon

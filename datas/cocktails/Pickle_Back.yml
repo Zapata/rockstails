@@ -1,17 +1,28 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Pickle Back
+method: ' POUR ingredients into two seperate chilled glasses. Instruct drinker to
+  drink whiskey followed by cucumber chaser<br />'
+rate: 2.5
 garnish: 
 glass: Shot
-infos: 
-  Comment: Now, I do like a juicy wally (gherkin) with my cod'n'chips but necking the brine in which they are packed is another thing. <br />Our American cousins have some strange habits - drive on the right, carry the ball when playing football and bowl underarm. <br />So these eccentricities should be remembered when I tell you that the drinking of cucumber brine is popular in New York City.
-  Origin: " Created in 2006 at Brooklyn's Bushwick Country Club after the neighbouring business, McClure's Pickles, stored some of their pickles in the bar's basement. <br />Apparently this inspired bartender, Reggie Cunningham, to serve Old Crow Bourbon with a shot of McClure's spicy pickle brine. <br /><br />The Ruotolo brother took the drink to their Whiskey Town in New York's East Village with Jameson replacing the Bourbon.<br />"
-  source: www.diffordsguide.com (2894)
-ingredients: 
-- - "1"
-  - shot
-  - Jameson Irish whiskey
-- - "1"
-  - shot
-  - Fresh dill
-method: " POUR ingredients into two seperate chilled glasses. Instruct drinker to drink whiskey followed by cucumber chaser<br />"
-name: Pickle Back
-rate: 2.5
+comment: Now, I do like a juicy wally (gherkin) with my cod'n'chips but necking the
+  brine in which they are packed is another thing. <br />Our American cousins have
+  some strange habits - drive on the right, carry the ball when playing football and
+  bowl underarm. <br />So these eccentricities should be remembered when I tell you
+  that the drinking of cucumber brine is popular in New York City.
+aka: 
+variant: 
+origin: ' Created in 2006 at Brooklyn''s Bushwick Country Club after the neighbouring
+  business, McClure''s Pickles, stored some of their pickles in the bar''s basement.
+  <br />Apparently this inspired bartender, Reggie Cunningham, to serve Old Crow Bourbon
+  with a shot of McClure''s spicy pickle brine. <br /><br />The Ruotolo brother took
+  the drink to their Whiskey Town in New York''s East Village with Jameson replacing
+  the Bourbon.<br />'
+source: www.diffordsguide.com (2894)
+recipe_steps:
+- amount: '1'
+  doze: shot
+  ingredient_name: Jameson Irish whiskey
+- amount: '1'
+  doze: shot
+  ingredient_name: Fresh dill

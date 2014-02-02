@@ -1,19 +1,21 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Pineapple Smoothie (Mocktail)
+method: BLEND all the ingredients with 12oz scoop crushed ice. Serve with straws.
+rate: 3.5
 garnish: Pineapple wedge
 glass: Collins
-infos: 
-  Comment: Fluffy in every sense of the word.
-  source: www.diffordsguide.com (1538)
-ingredients: 
-- - "2"
-  - spoon
-  - Natural yoghurt
-- - "2"
-  - spoon
-  - Runny honey
-- - "4"
-  - shot
-  - Fresh pressed pineapple juice
-method: BLEND all the ingredients with 12oz scoop crushed ice. Serve with straws.
-name: Pineapple Smoothie (Mocktail)
-rate: 3.5
+comment: Fluffy in every sense of the word.
+aka: 
+variant: 
+origin: 
+source: www.diffordsguide.com (1538)
+recipe_steps:
+- amount: '4'
+  doze: shot
+  ingredient_name: Fresh pressed pineapple juice
+- amount: '2'
+  doze: spoon
+  ingredient_name: Runny honey
+- amount: '2'
+  doze: spoon
+  ingredient_name: Natural yoghurt

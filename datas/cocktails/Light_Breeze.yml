@@ -1,20 +1,22 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Light Breeze
+method: POUR all ingredients into ice-filled glass. Stir and serve with straws.
+rate: 3.5
 garnish: Lemon slice
 glass: Collins
-infos: 
-  Comment: A Seabreeze based on anis rather than vodka, with aniseed depth and sweetness.
-  Origin: Created in 2000 by Yours Truly (Simon Difford) at the Light Bar, London, England (hence the name).
-  source: www.diffordsguide.com (1155)
-ingredients: 
-- - "2"
-  - shot
-  - Pernod anis
-- - "3"
-  - shot
-  - Ocean Spray cranberry juice
-- - "2"
-  - shot
-  - Freshly squeezed grapefruit juice
-method: POUR all ingredients into ice-filled glass. Stir and serve with straws.
-name: Light Breeze
-rate: 3.5
+comment: A Seabreeze based on anis rather than vodka, with aniseed depth and sweetness.
+aka: 
+variant: 
+origin: Created in 2000 by Yours Truly (Simon Difford) at the Light Bar, London, England
+  (hence the name).
+source: www.diffordsguide.com (1155)
+recipe_steps:
+- amount: '3'
+  doze: shot
+  ingredient_name: Ocean Spray cranberry juice
+- amount: '2'
+  doze: shot
+  ingredient_name: Freshly squeezed grapefruit juice
+- amount: '2'
+  doze: shot
+  ingredient_name: Pernod anis

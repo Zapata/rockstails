@@ -1,18 +1,23 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Screwdriver
+method: POUR vodka into ice-filled glass and TOP with orange juice. Lightly stir and
+  serve with straws.
+rate: 3.5
 garnish: Orange slice
 glass: Collins
-infos: 
-  Comment: The temperature at which this drink is served and the freshness of the orange juice are crucial to its success but perhaps better made into a Harvey Wallbanger.<br />
-  Origin: This cocktail first appeared in 1950s in the Middle East. Parched US engineers working in the desert supposedly added orange juice to their vodka and stirred it with the nearest thing to hand, usually a screwdriver.
-  Variant: Harvey Wallbanger<br />
-  source: www.diffordsguide.com (1762)
-ingredients: 
-- - "2 1/2 "
-  - shot
-  - Ketel One vodka
-- - "1"
-  - top up with
-  - Freshly squeezed orange juice
-method: POUR vodka into ice-filled glass and TOP with orange juice. Lightly stir and serve with straws.
-name: Screwdriver
-rate: 3.5
+comment: The temperature at which this drink is served and the freshness of the orange
+  juice are crucial to its success but perhaps better made into a Harvey Wallbanger.<br
+  />
+aka: 
+variant: Harvey Wallbanger<br />
+origin: This cocktail first appeared in 1950s in the Middle East. Parched US engineers
+  working in the desert supposedly added orange juice to their vodka and stirred it
+  with the nearest thing to hand, usually a screwdriver.
+source: www.diffordsguide.com (1762)
+recipe_steps:
+- amount: '2 1/2 '
+  doze: shot
+  ingredient_name: Ketel One vodka
+- amount: '1'
+  doze: top up with
+  ingredient_name: Freshly squeezed orange juice

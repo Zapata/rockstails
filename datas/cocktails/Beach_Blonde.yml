@@ -1,23 +1,25 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Beach Blonde
+method: BLEND ingredients with 12oz scoop of crushed ice. Pour into glass and serve
+  with straws.
+rate: 4.0
 garnish: Banana slice on rim
 glass: Collins
-infos: 
-  Comment: Fruity, creamy holiday drinking.
-  Origin: Created in 2002 by Alex Kammerling, London, England.
-  source: www.diffordsguide.com (189)
-ingredients: 
-- - " 1/2 "
-  - fresh
-  - Banana (peeled)
-- - "3"
-  - shot
-  - Bols advocaat liqueur
-- - "1"
-  - shot
-  - Wray & Nephew overproof rum
-- - "3"
-  - shot
-  - Freshly squeezed orange juice
-method: BLEND ingredients with 12oz scoop of crushed ice. Pour into glass and serve with straws.
-name: Beach Blonde
-rate: 4.0
+comment: Fruity, creamy holiday drinking.
+aka: 
+variant: 
+origin: Created in 2002 by Alex Kammerling, London, England.
+source: www.diffordsguide.com (189)
+recipe_steps:
+- amount: '3'
+  doze: shot
+  ingredient_name: Freshly squeezed orange juice
+- amount: '1'
+  doze: shot
+  ingredient_name: Wray & Nephew overproof rum
+- amount: '3'
+  doze: shot
+  ingredient_name: Bols advocaat liqueur
+- amount: ' 1/2 '
+  doze: fresh
+  ingredient_name: Banana (peeled)

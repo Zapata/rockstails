@@ -1,22 +1,24 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Platinum Blonde
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 3.5
 garnish: Freshly grated nutmeg
 glass: Martini
-infos: 
-  Comment: An after dinner sipper.
-  source: www.diffordsguide.com (1568)
-ingredients: 
-- - "1 1/2 "
-  - shot
-  - Zacapa aged rum
-- - "1 1/2 "
-  - shot
-  - Grand Marnier liqueur
-- - " 1/2 "
-  - shot
-  - Double (heavy) cream
-- - " 1/2 "
-  - shot
-  - Milk
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: Platinum Blonde
-rate: 3.5
+comment: An after dinner sipper.
+aka: 
+variant: 
+origin: 
+source: www.diffordsguide.com (1568)
+recipe_steps:
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Grand Marnier liqueur
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Double (heavy) cream
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Milk
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Zacapa aged rum

@@ -1,19 +1,21 @@
---- !ruby/object:DirtyCocktail 
+---
+name: 'El Presidente #4'
+method: STIR all ingredients with ice and strain into chilled glass.
+rate: 4.0
 garnish: Orange zest twist
 glass: Martini
-infos: 
-  Comment: Dry, but not bone dry, with balanced fruit from the triple sec and vermouth.
-  source: www.diffordsguide.com (2157)
-ingredients: 
-- - "1 1/2 "
-  - shot
-  - Bacardi Superior rum
-- - " 1/2 "
-  - shot
-  - Cointreau triple sec
-- - " 3/4 "
-  - shot
-  - Noilly Prat dry vermouth
-method: STIR all ingredients with ice and strain into chilled glass.
-name: "El Presidente #4"
-rate: 4.0
+comment: Dry, but not bone dry, with balanced fruit from the triple sec and vermouth.
+aka: 
+variant: 
+origin: 
+source: www.diffordsguide.com (2157)
+recipe_steps:
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Cointreau triple sec
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Noilly Prat dry vermouth
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Bacardi Superior rum

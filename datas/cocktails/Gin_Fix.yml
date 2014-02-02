@@ -1,20 +1,22 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Gin Fix
+method: SHAKE all ingredients with ice and strain into glass with crushed ice. CHURN
+  (stir) drink with ice and serve with straws.
+rate: 4.0
 garnish: Lemon slice
 glass: Goblet
-infos: 
-  Comment: A Gin Sour served over crushed ice in a goblet.
-  Origin: The fix is an old classic that's very similar to the Daisy.
-  source: www.diffordsguide.com (838)
-ingredients: 
-- - "2"
-  - shot
-  - Bombay London dry gin
-- - "1"
-  - shot
-  - Freshly squeezed lemon juice
-- - " 1/2 "
-  - shot
-  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
-method: SHAKE all ingredients with ice and strain into glass with crushed ice. CHURN (stir) drink with ice and serve with straws.
-name: Gin Fix
-rate: 4.0
+comment: A Gin Sour served over crushed ice in a goblet.
+aka: 
+variant: 
+origin: The fix is an old classic that's very similar to the Daisy.
+source: www.diffordsguide.com (838)
+recipe_steps:
+- amount: '1'
+  doze: shot
+  ingredient_name: Freshly squeezed lemon juice
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- amount: '2'
+  doze: shot
+  ingredient_name: Bombay London dry gin

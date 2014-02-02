@@ -1,23 +1,25 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Italian Margarita
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 3.5
 garnish: Lime wedge on rim<br />
 glass: Martini
-infos: 
-  Comment: A liberal dash of amaretto adds very Italian subtexts of apricot and almond to your classic Margarita.
-  Origin: Discovered in 2005 at the Club Bar, The Peninsula Beverly Hills, USA.
-  source: www.diffordsguide.com (2695)
-ingredients: 
-- - "2"
-  - shot
-  - Herradura 100% agave tequila
-- - " 1/2 "
-  - shot
-  - Cointreau triple sec
-- - " 1/2 "
-  - shot
-  - Luxardo Amaretto di Saschira
-- - "1"
-  - shot
-  - Freshly squeezed lime juice
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: Italian Margarita
-rate: 3.5
+comment: A liberal dash of amaretto adds very Italian subtexts of apricot and almond
+  to your classic Margarita.
+aka: 
+variant: 
+origin: Discovered in 2005 at the Club Bar, The Peninsula Beverly Hills, USA.
+source: www.diffordsguide.com (2695)
+recipe_steps:
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Cointreau triple sec
+- amount: '1'
+  doze: shot
+  ingredient_name: Freshly squeezed lime juice
+- amount: '2'
+  doze: shot
+  ingredient_name: Herradura 100% agave tequila
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Luxardo Amaretto di Saschira

@@ -1,25 +1,27 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Veneto
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 3.5
 garnish: Lemon zest twist
 glass: Martini
-infos: 
-  Comment: A serious, Stinger-like drink.
-  source: www.diffordsguide.com (2040)
-ingredients: 
-- - "2"
-  - shot
-  - Courvoisier V.S.O.P cognac
-- - " 1/2 "
-  - shot
-  - Luxardo sambuca dei cesari
-- - " 1/2 "
-  - shot
-  - Freshly squeezed lemon juice
-- - " 1/8 "
-  - shot
-  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
-- - " 1/2 "
-  - shot
-  - Egg white
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: Veneto
-rate: 3.5
+comment: A serious, Stinger-like drink.
+aka: 
+variant: 
+origin: 
+source: www.diffordsguide.com (2040)
+recipe_steps:
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Freshly squeezed lemon juice
+- amount: ' 1/8 '
+  doze: shot
+  ingredient_name: Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Egg white
+- amount: '2'
+  doze: shot
+  ingredient_name: Courvoisier V.S.O.P cognac
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Luxardo sambuca dei cesari

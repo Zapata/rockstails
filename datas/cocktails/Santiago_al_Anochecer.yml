@@ -1,23 +1,26 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Santiago al Anochecer
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 3.5
 garnish: Grapefruit zest twist
 glass: Martini
-infos: 
-  Comment: The same colour as red sky at night. Bitter sweet, Negroni-like and a favourite with shepherd's.<br />
-  Origin: Created in 2008 by Andrew Coyle at Montpeliers Group, Edinburgh, Scotland. The name literally translates from Spanish as 'Santiago at Dusk'.<br /><br />
-  source: www.diffordsguide.com (2571)
-ingredients: 
-- - "2"
-  - shot
-  - Bacardi Superior rum
-- - " 1/2 "
-  - shot
-  - Campari Bitter
-- - " 1/2 "
-  - shot
-  - Freshly squeezed grapefruit juice
-- - " 1/2 "
-  - shot
-  - Agave nectar
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: Santiago al Anochecer
-rate: 3.5
+comment: The same colour as red sky at night. Bitter sweet, Negroni-like and a favourite
+  with shepherd's.<br />
+aka: 
+variant: 
+origin: Created in 2008 by Andrew Coyle at Montpeliers Group, Edinburgh, Scotland.
+  The name literally translates from Spanish as 'Santiago at Dusk'.<br /><br />
+source: www.diffordsguide.com (2571)
+recipe_steps:
+- amount: '2'
+  doze: shot
+  ingredient_name: Bacardi Superior rum
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Campari Bitter
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Freshly squeezed grapefruit juice
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Agave nectar

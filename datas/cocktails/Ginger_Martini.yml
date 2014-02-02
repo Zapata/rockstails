@@ -1,29 +1,31 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Ginger Martini
+method: MUDDLE ginger in base of shaker. Add other ingredients, SHAKE with ice and
+  fine strain into chilled glass.
+rate: 4.0
 garnish: Brandy snap biscuit
 glass: Martini
-infos: 
-  Comment: This Martini may be served chilled but its flavour is distinctly warming.
-  Origin: Discovered in 2003 at Hurricane Bar and Grill, Edinburgh, Scotland.
-  source: www.diffordsguide.com (852)
-ingredients: 
-- - "2"
-  - slice
-  - Fresh root ginger (thumbnail sized)
-- - "2"
-  - shot
-  - Ketel One vodka
-- - " 3/4 "
-  - shot
-  - Stone's green ginger wine
-- - " 3/4 "
-  - shot
-  - Pressed apple juice
-- - " 1/2 "
-  - shot
-  - Freshly squeezed lime juice
-- - " 1/4 "
-  - shot
-  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
-method: MUDDLE ginger in base of shaker. Add other ingredients, SHAKE with ice and fine strain into chilled glass.
-name: Ginger Martini
-rate: 4.0
+comment: This Martini may be served chilled but its flavour is distinctly warming.
+aka: 
+variant: 
+origin: Discovered in 2003 at Hurricane Bar and Grill, Edinburgh, Scotland.
+source: www.diffordsguide.com (852)
+recipe_steps:
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Freshly squeezed lime juice
+- amount: '2'
+  doze: shot
+  ingredient_name: Ketel One vodka
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Pressed apple juice
+- amount: '2'
+  doze: slice
+  ingredient_name: Fresh root ginger (thumbnail sized)
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Stone's green ginger wine

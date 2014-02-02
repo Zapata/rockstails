@@ -1,17 +1,22 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Port & Starboard
+method: Refrigerate ingredients then LAYER in chilled glass by carefully pouring in
+  the following order.
+rate: 2.5
 garnish: 
 glass: Shot
-infos: 
-  Comment: Easy to layer but hard to drink. Very sweet.
-  Origin: Named after and inspired by the red and green running lights which respectively mark the 'Port' (left-hand) and 'Starboard' (right-hand) sides of a ship. The red light is called Port side because port wine is red. The original name for the opposite side was Larboard, but over the years was corrupted to Starboard.
-  source: www.diffordsguide.com (1591)
-ingredients: 
-- - " 1/2 "
-  - shot
-  - Pomegranate (grenadine) syrup
-- - " 1/2 "
-  - shot
-  - Giffard Menthe Pastille liqueur
-method: Refrigerate ingredients then LAYER in chilled glass by carefully pouring in the following order.
-name: Port & Starboard
-rate: 2.5
+comment: Easy to layer but hard to drink. Very sweet.
+aka: 
+variant: 
+origin: Named after and inspired by the red and green running lights which respectively
+  mark the 'Port' (left-hand) and 'Starboard' (right-hand) sides of a ship. The red
+  light is called Port side because port wine is red. The original name for the opposite
+  side was Larboard, but over the years was corrupted to Starboard.
+source: www.diffordsguide.com (1591)
+recipe_steps:
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Pomegranate (grenadine) syrup
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Giffard Menthe Pastille liqueur

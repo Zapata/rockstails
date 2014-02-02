@@ -1,26 +1,27 @@
---- !ruby/object:DirtyCocktail 
+---
+name: 'Almond Martini #1'
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 4.0
 garnish: Sink 3 roasted almonds
 glass: Martini
-infos: 
-  Comment: Almond inspired with hints of apple and lemon juice.
-  Origin: Created in 2004 by Matt Pomeroy at Baltic, London, England.
-  source: www.diffordsguide.com (50)
-ingredients: 
-- - "2"
-  - shot
-  - Ketel One vodka
-- - " 1/2 "
-  - shot
-  - Freshly squeezed lemon juice
-- - " 1/2 "
-  - shot
-  - Monin Almond (orgeat) syrup
-- - "1"
-  - shot
-  - Pressed apple juice
-- - "2"
-  - dash
-  - Peach bitters
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: "Almond Martini #1"
-rate: 4.0
+comment: Almond inspired with hints of apple and lemon juice.
+aka: 
+variant: 
+origin: Created in 2004 by Matt Pomeroy at Baltic, London, England.
+source: www.diffordsguide.com (50)
+recipe_steps:
+- amount: '2'
+  doze: shot
+  ingredient_name: Ketel One vodka
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Freshly squeezed lemon juice
+- amount: '1'
+  doze: shot
+  ingredient_name: Pressed apple juice
+- amount: '2'
+  doze: dash
+  ingredient_name: Peach bitters
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Monin Almond (orgeat) syrup

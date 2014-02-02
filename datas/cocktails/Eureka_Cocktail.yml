@@ -1,26 +1,28 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Eureka Cocktail
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 3.0
 garnish: Lemon zest twist<br />
 glass: Martini
-infos: 
-  Comment: A punchy, full-flavoured, veritable basket of fruit.<br /><br />
-  Origin: Recipe adapted from a 1937 Bar Florida (later renamed Floridita) menu, Havana, Cuba.<br /><br />
-  source: www.diffordsguide.com (2401)
-ingredients: 
-- - "1"
-  - shot
-  - Boulard Grand Solage calvados
-- - " 3/4 "
-  - shot
-  - Sloe Gin liqueur
-- - " 1/2 "
-  - shot
-  - Heering cherry brandy liqueur
-- - " 1/2 "
-  - shot
-  - Freshly squeezed lemon juice
-- - " 1/2 "
-  - shot
-  - Chilled mineral water
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: Eureka Cocktail
-rate: 3.0
+comment: A punchy, full-flavoured, veritable basket of fruit.<br /><br />
+aka: 
+variant: 
+origin: Recipe adapted from a 1937 Bar Florida (later renamed Floridita) menu, Havana,
+  Cuba.<br /><br />
+source: www.diffordsguide.com (2401)
+recipe_steps:
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Heering cherry brandy liqueur
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Freshly squeezed lemon juice
+- amount: '1'
+  doze: shot
+  ingredient_name: Boulard Grand Solage calvados
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Chilled mineral water
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Sloe Gin liqueur

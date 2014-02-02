@@ -1,22 +1,25 @@
---- !ruby/object:DirtyCocktail 
+---
+name: 'Green Tea Martini #1'
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 4.0
 garnish: Banana slice on rim
 glass: Martini
-infos: 
-  Comment: It's green and, although it doesn't actually contain any tea, has something of the flavour of alcoholic peppermint tea.
-  source: www.diffordsguide.com (916)
-ingredients: 
-- - "2"
-  - shot
-  - Zubrwka bison vodka
-- - " 1/4 "
-  - shot
-  - Pisang Ambon liqueur
-- - " 1/8 "
-  - shot
-  - Giffard Menthe Pastille liqueur
-- - "2"
-  - shot
-  - Pressed apple juice
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: "Green Tea Martini #1"
-rate: 4.0
+comment: It's green and, although it doesn't actually contain any tea, has something
+  of the flavour of alcoholic peppermint tea.
+aka: 
+variant: 
+origin: 
+source: www.diffordsguide.com (916)
+recipe_steps:
+- amount: '2'
+  doze: shot
+  ingredient_name: Pressed apple juice
+- amount: '2'
+  doze: shot
+  ingredient_name: Zubrwka bison vodka
+- amount: ' 1/8 '
+  doze: shot
+  ingredient_name: Giffard Menthe Pastille liqueur
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Pisang Ambon liqueur

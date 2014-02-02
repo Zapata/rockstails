@@ -1,26 +1,28 @@
---- !ruby/object:DirtyCocktail 
+---
+name: The Sweetie Pie
+method: SHAKE all ingredients with ice and fine strain into chilled glass.<br />
+rate: 4.0
 garnish: Apple wedge on rim<br />
 glass: Coupette
-infos: 
-  Comment: Bitter sweet and most intriguing.
-  Origin: Adapted from a drink created by Lydia Reissmueller at Eletaria, New York City, USA.<br />
-  source: www.diffordsguide.com (2860)
-ingredients: 
-- - "2"
-  - shot
-  - Zacapa aged rum
-- - " 1/4 "
-  - shot
-  - Berry Hill pimento allspice liqueur
-- - "1 1/2 "
-  - shot
-  - Pressed apple juice
-- - "2"
-  - dash
-  - Angostura aromatic bitters
-- - "1"
-  - pinch
-  - Salt
-method: SHAKE all ingredients with ice and fine strain into chilled glass.<br />
-name: The Sweetie Pie
-rate: 4.0
+comment: Bitter sweet and most intriguing.
+aka: 
+variant: 
+origin: Adapted from a drink created by Lydia Reissmueller at Eletaria, New York City,
+  USA.<br />
+source: www.diffordsguide.com (2860)
+recipe_steps:
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Pressed apple juice
+- amount: '2'
+  doze: dash
+  ingredient_name: Angostura aromatic bitters
+- amount: '2'
+  doze: shot
+  ingredient_name: Zacapa aged rum
+- amount: '1'
+  doze: pinch
+  ingredient_name: Salt
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Berry Hill pimento allspice liqueur

@@ -1,26 +1,30 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Royal Mojito
+method: Lightly MUDDLE mint (just to bruise) in base of glass. Add rum, lime juice
+  and sugar. Half fill glass with crushed ice and CHURN (stir) with bar spoon. Fill
+  glass with more crushed ice and CHURN some more. TOP with champagne, stir and serve
+  with straws.
+rate: 5.0
 garnish: Mint sprig
 glass: Collins
-infos: 
-  AKA: Luxury Mojito
-  Comment: A mojito topped with champagne instead of soda water. There's posh.
-  source: www.diffordsguide.com (1703)
-ingredients: 
-- - "12"
-  - fresh
-  - Mint leaves
-- - "2"
-  - shot
-  - Bacardi Superior rum
-- - " 3/4 "
-  - shot
-  - Freshly squeezed lime juice
-- - " 1/4 "
-  - shot
-  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
-- - "1"
-  - top up with
-  - Perrier Jouet brut champagne
-method: Lightly MUDDLE mint (just to bruise) in base of glass. Add rum, lime juice and sugar. Half fill glass with crushed ice and CHURN (stir) with bar spoon. Fill glass with more crushed ice and CHURN some more. TOP with champagne, stir and serve with straws.
-name: Royal Mojito
-rate: 5.0
+comment: A mojito topped with champagne instead of soda water. There's posh.
+aka: Luxury Mojito
+variant: 
+origin: 
+source: www.diffordsguide.com (1703)
+recipe_steps:
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Freshly squeezed lime juice
+- amount: '12'
+  doze: fresh
+  ingredient_name: Mint leaves
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- amount: '2'
+  doze: shot
+  ingredient_name: Bacardi Superior rum
+- amount: '1'
+  doze: top up with
+  ingredient_name: Perrier Jouet brut champagne

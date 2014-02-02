@@ -1,31 +1,34 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Grape Delight
+method: MUDDLE grapes in base of shaker. Add rest of ingredients, SHAKE with ice and
+  fine strain into chilled glass.
+rate: 4.0
 garnish: Grapes on stick
 glass: Martini
-infos: 
-  Comment: This rust coloured drink is fruity and delicate.
-  source: www.diffordsguide.com (896)
-ingredients: 
-- - "12"
-  - fresh
-  - Red grapes
-- - "2"
-  - shot
-  - Bombay London dry gin
-- - " 1/2 "
-  - shot
-  - Sloe Gin liqueur
-- - " 1/2 "
-  - shot
-  - Pressed apple juice
-- - " 1/4 "
-  - shot
-  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
-- - " 1/4 "
-  - shot
-  - Freshly squeezed lime juice
-- - "1"
-  - dash
-  - Angostura aromatic bitters
-method: MUDDLE grapes in base of shaker. Add rest of ingredients, SHAKE with ice and fine strain into chilled glass.
-name: Grape Delight
-rate: 4.0
+comment: This rust coloured drink is fruity and delicate.
+aka: 
+variant: 
+origin: 
+source: www.diffordsguide.com (896)
+recipe_steps:
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Freshly squeezed lime juice
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Pressed apple juice
+- amount: '2'
+  doze: shot
+  ingredient_name: Bombay London dry gin
+- amount: '1'
+  doze: dash
+  ingredient_name: Angostura aromatic bitters
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Sloe Gin liqueur
+- amount: '12'
+  doze: fresh
+  ingredient_name: Red grapes

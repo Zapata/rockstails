@@ -1,25 +1,28 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Bananas & Cream
+method: BLEND ingredients with 12oz scoop of crushed ice. Pour into glass and serve
+  with straws.
+rate: 4.0
 garnish: Banana chunk on rim
 glass: Collins
-infos: 
-  Comment: Banana and cream frapp with hints of almond - one for a summer afternoon.
-  source: www.diffordsguide.com (164)
-ingredients: 
-- - "2"
-  - shot
-  - "Cr\xE8me de banane liqueur"
-- - "1"
-  - shot
-  - Luxardo Amaretto di Saschira
-- - "1"
-  - shot
-  - Baileys Irish cream liqueur
-- - "1"
-  - shot
-  - Double (heavy) cream
-- - "2"
-  - shot
-  - Milk
-method: BLEND ingredients with 12oz scoop of crushed ice. Pour into glass and serve with straws.
-name: Bananas & Cream
-rate: 4.0
+comment: Banana and cream frapp with hints of almond - one for a summer afternoon.
+aka: 
+variant: 
+origin: 
+source: www.diffordsguide.com (164)
+recipe_steps:
+- amount: '2'
+  doze: shot
+  ingredient_name: Crème de banane liqueur
+- amount: '1'
+  doze: shot
+  ingredient_name: Baileys Irish cream liqueur
+- amount: '1'
+  doze: shot
+  ingredient_name: Double (heavy) cream
+- amount: '2'
+  doze: shot
+  ingredient_name: Milk
+- amount: '1'
+  doze: shot
+  ingredient_name: Luxardo Amaretto di Saschira

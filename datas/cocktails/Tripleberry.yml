@@ -1,26 +1,29 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Tripleberry
+method: MUDDLE raspberries in base of shaker. Add other ingredients, SHAKE with ice
+  and fine strain into chilled glass.
+rate: 4.0
 garnish: Berries on stick
 glass: Martini
-infos: 
-  Comment: Rich berry fruit fortified with vodka and tamed by the tannins in a  splash of red wine.
-  Origin: Created in 2006 by yours truly.
-  source: www.diffordsguide.com (1992)
-ingredients: 
-- - "7"
-  - fresh
-  - Raspberries
-- - "2"
-  - shot
-  - Ketel One vodka
-- - " 1/2 "
-  - shot
-  - "Cr\xE8me de cassis liqueur"
-- - " 1/2 "
-  - shot
-  - "Cr\xE8me de fraise du bois liqueur"
-- - " 1/4 "
-  - shot
-  - Shiraz red wine
-method: MUDDLE raspberries in base of shaker. Add other ingredients, SHAKE with ice and fine strain into chilled glass.
-name: Tripleberry
-rate: 4.0
+comment: Rich berry fruit fortified with vodka and tamed by the tannins in a  splash
+  of red wine.
+aka: 
+variant: 
+origin: Created in 2006 by yours truly.
+source: www.diffordsguide.com (1992)
+recipe_steps:
+- amount: '2'
+  doze: shot
+  ingredient_name: Ketel One vodka
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Crème de cassis liqueur
+- amount: '7'
+  doze: fresh
+  ingredient_name: Raspberries
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Shiraz red wine
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Crème de fraise du bois liqueur

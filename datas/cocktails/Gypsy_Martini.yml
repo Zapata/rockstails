@@ -1,26 +1,30 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Gypsy Martini
+method: MUDDLE rosemary and raisins in base of shaker. Add other ingredients, SHAKE
+  with ice and fine strain into chilled glass.
+rate: 4.0
 garnish: Rosemary
 glass: Martini
-infos: 
-  Comment: Jason's original recipe called for raisin infused gin and I'd recommend you make this drink that way if time permits.
-  Origin: Adapted from a recipe created by Jason Fendick in 2002 for Steam, London, England.
-  source: www.diffordsguide.com (925)
-ingredients: 
-- - "1"
-  - sprig
-  - Rosemary sprig
-- - "10"
-  - dried
-  - Raisins
-- - "2"
-  - shot
-  - Bombay London dry gin
-- - " 1/2 "
-  - shot
-  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
-- - "1"
-  - shot
-  - Chilled mineral water
-method: MUDDLE rosemary and raisins in base of shaker. Add other ingredients, SHAKE with ice and fine strain into chilled glass.
-name: Gypsy Martini
-rate: 4.0
+comment: Jason's original recipe called for raisin infused gin and I'd recommend you
+  make this drink that way if time permits.
+aka: 
+variant: 
+origin: Adapted from a recipe created by Jason Fendick in 2002 for Steam, London,
+  England.
+source: www.diffordsguide.com (925)
+recipe_steps:
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- amount: '1'
+  doze: shot
+  ingredient_name: Chilled mineral water
+- amount: '2'
+  doze: shot
+  ingredient_name: Bombay London dry gin
+- amount: '1'
+  doze: sprig
+  ingredient_name: Rosemary sprig
+- amount: '10'
+  doze: dried
+  ingredient_name: Raisins

@@ -1,23 +1,25 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Jack Collins
+method: SHAKE first 3 ingredients with ice and strain into ice-filled glass. TOP with
+  soda, stir and serve with straws.
+rate: 4.5
 garnish: Lemon slice
 glass: Collins
-infos: 
-  Comment: Apple brandy makes a great base spirit in this refreshing classic.
-  Origin: A Collins named after its applejack (apple brandy) base.
-  source: www.diffordsguide.com (1034)
-ingredients: 
-- - "2"
-  - shot
-  - Boulard Grand Solage calvados
-- - "1"
-  - shot
-  - Freshly squeezed lemon juice
-- - " 1/2 "
-  - shot
-  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
-- - "1"
-  - top up with
-  - Soda (club soda)
-method: SHAKE first 3 ingredients with ice and strain into ice-filled glass. TOP with soda, stir and serve with straws.
-name: Jack Collins
-rate: 4.5
+comment: Apple brandy makes a great base spirit in this refreshing classic.
+aka: 
+variant: 
+origin: A Collins named after its applejack (apple brandy) base.
+source: www.diffordsguide.com (1034)
+recipe_steps:
+- amount: '1'
+  doze: shot
+  ingredient_name: Freshly squeezed lemon juice
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- amount: '1'
+  doze: top up with
+  ingredient_name: Soda (club soda)
+- amount: '2'
+  doze: shot
+  ingredient_name: Boulard Grand Solage calvados

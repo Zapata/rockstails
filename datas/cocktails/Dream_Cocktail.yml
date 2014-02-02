@@ -1,22 +1,25 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Dream Cocktail
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 4.0
 garnish: Orange zest twist<br />
 glass: Martini
-infos: 
-  Comment: An after dinner drink with brandy, orange liqueur and a refreshing burst of aniseed.
-  source: www.diffordsguide.com (2633)
-ingredients: 
-- - "1 1/2 "
-  - shot
-  - Courvoisier V.S.O.P cognac
-- - " 3/4 "
-  - shot
-  - Cointreau triple sec
-- - " 1/4 "
-  - shot
-  - Marie Brizard anisette liqueur
-- - " 1/2 "
-  - shot
-  - Chilled mineral water
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: Dream Cocktail
-rate: 4.0
+comment: An after dinner drink with brandy, orange liqueur and a refreshing burst
+  of aniseed.
+aka: 
+variant: 
+origin: 
+source: www.diffordsguide.com (2633)
+recipe_steps:
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Cointreau triple sec
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Chilled mineral water
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Courvoisier V.S.O.P cognac
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Marie Brizard anisette liqueur

@@ -1,19 +1,21 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Downhill Racer
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 4.0
 garnish: Pineapple wedge on rim
 glass: Martini
-infos: 
-  Comment: Aged rum sweetened, softened and flavoured with pineapple and amaretto.
-  source: www.diffordsguide.com (669)
-ingredients: 
-- - "1 3/4 "
-  - shot
-  - Bacardi Superior rum
-- - " 3/4 "
-  - shot
-  - Luxardo Amaretto di Saschira
-- - "1 3/4 "
-  - shot
-  - Fresh pressed pineapple juice
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: Downhill Racer
-rate: 4.0
+comment: Aged rum sweetened, softened and flavoured with pineapple and amaretto.
+aka: 
+variant: 
+origin: 
+source: www.diffordsguide.com (669)
+recipe_steps:
+- amount: '1 3/4 '
+  doze: shot
+  ingredient_name: Bacardi Superior rum
+- amount: '1 3/4 '
+  doze: shot
+  ingredient_name: Fresh pressed pineapple juice
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Luxardo Amaretto di Saschira

@@ -1,20 +1,21 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Frisky Lemonade
+method: POUR ingredients into ice-filled glass and stir.
+rate: 3.5
 garnish: Lime wedge
 glass: Collins
-infos: 
-  Comment: Reminiscent of alcoholic lemon barley water.
-  Origin: Created by Aaron Rudd in 2002 at Home, London, England.
-  source: www.diffordsguide.com (809)
-ingredients: 
-- - "2"
-  - shot
-  - Lime flavoured vodka
-- - " 1/2 "
-  - shot
-  - Noilly Prat dry vermouth
-- - "1"
-  - top up with
-  - Lemonade/Sprite/7-Up
-method: POUR ingredients into ice-filled glass and stir.
-name: Frisky Lemonade
-rate: 3.5
+comment: Reminiscent of alcoholic lemon barley water.
+aka: 
+variant: 
+origin: Created by Aaron Rudd in 2002 at Home, London, England.
+source: www.diffordsguide.com (809)
+recipe_steps:
+- amount: '1'
+  doze: top up with
+  ingredient_name: Lemonade/Sprite/7-Up
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Noilly Prat dry vermouth
+- amount: '2'
+  doze: shot
+  ingredient_name: Lime flavoured vodka

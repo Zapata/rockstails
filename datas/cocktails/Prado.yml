@@ -1,22 +1,24 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Prado
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 3.5
 garnish: Lime wedge on rim<br />
 glass: Martini
-infos: 
-  Comment: Rather like a cross between an Aviation and a Margarita.
-  source: www.diffordsguide.com (2738)
-ingredients: 
-- - "2"
-  - shot
-  - Herradura 100% agave tequila
-- - "1"
-  - shot
-  - Freshly squeezed lime juice
-- - " 1/2 "
-  - shot
-  - Luxardo maraschino liqueur
-- - " 1/2 "
-  - shot
-  - Egg white
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: Prado
-rate: 3.5
+comment: Rather like a cross between an Aviation and a Margarita.
+aka: 
+variant: 
+origin: 
+source: www.diffordsguide.com (2738)
+recipe_steps:
+- amount: '1'
+  doze: shot
+  ingredient_name: Freshly squeezed lime juice
+- amount: '2'
+  doze: shot
+  ingredient_name: Herradura 100% agave tequila
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Egg white
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Luxardo maraschino liqueur

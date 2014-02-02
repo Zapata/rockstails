@@ -1,26 +1,29 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Eastern Sin
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 3.5
 garnish: Pineapple wedge on rim
 glass: Martini
-infos: 
-  Comment: Fruity and slightly sweet but toned by a hint of Scotch.<br /><br />
-  Origin: In W.J. Tarling's 1937 Caf Royal Cocktail Book the invention of this cocktail is credited to J. Stoneham. I have cut the amount of cherry brandy by a third compared to the Caf Royal formula.<br /><br />
-  source: www.diffordsguide.com (2395)
-ingredients: 
-- - "1 1/2 "
-  - shot
-  - Johnnie Walker Scotch Whisky
-- - "1 1/2 "
-  - shot
-  - Heering cherry brandy liqueur
-- - " 1/2 "
-  - shot
-  - Cointreau triple sec
-- - " 1/2 "
-  - shot
-  - Martini Rosso sweet vermouth
-- - " 1/2 "
-  - shot
-  - Fresh pressed pineapple juice
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: Eastern Sin
-rate: 3.5
+comment: Fruity and slightly sweet but toned by a hint of Scotch.<br /><br />
+aka: 
+variant: 
+origin: In W.J. Tarling's 1937 Caf Royal Cocktail Book the invention of this cocktail
+  is credited to J. Stoneham. I have cut the amount of cherry brandy by a third compared
+  to the Caf Royal formula.<br /><br />
+source: www.diffordsguide.com (2395)
+recipe_steps:
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Heering cherry brandy liqueur
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Cointreau triple sec
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Fresh pressed pineapple juice
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Martini Rosso sweet vermouth
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Johnnie Walker Scotch Whisky

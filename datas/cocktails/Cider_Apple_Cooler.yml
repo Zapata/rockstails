@@ -1,19 +1,21 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Cider Apple Cooler
+method: SHAKE all ingredients with ice and strain into ice-filled glass.
+rate: 4.0
 garnish: 
 glass: Collins
-infos: 
-  Comment: Not unlike the taste of strong dry cider.
-  source: www.diffordsguide.com (433)
-ingredients: 
-- - "2"
-  - shot
-  - Boulard Grand Solage calvados
-- - "1"
-  - shot
-  - Berentzen Apple schnapps
-- - "4.5"
-  - shot
-  - Pressed apple juice
-method: SHAKE all ingredients with ice and strain into ice-filled glass.
-name: Cider Apple Cooler
-rate: 4.0
+comment: Not unlike the taste of strong dry cider.
+aka: 
+variant: 
+origin: 
+source: www.diffordsguide.com (433)
+recipe_steps:
+- amount: '2'
+  doze: shot
+  ingredient_name: Boulard Grand Solage calvados
+- amount: '1'
+  doze: shot
+  ingredient_name: Berentzen Apple schnapps
+- amount: '4.5'
+  doze: shot
+  ingredient_name: Pressed apple juice

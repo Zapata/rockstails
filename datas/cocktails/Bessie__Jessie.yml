@@ -1,19 +1,21 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Bessie & Jessie
+method: SHAKE all ingredients with ice and strain into ice-filled glass.
+rate: 3.5
 garnish: Orange slice
 glass: Collins
-infos: 
-  Comment: Malty, creamy and eggy, but tasty.
-  source: www.diffordsguide.com (208)
-ingredients: 
-- - "2"
-  - shot
-  - Johnnie Walker Scotch Whisky
-- - "2"
-  - shot
-  - Bols advocaat liqueur
-- - "3 1/2 "
-  - shot
-  - Milk
-method: SHAKE all ingredients with ice and strain into ice-filled glass.
-name: Bessie & Jessie
-rate: 3.5
+comment: Malty, creamy and eggy, but tasty.
+aka: 
+variant: 
+origin: 
+source: www.diffordsguide.com (208)
+recipe_steps:
+- amount: '3 1/2 '
+  doze: shot
+  ingredient_name: Milk
+- amount: '2'
+  doze: shot
+  ingredient_name: Johnnie Walker Scotch Whisky
+- amount: '2'
+  doze: shot
+  ingredient_name: Bols advocaat liqueur

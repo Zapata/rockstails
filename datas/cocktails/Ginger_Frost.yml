@@ -1,28 +1,32 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Ginger Frost
+method: DRY SHAKE (without ice) all ingredients. SHAKE again with ice and strain into
+  chilled glass. <br />
+rate: 3.5
 garnish: Ginger slice on rim.<br />
 glass: Coupette
-infos: 
-  Comment: Freshly squeezed lemon and orange juices, spiced with ginger and laced with vodka.
-  source: www.diffordsguide.com (2802)
-ingredients: 
-- - "1 1/2 "
-  - shot
-  - Ketel One vodka
-- - " 1/2 "
-  - shot
-  - Freshly squeezed lemon juice
-- - " 1/4 "
-  - shot
-  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
-- - " 3/4 "
-  - shot
-  - Freshly squeezed orange juice
-- - " 1/2 "
-  - fresh
-  - Egg white
-- - " 3/4 "
-  - shot
-  - Domaine de Canton ginger liqueur
-method: DRY SHAKE (without ice) all ingredients. SHAKE again with ice and strain into chilled glass. <br />
-name: Ginger Frost
-rate: 3.5
+comment: Freshly squeezed lemon and orange juices, spiced with ginger and laced with
+  vodka.
+aka: 
+variant: 
+origin: 
+source: www.diffordsguide.com (2802)
+recipe_steps:
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Ketel One vodka
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Freshly squeezed lemon juice
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Freshly squeezed orange juice
+- amount: ' 1/2 '
+  doze: fresh
+  ingredient_name: Egg white
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Domaine de Canton ginger liqueur

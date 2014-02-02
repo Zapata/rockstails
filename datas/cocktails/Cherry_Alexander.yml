@@ -1,26 +1,27 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Cherry Alexander
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 4.0
 garnish: Maraschino cherry
 glass: Martini
-infos: 
-  Comment: A fruity twist on the creamy classic.
-  Origin: Created by Wayne Collins for Maxxium UK.
-  source: www.diffordsguide.com (404)
-ingredients: 
-- - "1"
-  - shot
-  - Vanilla-infused Ketel One vodka
-- - " 1/2 "
-  - shot
-  - Heering cherry brandy liqueur
-- - " 1/2 "
-  - shot
-  - "White cr\xE8me de cacao liqueur"
-- - "1"
-  - shot
-  - Double (heavy) cream
-- - "1"
-  - shot
-  - Milk
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: Cherry Alexander
-rate: 4.0
+comment: A fruity twist on the creamy classic.
+aka: 
+variant: 
+origin: Created by Wayne Collins for Maxxium UK.
+source: www.diffordsguide.com (404)
+recipe_steps:
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Heering cherry brandy liqueur
+- amount: '1'
+  doze: shot
+  ingredient_name: Vanilla-infused Ketel One vodka
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: White crème de cacao liqueur
+- amount: '1'
+  doze: shot
+  ingredient_name: Double (heavy) cream
+- amount: '1'
+  doze: shot
+  ingredient_name: Milk

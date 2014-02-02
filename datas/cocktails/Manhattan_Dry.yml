@@ -1,21 +1,43 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Manhattan Dry
+method: STIR all ingredients with ice and strain into chilled glass.
+rate: 4.5
 garnish: Twist of orange (discarded) &amp; two maraschino cherries.
 glass: Martini
-infos: 
-  Comment: A bone dry Manhattan for those with dry palates.
-  Origin: Like so many cocktails, the origins of the Manhattan are lost in time. And, as neither the name nor the ingredients are so unusual as to prevent inadvertent duplication, the mystery is likely to remain unsolved. The Democrat newspaper remarked in 1882 that, 'It is but a short time ago that a mixture of whiskey, vermouth and bitters came into vogue' and observed that it had been known as a Turf Club cocktail, a Jockey Club cocktail and a Manhattan cocktail.<br />       <br />Until fairly recently, the most popular story was that the drink was created in November 1874 at New York City's Manhattan Club for Lady Randolph Churchill (ne Jenny Jerome), while she was celebrating the successful gubernatorial campaign of Samuel Jones Tilden. (The Manhattan Club was opposite the site which now houses the Empire State Building.) However, David Wondrich has pointed out that the banquet in question was held in November 1874, when Lady C was otherwise engaged, in England, giving birth to Winston.<br />    <br />A 1945 article claims that a drink under the name of the Manhattan appeared in an 1860 bar guide; it certainly appears in Harry Johnson's book of 1884.<br />    <br />A plausible story comes from a book published in 1923, 'Valentine's Manual of New York'. In this a William F. Mulhall who was a bartender at New York's Hoffman House in the 1880s recounts, &quot;The Manhattan cocktail was invented by a man named Black who kept a place ten doors below Houston Street on Broadway in the [eighteen] sixties - probably the most famous drink in the world in its time.&quot;<br />    <br />Yet another story involves a Col. Joe Walker on a yachting trip in New York but as this specifically refers to sweet vermouth I have recounted it under 'Manhattan Sweet'. <br /><br />
-  Variant: Manhattan Perfect and Manhattan Sweet. Also served over ice in an old-fashioned glass.<br /><br />
-  source: www.diffordsguide.com (1245)
-ingredients: 
-- - "2 1/2 "
-  - shot
-  - Maker's Mark bourbon
-- - "1"
-  - shot
-  - Noilly Prat dry vermouth
-- - "3"
-  - dash
-  - Angostura aromatic bitters
-method: STIR all ingredients with ice and strain into chilled glass.
-name: Manhattan Dry
-rate: 4.5
+comment: A bone dry Manhattan for those with dry palates.
+aka: 
+variant: Manhattan Perfect and Manhattan Sweet. Also served over ice in an old-fashioned
+  glass.<br /><br />
+origin: Like so many cocktails, the origins of the Manhattan are lost in time. And,
+  as neither the name nor the ingredients are so unusual as to prevent inadvertent
+  duplication, the mystery is likely to remain unsolved. The Democrat newspaper remarked
+  in 1882 that, 'It is but a short time ago that a mixture of whiskey, vermouth and
+  bitters came into vogue' and observed that it had been known as a Turf Club cocktail,
+  a Jockey Club cocktail and a Manhattan cocktail.<br />       <br />Until fairly
+  recently, the most popular story was that the drink was created in November 1874
+  at New York City's Manhattan Club for Lady Randolph Churchill (ne Jenny Jerome),
+  while she was celebrating the successful gubernatorial campaign of Samuel Jones
+  Tilden. (The Manhattan Club was opposite the site which now houses the Empire State
+  Building.) However, David Wondrich has pointed out that the banquet in question
+  was held in November 1874, when Lady C was otherwise engaged, in England, giving
+  birth to Winston.<br />    <br />A 1945 article claims that a drink under the name
+  of the Manhattan appeared in an 1860 bar guide; it certainly appears in Harry Johnson's
+  book of 1884.<br />    <br />A plausible story comes from a book published in 1923,
+  'Valentine's Manual of New York'. In this a William F. Mulhall who was a bartender
+  at New York's Hoffman House in the 1880s recounts, &quot;The Manhattan cocktail
+  was invented by a man named Black who kept a place ten doors below Houston Street
+  on Broadway in the [eighteen] sixties - probably the most famous drink in the world
+  in its time.&quot;<br />    <br />Yet another story involves a Col. Joe Walker on
+  a yachting trip in New York but as this specifically refers to sweet vermouth I
+  have recounted it under 'Manhattan Sweet'. <br /><br />
+source: www.diffordsguide.com (1245)
+recipe_steps:
+- amount: '1'
+  doze: shot
+  ingredient_name: Noilly Prat dry vermouth
+- amount: '3'
+  doze: dash
+  ingredient_name: Angostura aromatic bitters
+- amount: '2 1/2 '
+  doze: shot
+  ingredient_name: Maker's Mark bourbon

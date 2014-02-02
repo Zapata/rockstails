@@ -1,25 +1,27 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Greta Garbo
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 4.0
 garnish: Star anise
 glass: Martini
-infos: 
-  Comment: A most unusual Daiquiri.
-  source: www.diffordsguide.com (917)
-ingredients: 
-- - "2"
-  - shot
-  - Bacardi Superior rum
-- - " 1/4 "
-  - shot
-  - Luxardo maraschino liqueur
-- - " 1/2 "
-  - shot
-  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
-- - "1"
-  - shot
-  - Freshly squeezed lime juice
-- - " 1/8 "
-  - shot
-  - Pernod anis
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: Greta Garbo
-rate: 4.0
+comment: A most unusual Daiquiri.
+aka: 
+variant: 
+origin: 
+source: www.diffordsguide.com (917)
+recipe_steps:
+- amount: '1'
+  doze: shot
+  ingredient_name: Freshly squeezed lime juice
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- amount: '2'
+  doze: shot
+  ingredient_name: Bacardi Superior rum
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Luxardo maraschino liqueur
+- amount: ' 1/8 '
+  doze: shot
+  ingredient_name: Pernod anis

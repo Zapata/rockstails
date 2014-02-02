@@ -1,20 +1,21 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Hawaiian Seabreeze
+method: SHAKE all ingredients with ice and strain into ice-filled glass.
+rate: 3.5
 garnish: Pineapple wedge on rim
 glass: Collins
-infos: 
-  Comment: Easygoing, foam topped relative of the Seabreeze.
-  Variant: Bay Breeze
-  source: www.diffordsguide.com (945)
-ingredients: 
-- - "2"
-  - shot
-  - Ketel One vodka
-- - "2 1/2 "
-  - shot
-  - Ocean Spray cranberry juice
-- - "1 1/2 "
-  - shot
-  - Fresh pressed pineapple juice
-method: SHAKE all ingredients with ice and strain into ice-filled glass.
-name: Hawaiian Seabreeze
-rate: 3.5
+comment: Easygoing, foam topped relative of the Seabreeze.
+aka: 
+variant: Bay Breeze
+origin: 
+source: www.diffordsguide.com (945)
+recipe_steps:
+- amount: '2 1/2 '
+  doze: shot
+  ingredient_name: Ocean Spray cranberry juice
+- amount: '2'
+  doze: shot
+  ingredient_name: Ketel One vodka
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Fresh pressed pineapple juice

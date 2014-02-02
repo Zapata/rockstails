@@ -1,28 +1,30 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Fine & Dandy
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 3.5
 garnish: Lemon zest twist
 glass: Martini
-infos: 
-  Comment: A gin based drink that's soured with lemon and sweetened with orange liqueur.
-  source: www.diffordsguide.com (746)
-ingredients: 
-- - "1 3/4 "
-  - shot
-  - Bombay London dry gin
-- - " 3/4 "
-  - shot
-  - Cointreau triple sec
-- - " 1/2 "
-  - shot
-  - Freshly squeezed lemon juice
-- - " 1/4 "
-  - shot
-  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
-- - " 1/2 "
-  - shot
-  - Chilled mineral water
-- - "1"
-  - dash
-  - Angostura aromatic bitters
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: Fine & Dandy
-rate: 3.5
+comment: A gin based drink that's soured with lemon and sweetened with orange liqueur.
+aka: 
+variant: 
+origin: 
+source: www.diffordsguide.com (746)
+recipe_steps:
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Cointreau triple sec
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Freshly squeezed lemon juice
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Chilled mineral water
+- amount: '1 3/4 '
+  doze: shot
+  ingredient_name: Bombay London dry gin
+- amount: '1'
+  doze: dash
+  ingredient_name: Angostura aromatic bitters

@@ -1,18 +1,20 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Fuzzy Navel
+method: SHAKE all ingredients with ice and strain into ice-filled glass.
+rate: 2.5
 garnish: Lemon slice
 glass: Collins
-infos: 
-  Comment: The hairy version is a slightly more interesting, drier, less fluffy concoction. So why have a fluffy navel when you can have a hairy one?
-  Origin: A not very well regarded but extremely well known cocktail whose origins are lost.
-  Variant: Hairy Navel with the addition of a shot of vodka.
-  source: www.diffordsguide.com (822)
-ingredients: 
-- - "2"
-  - shot
-  - Peach Tree peach schnapps
-- - "4"
-  - shot
-  - Freshly squeezed orange juice
-method: SHAKE all ingredients with ice and strain into ice-filled glass.
-name: Fuzzy Navel
-rate: 2.5
+comment: The hairy version is a slightly more interesting, drier, less fluffy concoction.
+  So why have a fluffy navel when you can have a hairy one?
+aka: 
+variant: Hairy Navel with the addition of a shot of vodka.
+origin: A not very well regarded but extremely well known cocktail whose origins are
+  lost.
+source: www.diffordsguide.com (822)
+recipe_steps:
+- amount: '4'
+  doze: shot
+  ingredient_name: Freshly squeezed orange juice
+- amount: '2'
+  doze: shot
+  ingredient_name: Peach Tree peach schnapps

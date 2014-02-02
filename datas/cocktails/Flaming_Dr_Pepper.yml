@@ -1,20 +1,26 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Flaming Dr Pepper
+method: POUR beer into Boston glass. Layer amaretto and rum in chilled shot glass
+  by carefully pouring amaretto and then rum. IGNITE the rum and carefully lift shot
+  glass then drop (bottom first) into Boston glass.
+rate: 2.0
 garnish: 
 glass: Boston & shot
-infos: 
-  Comment: Please consider the likelihood of burning yourself while attempting to lift the flaming shot into the beer.
-  Origin: So named as the end result resembles the taste of the proprietary Dr Pepper soft drink. This drink inspired an episode of The Simpsons featuring a similar drink titled the 'Flaming Homer' and later the 'Flaming Moe' (after the programme's bartender).
-  source: www.diffordsguide.com (755)
-ingredients: 
-- - "1"
-  - pint
-  - Lager
-- - " 1/2 "
-  - shot
-  - Luxardo Amaretto di Saschira
-- - " 1/2 "
-  - shot
-  - Wray & Nephew overproof rum
-method: POUR beer into Boston glass. Layer amaretto and rum in chilled shot glass by carefully pouring amaretto and then rum. IGNITE the rum and carefully lift shot glass then drop (bottom first) into Boston glass.
-name: Flaming Dr Pepper
-rate: 2.0
+comment: Please consider the likelihood of burning yourself while attempting to lift
+  the flaming shot into the beer.
+aka: 
+variant: 
+origin: So named as the end result resembles the taste of the proprietary Dr Pepper
+  soft drink. This drink inspired an episode of The Simpsons featuring a similar drink
+  titled the 'Flaming Homer' and later the 'Flaming Moe' (after the programme's bartender).
+source: www.diffordsguide.com (755)
+recipe_steps:
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Wray & Nephew overproof rum
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Luxardo Amaretto di Saschira
+- amount: '1'
+  doze: pint
+  ingredient_name: Lager

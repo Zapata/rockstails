@@ -1,23 +1,24 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Diplomat
+method: STIR all ingredients with ice and strain into ice-filled glass.
+rate: 3.5
 garnish: Orange zest twist
 glass: Old-fashioned
-infos: 
-  Comment: Wonderfully aromatic and dry. Too good to waste on diplomats.
-  Origin: Adapted from Harry Craddock's 1930 'The Savoy Cocktail Book'.
-  source: www.diffordsguide.com (648)
-ingredients: 
-- - "2"
-  - shot
-  - Noilly Prat dry vermouth
-- - "1"
-  - shot
-  - Martini Rosso sweet vermouth
-- - " 1/8 "
-  - shot
-  - Luxardo maraschino liqueur
-- - "2"
-  - dash
-  - Angostura orange bitters
-method: STIR all ingredients with ice and strain into ice-filled glass.
-name: Diplomat
-rate: 3.5
+comment: Wonderfully aromatic and dry. Too good to waste on diplomats.
+aka: 
+variant: 
+origin: Adapted from Harry Craddock's 1930 'The Savoy Cocktail Book'.
+source: www.diffordsguide.com (648)
+recipe_steps:
+- amount: '2'
+  doze: shot
+  ingredient_name: Noilly Prat dry vermouth
+- amount: '1'
+  doze: shot
+  ingredient_name: Martini Rosso sweet vermouth
+- amount: '2'
+  doze: dash
+  ingredient_name: Angostura orange bitters
+- amount: ' 1/8 '
+  doze: shot
+  ingredient_name: Luxardo maraschino liqueur

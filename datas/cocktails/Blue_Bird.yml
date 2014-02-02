@@ -1,23 +1,25 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Blue Bird
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 3.0
 garnish: Orange zest twist
 glass: Martini
-infos: 
-  Comment: A blue rinsed, orange washed, gin based 'tini' that benefits from being sweetened with almond rather than plain syrup.
-  Origin: Thought to have been created in the late 1950s in Montmartre, Paris, France.
-  source: www.diffordsguide.com (255)
-ingredients: 
-- - "2"
-  - shot
-  - Bombay London dry gin
-- - "1"
-  - shot
-  - Bols blue curacao liqueur
-- - " 3/4 "
-  - shot
-  - Freshly squeezed lemon juice
-- - " 1/4 "
-  - shot
-  - Monin Almond (orgeat) syrup
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: Blue Bird
-rate: 3.0
+comment: A blue rinsed, orange washed, gin based 'tini' that benefits from being sweetened
+  with almond rather than plain syrup.
+aka: 
+variant: 
+origin: Thought to have been created in the late 1950s in Montmartre, Paris, France.
+source: www.diffordsguide.com (255)
+recipe_steps:
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Freshly squeezed lemon juice
+- amount: '2'
+  doze: shot
+  ingredient_name: Bombay London dry gin
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Monin Almond (orgeat) syrup
+- amount: '1'
+  doze: shot
+  ingredient_name: Bols blue curacao liqueur

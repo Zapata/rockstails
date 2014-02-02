@@ -1,19 +1,22 @@
---- !ruby/object:DirtyCocktail 
+---
+name: K.G.B.
+method: LAYER in glass by pouring carefully in the following order.
+rate: 2.5
 garnish: 
 glass: Shot
-infos: 
-  Comment: The initials of this simple peppermint and coffee shooter stand for Kahla, Galliano and brandy.
-  source: www.diffordsguide.com (1105)
-ingredients: 
-- - " 1/2 "
-  - shot
-  - Kahla coffee liqueur
-- - " 1/2 "
-  - shot
-  - Galliano L'Autentico liqueur
-- - " 1/2 "
-  - shot
-  - Courvoisier V.S.O.P cognac
-method: LAYER in glass by pouring carefully in the following order.
-name: K.G.B.
-rate: 2.5
+comment: The initials of this simple peppermint and coffee shooter stand for Kahla,
+  Galliano and brandy.
+aka: 
+variant: 
+origin: 
+source: www.diffordsguide.com (1105)
+recipe_steps:
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Galliano L'Autentico liqueur
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Courvoisier V.S.O.P cognac
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Kahla coffee liqueur

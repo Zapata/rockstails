@@ -1,32 +1,33 @@
---- !ruby/object:DirtyCocktail 
-garnish: " Apple fan"
-glass: Martini
-infos: 
-  Comment: Pear and elderflower lead this fruity drink.
-  Origin: " Created in 2008 by Jay Decker at Paramount, London, England."
-  source: www.diffordsguide.com (2250)
-ingredients: 
-- - "1"
-  - shot
-  - Pear flavoured vodka
-- - " 1/2 "
-  - shot
-  - St-Germain elderflower liqueur
-- - " 1/2 "
-  - shot
-  - Sauvignon blanc wine
-- - " 1/2 "
-  - shot
-  - Pressed apple juice
-- - " 1/4 "
-  - shot
-  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
-- - " 1/2 "
-  - shot
-  - Freshly squeezed lime juice
-- - " 1/2 "
-  - fresh
-  - Egg white
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
+---
 name: Angel Juice
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
 rate: 3.5
+garnish: ' Apple fan'
+glass: Martini
+comment: Pear and elderflower lead this fruity drink.
+aka: 
+variant: 
+origin: ' Created in 2008 by Jay Decker at Paramount, London, England.'
+source: www.diffordsguide.com (2250)
+recipe_steps:
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Sauvignon blanc wine
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: St-Germain elderflower liqueur
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Freshly squeezed lime juice
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Pressed apple juice
+- amount: ' 1/2 '
+  doze: fresh
+  ingredient_name: Egg white
+- amount: '1'
+  doze: shot
+  ingredient_name: Pear flavoured vodka

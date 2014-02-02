@@ -1,39 +1,43 @@
---- !ruby/object:DirtyCocktail 
-garnish: " Cinnamon Stick"
-glass: Old-fashioned
-infos: 
-  Comment: As Tony says - "it's worth it".
-  Origin: " Created in 2008 by Mauricio 'Tony' Harion from Mixing Bar Consulting, Belo Horizonte, Brazil."
-  Variant: " Substitute the vodka for cachaca for a Banana Flamb Caipirinha."
-  source: www.diffordsguide.com (2272)
-ingredients: 
-- - " 1/2 "
-  - fresh
-  - Banana (peeled)
-- - "1"
-  - shot
-  - Freshly squeezed orange juice
-- - "1"
-  - spoon
-  - Granulated sugar
-- - "2"
-  - pinch
-  - Ground cinnamon
-- - " 1/2 "
-  - shot
-  - Courvoisier V.S.O.P cognac
-- - "1 1/2 "
-  - shot
-  - Ketel One vodka
-- - " 1/2 "
-  - shot
-  - Leblon cachaca
-- - " 1/2 "
-  - shot
-  - Freshly squeezed lemon juice
-- - " 1/4 "
-  - shot
-  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
-method: " In a shallow dish flamb half a split banana with orange juice, sugar and cinnamon. FLAMB until the banana softens completely and the orange juice reduces. Add cognac and flamb further. MUDDLE banana in the base of shaker, add other ingredients, SHAKE with ice and fine strain into chilled glass."
+---
 name: Banana Flamb
+method: ' In a shallow dish flamb half a split banana with orange juice, sugar and
+  cinnamon. FLAMB until the banana softens completely and the orange juice reduces.
+  Add cognac and flamb further. MUDDLE banana in the base of shaker, add other ingredients,
+  SHAKE with ice and fine strain into chilled glass.'
 rate: 4.0
+garnish: ' Cinnamon Stick'
+glass: Old-fashioned
+comment: As Tony says - "it's worth it".
+aka: 
+variant: ' Substitute the vodka for cachaca for a Banana Flamb Caipirinha.'
+origin: ' Created in 2008 by Mauricio ''Tony'' Harion from Mixing Bar Consulting,
+  Belo Horizonte, Brazil.'
+source: www.diffordsguide.com (2272)
+recipe_steps:
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Ketel One vodka
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Freshly squeezed lemon juice
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- amount: '1'
+  doze: shot
+  ingredient_name: Freshly squeezed orange juice
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Courvoisier V.S.O.P cognac
+- amount: '2'
+  doze: pinch
+  ingredient_name: Ground cinnamon
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Leblon cachaca
+- amount: ' 1/2 '
+  doze: fresh
+  ingredient_name: Banana (peeled)
+- amount: '1'
+  doze: spoon
+  ingredient_name: Granulated sugar

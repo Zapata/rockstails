@@ -1,24 +1,31 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Champagne Cocktail
+method: COAT sugar cube with bitters and drop into glass. POUR cognac over soaked
+  cube, then TOP with champagne.<br /><br />
+rate: 3.0
 garnish: Orange zest twist (spray &amp; discard)
 glass: Flute
-infos: 
-  Comment: An over hyped classic cocktail that gets sweeter as you reach the dissolving cube at the bottom.<br /><br />
-  Origin: First recorded in Jerry Thomas's 1862 book 'How To Mix Drinks', or 'The Bon Vivant's Companion', where he almost certainly mistakenly specifies this as a shaken drink. That would be explosive. Another early reference to Champagne cocktails is in Mark Twain's 1869 novel, Innocents Abroad. It is thought the drink found popularity after a bartender named John Dougherty won an 1899 New York cocktail competition with a similar drink named Business Brace.<br /><br />
-  Variant: Chicago, Prince of Wales
-  source: www.diffordsguide.com (393)
-ingredients: 
-- - "1"
-  - cube
-  - Brown sugar
-- - "3"
-  - dash
-  - Angostura aromatic bitters
-- - "1"
-  - shot
-  - Courvoisier V.S.O.P cognac
-- - "1"
-  - top up with
-  - Perrier Jouet brut champagne
-method: COAT sugar cube with bitters and drop into glass. POUR cognac over soaked cube, then TOP with champagne.<br /><br />
-name: Champagne Cocktail
-rate: 3.0
+comment: An over hyped classic cocktail that gets sweeter as you reach the dissolving
+  cube at the bottom.<br /><br />
+aka: 
+variant: Chicago, Prince of Wales
+origin: First recorded in Jerry Thomas's 1862 book 'How To Mix Drinks', or 'The Bon
+  Vivant's Companion', where he almost certainly mistakenly specifies this as a shaken
+  drink. That would be explosive. Another early reference to Champagne cocktails is
+  in Mark Twain's 1869 novel, Innocents Abroad. It is thought the drink found popularity
+  after a bartender named John Dougherty won an 1899 New York cocktail competition
+  with a similar drink named Business Brace.<br /><br />
+source: www.diffordsguide.com (393)
+recipe_steps:
+- amount: '3'
+  doze: dash
+  ingredient_name: Angostura aromatic bitters
+- amount: '1'
+  doze: shot
+  ingredient_name: Courvoisier V.S.O.P cognac
+- amount: '1'
+  doze: top up with
+  ingredient_name: Perrier Jouet brut champagne
+- amount: '1'
+  doze: cube
+  ingredient_name: Brown sugar

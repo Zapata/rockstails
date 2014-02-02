@@ -1,22 +1,25 @@
---- !ruby/object:DirtyCocktail 
+---
+name: 'Martinez #5 (Orange)'
+method: STIR ingredients with ice and fine strain into chilled glass.
+rate: 4.0
 garnish: Orange zest twist<br />
 glass: Martini
-infos: 
-  Comment: Stir well as dilution helps to tame this old-school classic in which bitter orange predominates.<br /><br />
-  source: www.diffordsguide.com (2491)
-ingredients: 
-- - "2"
-  - shot
-  - Bombay London dry gin
-- - " 1/2 "
-  - shot
-  - Martini Rosso sweet vermouth
-- - " 1/4 "
-  - shot
-  - Curacao liqueur or Grand Marnier
-- - "2"
-  - dash
-  - Angostura orange bitters
-method: STIR ingredients with ice and fine strain into chilled glass.
-name: "Martinez #5 (Orange)"
-rate: 4.0
+comment: Stir well as dilution helps to tame this old-school classic in which bitter
+  orange predominates.<br /><br />
+aka: 
+variant: 
+origin: 
+source: www.diffordsguide.com (2491)
+recipe_steps:
+- amount: '2'
+  doze: shot
+  ingredient_name: Bombay London dry gin
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Martini Rosso sweet vermouth
+- amount: '2'
+  doze: dash
+  ingredient_name: Angostura orange bitters
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Curacao liqueur or Grand Marnier

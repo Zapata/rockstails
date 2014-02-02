@@ -1,22 +1,24 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Toast & Orange Martini
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 4.0
 garnish: Orange zest twist
 glass: Martini
-infos: 
-  Comment: Bourbon rounded and enhanced by bitter orange and Peychaud's bitters.
-  source: www.diffordsguide.com (1962)
-ingredients: 
-- - "2"
-  - shot
-  - Maker's Mark bourbon
-- - "1"
-  - spoon
-  - Orange marmalade
-- - "3"
-  - dash
-  - Peychaud's aromatic bitters
-- - " 1/8 "
-  - shot
-  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: Toast & Orange Martini
-rate: 4.0
+comment: Bourbon rounded and enhanced by bitter orange and Peychaud's bitters.
+aka: 
+variant: 
+origin: 
+source: www.diffordsguide.com (1962)
+recipe_steps:
+- amount: ' 1/8 '
+  doze: shot
+  ingredient_name: Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- amount: '2'
+  doze: shot
+  ingredient_name: Maker's Mark bourbon
+- amount: '3'
+  doze: dash
+  ingredient_name: Peychaud's aromatic bitters
+- amount: '1'
+  doze: spoon
+  ingredient_name: Orange marmalade

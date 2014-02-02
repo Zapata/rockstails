@@ -1,23 +1,26 @@
---- !ruby/object:DirtyCocktail 
+---
+name: 'Gin Daisy #3 (Modern long style)'
+method: SHAKE first 3 ingredients with ice and strain into ice-filled glass. TOP with
+  soda and serve with straws.<br /><br />
+rate: 4.0
 garnish: Seasonal berries<br />
 glass: Collins
-infos: 
-  Comment: Fruit and botanicals served long and refreshing.
-  Origin: Daisies can be served in a goblet filled with crushed ice, straight-up or as in this case in a Collins glass.<br /><br />
-  source: www.diffordsguide.com (2421)
-ingredients: 
-- - "2"
-  - shot
-  - Bombay London dry gin
-- - "1"
-  - shot
-  - Freshly squeezed lemon juice
-- - " 1/2 "
-  - shot
-  - Pomegranate (grenadine) syrup
-- - "1"
-  - top up with
-  - Soda (club soda)
-method: SHAKE first 3 ingredients with ice and strain into ice-filled glass. TOP with soda and serve with straws.<br /><br />
-name: "Gin Daisy #3 (Modern long style)"
-rate: 4.0
+comment: Fruit and botanicals served long and refreshing.
+aka: 
+variant: 
+origin: Daisies can be served in a goblet filled with crushed ice, straight-up or
+  as in this case in a Collins glass.<br /><br />
+source: www.diffordsguide.com (2421)
+recipe_steps:
+- amount: '1'
+  doze: shot
+  ingredient_name: Freshly squeezed lemon juice
+- amount: '1'
+  doze: top up with
+  ingredient_name: Soda (club soda)
+- amount: '2'
+  doze: shot
+  ingredient_name: Bombay London dry gin
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Pomegranate (grenadine) syrup

@@ -1,25 +1,27 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Key Lime
+method: BLEND all ingredients without ice and serve.
+rate: 4.0
 garnish: Lime wedge on rim
 glass: Coupette
-infos: 
-  Comment: Tangy, smooth and rich! Alcoholic ice-cream for the grown-up palate.
-  source: www.diffordsguide.com (1100)
-ingredients: 
-- - "1 1/2 "
-  - shot
-  - Vanilla-infused Ketel One vodka
-- - "1 1/2 "
-  - shot
-  - Lime flavoured vodka
-- - " 1/2 "
-  - shot
-  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
-- - " 1/2 "
-  - shot
-  - Rose's lime cordial
-- - "3"
-  - scoop
-  - Haagen Dazs vanilla ice cream
-method: BLEND all ingredients without ice and serve.
-name: Key Lime
-rate: 4.0
+comment: Tangy, smooth and rich! Alcoholic ice-cream for the grown-up palate.
+aka: 
+variant: 
+origin: 
+source: www.diffordsguide.com (1100)
+recipe_steps:
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Rose's lime cordial
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Vanilla-infused Ketel One vodka
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Lime flavoured vodka
+- amount: '3'
+  doze: scoop
+  ingredient_name: Haagen Dazs vanilla ice cream

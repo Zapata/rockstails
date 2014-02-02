@@ -1,20 +1,23 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Flaming Henry
+method: <p>LAYER by carefully pouring ingredients in the order below. IGNITE bourbon.
+  Extinguish flame prior to drinking and beware of hot glass rim.</p>
+rate: 3.5
 garnish: 
 glass: Shot
-infos: 
-  Comment: <p>Flaming good shot.</p>
-  Origin: <p>Created by Henry Smiff and friends in the South of France and popularised by one of their number, John Coe, the successful London drinks retailer.</p>
-  source: www.diffordsguide.com (757)
-ingredients: 
-- - " 1/2 "
-  - shot
-  - Luxardo Amaretto di Saschira
-- - " 1/2 "
-  - shot
-  - Baileys Irish cream liqueur
-- - " 1/2 "
-  - shot
-  - Maker's Mark bourbon
-method: <p>LAYER by carefully pouring ingredients in the order below. IGNITE bourbon. Extinguish flame prior to drinking and beware of hot glass rim.</p>
-name: Flaming Henry
-rate: 3.5
+comment: <p>Flaming good shot.</p>
+aka: 
+variant: 
+origin: <p>Created by Henry Smiff and friends in the South of France and popularised
+  by one of their number, John Coe, the successful London drinks retailer.</p>
+source: www.diffordsguide.com (757)
+recipe_steps:
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Baileys Irish cream liqueur
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Maker's Mark bourbon
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Luxardo Amaretto di Saschira

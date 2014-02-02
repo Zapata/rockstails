@@ -1,22 +1,24 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Green Hornet
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 4.0
 garnish: 
 glass: Shot
-infos: 
-  Comment: A surprisingly palatable and balanced shot.
-  source: www.diffordsguide.com (914)
-ingredients: 
-- - " 3/4 "
-  - shot
-  - Ketel One vodka
-- - " 1/8 "
-  - shot
-  - "La F\xE9e Parisienne (68%) absinthe"
-- - " 3/4 "
-  - shot
-  - Pisang Ambon liqueur
-- - " 1/2 "
-  - shot
-  - Rose's lime cordial
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: Green Hornet
-rate: 4.0
+comment: A surprisingly palatable and balanced shot.
+aka: 
+variant: 
+origin: 
+source: www.diffordsguide.com (914)
+recipe_steps:
+- amount: ' 1/8 '
+  doze: shot
+  ingredient_name: La Fée Parisienne (68%) absinthe
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Rose's lime cordial
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Ketel One vodka
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Pisang Ambon liqueur

@@ -1,26 +1,28 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Marquee
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 4.0
 garnish: Raspberries on stick
 glass: Martini
-infos: 
-  Comment: Raspberry and bourbon combine perfectly in this short, slightly sweet, fruity drink.
-  Origin: Created in 1998 by Giovanni Burdi at Match EC1, London, England.
-  source: www.diffordsguide.com (1263)
-ingredients: 
-- - "1 1/2 "
-  - shot
-  - Maker's Mark bourbon
-- - " 1/2 "
-  - shot
-  - Chambord
-- - "1 1/2 "
-  - shot
-  - Ocean Spray cranberry juice
-- - " 1/2 "
-  - shot
-  - Freshly squeezed lemon juice
-- - " 1/4 "
-  - shot
-  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: Marquee
-rate: 4.0
+comment: Raspberry and bourbon combine perfectly in this short, slightly sweet, fruity
+  drink.
+aka: 
+variant: 
+origin: Created in 1998 by Giovanni Burdi at Match EC1, London, England.
+source: www.diffordsguide.com (1263)
+recipe_steps:
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Ocean Spray cranberry juice
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Freshly squeezed lemon juice
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Chambord
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Maker's Mark bourbon

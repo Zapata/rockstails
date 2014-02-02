@@ -1,23 +1,24 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Lotus Espresso
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 4.5
 garnish: Float three coffee beans
 glass: Martini
-infos: 
-  Comment: Coffee to the fore but with complex, earthy bitter-sweet notes.
-  Origin: Adapted from a drink discovered in 2005 at Lotus Bar, Sydney, Australia.
-  source: www.diffordsguide.com (1192)
-ingredients: 
-- - "2"
-  - shot
-  - Ketel One vodka
-- - " 1/2 "
-  - shot
-  - Kahla coffee liqueur
-- - " 1/2 "
-  - shot
-  - Maple syrup
-- - "1"
-  - shot
-  - Hot espresso coffee
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: Lotus Espresso
-rate: 4.5
+comment: Coffee to the fore but with complex, earthy bitter-sweet notes.
+aka: 
+variant: 
+origin: Adapted from a drink discovered in 2005 at Lotus Bar, Sydney, Australia.
+source: www.diffordsguide.com (1192)
+recipe_steps:
+- amount: '2'
+  doze: shot
+  ingredient_name: Ketel One vodka
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Kahla coffee liqueur
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Maple syrup
+- amount: '1'
+  doze: shot
+  ingredient_name: Hot espresso coffee

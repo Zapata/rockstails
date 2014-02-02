@@ -1,20 +1,23 @@
---- !ruby/object:DirtyCocktail 
+---
+name: 'Melon Martini #2 (Fresh Fruit)'
+method: Cut melon into 8 segments and deseed. Cut cubes of flesh from skin of one
+  segment and MUDDLE in base of shaker. Add other ingredients, SHAKE with ice and
+  fine strain into chilled glass.
+rate: 4.0
 garnish: Melon wedge on rim
 glass: Martini
-infos: 
-  Comment: Probably the most popular of all the fresh fruit martinis.
-  Variant: Substitute Midori melon liqueur for sugar syrup.
-  source: www.diffordsguide.com (1290)
-ingredients: 
-- - " 1/8 "
-  - fresh
-  - Cantaloupe melon
-- - "2"
-  - shot
-  - Ketel One vodka
-- - " 1/4 "
-  - shot
-  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
-method: Cut melon into 8 segments and deseed. Cut cubes of flesh from skin of one segment and MUDDLE in base of shaker. Add other ingredients, SHAKE with ice and fine strain into chilled glass.
-name: "Melon Martini #2 (Fresh Fruit)"
-rate: 4.0
+comment: Probably the most popular of all the fresh fruit martinis.
+aka: 
+variant: Substitute Midori melon liqueur for sugar syrup.
+origin: 
+source: www.diffordsguide.com (1290)
+recipe_steps:
+- amount: '2'
+  doze: shot
+  ingredient_name: Ketel One vodka
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- amount: ' 1/8 '
+  doze: fresh
+  ingredient_name: Cantaloupe melon

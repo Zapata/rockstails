@@ -1,26 +1,30 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Ragtime
+method: Rinse mixing glass with absinthe (sazerac style). STIR rest of ingredients
+  with ice and strain into chilled glass.<br />
+rate: 4.5
 garnish: Orange zest twist<br />
 glass: Coupette
-infos: 
-  Comment: This bitter-sweet drink benefits from the strength of bonded rye whiskey and was originally made with Rittenhouse.
-  Origin: Adapted from a drink created in 2009 by Jeremy James Thompson at Raines Law Rooms, New York City, USA.<br />
-  source: www.diffordsguide.com (2836)
-ingredients: 
-- - " 1/2 "
-  - shot
-  - "La F\xE9e Parisienne (68%) absinthe"
-- - "1 1/2 "
-  - shot
-  - Rye whiskey
-- - "1"
-  - shot
-  - Averna Amaro
-- - "1"
-  - shot
-  - Aperol
-- - "1"
-  - dash
-  - Peychaud's aromatic bitters
-method: Rinse mixing glass with absinthe (sazerac style). STIR rest of ingredients with ice and strain into chilled glass.<br />
-name: Ragtime
-rate: 4.5
+comment: This bitter-sweet drink benefits from the strength of bonded rye whiskey
+  and was originally made with Rittenhouse.
+aka: 
+variant: 
+origin: Adapted from a drink created in 2009 by Jeremy James Thompson at Raines Law
+  Rooms, New York City, USA.<br />
+source: www.diffordsguide.com (2836)
+recipe_steps:
+- amount: '1'
+  doze: shot
+  ingredient_name: Aperol
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: La Fée Parisienne (68%) absinthe
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Rye whiskey
+- amount: '1'
+  doze: dash
+  ingredient_name: Peychaud's aromatic bitters
+- amount: '1'
+  doze: shot
+  ingredient_name: Averna Amaro

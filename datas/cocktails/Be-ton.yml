@@ -1,17 +1,19 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Be-ton
+method: POUR Becherovka into ice-filled glass, then TOP with tonic water and stir.
+rate: 3.5
 garnish: Squeezed lime wedge in glass
 glass: Collins
-infos: 
-  Comment: This spicy drink is the Czech Republic's answer to the Gin 'n' Tonic.
-  Origin: Becherovka (or Carlsbad Becher as it's sometimes known) is the Czech national liqueur. Matured in oak, it contains cinnamon, cloves, nutmeg and other herbs.
-  source: www.diffordsguide.com (188)
-ingredients: 
-- - "2"
-  - shot
-  - Becherovka liqueur
-- - "1"
-  - top up with
-  - Tonic water
-method: POUR Becherovka into ice-filled glass, then TOP with tonic water and stir.
-name: Be-ton
-rate: 3.5
+comment: This spicy drink is the Czech Republic's answer to the Gin 'n' Tonic.
+aka: 
+variant: 
+origin: Becherovka (or Carlsbad Becher as it's sometimes known) is the Czech national
+  liqueur. Matured in oak, it contains cinnamon, cloves, nutmeg and other herbs.
+source: www.diffordsguide.com (188)
+recipe_steps:
+- amount: '1'
+  doze: top up with
+  ingredient_name: Tonic water
+- amount: '2'
+  doze: shot
+  ingredient_name: Becherovka liqueur

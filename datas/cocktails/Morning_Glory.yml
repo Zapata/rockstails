@@ -1,32 +1,33 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Morning Glory
+method: SHAKE all ingredients with ice and strain into ice-filled glass.
+rate: 4.0
 garnish: Lemon zest twist
 glass: Old-fashioned
-infos: 
-  Comment: Sophisticated and complex - one for sipping.
-  Origin: My interpretation of a classic.
-  source: www.diffordsguide.com (1363)
-ingredients: 
-- - "1"
-  - shot
-  - Courvoisier V.S.O.P cognac
-- - " 3/4 "
-  - shot
-  - Grand Marnier liqueur
-- - " 1/8 "
-  - shot
-  - "La F\xE9e Parisienne (68%) absinthe"
-- - " 1/2 "
-  - shot
-  - Freshly squeezed lemon juice
-- - " 1/4 "
-  - shot
-  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
-- - "2"
-  - dash
-  - Angostura aromatic bitters
-- - " 1/2 "
-  - shot
-  - Chilled mineral water
-method: SHAKE all ingredients with ice and strain into ice-filled glass.
-name: Morning Glory
-rate: 4.0
+comment: Sophisticated and complex - one for sipping.
+aka: 
+variant: 
+origin: My interpretation of a classic.
+source: www.diffordsguide.com (1363)
+recipe_steps:
+- amount: ' 1/8 '
+  doze: shot
+  ingredient_name: La Fée Parisienne (68%) absinthe
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Freshly squeezed lemon juice
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Chilled mineral water
+- amount: '2'
+  doze: dash
+  ingredient_name: Angostura aromatic bitters
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Grand Marnier liqueur
+- amount: '1'
+  doze: shot
+  ingredient_name: Courvoisier V.S.O.P cognac

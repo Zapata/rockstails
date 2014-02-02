@@ -1,26 +1,28 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Mint Cocktail
+method: Lightly MUDDLE (just to bruise) mint in base of shaker. Add other ingredients,
+  SHAKE with ice and fine strain into chilled glass.
+rate: 4.5
 garnish: Mint leaf
 glass: Martini
-infos: 
-  Comment: A great grassy, minty digestif with a good balance between acidity and sweetness.
-  Origin: Adapted from a recipe on Harry Craddock's 1930 Savoy Cocktail Book.
-  source: www.diffordsguide.com (1326)
-ingredients: 
-- - "12"
-  - fresh
-  - Mint leaves
-- - "2"
-  - shot
-  - Bombay London dry gin
-- - "1"
-  - shot
-  - Sauvignon blanc wine
-- - " 1/4 "
-  - shot
-  - Giffard Menthe Pastille liqueur
-- - " 1/4 "
-  - shot
-  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
-method: Lightly MUDDLE (just to bruise) mint in base of shaker. Add other ingredients, SHAKE with ice and fine strain into chilled glass.
-name: Mint Cocktail
-rate: 4.5
+comment: A great grassy, minty digestif with a good balance between acidity and sweetness.
+aka: 
+variant: 
+origin: Adapted from a recipe on Harry Craddock's 1930 Savoy Cocktail Book.
+source: www.diffordsguide.com (1326)
+recipe_steps:
+- amount: '1'
+  doze: shot
+  ingredient_name: Sauvignon blanc wine
+- amount: '12'
+  doze: fresh
+  ingredient_name: Mint leaves
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- amount: '2'
+  doze: shot
+  ingredient_name: Bombay London dry gin
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Giffard Menthe Pastille liqueur

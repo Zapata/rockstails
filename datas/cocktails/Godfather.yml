@@ -1,17 +1,19 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Godfather
+method: STIR all ingredients with ice and strain into ice-filled glass.
+rate: 3.5
 garnish: 
 glass: Old-fashioned
-infos: 
-  Comment: Scotch diluted and sweetened with almond - simple but good.
-  Variant: Based on vodka, this drink becomes a Godmother and when made with cognac it's known as a Godchild.
-  source: www.diffordsguide.com (864)
-ingredients: 
-- - "2"
-  - shot
-  - Johnnie Walker Scotch Whisky
-- - "1"
-  - shot
-  - Luxardo Amaretto di Saschira
-method: STIR all ingredients with ice and strain into ice-filled glass.
-name: Godfather
-rate: 3.5
+comment: Scotch diluted and sweetened with almond - simple but good.
+aka: 
+variant: Based on vodka, this drink becomes a Godmother and when made with cognac
+  it's known as a Godchild.
+origin: 
+source: www.diffordsguide.com (864)
+recipe_steps:
+- amount: '2'
+  doze: shot
+  ingredient_name: Johnnie Walker Scotch Whisky
+- amount: '1'
+  doze: shot
+  ingredient_name: Luxardo Amaretto di Saschira

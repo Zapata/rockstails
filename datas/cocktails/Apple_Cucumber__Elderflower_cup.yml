@@ -1,23 +1,26 @@
---- !ruby/object:DirtyCocktail 
-garnish: " Float 3 cucumber slices"
-glass: Martini
-infos: 
-  Comment: Apple and Zubrwka is a magic combination, as is and apple and elderflower. Here these flavoursome blends are enhanced and freshened by cucumber.
-  Origin: " Discovered in 2007 at Public Restaurant, New York City, USA."
-  source: www.diffordsguide.com (2252)
-ingredients: 
-- - "1"
-  - inch
-  - Cucumber (chopped & peeled)
-- - "2"
-  - shot
-  - Zubrwka bison vodka
-- - " 1/2 "
-  - shot
-  - St-Germain elderflower liqueur
-- - " 1/2 "
-  - shot
-  - Pressed apple juice
-method: " MUDDLE cucumber in base of shaker. Add other ingredients, SHAKE with ice and fine strain into chilled glass."
+---
 name: Apple, Cucumber & Elderflower cup
+method: ' MUDDLE cucumber in base of shaker. Add other ingredients, SHAKE with ice
+  and fine strain into chilled glass.'
 rate: 4.0
+garnish: ' Float 3 cucumber slices'
+glass: Martini
+comment: Apple and Zubrwka is a magic combination, as is and apple and elderflower.
+  Here these flavoursome blends are enhanced and freshened by cucumber.
+aka: 
+variant: 
+origin: ' Discovered in 2007 at Public Restaurant, New York City, USA.'
+source: www.diffordsguide.com (2252)
+recipe_steps:
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: St-Germain elderflower liqueur
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Pressed apple juice
+- amount: '2'
+  doze: shot
+  ingredient_name: Zubrwka bison vodka
+- amount: '1'
+  doze: inch
+  ingredient_name: Cucumber (chopped & peeled)

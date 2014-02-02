@@ -1,29 +1,31 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Fairbanks Cocktail No.1
+method: <p>SHAKE all ingredients with ice and fine strain into chilled glass.</p>
+rate: 3.0
 garnish: <p>Maraschino cherry</p>
 glass: Martini
-infos: 
-  Comment: <p>Apricot liqueur dominates this cocktail but the Noilly Prat dry vermouth and dilution save from excessive sweetness.</p>
-  Origin: <p>Adapted from Harry Craddock's 1930 'The Savoy Cocktail Book'.</p>
-  source: www.diffordsguide.com (2160)
-ingredients: 
-- - "1"
-  - shot
-  - Bombay London dry gin
-- - "1"
-  - shot
-  - Bols apricot brandy liqueur
-- - "1"
-  - shot
-  - Noilly Prat dry vermouth
-- - " 1/4 "
-  - shot
-  - Freshly squeezed lemon juice
-- - " 1/4 "
-  - shot
-  - Pomegranate (grenadine) syrup
-- - " 1/2 "
-  - shot
-  - Chilled mineral water
-method: <p>SHAKE all ingredients with ice and fine strain into chilled glass.</p>
-name: Fairbanks Cocktail No.1
-rate: 3.0
+comment: <p>Apricot liqueur dominates this cocktail but the Noilly Prat dry vermouth
+  and dilution save from excessive sweetness.</p>
+aka: 
+variant: 
+origin: <p>Adapted from Harry Craddock's 1930 'The Savoy Cocktail Book'.</p>
+source: www.diffordsguide.com (2160)
+recipe_steps:
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Freshly squeezed lemon juice
+- amount: '1'
+  doze: shot
+  ingredient_name: Noilly Prat dry vermouth
+- amount: '1'
+  doze: shot
+  ingredient_name: Bols apricot brandy liqueur
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Chilled mineral water
+- amount: '1'
+  doze: shot
+  ingredient_name: Bombay London dry gin
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Pomegranate (grenadine) syrup

@@ -1,19 +1,22 @@
---- !ruby/object:DirtyCocktail 
+---
+name: 'Raspberry Martini #1'
+method: MUDDLE raspberries in base of shaker. Add other ingredients, SHAKE with ice
+  and fine strain into chilled glass.
+rate: 3.5
 garnish: Three raspberries on stick
 glass: Martini
-infos: 
-  Comment: The simplest of raspberry Martinis but still tastes good.
-  source: www.diffordsguide.com (1635)
-ingredients: 
-- - "10"
-  - fresh
-  - Raspberries
-- - "2 1/2 "
-  - shot
-  - Ketel One vodka
-- - " 1/2 "
-  - shot
-  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
-method: MUDDLE raspberries in base of shaker. Add other ingredients, SHAKE with ice and fine strain into chilled glass.
-name: "Raspberry Martini #1"
-rate: 3.5
+comment: The simplest of raspberry Martinis but still tastes good.
+aka: 
+variant: 
+origin: 
+source: www.diffordsguide.com (1635)
+recipe_steps:
+- amount: '2 1/2 '
+  doze: shot
+  ingredient_name: Ketel One vodka
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- amount: '10'
+  doze: fresh
+  ingredient_name: Raspberries

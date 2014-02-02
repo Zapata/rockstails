@@ -1,26 +1,28 @@
---- !ruby/object:DirtyCocktail 
+---
+name: 'Apple Strudel #2'
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 4.5
 garnish: Coat half rim with cinnamon and sugar.
 glass: Martini
-infos: 
-  Comment: Apple, vanilla and a hint of Scotch - reminiscent of the dessert but a good deal drier.
-  Origin: Recipe by Yours Truly (Simon Difford) in 2006.
-  source: www.diffordsguide.com (92)
-ingredients: 
-- - "1 1/2 "
-  - shot
-  - Ketel One vodka
-- - " 1/2 "
-  - shot
-  - Johnnie Walker Scotch Whisky
-- - " 1/2 "
-  - shot
-  - Berentzen Apple schnapps
-- - " 1/2 "
-  - shot
-  - Noilly Prat dry vermouth
-- - "1"
-  - shot
-  - Pressed apple juice
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: "Apple Strudel #2"
-rate: 4.5
+comment: Apple, vanilla and a hint of Scotch - reminiscent of the dessert but a good
+  deal drier.
+aka: 
+variant: 
+origin: Recipe by Yours Truly (Simon Difford) in 2006.
+source: www.diffordsguide.com (92)
+recipe_steps:
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Ketel One vodka
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Noilly Prat dry vermouth
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Berentzen Apple schnapps
+- amount: '1'
+  doze: shot
+  ingredient_name: Pressed apple juice
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Johnnie Walker Scotch Whisky

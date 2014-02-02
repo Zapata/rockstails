@@ -1,22 +1,25 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Judy (Mocktail)
+method: SHAKE all ingredients with ice and strain into ice-filled glass.
+rate: 3.5
 garnish: Lime wedge
 glass: Collins
-infos: 
-  Comment: A refreshing, not sweet, driver's option. Consider adding a couple of dashes of Angostura aromatic bitters although be aware that these contain some alcohol.
-  source: www.diffordsguide.com (1074)
-ingredients: 
-- - "2"
-  - shot
-  - Freshly squeezed grapefruit juice
-- - "3"
-  - shot
-  - Fresh pressed pineapple juice
-- - " 1/2 "
-  - shot
-  - Freshly squeezed lemon juice
-- - " 1/2 "
-  - shot
-  - Rose's lime cordial
-method: SHAKE all ingredients with ice and strain into ice-filled glass.
-name: Judy (Mocktail)
-rate: 3.5
+comment: A refreshing, not sweet, driver's option. Consider adding a couple of dashes
+  of Angostura aromatic bitters although be aware that these contain some alcohol.
+aka: 
+variant: 
+origin: 
+source: www.diffordsguide.com (1074)
+recipe_steps:
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Rose's lime cordial
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Freshly squeezed lemon juice
+- amount: '3'
+  doze: shot
+  ingredient_name: Fresh pressed pineapple juice
+- amount: '2'
+  doze: shot
+  ingredient_name: Freshly squeezed grapefruit juice

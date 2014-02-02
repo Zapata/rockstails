@@ -1,20 +1,23 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Mr President
+method: STIR all ingredients with ice and fine strain into chilled glass.<br />
+rate: 4.0
 garnish: Orange zest twist<br />
 glass: Coupette
-infos: 
-  Comment: A combination of the El-Presidente and Negroni. A drink Campari lovers will appreciate.
-  Origin: Adapted from a drink created in 2010 by Andy Pearson, London, England for Barak Obama.<br />
-  source: www.diffordsguide.com (2824)
-ingredients: 
-- - "1 1/4 "
-  - shot
-  - Bacardi Superior rum
-- - " 3/4 "
-  - shot
-  - Martini Rosso sweet vermouth
-- - " 1/2 "
-  - shot
-  - Campari Bitter
-method: STIR all ingredients with ice and fine strain into chilled glass.<br />
-name: Mr President
-rate: 4.0
+comment: A combination of the El-Presidente and Negroni. A drink Campari lovers will
+  appreciate.
+aka: 
+variant: 
+origin: Adapted from a drink created in 2010 by Andy Pearson, London, England for
+  Barak Obama.<br />
+source: www.diffordsguide.com (2824)
+recipe_steps:
+- amount: '1 1/4 '
+  doze: shot
+  ingredient_name: Bacardi Superior rum
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Martini Rosso sweet vermouth
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Campari Bitter

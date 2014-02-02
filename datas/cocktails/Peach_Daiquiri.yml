@@ -1,23 +1,24 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Peach Daiquiri
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 4.0
 garnish: Peach wedge on rim
 glass: Martini
-infos: 
-  Comment: A classic Daiquiri with hint of peach liqueur.
-  Origin: My take on the Cuban Daiquiri de Melocoton.
-  source: www.diffordsguide.com (1491)
-ingredients: 
-- - "2"
-  - shot
-  - Bacardi Superior rum
-- - "1"
-  - shot
-  - Peach Tree peach schnapps
-- - " 1/2 "
-  - shot
-  - Freshly squeezed lime juice
-- - " 1/2 "
-  - shot
-  - Chilled mineral water
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: Peach Daiquiri
-rate: 4.0
+comment: A classic Daiquiri with hint of peach liqueur.
+aka: 
+variant: 
+origin: My take on the Cuban Daiquiri de Melocoton.
+source: www.diffordsguide.com (1491)
+recipe_steps:
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Freshly squeezed lime juice
+- amount: '2'
+  doze: shot
+  ingredient_name: Bacardi Superior rum
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Chilled mineral water
+- amount: '1'
+  doze: shot
+  ingredient_name: Peach Tree peach schnapps

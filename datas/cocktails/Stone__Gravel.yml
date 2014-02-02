@@ -1,17 +1,18 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Stone & Gravel
+method: POUR ingredients into glass filled with crushed ice and stir.
+rate: 3.5
 garnish: None
 glass: Old-fashioned
-infos: 
-  Comment: Simple, strong and surprisingly good.
-  Origin: A popular drink in Jamaica.
-  source: www.diffordsguide.com (1875)
-ingredients: 
-- - "1"
-  - shot
-  - Wray & Nephew overproof rum
-- - "3"
-  - shot
-  - Stone's green ginger wine
-method: POUR ingredients into glass filled with crushed ice and stir.
-name: Stone & Gravel
-rate: 3.5
+comment: Simple, strong and surprisingly good.
+aka: 
+variant: 
+origin: A popular drink in Jamaica.
+source: www.diffordsguide.com (1875)
+recipe_steps:
+- amount: '1'
+  doze: shot
+  ingredient_name: Wray & Nephew overproof rum
+- amount: '3'
+  doze: shot
+  ingredient_name: Stone's green ginger wine

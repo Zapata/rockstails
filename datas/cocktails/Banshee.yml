@@ -1,19 +1,21 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Banshee
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 3.0
 garnish: None
 glass: Shot
-infos: 
-  Comment: Creamy chocolate banana.
-  source: www.diffordsguide.com (166)
-ingredients: 
-- - " 1/2 "
-  - shot
-  - "Cr\xE8me de banane liqueur"
-- - " 1/2 "
-  - shot
-  - "White cr\xE8me de cacao liqueur"
-- - " 1/2 "
-  - shot
-  - Double (heavy) cream
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: Banshee
-rate: 3.0
+comment: Creamy chocolate banana.
+aka: 
+variant: 
+origin: 
+source: www.diffordsguide.com (166)
+recipe_steps:
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: White crème de cacao liqueur
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Crème de banane liqueur
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Double (heavy) cream

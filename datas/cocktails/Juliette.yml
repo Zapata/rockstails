@@ -1,25 +1,27 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Juliette
+method: SHAKE all ingredients with ice and strain into ice-filled glass.
+rate: 3.0
 garnish: Pineapple wedge &amp; cherry
 glass: Collins
-infos: 
-  Comment: Fruity, medium sweet, cognac laced cooler.
-  source: www.diffordsguide.com (1078)
-ingredients: 
-- - "1"
-  - shot
-  - Courvoisier V.S.O.P cognac
-- - "1"
-  - shot
-  - Belle de Brillet pear liqueur
-- - " 1/4 "
-  - shot
-  - Chambord
-- - "2 1/2 "
-  - shot
-  - Ocean Spray cranberry juice
-- - "1"
-  - shot
-  - Fresh pressed pineapple juice
-method: SHAKE all ingredients with ice and strain into ice-filled glass.
-name: Juliette
-rate: 3.0
+comment: Fruity, medium sweet, cognac laced cooler.
+aka: 
+variant: 
+origin: 
+source: www.diffordsguide.com (1078)
+recipe_steps:
+- amount: '2 1/2 '
+  doze: shot
+  ingredient_name: Ocean Spray cranberry juice
+- amount: '1'
+  doze: shot
+  ingredient_name: Fresh pressed pineapple juice
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Chambord
+- amount: '1'
+  doze: shot
+  ingredient_name: Courvoisier V.S.O.P cognac
+- amount: '1'
+  doze: shot
+  ingredient_name: Belle de Brillet pear liqueur

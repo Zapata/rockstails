@@ -1,26 +1,28 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Smoking Stallion
+method: STIR all ingredients with ice and fine strain into chilled glass. <br /><br
+  />
+rate: 4.0
 garnish: Dill sprig
 glass: Martini
-infos: 
-  Comment: Subtly herbal and dry with a hint of whisky smokiness. <br /><br />
-  Origin: Created in 2008 by Bart Van Ween at a Dutch World Class.
-  source: www.diffordsguide.com (2582)
-ingredients: 
-- - "1"
-  - sprig
-  - Fresh dill
-- - "2"
-  - shot
-  - Ketel One vodka
-- - " 1/2 "
-  - shot
-  - Noilly Prat dry vermouth
-- - " 1/8 "
-  - shot
-  - Lagavulin 16yo malt whisky
-- - " 1/8 "
-  - shot
-  - Maple syrup
-method: STIR all ingredients with ice and fine strain into chilled glass. <br /><br />
-name: Smoking Stallion
-rate: 4.0
+comment: Subtly herbal and dry with a hint of whisky smokiness. <br /><br />
+aka: 
+variant: 
+origin: Created in 2008 by Bart Van Ween at a Dutch World Class.
+source: www.diffordsguide.com (2582)
+recipe_steps:
+- amount: '2'
+  doze: shot
+  ingredient_name: Ketel One vodka
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Noilly Prat dry vermouth
+- amount: ' 1/8 '
+  doze: shot
+  ingredient_name: Lagavulin 16yo malt whisky
+- amount: ' 1/8 '
+  doze: shot
+  ingredient_name: Maple syrup
+- amount: '1'
+  doze: sprig
+  ingredient_name: Fresh dill

@@ -1,23 +1,28 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Original Sin
+method: POUR absinthe into ice-filled glass and top with water. Leave the mixture
+  to stand in the glass. Separately, STIR all ingredients with ice. Finally discard
+  contents of absinthe-coated glass and fine strain contents of shaker into absinthe
+  washed glass. <br /><br />
+rate: 4.5
 garnish: Star anise<br />
 glass: Martini
-infos: 
-  Comment: Sake and vodka with a delicate hint of honey.
-  Origin: Created in 2009 by Spike Marchant and Simon Difford at the Cabinet Room, London, England.<br /><br />
-  source: www.diffordsguide.com (2533)
-ingredients: 
-- - " 1/2 "
-  - shot
-  - "La F\xE9e Parisienne (68%) absinthe"
-- - "2"
-  - shot
-  - Ketel One vodka
-- - " 3/4 "
-  - shot
-  - Sake
-- - " 1/8 "
-  - shot
-  - Monin Honey syrup
-method: POUR absinthe into ice-filled glass and top with water. Leave the mixture to stand in the glass. Separately, STIR all ingredients with ice. Finally discard contents of absinthe-coated glass and fine strain contents of shaker into absinthe washed glass. <br /><br />
-name: Original Sin
-rate: 4.5
+comment: Sake and vodka with a delicate hint of honey.
+aka: 
+variant: 
+origin: Created in 2009 by Spike Marchant and Simon Difford at the Cabinet Room, London,
+  England.<br /><br />
+source: www.diffordsguide.com (2533)
+recipe_steps:
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: La Fée Parisienne (68%) absinthe
+- amount: '2'
+  doze: shot
+  ingredient_name: Ketel One vodka
+- amount: ' 1/8 '
+  doze: shot
+  ingredient_name: Monin Honey syrup
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Sake

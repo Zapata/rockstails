@@ -1,23 +1,25 @@
---- !ruby/object:DirtyCocktail 
+---
+name: 'Apple Manhattan #2'
+method: STIR all ingredients with ice and strain into chilled glass.
+rate: 4.0
 garnish: Apple wedge on rim
 glass: Martini
-infos: 
-  Comment: Exactly as billed - a Manhattan with a hint of apple.
-  Origin: Created in Sweden by Asa Nevestveit and Robert S"orman at Grill, Stockholm, Sweden.
-  source: www.diffordsguide.com (527)
-ingredients: 
-- - "2"
-  - shot
-  - Maker's Mark bourbon
-- - " 3/4 "
-  - shot
-  - Berentzen Apple schnapps
-- - " 1/4 "
-  - shot
-  - Cointreau triple sec
-- - " 1/2 "
-  - shot
-  - Martini Rosso sweet vermouth
-method: STIR all ingredients with ice and strain into chilled glass.
-name: "Apple Manhattan #2"
-rate: 4.0
+comment: Exactly as billed - a Manhattan with a hint of apple.
+aka: 
+variant: 
+origin: Created in Sweden by Asa Nevestveit and Robert S"orman at Grill, Stockholm,
+  Sweden.
+source: www.diffordsguide.com (527)
+recipe_steps:
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Cointreau triple sec
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Berentzen Apple schnapps
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Martini Rosso sweet vermouth
+- amount: '2'
+  doze: shot
+  ingredient_name: Maker's Mark bourbon

@@ -1,23 +1,26 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Plum Daiquiri
+method: CUT plum into quarters, remove stone and peel. MUDDLE plum in base of shaker.
+  Add other ingredients, SHAKE with ice and fine strain into chilled glass.
+rate: 4.0
 garnish: Lime wedge on rim
 glass: Martini
-infos: 
-  Comment: Depending on the ripeness of the plums, you may need to adjust the quantity of sugar.
-  Origin: Formula by Yours Truly (Simon Difford) in 2004.
-  source: www.diffordsguide.com (1572)
-ingredients: 
-- - "1"
-  - fresh
-  - Plum (stoned, peeled & chopped)
-- - "2"
-  - shot
-  - Bacardi Superior rum
-- - " 1/2 "
-  - shot
-  - Freshly squeezed lime juice
-- - " 1/2 "
-  - shot
-  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
-method: CUT plum into quarters, remove stone and peel. MUDDLE plum in base of shaker. Add other ingredients, SHAKE with ice and fine strain into chilled glass.
-name: Plum Daiquiri
-rate: 4.0
+comment: Depending on the ripeness of the plums, you may need to adjust the quantity
+  of sugar.
+aka: 
+variant: 
+origin: Formula by Yours Truly (Simon Difford) in 2004.
+source: www.diffordsguide.com (1572)
+recipe_steps:
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Freshly squeezed lime juice
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- amount: '2'
+  doze: shot
+  ingredient_name: Bacardi Superior rum
+- amount: '1'
+  doze: fresh
+  ingredient_name: Plum (stoned, peeled & chopped)

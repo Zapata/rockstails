@@ -1,23 +1,24 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Verdant Martini
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 4.0
 garnish: Float mint leaf
 glass: Martini
-infos: 
-  Comment: A herbal apple pie of a drink.
-  Origin: I created this drink in 2003 and named it after the hue of its ingredients.
-  source: www.diffordsguide.com (2043)
-ingredients: 
-- - "2"
-  - shot
-  - Zubrwka bison vodka
-- - " 1/8 "
-  - shot
-  - Chartreuse Green liqueur
-- - "2"
-  - shot
-  - Pressed apple juice
-- - " 1/2 "
-  - shot
-  - Freshly squeezed lime juice
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: Verdant Martini
-rate: 4.0
+comment: A herbal apple pie of a drink.
+aka: 
+variant: 
+origin: I created this drink in 2003 and named it after the hue of its ingredients.
+source: www.diffordsguide.com (2043)
+recipe_steps:
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Freshly squeezed lime juice
+- amount: '2'
+  doze: shot
+  ingredient_name: Pressed apple juice
+- amount: ' 1/8 '
+  doze: shot
+  ingredient_name: Chartreuse Green liqueur
+- amount: '2'
+  doze: shot
+  ingredient_name: Zubrwka bison vodka

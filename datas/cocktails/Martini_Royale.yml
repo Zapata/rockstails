@@ -1,20 +1,22 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Martini Royale
+method: STIR vodka and crème de cassis with ice and strain into chilled glass. TOP
+  with chilled champagne.
+rate: 3.5
 garnish: Lemon zest twist
 glass: Martini
-infos: 
-  Comment: The Kir Royale meets the vodkatini in this pink but powerful drink.
-  Origin: Created in 2001 by Dick Bradsell at Monte's, London, England.
-  source: www.diffordsguide.com (1265)
-ingredients: 
-- - "1 1/2 "
-  - shot
-  - Ketel One vodka
-- - " 1/2 "
-  - shot
-  - "Cr\xE8me de cassis liqueur"
-- - "1"
-  - top up with
-  - Perrier Jouet brut champagne
-method: STIR vodka and crème de cassis with ice and strain into chilled glass. TOP with chilled champagne.
-name: Martini Royale
-rate: 3.5
+comment: The Kir Royale meets the vodkatini in this pink but powerful drink.
+aka: 
+variant: 
+origin: Created in 2001 by Dick Bradsell at Monte's, London, England.
+source: www.diffordsguide.com (1265)
+recipe_steps:
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Ketel One vodka
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Crème de cassis liqueur
+- amount: '1'
+  doze: top up with
+  ingredient_name: Perrier Jouet brut champagne

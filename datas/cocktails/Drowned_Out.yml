@@ -1,19 +1,21 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Drowned Out
+method: POUR ingredients into ice-filled glass, stir and serve with straws.
+rate: 3.5
 garnish: Lime wedge
 glass: Collins
-infos: 
-  Comment: Ginger combines with aniseed rather than drowning it.
-  source: www.diffordsguide.com (674)
-ingredients: 
-- - "2"
-  - shot
-  - Pernod anis
-- - "1"
-  - shot
-  - Freshly squeezed lime juice
-- - "1"
-  - top up with
-  - Ginger ale
-method: POUR ingredients into ice-filled glass, stir and serve with straws.
-name: Drowned Out
-rate: 3.5
+comment: Ginger combines with aniseed rather than drowning it.
+aka: 
+variant: 
+origin: 
+source: www.diffordsguide.com (674)
+recipe_steps:
+- amount: '1'
+  doze: shot
+  ingredient_name: Freshly squeezed lime juice
+- amount: '1'
+  doze: top up with
+  ingredient_name: Ginger ale
+- amount: '2'
+  doze: shot
+  ingredient_name: Pernod anis

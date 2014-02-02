@@ -1,23 +1,26 @@
---- !ruby/object:DirtyCocktail 
+---
+name: The Apple One
+method: SHAKE all ingredients with ice and fine strain into glass filled with crushed
+  ice.
+rate: 4.0
 garnish: Thinly sliced apple &amp; mint leaf
 glass: Collins
-infos: 
-  Comment: Whiskey, elderflower and apple with a refreshing burst of citrus.
-  Origin: Adapted from a recipe created in 2008 by Vincenzo Marianella at Doheny, Los Angeles, USA.
-  source: www.diffordsguide.com (2253)
-ingredients: 
-- - "2"
-  - shot
-  - Maker's Mark bourbon
-- - " 3/4 "
-  - shot
-  - St-Germain elderflower liqueur
-- - " 3/4 "
-  - shot
-  - Pressed apple juice
-- - " 1/2 "
-  - shot
-  - Freshly squeezed lime juice
-method: SHAKE all ingredients with ice and fine strain into glass filled with crushed ice.
-name: The Apple One
-rate: 4.0
+comment: Whiskey, elderflower and apple with a refreshing burst of citrus.
+aka: 
+variant: 
+origin: Adapted from a recipe created in 2008 by Vincenzo Marianella at Doheny, Los
+  Angeles, USA.
+source: www.diffordsguide.com (2253)
+recipe_steps:
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: St-Germain elderflower liqueur
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Freshly squeezed lime juice
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Pressed apple juice
+- amount: '2'
+  doze: shot
+  ingredient_name: Maker's Mark bourbon

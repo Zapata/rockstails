@@ -1,20 +1,21 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Espresso Daiquiri
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 4.0
 garnish: Float 3 coffee beans
 glass: Martini
-infos: 
-  Comment: Rum based twist on the ubiquitous Espresso Martini.
-  Variant: Espresso Martini
-  source: www.diffordsguide.com (724)
-ingredients: 
-- - "2"
-  - shot
-  - Bacardi Superior rum
-- - "1 3/4 "
-  - shot
-  - Hot espresso coffee
-- - " 1/2 "
-  - shot
-  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: Espresso Daiquiri
-rate: 4.0
+comment: Rum based twist on the ubiquitous Espresso Martini.
+aka: 
+variant: Espresso Martini
+origin: 
+source: www.diffordsguide.com (724)
+recipe_steps:
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- amount: '2'
+  doze: shot
+  ingredient_name: Bacardi Superior rum
+- amount: '1 3/4 '
+  doze: shot
+  ingredient_name: Hot espresso coffee

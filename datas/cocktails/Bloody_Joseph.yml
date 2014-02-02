@@ -1,34 +1,36 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Bloody Joseph
+method: SHAKE all ingredients with ice and strain into ice-filled glass.
+rate: 3.5
 garnish: Stick of celery
 glass: Collins
-infos: 
-  Comment: A Bloody Mary with whisky.
-  source: www.diffordsguide.com (247)
-ingredients: 
-- - "2"
-  - shot
-  - Johnnie Walker Scotch Whisky
-- - "4"
-  - shot
-  - Tomato juice
-- - " 1/2 "
-  - shot
-  - Freshly squeezed lemon juice
-- - "8"
-  - drop
-  - Tobasco hot pepper sauce
-- - "4"
-  - dash
-  - Worcestershire sauce
-- - " 1/2 "
-  - spoon
-  - Horseradish sauce
-- - "2"
-  - pinch
-  - Celery salt
-- - "2"
-  - grind
-  - Black pepper
-method: SHAKE all ingredients with ice and strain into ice-filled glass.
-name: Bloody Joseph
-rate: 3.5
+comment: A Bloody Mary with whisky.
+aka: 
+variant: 
+origin: 
+source: www.diffordsguide.com (247)
+recipe_steps:
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Freshly squeezed lemon juice
+- amount: '8'
+  doze: drop
+  ingredient_name: Tobasco hot pepper sauce
+- amount: '2'
+  doze: shot
+  ingredient_name: Johnnie Walker Scotch Whisky
+- amount: '4'
+  doze: dash
+  ingredient_name: Worcestershire sauce
+- amount: '2'
+  doze: pinch
+  ingredient_name: Celery salt
+- amount: '2'
+  doze: grind
+  ingredient_name: Black pepper
+- amount: '4'
+  doze: shot
+  ingredient_name: Tomato juice
+- amount: ' 1/2 '
+  doze: spoon
+  ingredient_name: Horseradish sauce

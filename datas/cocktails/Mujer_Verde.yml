@@ -1,29 +1,31 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Mujer Verde
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 4.0
 garnish: Lime zest twist
 glass: Martini
-infos: 
-  Comment: The name means 'Green Lady'... and she packs a Chartreuse punch.
-  Origin: Discovered in 2006 at Absinthe, San Francisco, where 'D Mexican' resurrected this drink from his hometown of Guadalajara.
-  source: www.diffordsguide.com (1377)
-ingredients: 
-- - "1"
-  - shot
-  - Bombay London dry gin
-- - " 1/2 "
-  - shot
-  - Chartreuse Green liqueur
-- - " 1/2 "
-  - shot
-  - Chartreuse Yellow liqueur
-- - " 1/2 "
-  - shot
-  - Freshly squeezed lime juice
-- - " 1/4 "
-  - shot
-  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
-- - " 3/4 "
-  - shot
-  - Chilled mineral water
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: Mujer Verde
-rate: 4.0
+comment: The name means 'Green Lady'... and she packs a Chartreuse punch.
+aka: 
+variant: 
+origin: Discovered in 2006 at Absinthe, San Francisco, where 'D Mexican' resurrected
+  this drink from his hometown of Guadalajara.
+source: www.diffordsguide.com (1377)
+recipe_steps:
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Freshly squeezed lime juice
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Chartreuse Green liqueur
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Chilled mineral water
+- amount: '1'
+  doze: shot
+  ingredient_name: Bombay London dry gin
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Chartreuse Yellow liqueur

@@ -1,24 +1,29 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Pisco Sour (Traditional Recipe)
+method: BLEND all ingredients with 12oz scoop crushed ice and serve with straws.
+rate: 4.5
 garnish: Three drops of Angostura bitters
 glass: Goblet
-infos: 
-  Comment: One of the few really brilliant blended drinks.
-  Origin: The national drink of both Peru and Chile and both countries lay claim to the origins of the drink and the spirit it is made from. The Pisco Sour is said to have been created in the early 1920s at Bar Morris located, 847 Calle Boza, Jiron de la Union, Lima, Peru. The drinks recent popularity outside of its native Peru and Chile is attributed to Joe Baum who promoted the drink in the 1960s at La Fonda Del Sol in New York.<br /><br /><br />
-  Variant: Dust with cinnamon powder.
-  source: www.diffordsguide.com (1562)
-ingredients: 
-- - "2"
-  - shot
-  - Macchu pisco
-- - "1"
-  - shot
-  - Freshly squeezed lime juice
-- - "1"
-  - shot
-  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
-- - " 1/2 "
-  - fresh
-  - Egg white
-method: BLEND all ingredients with 12oz scoop crushed ice and serve with straws.
-name: Pisco Sour (Traditional Recipe)
-rate: 4.5
+comment: One of the few really brilliant blended drinks.
+aka: 
+variant: Dust with cinnamon powder.
+origin: The national drink of both Peru and Chile and both countries lay claim to
+  the origins of the drink and the spirit it is made from. The Pisco Sour is said
+  to have been created in the early 1920s at Bar Morris located, 847 Calle Boza, Jiron
+  de la Union, Lima, Peru. The drinks recent popularity outside of its native Peru
+  and Chile is attributed to Joe Baum who promoted the drink in the 1960s at La Fonda
+  Del Sol in New York.<br /><br /><br />
+source: www.diffordsguide.com (1562)
+recipe_steps:
+- amount: '1'
+  doze: shot
+  ingredient_name: Freshly squeezed lime juice
+- amount: '1'
+  doze: shot
+  ingredient_name: Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- amount: ' 1/2 '
+  doze: fresh
+  ingredient_name: Egg white
+- amount: '2'
+  doze: shot
+  ingredient_name: Macchu pisco

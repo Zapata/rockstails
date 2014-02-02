@@ -1,23 +1,25 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Elderflower Manhattan
+method: <p>SHAKE all ingredients with ice and fine strain into chilled glass.</p>
+rate: 4.5
 garnish: <p>Maraschino cherry</p>
 glass: Martini
-infos: 
-  Comment: <p>Elderflower replaces sweet vermouth in this 'perfect' and aromatic Manhattan. </p>
-  Origin: <p>Created in 2006 by Yours Truly (Simon Difford).</p>
-  source: www.diffordsguide.com (2642)
-ingredients: 
-- - "2"
-  - shot
-  - Maker's Mark bourbon
-- - "1"
-  - shot
-  - St-Germain elderflower liqueur
-- - " 1/2 "
-  - shot
-  - Noilly Prat dry vermouth
-- - "2"
-  - dash
-  - Angostura aromatic bitters
-method: <p>SHAKE all ingredients with ice and fine strain into chilled glass.</p>
-name: Elderflower Manhattan
-rate: 4.5
+comment: <p>Elderflower replaces sweet vermouth in this 'perfect' and aromatic Manhattan.
+  </p>
+aka: 
+variant: 
+origin: <p>Created in 2006 by Yours Truly (Simon Difford).</p>
+source: www.diffordsguide.com (2642)
+recipe_steps:
+- amount: '1'
+  doze: shot
+  ingredient_name: St-Germain elderflower liqueur
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Noilly Prat dry vermouth
+- amount: '2'
+  doze: dash
+  ingredient_name: Angostura aromatic bitters
+- amount: '2'
+  doze: shot
+  ingredient_name: Maker's Mark bourbon

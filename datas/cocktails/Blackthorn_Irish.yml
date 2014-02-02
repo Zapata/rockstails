@@ -1,26 +1,28 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Blackthorn Irish
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 3.5
 garnish: Flamed lemon zest twist
 glass: Martini
-infos: 
-  Comment: A dry and aromatic Martini with hints of anis. Some may prefer to add a dash of sugar syrup.
-  Origin: A classic cocktail whose origins are unknown.
-  source: www.diffordsguide.com (240)
-ingredients: 
-- - "1 1/2 "
-  - shot
-  - Jameson Irish whiskey
-- - " 1/4 "
-  - shot
-  - Pernod anis
-- - "1"
-  - shot
-  - Noilly Prat dry vermouth
-- - "4"
-  - dash
-  - Angostura aromatic bitters
-- - " 1/2 "
-  - shot
-  - Chilled mineral water
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: Blackthorn Irish
-rate: 3.5
+comment: A dry and aromatic Martini with hints of anis. Some may prefer to add a dash
+  of sugar syrup.
+aka: 
+variant: 
+origin: A classic cocktail whose origins are unknown.
+source: www.diffordsguide.com (240)
+recipe_steps:
+- amount: '1'
+  doze: shot
+  ingredient_name: Noilly Prat dry vermouth
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Chilled mineral water
+- amount: '4'
+  doze: dash
+  ingredient_name: Angostura aromatic bitters
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Pernod anis
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Jameson Irish whiskey

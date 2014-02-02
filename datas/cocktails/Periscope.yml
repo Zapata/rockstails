@@ -1,27 +1,27 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Periscope
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 5.0
 garnish: Grapefruit zest twist<br />
 glass: Martini
-infos: 
-  Comment: Fabulously light, almost creamy, and very refreshing.
-  Origin: Created by Matt Gee at Milk &amp; Honey, New York City, USA.
-  source: www.diffordsguide.com (2730)
-  Variant: Serve in an ice-filled Collins glass and top with soda.
-ingredients: 
-- - "1 1/2 "
-  - shot
-  - Bombay London dry gin
-- - "1"
-  - shot
-  - St-Germain elderflower liqueur
-- - " 1/8 "
-  - shot
-  - Freshly squeezed lemon juice
-- - " 1/8 "
-  - shot
-  - Freshly squeezed lime juice
-- - " 1/2 "
-  - fresh
-  - Egg white
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: Periscope
-rate: 5.0
+comment: Fabulously light, almost creamy, and very refreshing.
+aka: 
+variant: Serve in an ice-filled Collins glass and top with soda.
+origin: Created by Matt Gee at Milk &amp; Honey, New York City, USA.
+source: www.diffordsguide.com (2730)
+recipe_steps:
+- amount: '1'
+  doze: shot
+  ingredient_name: St-Germain elderflower liqueur
+- amount: ' 1/8 '
+  doze: shot
+  ingredient_name: Freshly squeezed lime juice
+- amount: ' 1/8 '
+  doze: shot
+  ingredient_name: Freshly squeezed lemon juice
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Bombay London dry gin
+- amount: ' 1/2 '
+  doze: fresh
+  ingredient_name: Egg white

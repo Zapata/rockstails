@@ -1,23 +1,25 @@
---- !ruby/object:DirtyCocktail 
-garnish: " Lemon slice and cherry (sail)<br />"
-glass: Sour or Martini/Coupette
-infos: 
-  Comment: The sweet powerful flavours of kummel and maraschino liqueurs are tamed and harnessed in this sour.
-  Origin: " Created in 2009 by Thorsten Pannek at Hilton, Frankfurt, Germany.<br />"
-  source: www.diffordsguide.com (2778)
-ingredients: 
-- - "2"
-  - shot
-  - Kummel
-- - " 1/2 "
-  - shot
-  - Luxardo maraschino liqueur
-- - "1"
-  - shot
-  - Freshly squeezed lemon juice
-- - " 1/4 "
-  - shot
-  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
-method: " SHAKE all ingredients with ice and fine strain into chilled glass.<br />"
-name: "Berlin Sour "
+---
+name: 'Berlin Sour '
+method: ' SHAKE all ingredients with ice and fine strain into chilled glass.<br />'
 rate: 4.0
+garnish: ' Lemon slice and cherry (sail)<br />'
+glass: Sour or Martini/Coupette
+comment: The sweet powerful flavours of kummel and maraschino liqueurs are tamed and
+  harnessed in this sour.
+aka: 
+variant: 
+origin: ' Created in 2009 by Thorsten Pannek at Hilton, Frankfurt, Germany.<br />'
+source: www.diffordsguide.com (2778)
+recipe_steps:
+- amount: '1'
+  doze: shot
+  ingredient_name: Freshly squeezed lemon juice
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Luxardo maraschino liqueur
+- amount: '2'
+  doze: shot
+  ingredient_name: Kummel

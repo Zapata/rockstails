@@ -1,27 +1,44 @@
---- !ruby/object:DirtyCocktail 
+---
+name: 'Pi~na Colada #1'
+method: BLEND all ingredients with one 12oz scoop crushed ice &amp; serve with straws.
+rate: 4.5
 garnish: Pineapple wedge &amp; cherry
 glass: Pineapple shell (frozen)
-infos: 
-  Comment: A wonderful creamy, fruity concoction that's not half as sticky as the world would have you believe. Too much ice will detract from the creaminess and kill the drink.<br /><br />
-  Origin: Three Puerto Rican bartenders contest the ownership of this drink. Ramn Marrero Prez claims to have first made it at the Caribe Hilton hotel's Beachcomber Bar in San Juan on 15th August 1954 using the then newly available Coco Lpez cream of coconut. Ricardo Garcia, who also worked at the Caribe, says that it was he who invented the drink. But Ramn Portas Mingot says he created it in 1963 at the Barrachina Bar in Old San Juan.<br />        <br />It is, however, commonly accepted that the Pi~na Colada was adapted from an existing creation at the Caribe Hilton Hotel, which has since promoted itself as the home of the drink and today credits Ramn Marrero Prez with its invention. Puerto Rico's famous Caribe Hilton Hotel sits on a 17-acre peninsula near Old San Juan. It was the first luxury hotel to open in the region and was a popular destination for the rich and famous who helped spread word of the drink.<br />        <br />The name 'Pi~na Colada' literally means 'strained pineapple', a reference to the freshly pressed and strained pineapple juice used in the drink's preparation. Another essential ingredient, 'cream of coconut', is a canned, non-alcoholic, thick, syrup-like blend of coconut juice, sugar, emulsifier, cellulose, thickeners, citric acid and salt. <br /><br />
-  Variant: <br />
-  source: www.diffordsguide.com (1526)
-ingredients: 
-- - "2"
-  - shot
-  - Bacardi Oro golden rum
-- - "4"
-  - shot
-  - Fresh pressed pineapple juice
-- - "1"
-  - shot
-  - Coco Lpez cream of coconut
-- - "1"
-  - shot
-  - Double (heavy) cream
-- - "1"
-  - pinch
-  - Salt
-method: BLEND all ingredients with one 12oz scoop crushed ice &amp; serve with straws.
-name: "Pi~na Colada #1"
-rate: 4.5
+comment: A wonderful creamy, fruity concoction that's not half as sticky as the world
+  would have you believe. Too much ice will detract from the creaminess and kill the
+  drink.<br /><br />
+aka: 
+variant: <br />
+origin: Three Puerto Rican bartenders contest the ownership of this drink. Ramn Marrero
+  Prez claims to have first made it at the Caribe Hilton hotel's Beachcomber Bar in
+  San Juan on 15th August 1954 using the then newly available Coco Lpez cream of coconut.
+  Ricardo Garcia, who also worked at the Caribe, says that it was he who invented
+  the drink. But Ramn Portas Mingot says he created it in 1963 at the Barrachina Bar
+  in Old San Juan.<br />        <br />It is, however, commonly accepted that the Pi~na
+  Colada was adapted from an existing creation at the Caribe Hilton Hotel, which has
+  since promoted itself as the home of the drink and today credits Ramn Marrero Prez
+  with its invention. Puerto Rico's famous Caribe Hilton Hotel sits on a 17-acre peninsula
+  near Old San Juan. It was the first luxury hotel to open in the region and was a
+  popular destination for the rich and famous who helped spread word of the drink.<br
+  />        <br />The name 'Pi~na Colada' literally means 'strained pineapple', a
+  reference to the freshly pressed and strained pineapple juice used in the drink's
+  preparation. Another essential ingredient, 'cream of coconut', is a canned, non-alcoholic,
+  thick, syrup-like blend of coconut juice, sugar, emulsifier, cellulose, thickeners,
+  citric acid and salt. <br /><br />
+source: www.diffordsguide.com (1526)
+recipe_steps:
+- amount: '4'
+  doze: shot
+  ingredient_name: Fresh pressed pineapple juice
+- amount: '2'
+  doze: shot
+  ingredient_name: Bacardi Oro golden rum
+- amount: '1'
+  doze: shot
+  ingredient_name: Double (heavy) cream
+- amount: '1'
+  doze: pinch
+  ingredient_name: Salt
+- amount: '1'
+  doze: shot
+  ingredient_name: Coco Lpez cream of coconut

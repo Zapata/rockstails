@@ -1,24 +1,24 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Valencia Cocktail No. 2
+method: POUR first 3 ingredients into chilled glass. TOP with champagne.
+rate: 4.0
 garnish: Orange zest twist
 glass: Flute
-infos: 
-  Comment: Floral and fruity - makes Bucks Fizz look a tad sad.
-  Origin: Adapted from the Valencia Cocktail No. 2 in The Savoy Cocktail Book.
-  Variant: Also served as a Martini with gin in place of champagne.
-  source: www.diffordsguide.com (2022)
-ingredients: 
-- - " 1/2 "
-  - shot
-  - Bols apricot brandy liqueur
-- - " 1/4 "
-  - shot
-  - Freshly squeezed orange juice
-- - "4"
-  - dash
-  - Angostura orange bitters
-- - "1"
-  - top up with
-  - Perrier Jouet brut champagne
-method: POUR first 3 ingredients into chilled glass. TOP with champagne.
-name: Valencia Cocktail No. 2
-rate: 4.0
+comment: Floral and fruity - makes Bucks Fizz look a tad sad.
+aka: 
+variant: Also served as a Martini with gin in place of champagne.
+origin: Adapted from the Valencia Cocktail No. 2 in The Savoy Cocktail Book.
+source: www.diffordsguide.com (2022)
+recipe_steps:
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Bols apricot brandy liqueur
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Freshly squeezed orange juice
+- amount: '4'
+  doze: dash
+  ingredient_name: Angostura orange bitters
+- amount: '1'
+  doze: top up with
+  ingredient_name: Perrier Jouet brut champagne

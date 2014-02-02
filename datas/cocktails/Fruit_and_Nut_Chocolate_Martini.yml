@@ -1,31 +1,33 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Fruit and Nut Chocolate Martini
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 4.0
 garnish: Crumbled Cadbury's Flake bar
 glass: Martini
-infos: 
-  Comment: Naughty but nice - one for confectionery lovers.
-  source: www.diffordsguide.com (813)
-ingredients: 
-- - "1"
-  - shot
-  - Raspberry flavoured vodka
-- - " 1/2 "
-  - shot
-  - "White cr\xE8me de cacao liqueur"
-- - " 1/2 "
-  - shot
-  - Baileys Irish cream liqueur
-- - " 1/2 "
-  - shot
-  - Hazelnut liqueur
-- - " 1/2 "
-  - shot
-  - Chambord
-- - " 3/4 "
-  - shot
-  - Double (heavy) cream
-- - " 3/4 "
-  - shot
-  - Milk
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: Fruit and Nut Chocolate Martini
-rate: 4.0
+comment: Naughty but nice - one for confectionery lovers.
+aka: 
+variant: 
+origin: 
+source: www.diffordsguide.com (813)
+recipe_steps:
+- amount: '1'
+  doze: shot
+  ingredient_name: Raspberry flavoured vodka
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: White crème de cacao liqueur
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Chambord
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Baileys Irish cream liqueur
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Double (heavy) cream
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Milk
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Hazelnut liqueur

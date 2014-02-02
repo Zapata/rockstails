@@ -1,26 +1,28 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Custard Tart
+method: MUDDLE physalis fruits in base of shaker can. Add other ingredients, SHAKE
+  with ice and strain.
+rate: 4.0
 garnish: Physalis (Cape gooseberry) on rim
 glass: Shot
-infos: 
-  Comment: Custardy, strangely enough.
-  Origin: Created by Alex Kammerling in 2001.
-  source: www.diffordsguide.com (505)
-ingredients: 
-- - "3"
-  - fresh
-  - Physalis fruits
-- - " 3/4 "
-  - shot
-  - Bacardi Superior rum
-- - " 1/2 "
-  - shot
-  - Bols advocaat liqueur
-- - " 1/2 "
-  - shot
-  - Peach Tree peach schnapps
-- - " 1/4 "
-  - shot
-  - Freshly squeezed lime juice
-method: MUDDLE physalis fruits in base of shaker can. Add other ingredients, SHAKE with ice and strain.
-name: Custard Tart
-rate: 4.0
+comment: Custardy, strangely enough.
+aka: 
+variant: 
+origin: Created by Alex Kammerling in 2001.
+source: www.diffordsguide.com (505)
+recipe_steps:
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Freshly squeezed lime juice
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Bacardi Superior rum
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Peach Tree peach schnapps
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Bols advocaat liqueur
+- amount: '3'
+  doze: fresh
+  ingredient_name: Physalis fruits

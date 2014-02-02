@@ -1,19 +1,22 @@
---- !ruby/object:DirtyCocktail 
+---
+name: After Six Shot
+method: Refrigerate ingredients then LAYER in chilled glass by carefully pouring in
+  the following order.
+rate: 2.5
 garnish: None
 glass: Shot
-infos: 
-  Comment: A layered, creamy, coffee and mint shot.
-  source: www.diffordsguide.com (21)
-ingredients: 
-- - " 1/2 "
-  - shot
-  - Kahla coffee liqueur
-- - " 1/2 "
-  - shot
-  - Giffard Menthe Pastille liqueur
-- - " 1/2 "
-  - shot
-  - Baileys Irish cream liqueur
-method: Refrigerate ingredients then LAYER in chilled glass by carefully pouring in the following order.
-name: After Six Shot
-rate: 2.5
+comment: A layered, creamy, coffee and mint shot.
+aka: 
+variant: 
+origin: 
+source: www.diffordsguide.com (21)
+recipe_steps:
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Baileys Irish cream liqueur
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Kahla coffee liqueur
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Giffard Menthe Pastille liqueur

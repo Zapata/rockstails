@@ -1,19 +1,24 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Tequila Sunrise
+method: SHAKE first 2 ingredients with ice and strain into ice-filled glass. POUR
+  grenadine in a circle around the top of the drink. (it will sink to create a sunrise
+  effect).
+rate: 3.5
 garnish: Orange slice &amp; cherry
 glass: Collins
-infos: 
-  Comment: Everyone has heard of this drink, but those who have tried it will wonder why it's so famous.
-  source: www.diffordsguide.com (1935)
-ingredients: 
-- - "2"
-  - shot
-  - Herradura 100% agave tequila
-- - " 3/4 "
-  - shot
-  - Pomegranate (grenadine) syrup
-- - "3"
-  - shot
-  - Freshly squeezed orange juice
-method: SHAKE first 2 ingredients with ice and strain into ice-filled glass. POUR grenadine in a circle around the top of the drink. (it will sink to create a sunrise effect).
-name: Tequila Sunrise
-rate: 3.5
+comment: Everyone has heard of this drink, but those who have tried it will wonder
+  why it's so famous.
+aka: 
+variant: 
+origin: 
+source: www.diffordsguide.com (1935)
+recipe_steps:
+- amount: '3'
+  doze: shot
+  ingredient_name: Freshly squeezed orange juice
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Pomegranate (grenadine) syrup
+- amount: '2'
+  doze: shot
+  ingredient_name: Herradura 100% agave tequila

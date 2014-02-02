@@ -1,27 +1,29 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Blue Lagoon
+method: BLEND ingredients with 12oz scoop of crushed ice. Pour into glass and serve
+  with straws.
+rate: 3.0
 garnish: Orange slice
 glass: Collins
-infos: 
-  Comment: Better than the film - not hard!
-  Origin: Created in 1972 by Andy MacElhone (son of Harry) at Harry's New York Bar, Paris, France.
-  source: www.diffordsguide.com (264)
-  Variant: Vodka, blue curacao and lemonade on the rocks.
-ingredients: 
-- - "1"
-  - shot
-  - Bombay London dry gin
-- - "1"
-  - shot
-  - Ketel One vodka
-- - "1"
-  - shot
-  - Bols blue curacao liqueur
-- - "1"
-  - shot
-  - Freshly squeezed lime juice
-- - "1"
-  - shot
-  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
-method: BLEND ingredients with 12oz scoop of crushed ice. Pour into glass and serve with straws.
-name: Blue Lagoon
-rate: 3.0
+comment: Better than the film - not hard!
+aka: 
+variant: Vodka, blue curacao and lemonade on the rocks.
+origin: Created in 1972 by Andy MacElhone (son of Harry) at Harry's New York Bar,
+  Paris, France.
+source: www.diffordsguide.com (264)
+recipe_steps:
+- amount: '1'
+  doze: shot
+  ingredient_name: Freshly squeezed lime juice
+- amount: '1'
+  doze: shot
+  ingredient_name: Ketel One vodka
+- amount: '1'
+  doze: shot
+  ingredient_name: Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- amount: '1'
+  doze: shot
+  ingredient_name: Bombay London dry gin
+- amount: '1'
+  doze: shot
+  ingredient_name: Bols blue curacao liqueur

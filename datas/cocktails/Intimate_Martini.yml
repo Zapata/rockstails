@@ -1,22 +1,25 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Intimate Martini
+method: STIR all ingredients with ice and strain into chilled glass.
+rate: 4.0
 garnish: Orange zest twist
 glass: Martini
-infos: 
-  Comment: Sweet apricot dried and balanced by vermouth and bitters. Surprisingly complex and pleasant.
-  source: www.diffordsguide.com (1017)
-ingredients: 
-- - "2"
-  - shot
-  - Ketel One vodka
-- - "1"
-  - shot
-  - Bols apricot brandy liqueur
-- - " 1/2 "
-  - shot
-  - Noilly Prat dry vermouth
-- - "3"
-  - dash
-  - Angostura orange bitters
-method: STIR all ingredients with ice and strain into chilled glass.
-name: Intimate Martini
-rate: 4.0
+comment: Sweet apricot dried and balanced by vermouth and bitters. Surprisingly complex
+  and pleasant.
+aka: 
+variant: 
+origin: 
+source: www.diffordsguide.com (1017)
+recipe_steps:
+- amount: '2'
+  doze: shot
+  ingredient_name: Ketel One vodka
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Noilly Prat dry vermouth
+- amount: '1'
+  doze: shot
+  ingredient_name: Bols apricot brandy liqueur
+- amount: '3'
+  doze: dash
+  ingredient_name: Angostura orange bitters

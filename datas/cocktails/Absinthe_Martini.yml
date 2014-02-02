@@ -1,19 +1,21 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Absinthe Martini
+method: STIR all ingredients with ice and strain into chilled glass.<br />
+rate: 4.0
 garnish: Float star anise <br />
 glass: Martini
-infos: 
-  Comment: A classic gin martini made aniseed fresh with a dash of absinthe.
-  source: www.diffordsguide.com (2871)
-ingredients: 
-- - "2 1/2 "
-  - shot
-  - Bombay London dry gin
-- - " 1/2 "
-  - shot
-  - Noilly Prat dry vermouth
-- - " 1/8 "
-  - shot
-  - "La F\xE9e Parisienne (68%) absinthe"
-method: STIR all ingredients with ice and strain into chilled glass.<br />
-name: Absinthe Martini
-rate: 4.0
+comment: A classic gin martini made aniseed fresh with a dash of absinthe.
+aka: 
+variant: 
+origin: 
+source: www.diffordsguide.com (2871)
+recipe_steps:
+- amount: ' 1/8 '
+  doze: shot
+  ingredient_name: La Fée Parisienne (68%) absinthe
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Noilly Prat dry vermouth
+- amount: '2 1/2 '
+  doze: shot
+  ingredient_name: Bombay London dry gin

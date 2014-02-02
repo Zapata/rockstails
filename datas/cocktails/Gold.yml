@@ -1,22 +1,24 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Gold
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 3.0
 garnish: Orange zest twist
 glass: Martini
-infos: 
-  Comment: Sweet, ripe banana, Scotch and a hint of orange.
-  source: www.diffordsguide.com (867)
-ingredients: 
-- - "1 1/2 "
-  - shot
-  - Johnnie Walker Scotch Whisky
-- - "1"
-  - shot
-  - Cointreau triple sec
-- - "1"
-  - shot
-  - "Cr\xE8me de banane liqueur"
-- - " 3/4 "
-  - shot
-  - Chilled mineral water
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: Gold
-rate: 3.0
+comment: Sweet, ripe banana, Scotch and a hint of orange.
+aka: 
+variant: 
+origin: 
+source: www.diffordsguide.com (867)
+recipe_steps:
+- amount: '1'
+  doze: shot
+  ingredient_name: Cointreau triple sec
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Chilled mineral water
+- amount: '1'
+  doze: shot
+  ingredient_name: Crème de banane liqueur
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Johnnie Walker Scotch Whisky

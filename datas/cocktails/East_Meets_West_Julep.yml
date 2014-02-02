@@ -1,26 +1,29 @@
---- !ruby/object:DirtyCocktail 
+---
+name: East Meets West Julep
+method: SHAKE all ingredients with ice and fine strain into glass filled with crushed
+  ice.<br /><br />
+rate: 3.5
 garnish: Mint sprig, pomegranate seeds
 glass: Old-fashioned
-infos: 
-  Comment: Reminiscent of honeyed Mint Julep with pomegranate fruit.
-  Origin: Adapted from a drink created in 2008 by Nidal Ramini at Montgomery Place, London, England. <br /><br />
-  source: www.diffordsguide.com (2391)
-ingredients: 
-- - " 3/4 "
-  - shot
-  - Pomegranate juice
-- - "7"
-  - fresh
-  - Mint leaves
-- - "2"
-  - shot
-  - Maker's Mark bourbon
-- - " 1/2 "
-  - shot
-  - Monin Honey syrup
-- - " 1/4 "
-  - shot
-  - Pomegranate (grenadine) syrup
-method: SHAKE all ingredients with ice and fine strain into glass filled with crushed ice.<br /><br />
-name: East Meets West Julep
-rate: 3.5
+comment: Reminiscent of honeyed Mint Julep with pomegranate fruit.
+aka: 
+variant: 
+origin: Adapted from a drink created in 2008 by Nidal Ramini at Montgomery Place,
+  London, England. <br /><br />
+source: www.diffordsguide.com (2391)
+recipe_steps:
+- amount: '7'
+  doze: fresh
+  ingredient_name: Mint leaves
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Pomegranate (grenadine) syrup
+- amount: '2'
+  doze: shot
+  ingredient_name: Maker's Mark bourbon
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Monin Honey syrup
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Pomegranate juice

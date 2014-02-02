@@ -1,20 +1,21 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Klondike
+method: POUR ingredients into ice-filled glass and stir.
+rate: 3.5
 garnish: Orange slice
 glass: Collins
-infos: 
-  Comment: A simple drink but the three ingredients combine well.
-  Origin: Recipe adapted from A. S. Crockett's 1935 'The Old Waldorf-Astoria Bar Book'.
-  source: www.diffordsguide.com (1116)
-ingredients: 
-- - "2"
-  - shot
-  - Maker's Mark bourbon
-- - "2"
-  - shot
-  - Freshly squeezed orange juice
-- - "1"
-  - top up with
-  - Ginger ale
-method: POUR ingredients into ice-filled glass and stir.
-name: Klondike
-rate: 3.5
+comment: A simple drink but the three ingredients combine well.
+aka: 
+variant: 
+origin: Recipe adapted from A. S. Crockett's 1935 'The Old Waldorf-Astoria Bar Book'.
+source: www.diffordsguide.com (1116)
+recipe_steps:
+- amount: '2'
+  doze: shot
+  ingredient_name: Freshly squeezed orange juice
+- amount: '1'
+  doze: top up with
+  ingredient_name: Ginger ale
+- amount: '2'
+  doze: shot
+  ingredient_name: Maker's Mark bourbon

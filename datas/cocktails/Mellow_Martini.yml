@@ -1,22 +1,24 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Mellow Martini
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 3.5
 garnish: Fresh lychee on stick
 glass: Martini
-infos: 
-  Comment: A fruity, tropical drink with a frothy head. Too fluffy to be a Martini.
-  source: www.diffordsguide.com (1292)
-ingredients: 
-- - "1 1/2 "
-  - shot
-  - Ketel One vodka
-- - " 1/2 "
-  - shot
-  - Soho lychee liqueur
-- - " 1/2 "
-  - shot
-  - "Cr\xE8me de banane liqueur"
-- - "1 1/2 "
-  - shot
-  - Fresh pressed pineapple juice
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: Mellow Martini
-rate: 3.5
+comment: A fruity, tropical drink with a frothy head. Too fluffy to be a Martini.
+aka: 
+variant: 
+origin: 
+source: www.diffordsguide.com (1292)
+recipe_steps:
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Ketel One vodka
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Fresh pressed pineapple juice
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Crème de banane liqueur
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Soho lychee liqueur

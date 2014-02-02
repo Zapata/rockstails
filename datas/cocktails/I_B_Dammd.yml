@@ -1,23 +1,24 @@
---- !ruby/object:DirtyCocktail 
+---
+name: I B Damm'd
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 4.5
 garnish: Peach wedge
 glass: Martini
-infos: 
-  Comment: Subtle combination of fruit and floral flavours.
-  Origin: Discovered in 2003 at Oxo Tower Bar, London, England.
-  source: www.diffordsguide.com (994)
-ingredients: 
-- - "2"
-  - shot
-  - Bokma oude genever
-- - " 1/2 "
-  - shot
-  - St-Germain elderflower liqueur
-- - " 1/4 "
-  - shot
-  - Peach Tree peach schnapps
-- - "1 3/4 "
-  - shot
-  - Pressed apple juice
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: I B Damm'd
-rate: 4.5
+comment: Subtle combination of fruit and floral flavours.
+aka: 
+variant: 
+origin: Discovered in 2003 at Oxo Tower Bar, London, England.
+source: www.diffordsguide.com (994)
+recipe_steps:
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: St-Germain elderflower liqueur
+- amount: '1 3/4 '
+  doze: shot
+  ingredient_name: Pressed apple juice
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Peach Tree peach schnapps
+- amount: '2'
+  doze: shot
+  ingredient_name: Bokma oude genever

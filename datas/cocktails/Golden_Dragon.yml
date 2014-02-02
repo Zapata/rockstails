@@ -1,25 +1,27 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Golden Dragon
+method: SHAKE all ingredients with ice and strain into ice-filled glass.
+rate: 3.5
 garnish: Green apple wedge
 glass: Collins
-infos: 
-  Comment: Bright green, tangy and tropical.
-  source: www.diffordsguide.com (874)
-ingredients: 
-- - "2"
-  - shot
-  - Herradura 100% agave tequila
-- - " 3/4 "
-  - shot
-  - Pisang Ambon liqueur
-- - "2"
-  - shot
-  - Pressed apple juice
-- - "1"
-  - shot
-  - Freshly squeezed lime juice
-- - " 1/2 "
-  - shot
-  - Passion fruit syrup
-method: SHAKE all ingredients with ice and strain into ice-filled glass.
-name: Golden Dragon
-rate: 3.5
+comment: Bright green, tangy and tropical.
+aka: 
+variant: 
+origin: 
+source: www.diffordsguide.com (874)
+recipe_steps:
+- amount: '1'
+  doze: shot
+  ingredient_name: Freshly squeezed lime juice
+- amount: '2'
+  doze: shot
+  ingredient_name: Pressed apple juice
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Passion fruit syrup
+- amount: '2'
+  doze: shot
+  ingredient_name: Herradura 100% agave tequila
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Pisang Ambon liqueur

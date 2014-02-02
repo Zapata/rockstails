@@ -1,26 +1,29 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Lotus Martini
+method: Lightly MUDDLE mint (just to bruise) in base of shaker. Add other ingredients,
+  SHAKE with ice and fine strain into chilled glass.
+rate: 4.0
 garnish: Mint leaf
 glass: Martini
-infos: 
-  Comment: This violet coloured drink may have an unlikely list of ingredients, but definitely tastes great.
-  Origin: Created in 2001 by Martin Walander at Match Bar, London, England.
-  source: www.diffordsguide.com (1193)
-ingredients: 
-- - "7"
-  - fresh
-  - Mint leaves
-- - "2"
-  - shot
-  - Bombay London dry gin
-- - " 1/4 "
-  - shot
-  - Bols blue curacao liqueur
-- - "1 1/2 "
-  - shot
-  - Lychee syrup (from tinned fruit)
-- - " 1/4 "
-  - shot
-  - Pomegranate (grenadine) syrup
-method: Lightly MUDDLE mint (just to bruise) in base of shaker. Add other ingredients, SHAKE with ice and fine strain into chilled glass.
-name: Lotus Martini
-rate: 4.0
+comment: This violet coloured drink may have an unlikely list of ingredients, but
+  definitely tastes great.
+aka: 
+variant: 
+origin: Created in 2001 by Martin Walander at Match Bar, London, England.
+source: www.diffordsguide.com (1193)
+recipe_steps:
+- amount: '7'
+  doze: fresh
+  ingredient_name: Mint leaves
+- amount: '2'
+  doze: shot
+  ingredient_name: Bombay London dry gin
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Pomegranate (grenadine) syrup
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Lychee syrup (from tinned fruit)
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Bols blue curacao liqueur

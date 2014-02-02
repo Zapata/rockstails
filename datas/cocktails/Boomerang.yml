@@ -1,31 +1,33 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Boomerang
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 3.5
 garnish: Maraschino cherry
 glass: Martini
-infos: 
-  Comment: A very Sweet Manhattan with lemon juice.
-  source: www.diffordsguide.com (289)
-ingredients: 
-- - "1 1/2 "
-  - shot
-  - Maker's Mark bourbon
-- - " 1/4 "
-  - shot
-  - Luxardo maraschino liqueur
-- - " 3/4 "
-  - shot
-  - Noilly Prat dry vermouth
-- - " 3/4 "
-  - shot
-  - Martini Rosso sweet vermouth
-- - " 1/2 "
-  - shot
-  - Freshly squeezed lemon juice
-- - " 1/2 "
-  - shot
-  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
-- - "4"
-  - dash
-  - Angostura aromatic bitters
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: Boomerang
-rate: 3.5
+comment: A very Sweet Manhattan with lemon juice.
+aka: 
+variant: 
+origin: 
+source: www.diffordsguide.com (289)
+recipe_steps:
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Freshly squeezed lemon juice
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Noilly Prat dry vermouth
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Martini Rosso sweet vermouth
+- amount: '4'
+  doze: dash
+  ingredient_name: Angostura aromatic bitters
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Luxardo maraschino liqueur
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Maker's Mark bourbon

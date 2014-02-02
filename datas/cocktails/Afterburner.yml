@@ -1,19 +1,22 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Afterburner
+method: POUR all ingredients into glass, swirl to mix, FLAMB and then extinguish flame.
+  Please take care and beware of hot glass rim.
+rate: 3.0
 garnish: 
 glass: Snifter
-infos: 
-  Comment: A surprisingly smooth and moreish peppermint-laced drink.
-  source: www.diffordsguide.com (22)
-ingredients: 
-- - "1"
-  - shot
-  - Giffard Menthe Pastille liqueur
-- - " 1/2 "
-  - shot
-  - Wray & Nephew overproof rum
-- - "1"
-  - shot
-  - Kahla coffee liqueur
-method: POUR all ingredients into glass, swirl to mix, FLAMB and then extinguish flame. Please take care and beware of hot glass rim.
-name: Afterburner
-rate: 3.0
+comment: A surprisingly smooth and moreish peppermint-laced drink.
+aka: 
+variant: 
+origin: 
+source: www.diffordsguide.com (22)
+recipe_steps:
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Wray & Nephew overproof rum
+- amount: '1'
+  doze: shot
+  ingredient_name: Kahla coffee liqueur
+- amount: '1'
+  doze: shot
+  ingredient_name: Giffard Menthe Pastille liqueur

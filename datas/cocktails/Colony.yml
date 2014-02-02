@@ -1,20 +1,24 @@
---- !ruby/object:DirtyCocktail 
-garnish: " Grapefruit zest twist"
-glass: Martini
-infos: 
-  Comment: Grapefruit and maraschino balance each other in the gin based classic.
-  Origin: Created during the Prohibition period at New York's Colony speakeasy, possibly by bartender Marco Hattem. The Colony attracted an upmarket Clientele, including the Vanderbilts and Windsors. The liquor was kept in an elevator which would be sent to either that attic or the basement if federal agents raided.
-  source: www.diffordsguide.com (2352)
-ingredients: 
-- - "1 1/2 "
-  - shot
-  - Bombay London dry gin
-- - " 3/4 "
-  - shot
-  - Freshly squeezed grapefruit juice
-- - " 1/4 "
-  - shot
-  - Luxardo maraschino liqueur
-method: " SHAKE all ingredients with ice and fine strain into chilled glass."
+---
 name: Colony
+method: ' SHAKE all ingredients with ice and fine strain into chilled glass.'
 rate: 4.0
+garnish: ' Grapefruit zest twist'
+glass: Martini
+comment: Grapefruit and maraschino balance each other in the gin based classic.
+aka: 
+variant: 
+origin: Created during the Prohibition period at New York's Colony speakeasy, possibly
+  by bartender Marco Hattem. The Colony attracted an upmarket Clientele, including
+  the Vanderbilts and Windsors. The liquor was kept in an elevator which would be
+  sent to either that attic or the basement if federal agents raided.
+source: www.diffordsguide.com (2352)
+recipe_steps:
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Bombay London dry gin
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Freshly squeezed grapefruit juice
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Luxardo maraschino liqueur

@@ -1,22 +1,24 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Vanilla Vodka Sour
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 4.0
 garnish: Lemon &amp; orange zest twists
 glass: Flute
-infos: 
-  Comment: A Vodka Sour with a blast of spicy vanilla.
-  source: www.diffordsguide.com (2032)
-ingredients: 
-- - "2"
-  - shot
-  - Vanilla-infused Ketel One vodka
-- - " 3/4 "
-  - shot
-  - Cuarenta y Tres (Licor 43) liqueur
-- - " 3/4 "
-  - shot
-  - Freshly squeezed lemon juice
-- - " 1/2 "
-  - fresh
-  - Egg white
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: Vanilla Vodka Sour
-rate: 4.0
+comment: A Vodka Sour with a blast of spicy vanilla.
+aka: 
+variant: 
+origin: 
+source: www.diffordsguide.com (2032)
+recipe_steps:
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Freshly squeezed lemon juice
+- amount: '2'
+  doze: shot
+  ingredient_name: Vanilla-infused Ketel One vodka
+- amount: ' 1/2 '
+  doze: fresh
+  ingredient_name: Egg white
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Cuarenta y Tres (Licor 43) liqueur

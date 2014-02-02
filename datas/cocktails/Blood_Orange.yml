@@ -1,23 +1,24 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Blood Orange
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 4.0
 garnish: Orange zest twist<br />
 glass: Martini
-infos: 
-  Comment: Bone-dry but with full-on tangy fresh orange.
-  Origin: Created in 2008 by Jeffrey Morgenthaler at Bel Ami Lounge, Oregon, USA.
-  source: www.diffordsguide.com (246)
-ingredients: 
-- - "2"
-  - shot
-  - Bombay London dry gin
-- - " 1/2 "
-  - shot
-  - Campari Bitter
-- - " 1/2 "
-  - shot
-  - Noilly Prat dry vermouth
-- - "1"
-  - shot
-  - Freshly squeezed orange juice
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: Blood Orange
-rate: 4.0
+comment: Bone-dry but with full-on tangy fresh orange.
+aka: 
+variant: 
+origin: Created in 2008 by Jeffrey Morgenthaler at Bel Ami Lounge, Oregon, USA.
+source: www.diffordsguide.com (246)
+recipe_steps:
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Noilly Prat dry vermouth
+- amount: '1'
+  doze: shot
+  ingredient_name: Freshly squeezed orange juice
+- amount: '2'
+  doze: shot
+  ingredient_name: Bombay London dry gin
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Campari Bitter

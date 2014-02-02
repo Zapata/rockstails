@@ -1,22 +1,27 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Mexicano (Hot)
+method: POUR tequila and liqueur into warmed glass and top with coffee. FLOAT cream
+  over drink.
+rate: 4.5
 garnish: Dust with nutmeg and cinnamon
 glass: Toddy
-infos: 
-  Comment: "A spicy, flavour-packed hot coffee. <br /><br />Tip: Lightly whip or simply shake cream in container before pouring over the bowl of a spoon. It also helps if the cream is gently warmed."
-  source: www.diffordsguide.com (1310)
-ingredients: 
-- - "1"
-  - shot
-  - Herradura 100% agave tequila
-- - " 1/2 "
-  - shot
-  - Grand Marnier liqueur
-- - "1"
-  - top up with
-  - Hot espresso coffee
-- - "1"
-  - float
-  - Double (heavy) cream
-method: POUR tequila and liqueur into warmed glass and top with coffee. FLOAT cream over drink.
-name: Mexicano (Hot)
-rate: 4.5
+comment: 'A spicy, flavour-packed hot coffee. <br /><br />Tip: Lightly whip or simply
+  shake cream in container before pouring over the bowl of a spoon. It also helps
+  if the cream is gently warmed.'
+aka: 
+variant: 
+origin: 
+source: www.diffordsguide.com (1310)
+recipe_steps:
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Grand Marnier liqueur
+- amount: '1'
+  doze: float
+  ingredient_name: Double (heavy) cream
+- amount: '1'
+  doze: shot
+  ingredient_name: Herradura 100% agave tequila
+- amount: '1'
+  doze: top up with
+  ingredient_name: Hot espresso coffee

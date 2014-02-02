@@ -1,23 +1,25 @@
---- !ruby/object:DirtyCocktail 
+---
+name: 'Sputnik #2'
+method: SHAKE all ingredients with ice and strain into ice filled glass.
+rate: 4.0
 garnish: Orange slice
 glass: Old-fashioned
-infos: 
-  Comment: Orange, cognac and rum meld well.
-  Origin: A cocktail served in underground clubs all over the former Eastern Bloc. It was originally made with cheap Cuban rum, Georgian brandy and tinned orange juice.
-  source: www.diffordsguide.com (1864)
-ingredients: 
-- - "1"
-  - shot
-  - Bacardi Superior rum
-- - "1"
-  - shot
-  - Courvoisier V.S.O.P cognac
-- - "2"
-  - shot
-  - Freshly squeezed orange juice
-- - " 1/2 "
-  - shot
-  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
-method: SHAKE all ingredients with ice and strain into ice filled glass.
-name: "Sputnik #2"
-rate: 4.0
+comment: Orange, cognac and rum meld well.
+aka: 
+variant: 
+origin: A cocktail served in underground clubs all over the former Eastern Bloc. It
+  was originally made with cheap Cuban rum, Georgian brandy and tinned orange juice.
+source: www.diffordsguide.com (1864)
+recipe_steps:
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- amount: '1'
+  doze: shot
+  ingredient_name: Bacardi Superior rum
+- amount: '2'
+  doze: shot
+  ingredient_name: Freshly squeezed orange juice
+- amount: '1'
+  doze: shot
+  ingredient_name: Courvoisier V.S.O.P cognac

@@ -1,28 +1,30 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Cascade Martini
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 3.5
 garnish: Raspberries on stick
 glass: Martini
-infos: 
-  Comment: Rich raspberry with hints of citrus and vanilla.
-  source: www.diffordsguide.com (384)
-ingredients: 
-- - "8"
-  - fresh
-  - Raspberries
-- - "2"
-  - shot
-  - Ketel One vodka
-- - "1"
-  - shot
-  - Ocean Spray cranberry juice
-- - " 3/4 "
-  - shot
-  - Freshly squeezed lemon juice
-- - " 1/4 "
-  - shot
-  - Chambord
-- - " 1/4 "
-  - shot
-  - Monin Vanilla sugar syrup
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: Cascade Martini
-rate: 3.5
+comment: Rich raspberry with hints of citrus and vanilla.
+aka: 
+variant: 
+origin: 
+source: www.diffordsguide.com (384)
+recipe_steps:
+- amount: '1'
+  doze: shot
+  ingredient_name: Ocean Spray cranberry juice
+- amount: '2'
+  doze: shot
+  ingredient_name: Ketel One vodka
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Freshly squeezed lemon juice
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Chambord
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Monin Vanilla sugar syrup
+- amount: '8'
+  doze: fresh
+  ingredient_name: Raspberries

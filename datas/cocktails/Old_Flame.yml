@@ -1,26 +1,27 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Old Flame
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 4.0
 garnish: Flamed orange peel
 glass: Martini
-infos: 
-  Comment: Bittersweet, orchard fresh orange charged with gin.
-  Origin: Created by Dale DeGroff, New York, USA.
-  source: www.diffordsguide.com (2721)
-ingredients: 
-- - "1"
-  - shot
-  - Bombay London dry gin
-- - " 1/2 "
-  - shot
-  - Cointreau triple sec
-- - " 1/2 "
-  - shot
-  - Martini Rosso sweet vermouth
-- - " 1/4 "
-  - shot
-  - Campari Bitter
-- - "1 1/2 "
-  - shot
-  - Freshly squeezed orange juice
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: Old Flame
-rate: 4.0
+comment: Bittersweet, orchard fresh orange charged with gin.
+aka: 
+variant: 
+origin: Created by Dale DeGroff, New York, USA.
+source: www.diffordsguide.com (2721)
+recipe_steps:
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Cointreau triple sec
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Freshly squeezed orange juice
+- amount: '1'
+  doze: shot
+  ingredient_name: Bombay London dry gin
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Martini Rosso sweet vermouth
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Campari Bitter

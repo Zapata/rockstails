@@ -1,26 +1,29 @@
---- !ruby/object:DirtyCocktail 
+---
+name: French Daiquiri
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 4.5
 garnish: Pineapple wedge on rim
 glass: Martini
-infos: 
-  Comment: A classic Daiquiri made fruity with the addition of black raspberry liqueur and pineapple juice. <br />
-  Origin: Created in 2009 by Yours Truly at The Cabinet Room, London, England for Charlotte Ashburner, Chambord's UK brand manager. <br />
-  source: www.diffordsguide.com (793)
-ingredients: 
-- - "2 1/2 "
-  - shot
-  - Bacardi Superior rum
-- - " 1/2 "
-  - shot
-  - Chambord
-- - " 1/2 "
-  - shot
-  - Freshly squeezed lime juice
-- - "1 1/2 "
-  - shot
-  - Fresh pressed pineapple juice
-- - "3"
-  - dash
-  - Difford's Daiquiri Water
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: French Daiquiri
-rate: 4.5
+comment: A classic Daiquiri made fruity with the addition of black raspberry liqueur
+  and pineapple juice. <br />
+aka: 
+variant: 
+origin: Created in 2009 by Yours Truly at The Cabinet Room, London, England for Charlotte
+  Ashburner, Chambord's UK brand manager. <br />
+source: www.diffordsguide.com (793)
+recipe_steps:
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Freshly squeezed lime juice
+- amount: '2 1/2 '
+  doze: shot
+  ingredient_name: Bacardi Superior rum
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Fresh pressed pineapple juice
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Chambord
+- amount: '3'
+  doze: dash
+  ingredient_name: Difford's Daiquiri Water

@@ -1,29 +1,33 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Reggae Rum Punch
+method: SHAKE all ingredients with ice and strain into glass filled with crushed ice.
+rate: 4.5
 garnish: Pineapple &amp; cherry on rim
 glass: Collins
-infos: 
-  Comment: Jamaicans have a sweet tooth and love their rum. This drink combines sweetness, strength and a generous amount of fruit.
-  Origin: The most popular punch in Jamaica, where it is sold under different names with slightly varying ingredients. It always contains orange, pineapple and most importantly, overproof rum.
-  source: www.diffordsguide.com (1667)
-ingredients: 
-- - "1 3/4 "
-  - shot
-  - Wray & Nephew overproof rum
-- - " 1/2 "
-  - shot
-  - "Cr\xE8me de framboise liqueur"
-- - " 3/4 "
-  - shot
-  - Freshly squeezed lime juice
-- - " 3/4 "
-  - shot
-  - Fresh pressed pineapple juice
-- - "1 1/2 "
-  - shot
-  - Freshly squeezed orange juice
-- - " 3/4 "
-  - shot
-  - Pomegranate (grenadine) syrup
-method: SHAKE all ingredients with ice and strain into glass filled with crushed ice.
-name: Reggae Rum Punch
-rate: 4.5
+comment: Jamaicans have a sweet tooth and love their rum. This drink combines sweetness,
+  strength and a generous amount of fruit.
+aka: 
+variant: 
+origin: The most popular punch in Jamaica, where it is sold under different names
+  with slightly varying ingredients. It always contains orange, pineapple and most
+  importantly, overproof rum.
+source: www.diffordsguide.com (1667)
+recipe_steps:
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Freshly squeezed lime juice
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Fresh pressed pineapple juice
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Freshly squeezed orange juice
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Pomegranate (grenadine) syrup
+- amount: '1 3/4 '
+  doze: shot
+  ingredient_name: Wray & Nephew overproof rum
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Crème de framboise liqueur

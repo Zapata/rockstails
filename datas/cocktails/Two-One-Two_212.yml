@@ -1,20 +1,24 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Two-One-Two (212)
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 3.5
 garnish: Grapefruit zest twist
 glass: Collins
-infos: 
-  Comment: Earthy taste with freshness coming fro the grapefruit.<br /><br />
-  Origin: Created in 2008 by Willy Shine at Contemporary Cocktails Inc. in New York City. The name is a reference to NYC's 212 area code as well as the ounces in the recipe. Will is also the Partida Tequila Ambassador for NYC so I should point out that this is the brand originally called for in his recipe.<br /><br />
-  source: www.diffordsguide.com (2594)
-ingredients: 
-- - "2"
-  - shot
-  - Ruby grapefruit juice
-- - "1"
-  - shot
-  - Aperol
-- - "2"
-  - shot
-  - Herradura 100% agave tequila
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: Two-One-Two (212)
-rate: 3.5
+comment: Earthy taste with freshness coming fro the grapefruit.<br /><br />
+aka: 
+variant: 
+origin: Created in 2008 by Willy Shine at Contemporary Cocktails Inc. in New York
+  City. The name is a reference to NYC's 212 area code as well as the ounces in the
+  recipe. Will is also the Partida Tequila Ambassador for NYC so I should point out
+  that this is the brand originally called for in his recipe.<br /><br />
+source: www.diffordsguide.com (2594)
+recipe_steps:
+- amount: '1'
+  doze: shot
+  ingredient_name: Aperol
+- amount: '2'
+  doze: shot
+  ingredient_name: Herradura 100% agave tequila
+- amount: '2'
+  doze: shot
+  ingredient_name: Ruby grapefruit juice

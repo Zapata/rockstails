@@ -1,21 +1,23 @@
---- !ruby/object:DirtyCocktail 
+---
+name: The St-Germain
+method: POUR wine and then elderflower liqueur into ice-filled glass. TOP with soda
+  (or champagne), lightly stir and serve with straws. <br />
+rate: 4.0
 garnish: Lime slice<br />
 glass: Collins
-infos: 
-  Comment: A long, easy drinking summer cooler.
-  Origin: Created in 2006 by Yours Truly (Simon Difford), this is the signature drink of St-Germain elderflower liqueur.
-  Variant: Also try 2 shots champagne, 1 1/2  shots St-Germain topped with soda.
-  source: www.diffordsguide.com (2743)
-ingredients: 
-- - "2"
-  - shot
-  - Sauvignon blanc wine
-- - "1 1/2 "
-  - shot
-  - St-Germain elderflower liqueur
-- - "1"
-  - top up with
-  - Soda (club soda)
-method: POUR wine and then elderflower liqueur into ice-filled glass. TOP with soda (or champagne), lightly stir and serve with straws. <br />
-name: The St-Germain
-rate: 4.0
+comment: A long, easy drinking summer cooler.
+aka: 
+variant: Also try 2 shots champagne, 1 1/2  shots St-Germain topped with soda.
+origin: Created in 2006 by Yours Truly (Simon Difford), this is the signature drink
+  of St-Germain elderflower liqueur.
+source: www.diffordsguide.com (2743)
+recipe_steps:
+- amount: '2'
+  doze: shot
+  ingredient_name: Sauvignon blanc wine
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: St-Germain elderflower liqueur
+- amount: '1'
+  doze: top up with
+  ingredient_name: Soda (club soda)

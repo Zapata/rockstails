@@ -1,23 +1,25 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Vieux Mot
+method: SHAKE all ingredients with ice and fine strain into chilled glass.<br /><br
+  />
+rate: 3.0
 garnish: Maraschino cherry<br /><br />
 glass: Coupette
-infos: 
-  Comment: "The ingredients combine to taste like lychee. Very fresh. "
-  Origin: Created in 2007 by Don Lee at PDT, New York City, USA.<br /><br />
-  source: www.diffordsguide.com (2599)
-ingredients: 
-- - "1 1/2 "
-  - shot
-  - Bombay London dry gin
-- - " 3/4 "
-  - shot
-  - St-Germain elderflower liqueur
-- - " 3/4 "
-  - shot
-  - Freshly squeezed lemon juice
-- - " 1/4 "
-  - shot
-  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
-method: SHAKE all ingredients with ice and fine strain into chilled glass.<br /><br />
-name: Vieux Mot
-rate: 3.0
+comment: 'The ingredients combine to taste like lychee. Very fresh. '
+aka: 
+variant: 
+origin: Created in 2007 by Don Lee at PDT, New York City, USA.<br /><br />
+source: www.diffordsguide.com (2599)
+recipe_steps:
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: St-Germain elderflower liqueur
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Freshly squeezed lemon juice
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Bombay London dry gin

@@ -1,20 +1,21 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Cuppa Joe
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 4.0
 garnish: Lemon zest twist
 glass: Martini
-infos: 
-  Comment: Nutty coffee fortified with vodka - well balanced.
-  Origin: Created in 2003 at Cellar Bar, New York City, USA.
-  source: www.diffordsguide.com (503)
-ingredients: 
-- - "1 1/2 "
-  - shot
-  - Ketel One vodka
-- - "1 1/2 "
-  - shot
-  - Hot espresso coffee
-- - "1 1/2 "
-  - shot
-  - Hazelnut liqueur
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: Cuppa Joe
-rate: 4.0
+comment: Nutty coffee fortified with vodka - well balanced.
+aka: 
+variant: 
+origin: Created in 2003 at Cellar Bar, New York City, USA.
+source: www.diffordsguide.com (503)
+recipe_steps:
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Ketel One vodka
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Hazelnut liqueur
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Hot espresso coffee

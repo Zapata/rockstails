@@ -1,20 +1,22 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Gin & Juice
+method: SHAKE all ingredients with ice and strain into ice-filled glass.
+rate: 3.0
 garnish: Orange slice
 glass: Collins
-infos: 
-  Comment: Gin and fruit juice. OK, but nothing to sing about.
-  Origin: Possibly the  inspiration behind the Top 10 single 'Gin and Juice' by rapper Snoop Doggy Dogg, from his debut album Doggystyle.
-  source: www.diffordsguide.com (2172)
-ingredients: 
-- - "2"
-  - shot
-  - Bombay London dry gin
-- - "2 1/2 "
-  - shot
-  - Freshly squeezed orange juice
-- - "1 1/2 "
-  - shot
-  - Freshly squeezed pink grapefruit juice
-method: SHAKE all ingredients with ice and strain into ice-filled glass.
-name: Gin & Juice
-rate: 3.0
+comment: Gin and fruit juice. OK, but nothing to sing about.
+aka: 
+variant: 
+origin: Possibly the  inspiration behind the Top 10 single 'Gin and Juice' by rapper
+  Snoop Doggy Dogg, from his debut album Doggystyle.
+source: www.diffordsguide.com (2172)
+recipe_steps:
+- amount: '2 1/2 '
+  doze: shot
+  ingredient_name: Freshly squeezed orange juice
+- amount: '2'
+  doze: shot
+  ingredient_name: Bombay London dry gin
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Freshly squeezed pink grapefruit juice

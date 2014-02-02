@@ -1,22 +1,25 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Americana
+method: Coat sugar cube with bitters and drop into glass. POUR bourbon and then champagne
+  into chilled glass.
+rate: 3.0
 garnish: Peach slice
 glass: Flute
-infos: 
-  Comment: The Wild West take on the classic Champagne Cocktail.
-  source: www.diffordsguide.com (60)
-ingredients: 
-- - "1"
-  - cube
-  - Granulated sugar
-- - "4"
-  - dash
-  - Angostura aromatic bitters
-- - " 1/2 "
-  - shot
-  - Maker's Mark bourbon
-- - "1"
-  - top up with
-  - Perrier Jouet brut champagne
-method: Coat sugar cube with bitters and drop into glass. POUR bourbon and then champagne into chilled glass.
-name: Americana
-rate: 3.0
+comment: The Wild West take on the classic Champagne Cocktail.
+aka: 
+variant: 
+origin: 
+source: www.diffordsguide.com (60)
+recipe_steps:
+- amount: '4'
+  doze: dash
+  ingredient_name: Angostura aromatic bitters
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Maker's Mark bourbon
+- amount: '1'
+  doze: top up with
+  ingredient_name: Perrier Jouet brut champagne
+- amount: '1'
+  doze: cube
+  ingredient_name: Granulated sugar

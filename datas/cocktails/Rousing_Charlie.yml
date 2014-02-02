@@ -1,26 +1,28 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Rousing Charlie
+method: STIR all ingredients with ice and strain into chilled glass.
+rate: 3.5
 garnish: Lychee from tin in drink
 glass: Martini
-infos: 
-  Comment: Subtle with an interesting salty edge, this tastes almost like a wine.
-  Origin: Adapted from a drink I created in 2002 and named after Charlie Rouse, a very lovely sherry lover.
-  source: www.diffordsguide.com (2742)
-ingredients: 
-- - " 3/4 "
-  - shot
-  - Macchu pisco
-- - " 3/4 "
-  - shot
-  - St-Germain elderflower liqueur
-- - " 3/4 "
-  - shot
-  - Tio Pepe fino sherry
-- - " 3/4 "
-  - shot
-  - Sake
-- - " 1/2 "
-  - shot
-  - Lychee syrup (from tinned fruit)
-method: STIR all ingredients with ice and strain into chilled glass.
-name: Rousing Charlie
-rate: 3.5
+comment: Subtle with an interesting salty edge, this tastes almost like a wine.
+aka: 
+variant: 
+origin: Adapted from a drink I created in 2002 and named after Charlie Rouse, a very
+  lovely sherry lover.
+source: www.diffordsguide.com (2742)
+recipe_steps:
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: St-Germain elderflower liqueur
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Macchu pisco
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Sake
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Lychee syrup (from tinned fruit)
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Tio Pepe fino sherry

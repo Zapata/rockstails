@@ -1,26 +1,27 @@
---- !ruby/object:DirtyCocktail 
+---
+name: M.G.F.
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 4.5
 garnish: Orange zest twist
 glass: Martini
-infos: 
-  Comment: Short and sharp.
-  Origin: Discovered in 2003 at Claridge's Bar, London, England.
-  source: www.diffordsguide.com (1212)
-ingredients: 
-- - "1"
-  - shot
-  - Orange-infused Ketel One vodka
-- - "1"
-  - shot
-  - Ketel One Citroen vodka
-- - "1"
-  - shot
-  - Freshly squeezed grapefruit juice
-- - "1"
-  - shot
-  - Freshly squeezed lemon juice
-- - " 1/2 "
-  - shot
-  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: M.G.F.
-rate: 4.5
+comment: Short and sharp.
+aka: 
+variant: 
+origin: Discovered in 2003 at Claridge's Bar, London, England.
+source: www.diffordsguide.com (1212)
+recipe_steps:
+- amount: '1'
+  doze: shot
+  ingredient_name: Ketel One Citroen vodka
+- amount: '1'
+  doze: shot
+  ingredient_name: Freshly squeezed lemon juice
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- amount: '1'
+  doze: shot
+  ingredient_name: Freshly squeezed grapefruit juice
+- amount: '1'
+  doze: shot
+  ingredient_name: Orange-infused Ketel One vodka

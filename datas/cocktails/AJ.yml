@@ -1,23 +1,27 @@
---- !ruby/object:DirtyCocktail 
+---
+name: A.J.
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 4.0
 garnish: Dust with cinnamon powder
 glass: Martini
-infos: 
-  Comment: Amazingly simple and beautifully balanced. I hope you like apple brandy as much as I do.
-  Origin: |-
-    <span class="Apple-style-span">The initials in the name stand
-    for 'applejack', the American style of apple brandy this drink was originally
-    based upon.</span>
-  source: www.diffordsguide.com (28)
-ingredients: 
-- - "2"
-  - shot
-  - Boulard Grand Solage calvados
-- - "2"
-  - shot
-  - Freshly squeezed grapefruit juice
-- - " 1/2 "
-  - shot
-  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: A.J.
-rate: 4.0
+comment: Amazingly simple and beautifully balanced. I hope you like apple brandy as
+  much as I do.
+aka: 
+variant: 
+origin: |-
+  <span class="Apple-style-span">The initials in the name stand
+
+  for 'applejack', the American style of apple brandy this drink was originally
+
+  based upon.</span>
+source: www.diffordsguide.com (28)
+recipe_steps:
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- amount: '2'
+  doze: shot
+  ingredient_name: Boulard Grand Solage calvados
+- amount: '2'
+  doze: shot
+  ingredient_name: Freshly squeezed grapefruit juice

@@ -1,23 +1,24 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Mandarintini
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 4.5
 garnish: Orange slice on rim
 glass: Martini
-infos: 
-  Comment: This bittersweet palate cleanser looks like pink grapefruit juice.
-  Origin: Adapted from a drink discovered in 2005 at Aqua Spirit, Hong Kong, China.
-  source: www.diffordsguide.com (1235)
-ingredients: 
-- - "1 1/2 "
-  - shot
-  - Orange-infused Ketel One vodka
-- - " 1/2 "
-  - shot
-  - Grand Marnier liqueur
-- - " 1/4 "
-  - shot
-  - Campari Bitter
-- - "1 1/2 "
-  - shot
-  - Pressed apple juice
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: Mandarintini
-rate: 4.5
+comment: This bittersweet palate cleanser looks like pink grapefruit juice.
+aka: 
+variant: 
+origin: Adapted from a drink discovered in 2005 at Aqua Spirit, Hong Kong, China.
+source: www.diffordsguide.com (1235)
+recipe_steps:
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Pressed apple juice
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Campari Bitter
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Grand Marnier liqueur
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Orange-infused Ketel One vodka

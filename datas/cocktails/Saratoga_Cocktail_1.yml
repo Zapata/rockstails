@@ -1,23 +1,25 @@
---- !ruby/object:DirtyCocktail 
+---
+name: 'Saratoga Cocktail #1'
+method: Vigorously SHAKE all ingredients with just two cubes of ice and strain into
+  glass.
+rate: 3.5
 garnish: Quarter slice of lemon
 glass: Wine
-infos: 
-  Comment: Frothy topped yet hardcore.
-  Origin: Recipe adapted from Jerry Thomas' 1862 'The Bartenders Guide'.
-  source: www.diffordsguide.com (2196)
-ingredients: 
-- - "1"
-  - shot
-  - Courvoisier V.S.O.P cognac
-- - "1"
-  - shot
-  - Rye whiskey
-- - "1"
-  - shot
-  - Martini Rosso sweet vermouth
-- - "2"
-  - dash
-  - Angostura aromatic bitters
-method: Vigorously SHAKE all ingredients with just two cubes of ice and strain into glass.
-name: "Saratoga Cocktail #1"
-rate: 3.5
+comment: Frothy topped yet hardcore.
+aka: 
+variant: 
+origin: Recipe adapted from Jerry Thomas' 1862 'The Bartenders Guide'.
+source: www.diffordsguide.com (2196)
+recipe_steps:
+- amount: '1'
+  doze: shot
+  ingredient_name: Martini Rosso sweet vermouth
+- amount: '2'
+  doze: dash
+  ingredient_name: Angostura aromatic bitters
+- amount: '1'
+  doze: shot
+  ingredient_name: Courvoisier V.S.O.P cognac
+- amount: '1'
+  doze: shot
+  ingredient_name: Rye whiskey

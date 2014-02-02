@@ -1,26 +1,28 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Pisco Sour (Difford's Formula)
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 5.0
 garnish: Three drops of Angostura bitters
 glass: Old-fashioned
-infos: 
-  Comment: Traditionally this is drunk is blended with crushed ice, but I prefer it served straight-up. Be sure to drink it quickly while it's cold.
-  Origin: My adaptation of the Chilean and Peruvian classic.
-  source: www.diffordsguide.com (1563)
-ingredients: 
-- - "2 1/2 "
-  - shot
-  - Macchu pisco
-- - "1"
-  - shot
-  - Freshly squeezed lime juice
-- - " 1/2 "
-  - shot
-  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
-- - " 1/2 "
-  - fresh
-  - Egg white
-- - "1"
-  - dash
-  - Orange flower water
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: Pisco Sour (Difford's Formula)
-rate: 5.0
+comment: Traditionally this is drunk is blended with crushed ice, but I prefer it
+  served straight-up. Be sure to drink it quickly while it's cold.
+aka: 
+variant: 
+origin: My adaptation of the Chilean and Peruvian classic.
+source: www.diffordsguide.com (1563)
+recipe_steps:
+- amount: '1'
+  doze: shot
+  ingredient_name: Freshly squeezed lime juice
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- amount: ' 1/2 '
+  doze: fresh
+  ingredient_name: Egg white
+- amount: '2 1/2 '
+  doze: shot
+  ingredient_name: Macchu pisco
+- amount: '1'
+  doze: dash
+  ingredient_name: Orange flower water

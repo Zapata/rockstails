@@ -1,20 +1,24 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Momisette
+method: POUR pastis and almond syrup into glass. Serve with bottle of sparkling water
+  so the customer can dilute to their own taste. (I recommend five shots.) Lastly,
+  add ice to fill glass.
+rate: 4.0
 garnish: 
 glass: Collins
-infos: 
-  Comment: Complex balance of anis, almond and liquorice.
-  Origin: A traditional French drink, the name of which literally translates as 'tiny mummy'.
-  source: www.diffordsguide.com (1345)
-ingredients: 
-- - "1"
-  - shot
-  - Ricard Pastis
-- - " 1/4 "
-  - shot
-  - Monin Almond (orgeat) syrup
-- - "1"
-  - top up with
-  - Sparkling mineral water
-method: POUR pastis and almond syrup into glass. Serve with bottle of sparkling water so the customer can dilute to their own taste. (I recommend five shots.) Lastly, add ice to fill glass.
-name: Momisette
-rate: 4.0
+comment: Complex balance of anis, almond and liquorice.
+aka: 
+variant: 
+origin: A traditional French drink, the name of which literally translates as 'tiny
+  mummy'.
+source: www.diffordsguide.com (1345)
+recipe_steps:
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Monin Almond (orgeat) syrup
+- amount: '1'
+  doze: shot
+  ingredient_name: Ricard Pastis
+- amount: '1'
+  doze: top up with
+  ingredient_name: Sparkling mineral water

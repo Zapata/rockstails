@@ -1,19 +1,24 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Flatliner
+method: POUR sambuca into chilled glass. LAYER tequila by carefully pouring over sambuca.
+  Lastly DRIP pepper sauce onto drink. This will sink through the tequila to form
+  an orange line on top of the sambuca.
+rate: 1.5
 garnish: <br _moz_editor_bogus_node="TRUE" />
 glass: Shot
-infos: 
-  Comment: A serious combination of sweetness, strength and heat. Looks weird and tastes weirder.
-  source: www.diffordsguide.com (760)
-ingredients: 
-- - " 3/4 "
-  - shot
-  - Luxardo sambuca dei cesari
-- - " 3/4 "
-  - shot
-  - Herradura 100% agave tequila
-- - "8"
-  - drop
-  - Tobasco hot pepper sauce
-method: POUR sambuca into chilled glass. LAYER tequila by carefully pouring over sambuca. Lastly DRIP pepper sauce onto drink. This will sink through the tequila to form an orange line on top of the sambuca.
-name: Flatliner
-rate: 1.5
+comment: A serious combination of sweetness, strength and heat. Looks weird and tastes
+  weirder.
+aka: 
+variant: 
+origin: 
+source: www.diffordsguide.com (760)
+recipe_steps:
+- amount: '8'
+  doze: drop
+  ingredient_name: Tobasco hot pepper sauce
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Herradura 100% agave tequila
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Luxardo sambuca dei cesari

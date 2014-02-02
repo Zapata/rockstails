@@ -1,24 +1,25 @@
---- !ruby/object:DirtyCocktail 
+---
+name: 'Bamboo #1'
+method: STIR all ingredients with ice and strain into chilled glass.
+rate: 4.5
 garnish: Orange zest twist
 glass: Martini
-infos: 
-  Comment: For sophisticated palates only.
-  Origin: A classic and all but forgotten cocktail from the 1940s.
-  Variant: Add two dashes of Angostura aromatic bitters in place of triple sec. Also see 'East Indian'.
-  source: www.diffordsguide.com (157)
-ingredients: 
-- - "2"
-  - shot
-  - Tio Pepe fino sherry
-- - "2"
-  - shot
-  - Noilly Prat dry vermouth
-- - " 1/4 "
-  - shot
-  - Cointreau triple sec
-- - "3"
-  - dash
-  - Angostura orange bitters
-method: STIR all ingredients with ice and strain into chilled glass.
-name: "Bamboo #1"
-rate: 4.5
+comment: For sophisticated palates only.
+aka: 
+variant: Add two dashes of Angostura aromatic bitters in place of triple sec. Also
+  see 'East Indian'.
+origin: A classic and all but forgotten cocktail from the 1940s.
+source: www.diffordsguide.com (157)
+recipe_steps:
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Cointreau triple sec
+- amount: '2'
+  doze: shot
+  ingredient_name: Noilly Prat dry vermouth
+- amount: '3'
+  doze: dash
+  ingredient_name: Angostura orange bitters
+- amount: '2'
+  doze: shot
+  ingredient_name: Tio Pepe fino sherry

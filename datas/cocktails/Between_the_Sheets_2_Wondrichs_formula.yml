@@ -1,26 +1,28 @@
---- !ruby/object:DirtyCocktail 
+---
+name: 'Between the Sheets #2 (Wondrich''s formula)'
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 5.0
 garnish: Garnish with flamed orange peel
 glass: Martini
-infos: 
-  Comment: Bénédictine takes the place of rum in this variation on a classic.
-  Origin: Formula adapted from recipe by David Wondrich. I've cut the lemon by a third, and when using fresh ice added a splash of water.<br /><br />
-  source: www.diffordsguide.com (546)
-ingredients: 
-- - "1"
-  - shot
-  - Courvoisier V.S.O.P cognac
-- - " 1/2 "
-  - shot
-  - Bénédictine D.O.M.
-- - " 1/2 "
-  - shot
-  - Cointreau triple sec
-- - " 1/4 "
-  - shot
-  - Freshly squeezed lemon juice
-- - " 1/2 "
-  - shot
-  - Chilled mineral water
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: "Between the Sheets #2 (Wondrich's formula)"
-rate: 5.0
+comment: Bénédictine takes the place of rum in this variation on a classic.
+aka: 
+variant: 
+origin: Formula adapted from recipe by David Wondrich. I've cut the lemon by a third,
+  and when using fresh ice added a splash of water.<br /><br />
+source: www.diffordsguide.com (546)
+recipe_steps:
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Cointreau triple sec
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Freshly squeezed lemon juice
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Chilled mineral water
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Bénédictine D.O.M.
+- amount: '1'
+  doze: shot
+  ingredient_name: Courvoisier V.S.O.P cognac

@@ -1,22 +1,25 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Desert Cooler
+method: SHAKE first 3 ingredients with ice and strain into ice-filled glass. TOP with
+  ginger beer.
+rate: 3.5
 garnish: Orange slice
 glass: Collins
-infos: 
-  Comment: Sandy in colour - as its name suggests - with a refreshing bite.
-  source: www.diffordsguide.com (634)
-ingredients: 
-- - "2"
-  - shot
-  - Bombay London dry gin
-- - " 3/4 "
-  - shot
-  - Heering cherry brandy liqueur
-- - "1 1/2 "
-  - shot
-  - Freshly squeezed orange juice
-- - "1"
-  - top up with
-  - Ginger beer
-method: SHAKE first 3 ingredients with ice and strain into ice-filled glass. TOP with ginger beer.
-name: Desert Cooler
-rate: 3.5
+comment: Sandy in colour - as its name suggests - with a refreshing bite.
+aka: 
+variant: 
+origin: 
+source: www.diffordsguide.com (634)
+recipe_steps:
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Heering cherry brandy liqueur
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Freshly squeezed orange juice
+- amount: '2'
+  doze: shot
+  ingredient_name: Bombay London dry gin
+- amount: '1'
+  doze: top up with
+  ingredient_name: Ginger beer

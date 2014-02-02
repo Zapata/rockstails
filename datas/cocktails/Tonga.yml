@@ -1,34 +1,36 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Tonga
+method: SHAKE all ingredients with ice and strain into ice-filled glass.
+rate: 3.5
 garnish: Orange, lime and lemon slices
 glass: Hurricane
-infos: 
-  Comment: The rum and cognac flavours are masked by zesty orange.
-  source: www.diffordsguide.com (2755)
-ingredients: 
-- - "2"
-  - shot
-  - Bacardi Superior rum
-- - " 1/2 "
-  - shot
-  - Courvoisier V.S.O.P cognac
-- - " 1/4 "
-  - shot
-  - Zacapa aged rum
-- - " 1/2 "
-  - shot
-  - Pomegranate (grenadine) syrup
-- - "2"
-  - shot
-  - Freshly squeezed orange juice
-- - " 3/4 "
-  - shot
-  - Freshly squeezed lemon juice
-- - " 3/4 "
-  - shot
-  - Freshly squeezed lime juice
-- - " 1/4 "
-  - shot
-  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
-method: SHAKE all ingredients with ice and strain into ice-filled glass.
-name: Tonga
-rate: 3.5
+comment: The rum and cognac flavours are masked by zesty orange.
+aka: 
+variant: 
+origin: 
+source: www.diffordsguide.com (2755)
+recipe_steps:
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Freshly squeezed lime juice
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Freshly squeezed lemon juice
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- amount: '2'
+  doze: shot
+  ingredient_name: Bacardi Superior rum
+- amount: '2'
+  doze: shot
+  ingredient_name: Freshly squeezed orange juice
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Pomegranate (grenadine) syrup
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Courvoisier V.S.O.P cognac
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Zacapa aged rum

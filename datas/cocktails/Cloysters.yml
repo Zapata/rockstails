@@ -1,29 +1,32 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Cloysters
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 4.0
 garnish: Grapefruit twist<br />
 glass: Martini
-infos: 
-  Comment: There's a suitable subtle monastic influence to this complex, gin based, most learned of cocktails.
-  Origin: Adapted from a drink created in 2007 by John Deragon at PDT, New York City, USA.
-  source: www.diffordsguide.com (2346)
-ingredients: 
-- - "2"
-  - shot
-  - Bombay London dry gin
-- - " 1/2 "
-  - shot
-  - Chartreuse Yellow liqueur
-- - " 1/2 "
-  - shot
-  - Freshly squeezed grapefruit juice
-- - " 1/4 "
-  - shot
-  - Freshly squeezed lemon juice
-- - " 1/8 "
-  - shot
-  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
-- - " 1/4 "
-  - shot
-  - Chilled mineral water
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: Cloysters
-rate: 4.0
+comment: There's a suitable subtle monastic influence to this complex, gin based,
+  most learned of cocktails.
+aka: 
+variant: 
+origin: Adapted from a drink created in 2007 by John Deragon at PDT, New York City,
+  USA.
+source: www.diffordsguide.com (2346)
+recipe_steps:
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Freshly squeezed lemon juice
+- amount: ' 1/8 '
+  doze: shot
+  ingredient_name: Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Chilled mineral water
+- amount: '2'
+  doze: shot
+  ingredient_name: Bombay London dry gin
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Freshly squeezed grapefruit juice
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Chartreuse Yellow liqueur

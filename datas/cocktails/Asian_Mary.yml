@@ -1,28 +1,32 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Asian Mary
+method: MUDDLE ginger in base of shaker and add vodka. Squeeze wasabi paste onto bar
+  spoon and STIR with vodka and ginger until dissolved. Add other ingredients, SHAKE
+  with ice and fine strain into ice-filled glass.
+rate: 4.0
 garnish: Lemongrass
 glass: Collins
-infos: 
-  Comment: An aptly named Bloody Mary with plenty of Asian spice.
-  source: www.diffordsguide.com (110)
-ingredients: 
-- - "3"
-  - slice
-  - Fresh root ginger (thumbnail sized)
-- - "3"
-  - pea
-  - Wasabi paste
-- - "3"
-  - shot
-  - Ketel One Citroen vodka
-- - "1"
-  - spoon
-  - Soy sauce
-- - " 1/2 "
-  - shot
-  - Freshly squeezed lemon juice
-- - "4"
-  - shot
-  - Tomato juice
-method: MUDDLE ginger in base of shaker and add vodka. Squeeze wasabi paste onto bar spoon and STIR with vodka and ginger until dissolved. Add other ingredients, SHAKE with ice and fine strain into ice-filled glass.
-name: Asian Mary
-rate: 4.0
+comment: An aptly named Bloody Mary with plenty of Asian spice.
+aka: 
+variant: 
+origin: 
+source: www.diffordsguide.com (110)
+recipe_steps:
+- amount: '3'
+  doze: shot
+  ingredient_name: Ketel One Citroen vodka
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Freshly squeezed lemon juice
+- amount: '3'
+  doze: slice
+  ingredient_name: Fresh root ginger (thumbnail sized)
+- amount: '4'
+  doze: shot
+  ingredient_name: Tomato juice
+- amount: '3'
+  doze: pea
+  ingredient_name: Wasabi paste
+- amount: '1'
+  doze: spoon
+  ingredient_name: Soy sauce

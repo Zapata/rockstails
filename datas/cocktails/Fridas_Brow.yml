@@ -1,26 +1,27 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Frida's Brow
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 4.0
 garnish: Dust with cinnamon powder
 glass: Martini
-infos: 
-  Comment: Creamy, sweetened tequila with hints of chocolate.
-  Origin: Discovered in 2005 at Velvet Margarita Cantina, Los Angeles, USA.
-  source: www.diffordsguide.com (807)
-ingredients: 
-- - "2"
-  - shot
-  - Herradura 100% agave tequila
-- - " 1/2 "
-  - shot
-  - "White cr\xE8me de cacao liqueur"
-- - " 1/4 "
-  - shot
-  - Pomegranate (grenadine) syrup
-- - " 1/2 "
-  - shot
-  - Double (heavy) cream
-- - " 1/2 "
-  - shot
-  - Milk
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: Frida's Brow
-rate: 4.0
+comment: Creamy, sweetened tequila with hints of chocolate.
+aka: 
+variant: 
+origin: Discovered in 2005 at Velvet Margarita Cantina, Los Angeles, USA.
+source: www.diffordsguide.com (807)
+recipe_steps:
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: White crème de cacao liqueur
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Pomegranate (grenadine) syrup
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Double (heavy) cream
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Milk
+- amount: '2'
+  doze: shot
+  ingredient_name: Herradura 100% agave tequila

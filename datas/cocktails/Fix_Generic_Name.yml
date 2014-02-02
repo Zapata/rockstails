@@ -1,23 +1,25 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Fix (Generic Name)
+method: SHAKE all ingredients with ice and strain into ice-filled glass.
+rate: 4.0
 garnish: With fruit used in recipe
 glass: Old-fashioned
-infos: 
-  Comment: Match the juice and spirit and this formula works every time.<br /><br />
-  Origin: A Fix is a classic style of drink that constitutes of a spirit, lemon juice, and some kind of sweet fruit served short.<br /><br />
-  source: www.diffordsguide.com (2164)
-ingredients: 
-- - "2"
-  - shot
-  - Brandy, whisk(e)y, gin, rum etc.
-- - "1"
-  - shot
-  - Freshly squeezed lemon juice
-- - "1"
-  - shot
-  - Sweet fruit juice
-- - " 1/2 "
-  - shot
-  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
-method: SHAKE all ingredients with ice and strain into ice-filled glass.
-name: Fix (Generic Name)
-rate: 4.0
+comment: Match the juice and spirit and this formula works every time.<br /><br />
+aka: 
+variant: 
+origin: A Fix is a classic style of drink that constitutes of a spirit, lemon juice,
+  and some kind of sweet fruit served short.<br /><br />
+source: www.diffordsguide.com (2164)
+recipe_steps:
+- amount: '1'
+  doze: shot
+  ingredient_name: Freshly squeezed lemon juice
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- amount: '2'
+  doze: shot
+  ingredient_name: Brandy, whisk(e)y, gin, rum etc.
+- amount: '1'
+  doze: shot
+  ingredient_name: Sweet fruit juice

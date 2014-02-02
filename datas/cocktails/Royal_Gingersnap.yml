@@ -1,29 +1,32 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Royal Gingersnap
+method: MUDDLE the cherry in base of shaker. Add other ingredients, SHAKE with ice
+  and fine strain into ice-filled glass.<br /><br />
+rate: 4.0
 garnish: Cinnamon and sugar rim using orange juice plus famed orange zest twist
 glass: Old-fashioned
-infos: 
-  Comment: Variation on Old-Fashioned
-  Origin: Created by Dale DeGroff, this recipe is adapted from his 2008 book 'The Essential Cocktail'.<br /><br />
-  source: www.diffordsguide.com (2564)
-ingredients: 
-- - "1"
-  - whole
-  - Maraschino cherries & syrup
-- - "2"
-  - shot
-  - Canadian whisky
-- - "1"
-  - spoon
-  - Orange marmalade
-- - " 1/4 "
-  - shot
-  - Domaine de Canton ginger liqueur
-- - " 1/2 "
-  - shot
-  - Freshly squeezed orange juice
-- - "2"
-  - dash
-  - Angostura aromatic bitters
-method: MUDDLE the cherry in base of shaker. Add other ingredients, SHAKE with ice and fine strain into ice-filled glass.<br /><br />
-name: Royal Gingersnap
-rate: 4.0
+comment: Variation on Old-Fashioned
+aka: 
+variant: 
+origin: Created by Dale DeGroff, this recipe is adapted from his 2008 book 'The Essential
+  Cocktail'.<br /><br />
+source: www.diffordsguide.com (2564)
+recipe_steps:
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Freshly squeezed orange juice
+- amount: '2'
+  doze: dash
+  ingredient_name: Angostura aromatic bitters
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Domaine de Canton ginger liqueur
+- amount: '1'
+  doze: spoon
+  ingredient_name: Orange marmalade
+- amount: '2'
+  doze: shot
+  ingredient_name: Canadian whisky
+- amount: '1'
+  doze: whole
+  ingredient_name: Maraschino cherries & syrup

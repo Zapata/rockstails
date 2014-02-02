@@ -1,30 +1,31 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Caipiruva Bacchanalia
+method: MUDDLE lime and grapes in base of shaker to release juices. Add other ingredients,
+  SHAKE with 6oz scoop crushed ice and pour all without straining into glass.
+rate: 3.5
 garnish: 
 glass: Old-fashioned
-infos: 
-  Comment: This twist on Dale's Caiprinuva is sweetened by honey and dessert wine.
-  Origin: Created in 2008 by Julian de Feral at The Player, London, England.
-  Variant: <br />
-  source: www.diffordsguide.com (2329)
-ingredients: 
-- - " 1/2 "
-  - fresh
-  - Lime
-- - "5"
-  - fresh
-  - Red grapes
-- - "2"
-  - shot
-  - Leblon cachaca
-- - "1"
-  - shot
-  - Monin Honey syrup
-- - " 3/4 "
-  - shot
-  - Sauternes dessert wine
-- - "3"
-  - dash
-  - Fee Brothers grapefruit bitters
-method: MUDDLE lime and grapes in base of shaker to release juices. Add other ingredients, SHAKE with 6oz scoop crushed ice and pour all without straining into glass.
-name: Caipiruva Bacchanalia
-rate: 3.5
+comment: This twist on Dale's Caiprinuva is sweetened by honey and dessert wine.
+aka: 
+variant: <br />
+origin: Created in 2008 by Julian de Feral at The Player, London, England.
+source: www.diffordsguide.com (2329)
+recipe_steps:
+- amount: '1'
+  doze: shot
+  ingredient_name: Monin Honey syrup
+- amount: ' 1/2 '
+  doze: fresh
+  ingredient_name: Lime
+- amount: '2'
+  doze: shot
+  ingredient_name: Leblon cachaca
+- amount: '3'
+  doze: dash
+  ingredient_name: Fee Brothers grapefruit bitters
+- amount: '5'
+  doze: fresh
+  ingredient_name: Red grapes
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Sauternes dessert wine

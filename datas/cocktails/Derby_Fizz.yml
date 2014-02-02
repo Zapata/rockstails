@@ -1,31 +1,34 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Derby Fizz
+method: SHAKE first 6 ingredients with ice and strain into chilled glass. TOP with
+  soda.
+rate: 4.0
 garnish: Lemon slice
 glass: Collins (small 8oz)
-infos: 
-  Comment: An elongated sour with perfectly balanced strength, sweetness and sourness.
-  source: www.diffordsguide.com (633)
-ingredients: 
-- - "1 3/4 "
-  - shot
-  - Maker's Mark bourbon
-- - "1 1/2 "
-  - shot
-  - Bacardi Superior rum
-- - " 1/4 "
-  - shot
-  - Grand Marnier liqueur
-- - "1"
-  - shot
-  - Freshly squeezed lemon juice
-- - " 1/2 "
-  - shot
-  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
-- - " 1/2 "
-  - fresh
-  - Egg white
-- - "1"
-  - top up with
-  - Soda from siphon
-method: SHAKE first 6 ingredients with ice and strain into chilled glass. TOP with soda.
-name: Derby Fizz
-rate: 4.0
+comment: An elongated sour with perfectly balanced strength, sweetness and sourness.
+aka: 
+variant: 
+origin: 
+source: www.diffordsguide.com (633)
+recipe_steps:
+- amount: '1'
+  doze: shot
+  ingredient_name: Freshly squeezed lemon juice
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Bacardi Superior rum
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Grand Marnier liqueur
+- amount: ' 1/2 '
+  doze: fresh
+  ingredient_name: Egg white
+- amount: '1 3/4 '
+  doze: shot
+  ingredient_name: Maker's Mark bourbon
+- amount: '1'
+  doze: top up with
+  ingredient_name: Soda from siphon

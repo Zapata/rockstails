@@ -1,29 +1,32 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Gin Gin Mule
+method: MUDDLE ginger in base of shaker. Add next 4 ingredients, SHAKE with ice and
+  fine strain into ice-filled glass. TOP with ginger beer.
+rate: 4.0
 garnish: Lime wedge
 glass: Collins
-infos: 
-  Comment: Fresh ginger and the herbal notes from gin make this much more than another take on the Moscow Mule.<br />
-  Origin: Adapted from a drink created in 2004 by Audrey Saunders, New York City, USA.
-  source: www.diffordsguide.com (843)
-ingredients: 
-- - "2"
-  - slice
-  - Fresh root ginger (thumbnail sized)
-- - "2"
-  - unit
-  - Bombay London dry gin
-- - " 1/2 "
-  - shot
-  - Freshly squeezed lime juice
-- - " 1/4 "
-  - shot
-  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
-- - "3"
-  - dash
-  - Angostura aromatic bitters
-- - "1"
-  - top up with
-  - Ginger beer
-method: MUDDLE ginger in base of shaker. Add next 4 ingredients, SHAKE with ice and fine strain into ice-filled glass. TOP with ginger beer.
-name: Gin Gin Mule
-rate: 4.0
+comment: Fresh ginger and the herbal notes from gin make this much more than another
+  take on the Moscow Mule.<br />
+aka: 
+variant: 
+origin: Adapted from a drink created in 2004 by Audrey Saunders, New York City, USA.
+source: www.diffordsguide.com (843)
+recipe_steps:
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Freshly squeezed lime juice
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- amount: '2'
+  doze: unit
+  ingredient_name: Bombay London dry gin
+- amount: '3'
+  doze: dash
+  ingredient_name: Angostura aromatic bitters
+- amount: '1'
+  doze: top up with
+  ingredient_name: Ginger beer
+- amount: '2'
+  doze: slice
+  ingredient_name: Fresh root ginger (thumbnail sized)

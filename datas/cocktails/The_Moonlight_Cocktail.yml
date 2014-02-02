@@ -1,26 +1,29 @@
---- !ruby/object:DirtyCocktail 
+---
+name: The Moonlight Cocktail
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 4.0
 garnish: Orange zest twist<br />
 glass: Martini
-infos: 
-  Comment: A twist on the classic Aviation. I have added the optional addition of water as this drink benefits from increased dilution. <br /><br />
-  Origin: Created in 2008 by Gary Regan, New York, USA and first published in his San Francisco Conical column. <br /><br />
-  source: www.diffordsguide.com (2510)
-ingredients: 
-- - "1 1/2 "
-  - shot
-  - Bombay London dry gin
-- - " 1/2 "
-  - shot
-  - Cointreau triple sec
-- - " 1/2 "
-  - shot
-  - Benoit Serres crème de violette
-- - " 1/2 "
-  - shot
-  - Freshly squeezed lime juice
-- - " 1/2 "
-  - shot
-  - Chilled mineral water
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: The Moonlight Cocktail
-rate: 4.0
+comment: A twist on the classic Aviation. I have added the optional addition of water
+  as this drink benefits from increased dilution. <br /><br />
+aka: 
+variant: 
+origin: Created in 2008 by Gary Regan, New York, USA and first published in his San
+  Francisco Conical column. <br /><br />
+source: www.diffordsguide.com (2510)
+recipe_steps:
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Cointreau triple sec
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Freshly squeezed lime juice
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Chilled mineral water
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Bombay London dry gin
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Benoit Serres crème de violette

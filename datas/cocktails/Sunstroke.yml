@@ -1,19 +1,21 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Sunstroke
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 4.0
 garnish: Orange zest twist (round to make sun)
 glass: Martini
-infos: 
-  Comment: Fruity but balanced. One to sip in the shade.
-  source: www.diffordsguide.com (1904)
-ingredients: 
-- - "1"
-  - shot
-  - Ketel One vodka
-- - "1"
-  - shot
-  - Cointreau triple sec
-- - "2"
-  - shot
-  - Freshly squeezed grapefruit juice
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: Sunstroke
-rate: 4.0
+comment: Fruity but balanced. One to sip in the shade.
+aka: 
+variant: 
+origin: 
+source: www.diffordsguide.com (1904)
+recipe_steps:
+- amount: '1'
+  doze: shot
+  ingredient_name: Cointreau triple sec
+- amount: '1'
+  doze: shot
+  ingredient_name: Ketel One vodka
+- amount: '2'
+  doze: shot
+  ingredient_name: Freshly squeezed grapefruit juice

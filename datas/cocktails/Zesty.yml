@@ -1,16 +1,18 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Zesty
+method: SHAKE all ingredients with ice and strain into glass filled with crushed ice.
+rate: 3.5
 garnish: Lime zest twist<br />
 glass: Old-fashioned
-infos: 
-  Comment: Citrus fresh with a nutty touch.
-  source: www.diffordsguide.com (2125)
-ingredients: 
-- - "2"
-  - shot
-  - Hazelnut liqueur
-- - " 1/2 "
-  - shot
-  - Freshly squeezed lime juice
-method: SHAKE all ingredients with ice and strain into glass filled with crushed ice.
-name: Zesty
-rate: 3.5
+comment: Citrus fresh with a nutty touch.
+aka: 
+variant: 
+origin: 
+source: www.diffordsguide.com (2125)
+recipe_steps:
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Freshly squeezed lime juice
+- amount: '2'
+  doze: shot
+  ingredient_name: Hazelnut liqueur

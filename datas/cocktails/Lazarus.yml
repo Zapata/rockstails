@@ -1,23 +1,24 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Lazarus
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 4.5
 garnish: Float three coffee beans
 glass: Martini
-infos: 
-  Comment: A flavoursome combination of spirit and coffee.
-  Origin: Created in 2000 by David Whitehead at Atrium, Leeds, England.
-  source: www.diffordsguide.com (1134)
-ingredients: 
-- - "1"
-  - shot
-  - Ketel One vodka
-- - " 1/2 "
-  - shot
-  - Courvoisier V.S.O.P cognac
-- - "1"
-  - shot
-  - Kahla coffee liqueur
-- - "1"
-  - shot
-  - Hot espresso coffee
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: Lazarus
-rate: 4.5
+comment: A flavoursome combination of spirit and coffee.
+aka: 
+variant: 
+origin: Created in 2000 by David Whitehead at Atrium, Leeds, England.
+source: www.diffordsguide.com (1134)
+recipe_steps:
+- amount: '1'
+  doze: shot
+  ingredient_name: Ketel One vodka
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Courvoisier V.S.O.P cognac
+- amount: '1'
+  doze: shot
+  ingredient_name: Kahla coffee liqueur
+- amount: '1'
+  doze: shot
+  ingredient_name: Hot espresso coffee

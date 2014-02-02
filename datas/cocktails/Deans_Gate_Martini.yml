@@ -1,22 +1,24 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Dean's Gate Martini
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 3.5
 garnish: Orange zest twist
 glass: Martini
-infos: 
-  Comment: Rich and strong with a warm, honeyed citrus flavour.
-  source: www.diffordsguide.com (622)
-ingredients: 
-- - "2"
-  - shot
-  - Ketel One vodka
-- - "1"
-  - shot
-  - Drambuie
-- - "1"
-  - shot
-  - Rose's lime cordial
-- - " 3/4 "
-  - scoop
-  - Chilled mineral water
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: Dean's Gate Martini
-rate: 3.5
+comment: Rich and strong with a warm, honeyed citrus flavour.
+aka: 
+variant: 
+origin: 
+source: www.diffordsguide.com (622)
+recipe_steps:
+- amount: '1'
+  doze: shot
+  ingredient_name: Rose's lime cordial
+- amount: '2'
+  doze: shot
+  ingredient_name: Ketel One vodka
+- amount: ' 3/4 '
+  doze: scoop
+  ingredient_name: Chilled mineral water
+- amount: '1'
+  doze: shot
+  ingredient_name: Drambuie

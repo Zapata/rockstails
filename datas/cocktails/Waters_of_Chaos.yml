@@ -1,29 +1,32 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Waters of Chaos
+method: SHAKE all ingredients with ice and strain into ice-filled glass.
+rate: 4.0
 garnish: Ti-Punch style lime zest disc
 glass: Old-fashioned
-infos: 
-  Comment: Overproof rum and Chartreuse do indeed have the potential to be waters of chaos.
-  Origin: Created by Yours Truly (Simon Difford) at the Cabinet Room, London, England and named after the words of the track Argha Noah by Nightmares on Wax.
-  source: www.diffordsguide.com (2762)
-ingredients: 
-- - "1 1/2 "
-  - shot
-  - Bokma oude genever
-- - " 1/4 "
-  - shot
-  - Wray & Nephew overproof rum
-- - " 1/4 "
-  - shot
-  - Chartreuse Green liqueur
-- - " 3/4 "
-  - shot
-  - Freshly squeezed lime juice
-- - " 1/2 "
-  - shot
-  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
-- - " 1/2 "
-  - shot
-  - Chilled mineral water
-method: SHAKE all ingredients with ice and strain into ice-filled glass.
-name: Waters of Chaos
-rate: 4.0
+comment: Overproof rum and Chartreuse do indeed have the potential to be waters of
+  chaos.
+aka: 
+variant: 
+origin: Created by Yours Truly (Simon Difford) at the Cabinet Room, London, England
+  and named after the words of the track Argha Noah by Nightmares on Wax.
+source: www.diffordsguide.com (2762)
+recipe_steps:
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Freshly squeezed lime juice
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Chartreuse Green liqueur
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Chilled mineral water
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Wray & Nephew overproof rum
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Bokma oude genever

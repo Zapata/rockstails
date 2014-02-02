@@ -1,23 +1,25 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Jasmine & Elderflower Martini
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 4.0
 garnish: Mint leaf<br />
 glass: Martini
-infos: 
-  Comment: "Delicate and floral yet dry and serious. The tannins in the tea compliment and balance the drink. "
-  Origin: Created in 2006 by Yours Truly (Simon Difford).
-  source: www.diffordsguide.com (2699)
-ingredients: 
-- - "2"
-  - shot
-  - Ketel One vodka
-- - "1"
-  - shot
-  - St-Germain elderflower liqueur
-- - " 1/4 "
-  - shot
-  - Cold jasmine tea
-- - " 1/8 "
-  - shot
-  - Noilly Prat dry vermouth
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: Jasmine & Elderflower Martini
-rate: 4.0
+comment: 'Delicate and floral yet dry and serious. The tannins in the tea compliment
+  and balance the drink. '
+aka: 
+variant: 
+origin: Created in 2006 by Yours Truly (Simon Difford).
+source: www.diffordsguide.com (2699)
+recipe_steps:
+- amount: '1'
+  doze: shot
+  ingredient_name: St-Germain elderflower liqueur
+- amount: '2'
+  doze: shot
+  ingredient_name: Ketel One vodka
+- amount: ' 1/8 '
+  doze: shot
+  ingredient_name: Noilly Prat dry vermouth
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Cold jasmine tea

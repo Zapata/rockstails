@@ -1,29 +1,31 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Darlington
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 3.0
 garnish: Orange zest twist<br />
 glass: Martini
-infos: 
-  Comment: Gin, orange and lemon made Martini-like by a drying splash of vermouth.
-  Origin: In W.J. Tarling's 1937 Caf Royal Cocktail Book (Coronation Edition), the invention of this cocktail is credited to J.B. O'Brien.<br /><br />
-  source: www.diffordsguide.com (2372)
-ingredients: 
-- - "2"
-  - shot
-  - Bombay London dry gin
-- - " 1/2 "
-  - shot
-  - Boulard Grand Solage calvados
-- - " 1/2 "
-  - shot
-  - Bols blue curacao liqueur
-- - "1"
-  - shot
-  - Noilly Prat dry vermouth
-- - "1"
-  - shot
-  - Freshly squeezed lemon juice
-- - " 1/4 "
-  - shot
-  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: Darlington
-rate: 3.0
+comment: Gin, orange and lemon made Martini-like by a drying splash of vermouth.
+aka: 
+variant: 
+origin: In W.J. Tarling's 1937 Caf Royal Cocktail Book (Coronation Edition), the invention
+  of this cocktail is credited to J.B. O'Brien.<br /><br />
+source: www.diffordsguide.com (2372)
+recipe_steps:
+- amount: '1'
+  doze: shot
+  ingredient_name: Freshly squeezed lemon juice
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Boulard Grand Solage calvados
+- amount: '1'
+  doze: shot
+  ingredient_name: Noilly Prat dry vermouth
+- amount: '2'
+  doze: shot
+  ingredient_name: Bombay London dry gin
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Bols blue curacao liqueur

@@ -1,20 +1,21 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Liquorice Martini
+method: STIR all ingredients with ice and strain into chilled glass.
+rate: 3.5
 garnish: Piece of liquorice
 glass: Martini
-infos: 
-  Comment: Gin tinted violet, flavoured with liquorice and slightly sweetened.
-  Origin: Created in 2003 by Jason Fendick, London, England.
-  source: www.diffordsguide.com (1175)
-ingredients: 
-- - "2"
-  - shot
-  - Bombay London dry gin
-- - " 1/4 "
-  - shot
-  - Opal Nera black sambuca
-- - " 1/8 "
-  - shot
-  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
-method: STIR all ingredients with ice and strain into chilled glass.
-name: Liquorice Martini
-rate: 3.5
+comment: Gin tinted violet, flavoured with liquorice and slightly sweetened.
+aka: 
+variant: 
+origin: Created in 2003 by Jason Fendick, London, England.
+source: www.diffordsguide.com (1175)
+recipe_steps:
+- amount: ' 1/8 '
+  doze: shot
+  ingredient_name: Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- amount: '2'
+  doze: shot
+  ingredient_name: Bombay London dry gin
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Opal Nera black sambuca

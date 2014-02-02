@@ -1,25 +1,27 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Killer Punch
+method: SHAKE all ingredients with ice and strain into ice-filled glass.
+rate: 3.5
 garnish: Lime wedge
 glass: Collins
-infos: 
-  Comment: Pretty soft, sweet and fruity as killers go.
-  source: www.diffordsguide.com (1106)
-ingredients: 
-- - "1"
-  - shot
-  - Ketel One vodka
-- - " 1/2 "
-  - shot
-  - Midori green melon liqueur
-- - " 1/2 "
-  - shot
-  - Luxardo Amaretto di Saschira
-- - " 1/2 "
-  - shot
-  - Freshly squeezed lime juice
-- - "3 1/2 "
-  - shot
-  - Ocean Spray cranberry juice
-method: SHAKE all ingredients with ice and strain into ice-filled glass.
-name: Killer Punch
-rate: 3.5
+comment: Pretty soft, sweet and fruity as killers go.
+aka: 
+variant: 
+origin: 
+source: www.diffordsguide.com (1106)
+recipe_steps:
+- amount: '3 1/2 '
+  doze: shot
+  ingredient_name: Ocean Spray cranberry juice
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Freshly squeezed lime juice
+- amount: '1'
+  doze: shot
+  ingredient_name: Ketel One vodka
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Midori green melon liqueur
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Luxardo Amaretto di Saschira

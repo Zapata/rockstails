@@ -1,16 +1,18 @@
---- !ruby/object:DirtyCocktail 
+---
+name: The Formosa
+method: STIR all ingredients with ice and strain into chilled glass.
+rate: 3.5
 garnish: Orange zest twist<br />
 glass: Martini
-infos: 
-  Comment: Light and easy to drink. Wine-like.
-  source: www.diffordsguide.com (2413)
-ingredients: 
-- - "2"
-  - shot
-  - Sake
-- - "2"
-  - shot
-  - Taylor's Chip dry white port
-method: STIR all ingredients with ice and strain into chilled glass.
-name: The Formosa
-rate: 3.5
+comment: Light and easy to drink. Wine-like.
+aka: 
+variant: 
+origin: 
+source: www.diffordsguide.com (2413)
+recipe_steps:
+- amount: '2'
+  doze: shot
+  ingredient_name: Sake
+- amount: '2'
+  doze: shot
+  ingredient_name: Taylor's Chip dry white port

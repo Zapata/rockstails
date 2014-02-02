@@ -1,17 +1,19 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Bit-O-Honey
+method: Refrigerate ingredients then LAYER in chilled glass by carefully pouring in
+  the following order.
+rate: 3.0
 garnish: 
 glass: Shot
-infos: 
-  Comment: A sweet but pleasant tasting shot.
-  source: www.diffordsguide.com (218)
-  Variant: Layered with butterscotch, then honey liqueur and an Irish cream float.
-ingredients: 
-- - " 3/4 "
-  - shot
-  - Teichenn butterscotch schnapps
-- - " 3/4 "
-  - shot
-  - Baileys Irish cream liqueur
-method: Refrigerate ingredients then LAYER in chilled glass by carefully pouring in the following order.
-name: Bit-O-Honey
-rate: 3.0
+comment: A sweet but pleasant tasting shot.
+aka: 
+variant: Layered with butterscotch, then honey liqueur and an Irish cream float.
+origin: 
+source: www.diffordsguide.com (218)
+recipe_steps:
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Baileys Irish cream liqueur
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Teichenn butterscotch schnapps

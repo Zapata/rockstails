@@ -1,29 +1,30 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Pale Rider
+method: SHAKE all ingredients with ice and strain into ice-filled glass.
+rate: 3.0
 garnish: Lime wedge
 glass: Collins
-infos: 
-  Comment: Sweet and fruity.
-  Origin: Created in 1997 by Wayne Collins at Navajo Joe, London, England.
-  source: www.diffordsguide.com (1457)
-ingredients: 
-- - "2"
-  - shot
-  - Raspberry flavoured vodka
-- - " 1/2 "
-  - shot
-  - Peach Tree peach schnapps
-- - "2"
-  - shot
-  - Ocean Spray cranberry juice
-- - "1"
-  - shot
-  - Fresh pressed pineapple juice
-- - "1"
-  - shot
-  - Freshly squeezed lime juice
-- - " 1/2 "
-  - shot
-  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
-method: SHAKE all ingredients with ice and strain into ice-filled glass.
-name: Pale Rider
-rate: 3.0
+comment: Sweet and fruity.
+aka: 
+variant: 
+origin: Created in 1997 by Wayne Collins at Navajo Joe, London, England.
+source: www.diffordsguide.com (1457)
+recipe_steps:
+- amount: '2'
+  doze: shot
+  ingredient_name: Raspberry flavoured vodka
+- amount: '2'
+  doze: shot
+  ingredient_name: Ocean Spray cranberry juice
+- amount: '1'
+  doze: shot
+  ingredient_name: Freshly squeezed lime juice
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- amount: '1'
+  doze: shot
+  ingredient_name: Fresh pressed pineapple juice
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Peach Tree peach schnapps

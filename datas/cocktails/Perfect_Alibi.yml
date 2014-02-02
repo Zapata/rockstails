@@ -1,26 +1,28 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Perfect Alibi
+method: MUDDLE ginger in base of shaker. Add other ingredients, SHAKE with ice and
+  fine strain into ice-filled glass.
+rate: 4.0
 garnish: Mint leaf &amp; lime squeeze
 glass: Martini
-infos: 
-  Comment: A very unusual and pleasant mix of flavours
-  Origin: Created in 2001 by Douglas Ankrah for Akbar, London, England
-  source: www.diffordsguide.com (1507)
-ingredients: 
-- - "2"
-  - inch
-  - Fresh root ginger (thumbnail sized)
-- - " 1/2 "
-  - shot
-  - Krupnik spiced honey liqueur
-- - "1 1/2 "
-  - shot
-  - Barenjager honey liqueur
-- - " 1/2 "
-  - shot
-  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
-- - "3"
-  - shot
-  - Cold jasmine tea
-method: MUDDLE ginger in base of shaker. Add other ingredients, SHAKE with ice and fine strain into ice-filled glass.
-name: Perfect Alibi
-rate: 4.0
+comment: A very unusual and pleasant mix of flavours
+aka: 
+variant: 
+origin: Created in 2001 by Douglas Ankrah for Akbar, London, England
+source: www.diffordsguide.com (1507)
+recipe_steps:
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Krupnik spiced honey liqueur
+- amount: '2'
+  doze: inch
+  ingredient_name: Fresh root ginger (thumbnail sized)
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Barenjager honey liqueur
+- amount: '3'
+  doze: shot
+  ingredient_name: Cold jasmine tea

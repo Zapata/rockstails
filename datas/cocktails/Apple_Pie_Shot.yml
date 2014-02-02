@@ -1,19 +1,22 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Apple Pie Shot
+method: SHAKE first two ingredients with ice and strain into chilled glass. FLOAT
+  cream on drink by carefully pouring over the back of a spoon.
+rate: 3.5
 garnish: Dust with cinnamon powder
 glass: Shot
-infos: 
-  Comment: Nuts, apple, cinnamon and cream - pudding, anyone?
-  source: www.diffordsguide.com (88)
-ingredients: 
-- - "1"
-  - shot
-  - Berentzen Apple schnapps
-- - " 1/2 "
-  - shot
-  - Hazelnut liqueur
-- - " 1/4 "
-  - shot
-  - Double (heavy) cream
-method: SHAKE first two ingredients with ice and strain into chilled glass. FLOAT cream on drink by carefully pouring over the back of a spoon.
-name: Apple Pie Shot
-rate: 3.5
+comment: Nuts, apple, cinnamon and cream - pudding, anyone?
+aka: 
+variant: 
+origin: 
+source: www.diffordsguide.com (88)
+recipe_steps:
+- amount: '1'
+  doze: shot
+  ingredient_name: Berentzen Apple schnapps
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Double (heavy) cream
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Hazelnut liqueur

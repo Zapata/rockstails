@@ -1,26 +1,28 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Blue Hawaiian
+method: BLEND ingredients with 12oz scoop of crushed ice. Pour into glass and serve
+  with straws.
+rate: 3.0
 garnish: Pineapple wedge &amp; cherry
 glass: Hurricane
-infos: 
-  Comment: A blue rinsed Pi~na Colada.
-  Origin: Probably created by Don the Beachcomber in Los Angeles, USA.
-  source: www.diffordsguide.com (260)
-ingredients: 
-- - "2"
-  - shot
-  - Bacardi Superior rum
-- - "1"
-  - shot
-  - Bols blue curacao liqueur
-- - "1 1/2 "
-  - shot
-  - Coco Lpez cream of coconut
-- - "3"
-  - shot
-  - Fresh pressed pineapple juice
-- - " 1/4 "
-  - shot
-  - Freshly squeezed lemon juice
-method: BLEND ingredients with 12oz scoop of crushed ice. Pour into glass and serve with straws.
-name: Blue Hawaiian
-rate: 3.0
+comment: A blue rinsed Pi~na Colada.
+aka: 
+variant: 
+origin: Probably created by Don the Beachcomber in Los Angeles, USA.
+source: www.diffordsguide.com (260)
+recipe_steps:
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Freshly squeezed lemon juice
+- amount: '2'
+  doze: shot
+  ingredient_name: Bacardi Superior rum
+- amount: '3'
+  doze: shot
+  ingredient_name: Fresh pressed pineapple juice
+- amount: '1'
+  doze: shot
+  ingredient_name: Bols blue curacao liqueur
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Coco Lpez cream of coconut

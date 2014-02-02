@@ -1,22 +1,24 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Katinka
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 3.5
 garnish: Lime wedge on rim<br />
 glass: Martini
-infos: 
-  Comment: Medium sweet, yet also tart and tangy.
-  source: www.diffordsguide.com (1090)
-ingredients: 
-- - "1 1/2 "
-  - shot
-  - Ketel One vodka
-- - " 1/2 "
-  - shot
-  - Bols apricot brandy liqueur
-- - "1"
-  - shot
-  - Freshly squeezed lime juice
-- - " 1/2 "
-  - shot
-  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: Katinka
-rate: 3.5
+comment: Medium sweet, yet also tart and tangy.
+aka: 
+variant: 
+origin: 
+source: www.diffordsguide.com (1090)
+recipe_steps:
+- amount: '1'
+  doze: shot
+  ingredient_name: Freshly squeezed lime juice
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Ketel One vodka
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Bols apricot brandy liqueur

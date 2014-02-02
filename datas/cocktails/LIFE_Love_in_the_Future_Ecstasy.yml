@@ -1,26 +1,29 @@
---- !ruby/object:DirtyCocktail 
+---
+name: LIFE (Love in the Future Ecstasy)
+method: MUDDLE mint in base of shaker. Add next three ingredients, SHAKE with ice
+  and fine strain into glass filled with crushed ice. DRIZZLE tea liqueur over drink.
+rate: 3.5
 garnish: Mint leaf
 glass: Old-fashioned
-infos: 
-  Comment: Refreshing tea and mint.
-  Origin: Adapted from a drink created in 1999 by Nick Strangeway at Ch, London, England, for Martin Sexton (writer and artistic entrepreneur).
-  source: www.diffordsguide.com (1154)
-ingredients: 
-- - "7"
-  - fresh
-  - Mint leaves
-- - "1 1/2 "
-  - shot
-  - Ketel One vodka
-- - "1"
-  - shot
-  - Freshly squeezed lime juice
-- - " 1/2 "
-  - shot
-  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
-- - "1"
-  - shot
-  - Zen green tea liqueur
-method: MUDDLE mint in base of shaker. Add next three ingredients, SHAKE with ice and fine strain into glass filled with crushed ice. DRIZZLE tea liqueur over drink.
-name: LIFE (Love in the Future Ecstasy)
-rate: 3.5
+comment: Refreshing tea and mint.
+aka: 
+variant: 
+origin: Adapted from a drink created in 1999 by Nick Strangeway at Ch, London, England,
+  for Martin Sexton (writer and artistic entrepreneur).
+source: www.diffordsguide.com (1154)
+recipe_steps:
+- amount: '1'
+  doze: shot
+  ingredient_name: Freshly squeezed lime juice
+- amount: '7'
+  doze: fresh
+  ingredient_name: Mint leaves
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Ketel One vodka
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- amount: '1'
+  doze: shot
+  ingredient_name: Zen green tea liqueur

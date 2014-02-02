@@ -1,26 +1,33 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Blue Hawaii
+method: POUR blue curacao into ice-filled glass. SHAKE the sugar syrup, pineapple
+  and lime juice with ice and strain into ice filled glass so it forms a LAYER (carefully
+  pour so floats on previous layer) over blue curacao. Lastly FLOAT rum on top of
+  drink.
+rate: 3.5
 garnish: Pineapple wedge, cherry &amp; paper parasol
 glass: Collins
-infos: 
-  Comment: Aloha!
-  Origin: Created in 1957 by Harry Yee at Henry Kaiser's Hawaiian Village Hotel (latterly the Hilton) in Waikiki, Oahu, Hawaii. The drink is named after the hit song from the 1937 Bing Crosby film, Waikiki Wedding, and not after what is generously described as a &quot;musical-comedy&quot; Elvis Presley 1961 film of the same name.
-  source: www.diffordsguide.com (2309)
-ingredients: 
-- - " 1/2 "
-  - shot
-  - Bols blue curacao liqueur
-- - "3"
-  - shot
-  - Fresh pressed pineapple juice
-- - "1"
-  - shot
-  - Freshly squeezed lime juice
-- - " 1/2 "
-  - shot
-  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
-- - "1 1/2 "
-  - shot
-  - Bacardi Superior rum
-method: POUR blue curacao into ice-filled glass. SHAKE the sugar syrup, pineapple and lime juice with ice and strain into ice filled glass so it forms a LAYER (carefully pour so floats on previous layer) over blue curacao. Lastly FLOAT rum on top of drink.
-name: Blue Hawaii
-rate: 3.5
+comment: Aloha!
+aka: 
+variant: 
+origin: Created in 1957 by Harry Yee at Henry Kaiser's Hawaiian Village Hotel (latterly
+  the Hilton) in Waikiki, Oahu, Hawaii. The drink is named after the hit song from
+  the 1937 Bing Crosby film, Waikiki Wedding, and not after what is generously described
+  as a &quot;musical-comedy&quot; Elvis Presley 1961 film of the same name.
+source: www.diffordsguide.com (2309)
+recipe_steps:
+- amount: '1'
+  doze: shot
+  ingredient_name: Freshly squeezed lime juice
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Bacardi Superior rum
+- amount: '3'
+  doze: shot
+  ingredient_name: Fresh pressed pineapple juice
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Bols blue curacao liqueur

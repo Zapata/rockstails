@@ -1,25 +1,27 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Stiletto
+method: SHAKE all ingredients with ice and strain into ice-filled glass.
+rate: 3.5
 garnish: Lime wedge
 glass: Collins
-infos: 
-  Comment: Long and fruity with a hint of bourbon and almond.
-  source: www.diffordsguide.com (1873)
-ingredients: 
-- - "2"
-  - shot
-  - Maker's Mark bourbon
-- - "1"
-  - shot
-  - Luxardo Amaretto di Saschira
-- - "2 1/2 "
-  - shot
-  - Ocean Spray cranberry juice
-- - " 1/2 "
-  - shot
-  - Freshly squeezed lime juice
-- - " 1/4 "
-  - shot
-  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
-method: SHAKE all ingredients with ice and strain into ice-filled glass.
-name: Stiletto
-rate: 3.5
+comment: Long and fruity with a hint of bourbon and almond.
+aka: 
+variant: 
+origin: 
+source: www.diffordsguide.com (1873)
+recipe_steps:
+- amount: '2 1/2 '
+  doze: shot
+  ingredient_name: Ocean Spray cranberry juice
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Freshly squeezed lime juice
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- amount: '2'
+  doze: shot
+  ingredient_name: Maker's Mark bourbon
+- amount: '1'
+  doze: shot
+  ingredient_name: Luxardo Amaretto di Saschira

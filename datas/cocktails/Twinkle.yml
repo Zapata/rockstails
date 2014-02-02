@@ -1,20 +1,23 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Twinkle
+method: SHAKE first 2 ingredients with ice and fine strain into chilled glass. TOP
+  with Prosecco (or champagne).
+rate: 4.5
 garnish: Lemon zest twist
 glass: Martini
-infos: 
-  Comment: Its hard to believe this floral, dry, golden tipple contains three whole shots of vodka.
-  Origin: Created in 2002 by Tony Conigliaro at The Lonsdale, London, England.
-  source: www.diffordsguide.com (2007)
-ingredients: 
-- - "3"
-  - shot
-  - Ketel One vodka
-- - " 3/4 "
-  - shot
-  - St-Germain elderflower liqueur
-- - "1"
-  - top up with
-  - Perrier Jouet brut champagne
-method: SHAKE first 2 ingredients with ice and fine strain into chilled glass. TOP with Prosecco (or champagne).
-name: Twinkle
-rate: 4.5
+comment: Its hard to believe this floral, dry, golden tipple contains three whole
+  shots of vodka.
+aka: 
+variant: 
+origin: Created in 2002 by Tony Conigliaro at The Lonsdale, London, England.
+source: www.diffordsguide.com (2007)
+recipe_steps:
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: St-Germain elderflower liqueur
+- amount: '3'
+  doze: shot
+  ingredient_name: Ketel One vodka
+- amount: '1'
+  doze: top up with
+  ingredient_name: Perrier Jouet brut champagne

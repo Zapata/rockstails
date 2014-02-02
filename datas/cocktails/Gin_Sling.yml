@@ -1,23 +1,26 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Gin Sling
+method: SHAKE first 3 ingredients with ice and fine strain into ice-filled glass.
+  TOP with soda water.
+rate: 4.0
 garnish: Lemon slice
 glass: Sling
-infos: 
-  Comment: Sugar balances the citrus juice, the spirit fortifies and the carbonate lengthens.
-  Origin: "'Sling' comes from the German word 'schlingen', meaning 'to swallow' and is a style of drink which was popular from the late 1700s."
-  source: www.diffordsguide.com (844)
-ingredients: 
-- - "2"
-  - shot
-  - Bombay London dry gin
-- - " 1/2 "
-  - shot
-  - Freshly squeezed lemon juice
-- - " 1/4 "
-  - shot
-  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
-- - "1"
-  - top up with
-  - Soda (club soda)
-method: SHAKE first 3 ingredients with ice and fine strain into ice-filled glass. TOP with soda water.
-name: Gin Sling
-rate: 4.0
+comment: Sugar balances the citrus juice, the spirit fortifies and the carbonate lengthens.
+aka: 
+variant: 
+origin: '''Sling'' comes from the German word ''schlingen'', meaning ''to swallow''
+  and is a style of drink which was popular from the late 1700s.'
+source: www.diffordsguide.com (844)
+recipe_steps:
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Freshly squeezed lemon juice
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- amount: '1'
+  doze: top up with
+  ingredient_name: Soda (club soda)
+- amount: '2'
+  doze: shot
+  ingredient_name: Bombay London dry gin

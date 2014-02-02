@@ -1,23 +1,24 @@
---- !ruby/object:DirtyCocktail 
+---
+name: 'Martini Dirty-Dry-Dirty '
+method: STIR all ingredients with ice and fine strain into chilled glass.
+rate: 3.0
 garnish: 3 olives, lemon zest twist
 glass: Martini
-infos: 
-  Comment: However hard you think you are, this one is harder.
-  Origin: <br _moz_editor_bogus_node="TRUE" />
-  source: www.diffordsguide.com (2378)
-ingredients: 
-- - "2"
-  - shot
-  - Bombay London dry gin
-- - " 1/4 "
-  - shot
-  - Noilly Prat dry vermouth
-- - " 1/8 "
-  - shot
-  - Freshly squeezed lime juice
-- - " 1/8 "
-  - shot
-  - Olive brine (from jarred olive)
-method: STIR all ingredients with ice and fine strain into chilled glass.
-name: "Martini Dirty-Dry-Dirty "
-rate: 3.0
+comment: However hard you think you are, this one is harder.
+aka: 
+variant: 
+origin: <br _moz_editor_bogus_node="TRUE" />
+source: www.diffordsguide.com (2378)
+recipe_steps:
+- amount: ' 1/8 '
+  doze: shot
+  ingredient_name: Freshly squeezed lime juice
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Noilly Prat dry vermouth
+- amount: '2'
+  doze: shot
+  ingredient_name: Bombay London dry gin
+- amount: ' 1/8 '
+  doze: shot
+  ingredient_name: Olive brine (from jarred olive)

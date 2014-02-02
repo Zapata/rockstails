@@ -1,29 +1,31 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Screaming Orgasm
+method: SHAKE all ingredients with ice and strain into glass filled with crushed ice.
+rate: 2.5
 garnish: Sprinkle with grated chocolate<br />
 glass: Hurricane
-infos: 
-  Comment: Probably as fattening as it is alcoholic, this is a huge, creamy dessert in a glass.
-  Origin: A dodgy drink from the 1980s.
-  source: www.diffordsguide.com (2747)
-ingredients: 
-- - "1 1/4 "
-  - shot
-  - Ketel One vodka
-- - "1 1/4 "
-  - shot
-  - Kahla coffee liqueur
-- - "1 1/4 "
-  - shot
-  - Luxardo Amaretto di Saschira
-- - "1 1/4 "
-  - shot
-  - Baileys Irish cream liqueur
-- - "1 1/4 "
-  - shot
-  - Double (heavy) cream
-- - "1 1/4 "
-  - shot
-  - Milk
-method: SHAKE all ingredients with ice and strain into glass filled with crushed ice.
-name: Screaming Orgasm
-rate: 2.5
+comment: Probably as fattening as it is alcoholic, this is a huge, creamy dessert
+  in a glass.
+aka: 
+variant: 
+origin: A dodgy drink from the 1980s.
+source: www.diffordsguide.com (2747)
+recipe_steps:
+- amount: '1 1/4 '
+  doze: shot
+  ingredient_name: Ketel One vodka
+- amount: '1 1/4 '
+  doze: shot
+  ingredient_name: Baileys Irish cream liqueur
+- amount: '1 1/4 '
+  doze: shot
+  ingredient_name: Double (heavy) cream
+- amount: '1 1/4 '
+  doze: shot
+  ingredient_name: Milk
+- amount: '1 1/4 '
+  doze: shot
+  ingredient_name: Kahla coffee liqueur
+- amount: '1 1/4 '
+  doze: shot
+  ingredient_name: Luxardo Amaretto di Saschira

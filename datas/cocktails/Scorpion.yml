@@ -1,27 +1,28 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Scorpion
+method: BLEND all ingredients with 12oz crushed ice and serve with straws
+rate: 4.0
 garnish: Gardenia or orange slice and mint
 glass: Collins
-infos: 
-  Comment: Well balanced, refreshing spirit and orange. Not sweet.<br /><br />
-  Origin: Created by Victor Bergeron and this recipe adapted from his 'Trader Vic's Bartender's Guide' (1972 revised edition).<br /><br />
-  Variant: With pisco in the place of cognac.
-  source: www.diffordsguide.com (1756)
-ingredients: 
-- - "1 1/2 "
-  - shot
-  - Bacardi Superior rum
-- - " 3/4 "
-  - shot
-  - Courvoisier V.S.O.P cognac
-- - "2"
-  - shot
-  - Freshly squeezed orange juice
-- - "1"
-  - shot
-  - Freshly squeezed lemon juice
-- - " 1/2 "
-  - shot
-  - Monin Almond (orgeat) syrup
-method: BLEND all ingredients with 12oz crushed ice and serve with straws
-name: Scorpion
-rate: 4.0
+comment: Well balanced, refreshing spirit and orange. Not sweet.<br /><br />
+aka: 
+variant: With pisco in the place of cognac.
+origin: Created by Victor Bergeron and this recipe adapted from his 'Trader Vic's
+  Bartender's Guide' (1972 revised edition).<br /><br />
+source: www.diffordsguide.com (1756)
+recipe_steps:
+- amount: '1'
+  doze: shot
+  ingredient_name: Freshly squeezed lemon juice
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Bacardi Superior rum
+- amount: '2'
+  doze: shot
+  ingredient_name: Freshly squeezed orange juice
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Courvoisier V.S.O.P cognac
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Monin Almond (orgeat) syrup

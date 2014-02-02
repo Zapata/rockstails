@@ -1,26 +1,27 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Eden Martini
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 3.5
 garnish: Orange zest twist
 glass: Martini
-infos: 
-  Comment: Rich purple in colour with rose, vanilla, almond, citrus and gin.
-  Origin: Adapted from a recipe discovered in 2003 at Oxo Tower Bar, London, England.
-  source: www.diffordsguide.com (695)
-ingredients: 
-- - "2 1/2 "
-  - shot
-  - Bombay London dry gin
-- - " 1/2 "
-  - shot
-  - Parfait Amour liqueur
-- - " 1/4 "
-  - shot
-  - Freshly squeezed lemon juice
-- - " 1/4 "
-  - shot
-  - Rose water
-- - " 1/4 "
-  - shot
-  - Chilled mineral water
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: Eden Martini
-rate: 3.5
+comment: Rich purple in colour with rose, vanilla, almond, citrus and gin.
+aka: 
+variant: 
+origin: Adapted from a recipe discovered in 2003 at Oxo Tower Bar, London, England.
+source: www.diffordsguide.com (695)
+recipe_steps:
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Freshly squeezed lemon juice
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Chilled mineral water
+- amount: '2 1/2 '
+  doze: shot
+  ingredient_name: Bombay London dry gin
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Parfait Amour liqueur
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Rose water

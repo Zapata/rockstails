@@ -1,26 +1,31 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Soyer Au Champagne
+method: PLACE scoop of ice cream in base of glass. SHAKE next 3 ingredients with ice
+  and strain over ice cream. TOP with champagne and serve while foaming with straws
+  that the drinker should use to mix.
+rate: 3.5
 garnish: 
 glass: Martini
-infos: 
-  Comment: A unique dessert of a drink.
-  Origin: Adapted from a recipe in the 1949 edition of Esquire's Handbook For Hosts. Apparently this was "one of the most popular drinks at Christmas in the<br />continental cafs".
-  source: www.diffordsguide.com (1850)
-ingredients: 
-- - "1"
-  - scoop
-  - Haagen Dazs vanilla ice cream
-- - " 1/2 "
-  - shot
-  - Courvoisier V.S.O.P cognac
-- - " 1/2 "
-  - shot
-  - Grand Marnier liqueur
-- - " 1/2 "
-  - shot
-  - Luxardo maraschino liqueur
-- - "1"
-  - top up with
-  - Perrier Jouet brut champagne
-method: PLACE scoop of ice cream in base of glass. SHAKE next 3 ingredients with ice and strain over ice cream. TOP with champagne and serve while foaming with straws that the drinker should use to mix.
-name: Soyer Au Champagne
-rate: 3.5
+comment: A unique dessert of a drink.
+aka: 
+variant: 
+origin: Adapted from a recipe in the 1949 edition of Esquire's Handbook For Hosts.
+  Apparently this was "one of the most popular drinks at Christmas in the<br />continental
+  cafs".
+source: www.diffordsguide.com (1850)
+recipe_steps:
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Grand Marnier liqueur
+- amount: '1'
+  doze: scoop
+  ingredient_name: Haagen Dazs vanilla ice cream
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Courvoisier V.S.O.P cognac
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Luxardo maraschino liqueur
+- amount: '1'
+  doze: top up with
+  ingredient_name: Perrier Jouet brut champagne

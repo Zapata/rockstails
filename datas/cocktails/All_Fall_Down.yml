@@ -1,19 +1,22 @@
---- !ruby/object:DirtyCocktail 
+---
+name: All Fall Down
+method: Refrigerate ingredients then LAYER in chilled glass by carefully pouring in
+  the following order.
+rate: 3.5
 garnish: 
 glass: Shot
-infos: 
-  Comment: Too many of these and you will.
-  source: www.diffordsguide.com (44)
-ingredients: 
-- - " 1/2 "
-  - shot
-  - Kahla coffee liqueur
-- - " 1/2 "
-  - shot
-  - Herradura 100% agave tequila
-- - " 1/2 "
-  - shot
-  - Pusser's Navy rum
-method: Refrigerate ingredients then LAYER in chilled glass by carefully pouring in the following order.
-name: All Fall Down
-rate: 3.5
+comment: Too many of these and you will.
+aka: 
+variant: 
+origin: 
+source: www.diffordsguide.com (44)
+recipe_steps:
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Pusser's Navy rum
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Herradura 100% agave tequila
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Kahla coffee liqueur

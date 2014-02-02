@@ -1,29 +1,31 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Black & White Daiquiri
+method: MUDDLE berries in base of shaker. Add other ingredients, SHAKE with ice and
+  fine strain into chilled glass.
+rate: 4.5
 garnish: Blackberry in drink
 glass: Martini
-infos: 
-  Comment: Blackberries and coconut add depth to the classic Daiquiri.
-  Origin: I named this drink after the black berries and the white Malibu bottle.
-  source: www.diffordsguide.com (223)
-ingredients: 
-- - "12"
-  - fresh
-  - Blackberries
-- - "2"
-  - shot
-  - Malibu coconut rum liqueur
-- - "1"
-  - shot
-  - Bacardi Superior rum
-- - " 3/4 "
-  - shot
-  - "Cr\xE8me de M\xFBre liqueur"
-- - " 1/2 "
-  - shot
-  - Freshly squeezed lime juice
-- - " 1/2 "
-  - shot
-  - Chilled mineral water
-method: MUDDLE berries in base of shaker. Add other ingredients, SHAKE with ice and fine strain into chilled glass.
-name: Black & White Daiquiri
-rate: 4.5
+comment: Blackberries and coconut add depth to the classic Daiquiri.
+aka: 
+variant: 
+origin: I named this drink after the black berries and the white Malibu bottle.
+source: www.diffordsguide.com (223)
+recipe_steps:
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Freshly squeezed lime juice
+- amount: '1'
+  doze: shot
+  ingredient_name: Bacardi Superior rum
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Crème de Mûre liqueur
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Chilled mineral water
+- amount: '12'
+  doze: fresh
+  ingredient_name: Blackberries
+- amount: '2'
+  doze: shot
+  ingredient_name: Malibu coconut rum liqueur

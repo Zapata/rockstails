@@ -1,29 +1,35 @@
---- !ruby/object:DirtyCocktail 
+---
+name: 'Between the Sheets #1 (Difford''s formula)'
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 4.5
 garnish: Lemon zest twist
 glass: Martini
-infos: 
-  Comment: "Classic proportions to this drink are most often quoted as being: 1 rum, 1 cognac, 1 triple sec and 1/4 lemon juice but three shots of 40% alcohol and a splash of lemon juice make for a tart drink which should not be undertaken lightly. The formula above maintains the essential flavour and ingredients of the classic recipe but is a little more approachable."
-  Origin: Created in the early 1930s (during Prohibition) by Harry MacElhone of Harry's New York Bar in Paris, and derived from the Sidecar.
-  source: www.diffordsguide.com (209)
-ingredients: 
-- - " 3/4 "
-  - shot
-  - Bacardi Superior rum
-- - " 3/4 "
-  - shot
-  - Courvoisier V.S.O.P cognac
-- - " 3/4 "
-  - shot
-  - Cointreau triple sec
-- - " 1/4 "
-  - shot
-  - Freshly squeezed lemon juice
-- - " 1/8 "
-  - shot
-  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
-- - " 1/2 "
-  - shot
-  - Chilled mineral water
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: "Between the Sheets #1 (Difford's formula)"
-rate: 4.5
+comment: 'Classic proportions to this drink are most often quoted as being: 1 rum,
+  1 cognac, 1 triple sec and 1/4 lemon juice but three shots of 40% alcohol and a
+  splash of lemon juice make for a tart drink which should not be undertaken lightly.
+  The formula above maintains the essential flavour and ingredients of the classic
+  recipe but is a little more approachable.'
+aka: 
+variant: 
+origin: Created in the early 1930s (during Prohibition) by Harry MacElhone of Harry's
+  New York Bar in Paris, and derived from the Sidecar.
+source: www.diffordsguide.com (209)
+recipe_steps:
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Cointreau triple sec
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Freshly squeezed lemon juice
+- amount: ' 1/8 '
+  doze: shot
+  ingredient_name: Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Bacardi Superior rum
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Chilled mineral water
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Courvoisier V.S.O.P cognac

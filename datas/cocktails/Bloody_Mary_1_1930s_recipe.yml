@@ -1,33 +1,34 @@
---- !ruby/object:DirtyCocktail 
+---
+name: 'Bloody Mary #1 (1930s recipe)'
+method: SHAKE all ingredients with ice and strain into empty glass.
+rate: 2.5
 garnish: Salt &amp; pepper rim
 glass: Old-fashioned
-infos: 
-  Comment: Fiery stuff. The modern version is more user friendly.
-  Origin: A 1933 version of the classic created in 1920 by Fernand Petiot at Harry's New York Bar, Paris, France.
-  Variant: Red Snapper
-  source: www.diffordsguide.com (250)
-ingredients: 
-- - "2"
-  - shot
-  - 100-proof (50% A.B.V.) vodka
-- - "2"
-  - shot
-  - Tomato juice
-- - " 1/4 "
-  - shot
-  - Freshly squeezed lemon juice
-- - "5"
-  - dash
-  - Worcestershire sauce
-- - "4"
-  - pinch
-  - Salt
-- - "2"
-  - pinch
-  - Black pepper
-- - "2"
-  - pinch
-  - Cayenne pepper
-method: SHAKE all ingredients with ice and strain into empty glass.
-name: "Bloody Mary #1 (1930s recipe)"
-rate: 2.5
+comment: Fiery stuff. The modern version is more user friendly.
+aka: 
+variant: Red Snapper
+origin: A 1933 version of the classic created in 1920 by Fernand Petiot at Harry's
+  New York Bar, Paris, France.
+source: www.diffordsguide.com (250)
+recipe_steps:
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Freshly squeezed lemon juice
+- amount: '5'
+  doze: dash
+  ingredient_name: Worcestershire sauce
+- amount: '2'
+  doze: pinch
+  ingredient_name: Black pepper
+- amount: '2'
+  doze: shot
+  ingredient_name: Tomato juice
+- amount: '4'
+  doze: pinch
+  ingredient_name: Salt
+- amount: '2'
+  doze: shot
+  ingredient_name: 100-proof (50% A.B.V.) vodka
+- amount: '2'
+  doze: pinch
+  ingredient_name: Cayenne pepper

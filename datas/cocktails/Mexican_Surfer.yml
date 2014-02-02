@@ -1,19 +1,21 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Mexican Surfer
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 4.0
 garnish: Lime wedge on rim
 glass: Martini
-infos: 
-  Comment: Frothy topped, easy to make, and all too easy to drink.
-  source: www.diffordsguide.com (1307)
-ingredients: 
-- - "2"
-  - shot
-  - Herradura 100% agave tequila
-- - "1 1/2 "
-  - shot
-  - Fresh pressed pineapple juice
-- - " 1/2 "
-  - shot
-  - Rose's lime cordial
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: Mexican Surfer
-rate: 4.0
+comment: Frothy topped, easy to make, and all too easy to drink.
+aka: 
+variant: 
+origin: 
+source: www.diffordsguide.com (1307)
+recipe_steps:
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Rose's lime cordial
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Fresh pressed pineapple juice
+- amount: '2'
+  doze: shot
+  ingredient_name: Herradura 100% agave tequila

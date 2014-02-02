@@ -1,19 +1,21 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Buona Sera Shot
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 3.5
 garnish: 
 glass: Shot
-infos: 
-  Comment: As sweet shots go this is one of my favourites.
-  source: www.diffordsguide.com (339)
-ingredients: 
-- - " 1/2 "
-  - shot
-  - Luxardo Amaretto di Saschira
-- - " 1/2 "
-  - shot
-  - Bacardi Superior rum
-- - " 1/2 "
-  - shot
-  - Kahla coffee liqueur
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: Buona Sera Shot
-rate: 3.5
+comment: As sweet shots go this is one of my favourites.
+aka: 
+variant: 
+origin: 
+source: www.diffordsguide.com (339)
+recipe_steps:
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Bacardi Superior rum
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Kahla coffee liqueur
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Luxardo Amaretto di Saschira

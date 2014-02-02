@@ -1,22 +1,25 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Gin-Ger & Tonic
+method: MUDDLE ginger in base of shaker, add gin and sugar, SHAKE with ice and strain
+  into icefilled glass. TOP with tonic water.
+rate: 4.0
 garnish: Lime wedge
 glass: Collins
-infos: 
-  Comment: A dry, refreshing long drink for those that like their G&amp;Ts gingered.
-  source: www.diffordsguide.com (848)
-ingredients: 
-- - "2"
-  - slice
-  - Fresh root ginger (thumbnail sized)
-- - "2"
-  - shot
-  - Bombay London dry gin
-- - " 1/4 "
-  - shot
-  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
-- - "1"
-  - top up with
-  - Tonic water
-method: MUDDLE ginger in base of shaker, add gin and sugar, SHAKE with ice and strain into icefilled glass. TOP with tonic water.
-name: Gin-Ger & Tonic
-rate: 4.0
+comment: A dry, refreshing long drink for those that like their G&amp;Ts gingered.
+aka: 
+variant: 
+origin: 
+source: www.diffordsguide.com (848)
+recipe_steps:
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- amount: '2'
+  doze: shot
+  ingredient_name: Bombay London dry gin
+- amount: '1'
+  doze: top up with
+  ingredient_name: Tonic water
+- amount: '2'
+  doze: slice
+  ingredient_name: Fresh root ginger (thumbnail sized)

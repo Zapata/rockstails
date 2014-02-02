@@ -1,29 +1,31 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Bermondsey breeze
+method: MUDDLE cucumber in base of shaker. Add other ingredients, SHAKE with ice and
+  fine strain into glass filled with crushed ice.<br /><br />
+rate: 3.5
 garnish: 3 slices of cucumber<br />
 glass: Collins
-infos: 
-  Comment: Light and summery.<br _moz_editor_bogus_node="TRUE" />
-  Origin: Created in 2008 by Scott Wallace at Village East, London, England.
-  source: www.diffordsguide.com (2290)
-ingredients: 
-- - "1"
-  - inch
-  - Cucumber (chopped & peeled)
-- - "12"
-  - fresh
-  - Mint leaves
-- - "2"
-  - shot
-  - St-Germain elderflower liqueur
-- - "2"
-  - shot
-  - Pinot Grigio white wine
-- - "1"
-  - shot
-  - Freshly squeezed lime juice
-- - " 1/4 "
-  - shot
-  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
-method: MUDDLE cucumber in base of shaker. Add other ingredients, SHAKE with ice and fine strain into glass filled with crushed ice.<br /><br />
-name: Bermondsey breeze
-rate: 3.5
+comment: Light and summery.<br _moz_editor_bogus_node="TRUE" />
+aka: 
+variant: 
+origin: Created in 2008 by Scott Wallace at Village East, London, England.
+source: www.diffordsguide.com (2290)
+recipe_steps:
+- amount: '2'
+  doze: shot
+  ingredient_name: St-Germain elderflower liqueur
+- amount: '1'
+  doze: shot
+  ingredient_name: Freshly squeezed lime juice
+- amount: '12'
+  doze: fresh
+  ingredient_name: Mint leaves
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- amount: '1'
+  doze: inch
+  ingredient_name: Cucumber (chopped & peeled)
+- amount: '2'
+  doze: shot
+  ingredient_name: Pinot Grigio white wine

@@ -1,23 +1,25 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Honey & Marmalade Dram
+method: STIR honey with Scotch in base of shaker until honey dissolves. Add other
+  ingredients, SHAKE with ice and fine strain into chilled glass.
+rate: 4.5
 garnish: Strips of orange peel
 glass: Martini
-infos: 
-  Comment: This citrussy drink seems to enrich and enhance the flavour of Scotch.
-  Origin: I adapted this recipe from the Honeysuckle Daiquiri.
-  source: www.diffordsguide.com (960)
-ingredients: 
-- - "2"
-  - shot
-  - Johnnie Walker Scotch Whisky
-- - "4"
-  - spoon
-  - Runny honey
-- - "1"
-  - shot
-  - Freshly squeezed lemon juice
-- - "1"
-  - shot
-  - Freshly squeezed orange juice
-method: STIR honey with Scotch in base of shaker until honey dissolves. Add other ingredients, SHAKE with ice and fine strain into chilled glass.
-name: Honey & Marmalade Dram
-rate: 4.5
+comment: This citrussy drink seems to enrich and enhance the flavour of Scotch.
+aka: 
+variant: 
+origin: I adapted this recipe from the Honeysuckle Daiquiri.
+source: www.diffordsguide.com (960)
+recipe_steps:
+- amount: '1'
+  doze: shot
+  ingredient_name: Freshly squeezed lemon juice
+- amount: '1'
+  doze: shot
+  ingredient_name: Freshly squeezed orange juice
+- amount: '4'
+  doze: spoon
+  ingredient_name: Runny honey
+- amount: '2'
+  doze: shot
+  ingredient_name: Johnnie Walker Scotch Whisky

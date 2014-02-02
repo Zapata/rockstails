@@ -1,16 +1,20 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Franklin Martini
+method: STIR vermouth with ice and strain to DISCARD excess, leaving the glass and
+  ice coated with vermouth. POUR gin over vermouth coated ice, STIR and strain into
+  chilled glass.
+rate: 5.0
 garnish: Two olives
 glass: Martini
-infos: 
-  Comment: A Dry Martini garnished with two olives.
-  source: www.diffordsguide.com (787)
-ingredients: 
-- - "2 1/2 "
-  - shot
-  - Bombay London dry gin
-- - " 3/4 "
-  - shot
-  - Noilly Prat dry vermouth
-method: STIR vermouth with ice and strain to DISCARD excess, leaving the glass and ice coated with vermouth. POUR gin over vermouth coated ice, STIR and strain into chilled glass.
-name: Franklin Martini
-rate: 5.0
+comment: A Dry Martini garnished with two olives.
+aka: 
+variant: 
+origin: 
+source: www.diffordsguide.com (787)
+recipe_steps:
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Noilly Prat dry vermouth
+- amount: '2 1/2 '
+  doze: shot
+  ingredient_name: Bombay London dry gin

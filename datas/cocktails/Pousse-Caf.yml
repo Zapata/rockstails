@@ -1,29 +1,34 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Pousse-Caf
+method: Refrigerate ingredients then LAYER in chilled glass by carefully pouring in
+  the following order.
+rate: 2.5
 garnish: 
 glass: Shot
-infos: 
-  Comment: More a test of patience and a steady hand than a drink.
-  Origin: A pousse-caf is now a term for any multi-layered cocktail. (See 'Layer' in the 'Terms Explained') The term originally seems to have been a general term for a mixture of liqueurs and/or spirits served after dinner, and most probably originated in France.
-  source: www.diffordsguide.com (1595)
-ingredients: 
-- - " 1/4 "
-  - shot
-  - Pomegranate (grenadine) syrup
-- - " 1/4 "
-  - shot
-  - Kahla coffee liqueur
-- - " 1/4 "
-  - shot
-  - "Green cr\xE8me de menthe liqueur"
-- - " 1/4 "
-  - shot
-  - Cointreau triple sec
-- - " 1/4 "
-  - shot
-  - Maker's Mark bourbon
-- - " 1/4 "
-  - shot
-  - Wray & Nephew overproof rum
-method: Refrigerate ingredients then LAYER in chilled glass by carefully pouring in the following order.
-name: Pousse-Caf
-rate: 2.5
+comment: More a test of patience and a steady hand than a drink.
+aka: 
+variant: 
+origin: A pousse-caf is now a term for any multi-layered cocktail. (See 'Layer' in
+  the 'Terms Explained') The term originally seems to have been a general term for
+  a mixture of liqueurs and/or spirits served after dinner, and most probably originated
+  in France.
+source: www.diffordsguide.com (1595)
+recipe_steps:
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Cointreau triple sec
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Pomegranate (grenadine) syrup
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Green crème de menthe liqueur
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Wray & Nephew overproof rum
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Kahla coffee liqueur
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Maker's Mark bourbon

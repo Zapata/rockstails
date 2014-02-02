@@ -1,23 +1,24 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Kentucky Pear
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 4.5
 garnish: Pear slice on rim
 glass: Martini
-infos: 
-  Comment: Pear, apple, vanilla and whiskey are partners in this richly flavoured drink.
-  Origin: Created in 2003 by Jes at The Cinnamon Club, London, England.
-  source: www.diffordsguide.com (1098)
-ingredients: 
-- - "1"
-  - shot
-  - Maker's Mark bourbon
-- - "1"
-  - shot
-  - Belle de Brillet pear liqueur
-- - "1"
-  - shot
-  - Pressed pear juice
-- - "1"
-  - shot
-  - Pressed apple juice
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: Kentucky Pear
-rate: 4.5
+comment: Pear, apple, vanilla and whiskey are partners in this richly flavoured drink.
+aka: 
+variant: 
+origin: Created in 2003 by Jes at The Cinnamon Club, London, England.
+source: www.diffordsguide.com (1098)
+recipe_steps:
+- amount: '1'
+  doze: shot
+  ingredient_name: Pressed apple juice
+- amount: '1'
+  doze: shot
+  ingredient_name: Pressed pear juice
+- amount: '1'
+  doze: shot
+  ingredient_name: Maker's Mark bourbon
+- amount: '1'
+  doze: shot
+  ingredient_name: Belle de Brillet pear liqueur

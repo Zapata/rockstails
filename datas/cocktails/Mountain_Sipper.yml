@@ -1,25 +1,27 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Mountain Sipper
+method: SHAKE all ingredients with ice and strain into ice-filled glass.
+rate: 3.5
 garnish: Orange zest twist
 glass: Old-fashioned
-infos: 
-  Comment: Fruity citrus flavours balance the richness of the whiskey.
-  source: www.diffordsguide.com (1369)
-ingredients: 
-- - "2"
-  - shot
-  - Maker's Mark bourbon
-- - "1"
-  - shot
-  - Cointreau triple sec
-- - "1"
-  - shot
-  - Ocean Spray cranberry juice
-- - "1"
-  - shot
-  - Freshly squeezed grapefruit juice
-- - " 1/8 "
-  - shot
-  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
-method: SHAKE all ingredients with ice and strain into ice-filled glass.
-name: Mountain Sipper
-rate: 3.5
+comment: Fruity citrus flavours balance the richness of the whiskey.
+aka: 
+variant: 
+origin: 
+source: www.diffordsguide.com (1369)
+recipe_steps:
+- amount: '1'
+  doze: shot
+  ingredient_name: Cointreau triple sec
+- amount: '1'
+  doze: shot
+  ingredient_name: Ocean Spray cranberry juice
+- amount: ' 1/8 '
+  doze: shot
+  ingredient_name: Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- amount: '1'
+  doze: shot
+  ingredient_name: Freshly squeezed grapefruit juice
+- amount: '2'
+  doze: shot
+  ingredient_name: Maker's Mark bourbon

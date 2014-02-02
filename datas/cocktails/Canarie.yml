@@ -1,20 +1,24 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Canarie
+method: POUR pastis and lemon syrup into glass. Serve iced water separately in a small
+  jug (known in France as a 'broc') so the customer can dilute to their own taste
+  (I recommend five shots). Lastly, add ice to fill glass.
+rate: 3.5
 garnish: None
 glass: Collins
-infos: 
-  Comment: The traditional French caf drink with a twist of lemon sweetness
-  Origin: Very popular throughout France, this drink is fittingly named after the bird, which is typically bred for its bright yellow plumage.
-  source: www.diffordsguide.com (364)
-ingredients: 
-- - "1"
-  - shot
-  - Ricard Pastis
-- - " 1/2 "
-  - shot
-  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
-- - "1"
-  - top up with
-  - Chilled mineral water
-method: POUR pastis and lemon syrup into glass. Serve iced water separately in a small jug (known in France as a 'broc') so the customer can dilute to their own taste (I recommend five shots). Lastly, add ice to fill glass.
-name: Canarie
-rate: 3.5
+comment: The traditional French caf drink with a twist of lemon sweetness
+aka: 
+variant: 
+origin: Very popular throughout France, this drink is fittingly named after the bird,
+  which is typically bred for its bright yellow plumage.
+source: www.diffordsguide.com (364)
+recipe_steps:
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- amount: '1'
+  doze: top up with
+  ingredient_name: Chilled mineral water
+- amount: '1'
+  doze: shot
+  ingredient_name: Ricard Pastis

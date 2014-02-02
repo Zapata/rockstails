@@ -1,20 +1,22 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Divino's
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 4.0
 garnish: Chocolate shavings
 glass: Martini
-infos: 
-  Comment: The chocolate liqueur takes the acidity off the wine without masking its flavour.
-  Origin: Discovered in 2005 at DiVino, Hong Kong, China.
-  source: www.diffordsguide.com (652)
-ingredients: 
-- - " 1/2 "
-  - shot
-  - Ketel One vodka
-- - "2 1/2 "
-  - shot
-  - Barolo wine
-- - "1"
-  - shot
-  - "Brown cr\xE8me de cacao liqueur"
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: Divino's
-rate: 4.0
+comment: The chocolate liqueur takes the acidity off the wine without masking its
+  flavour.
+aka: 
+variant: 
+origin: Discovered in 2005 at DiVino, Hong Kong, China.
+source: www.diffordsguide.com (652)
+recipe_steps:
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Ketel One vodka
+- amount: '1'
+  doze: shot
+  ingredient_name: Brown crème de cacao liqueur
+- amount: '2 1/2 '
+  doze: shot
+  ingredient_name: Barolo wine

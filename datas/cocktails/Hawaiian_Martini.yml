@@ -1,23 +1,24 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Hawaiian Martini
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 4.0
 garnish: Pineapple wedge &amp; cherry
 glass: Martini
-infos: 
-  Comment: An aptly named fruity twist on the classic Martini.
-  Origin: Adapted from a drink discovered in 2005 at the Four Seasons, Milan, Italy.
-  source: www.diffordsguide.com (944)
-ingredients: 
-- - "1 1/2 "
-  - shot
-  - Bombay London dry gin
-- - " 1/2 "
-  - shot
-  - Noilly Prat dry vermouth
-- - " 1/2 "
-  - shot
-  - Martini Rosso sweet vermouth
-- - "1 1/2 "
-  - shot
-  - Fresh pressed pineapple juice
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: Hawaiian Martini
-rate: 4.0
+comment: An aptly named fruity twist on the classic Martini.
+aka: 
+variant: 
+origin: Adapted from a drink discovered in 2005 at the Four Seasons, Milan, Italy.
+source: www.diffordsguide.com (944)
+recipe_steps:
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Noilly Prat dry vermouth
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Fresh pressed pineapple juice
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Bombay London dry gin
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Martini Rosso sweet vermouth

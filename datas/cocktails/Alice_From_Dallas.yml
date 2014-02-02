@@ -1,19 +1,22 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Alice From Dallas
+method: Refrigerate ingredients then LAYER in chilled glass by carefully pouring in
+  the following order.
+rate: 3.5
 garnish: None
 glass: Shot
-infos: 
-  Comment: Coffee and orange spiked with tequila.
-  source: www.diffordsguide.com (42)
-ingredients: 
-- - " 1/2 "
-  - shot
-  - Kahla coffee liqueur
-- - " 1/2 "
-  - shot
-  - Grand Marnier liqueur
-- - " 1/2 "
-  - shot
-  - Herradura 100% agave tequila
-method: Refrigerate ingredients then LAYER in chilled glass by carefully pouring in the following order.
-name: Alice From Dallas
-rate: 3.5
+comment: Coffee and orange spiked with tequila.
+aka: 
+variant: 
+origin: 
+source: www.diffordsguide.com (42)
+recipe_steps:
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Grand Marnier liqueur
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Herradura 100% agave tequila
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Kahla coffee liqueur

@@ -1,26 +1,27 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Classic Cocktail
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 5.0
 garnish: Lemon zest twist (optional sugar rim)
 glass: Martini
-infos: 
-  Comment: Reminiscent of a Sidecar with Maraschino.
-  Origin: Adapted form Harry Craddock's 1930 'The Savoy Cocktail Book'
-  source: www.diffordsguide.com (441)
-ingredients: 
-- - "2"
-  - shot
-  - Courvoisier V.S.O.P cognac
-- - " 1/2 "
-  - shot
-  - Grand Marnier liqueur
-- - " 1/2 "
-  - shot
-  - Luxardo maraschino liqueur
-- - " 1/2 "
-  - shot
-  - Freshly squeezed lemon juice
-- - " 1/2 "
-  - shot
-  - Chilled mineral water
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: Classic Cocktail
-rate: 5.0
+comment: Reminiscent of a Sidecar with Maraschino.
+aka: 
+variant: 
+origin: Adapted form Harry Craddock's 1930 'The Savoy Cocktail Book'
+source: www.diffordsguide.com (441)
+recipe_steps:
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Freshly squeezed lemon juice
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Chilled mineral water
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Grand Marnier liqueur
+- amount: '2'
+  doze: shot
+  ingredient_name: Courvoisier V.S.O.P cognac
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Luxardo maraschino liqueur

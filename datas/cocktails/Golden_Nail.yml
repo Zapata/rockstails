@@ -1,19 +1,21 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Golden Nail
+method: STIR all ingredients with ice and strain into ice-filled glass.
+rate: 4.0
 garnish: Orange zest twist
 glass: Old-fashioned
-infos: 
-  Comment: A warming taste of southern hospitality.
-  source: www.diffordsguide.com (880)
-ingredients: 
-- - "1 1/2 "
-  - shot
-  - Maker's Mark bourbon
-- - " 3/4 "
-  - shot
-  - Southern Comfort liqueur
-- - "2"
-  - dash
-  - Peychaud's aromatic bitters
-method: STIR all ingredients with ice and strain into ice-filled glass.
-name: Golden Nail
-rate: 4.0
+comment: A warming taste of southern hospitality.
+aka: 
+variant: 
+origin: 
+source: www.diffordsguide.com (880)
+recipe_steps:
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Maker's Mark bourbon
+- amount: '2'
+  doze: dash
+  ingredient_name: Peychaud's aromatic bitters
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Southern Comfort liqueur

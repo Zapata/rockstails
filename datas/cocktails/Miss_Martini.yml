@@ -1,29 +1,31 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Miss Martini
+method: MUDDLE raspberries in base of shaker. Add other ingredients, SHAKE with ice
+  and fine strain into chilled glass.
+rate: 3.5
 garnish: Raspberries on stick
 glass: Martini
-infos: 
-  Comment: A pink, fruity, creamy concoction.
-  Origin: Created in 1997 by Giovanni Burdi at Match EC1, London, England.
-  source: www.diffordsguide.com (1333)
-ingredients: 
-- - "7"
-  - fresh
-  - Raspberries
-- - "2"
-  - shot
-  - Ketel One vodka
-- - " 1/2 "
-  - shot
-  - Chambord
-- - " 1/4 "
-  - shot
-  - Milk
-- - " 1/4 "
-  - shot
-  - Double (heavy) cream
-- - " 1/8 "
-  - shot
-  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
-method: MUDDLE raspberries in base of shaker. Add other ingredients, SHAKE with ice and fine strain into chilled glass.
-name: Miss Martini
-rate: 3.5
+comment: A pink, fruity, creamy concoction.
+aka: 
+variant: 
+origin: Created in 1997 by Giovanni Burdi at Match EC1, London, England.
+source: www.diffordsguide.com (1333)
+recipe_steps:
+- amount: '2'
+  doze: shot
+  ingredient_name: Ketel One vodka
+- amount: ' 1/8 '
+  doze: shot
+  ingredient_name: Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Chambord
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Double (heavy) cream
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Milk
+- amount: '7'
+  doze: fresh
+  ingredient_name: Raspberries

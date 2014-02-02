@@ -1,29 +1,32 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Highland Sazerac
+method: RINSE glass with Yellow Chartreuse. STIR the rest of ingredients with ice
+  and fine strain into Chartreuse rinsed glass.<br />
+rate: 4.0
 garnish: Lemon zest twist<br />
 glass: Old-fashioned
-infos: 
-  Comment: A Scotch and Chartreuse variation on the classic Sazerac.
-  Origin: Adapted from a recipe by Don Lee, PDT, New York. However, Yellow Chartreuse is now used for rinsing th glass.<br />
-  source: www.diffordsguide.com (2807)
-ingredients: 
-- - " 1/4 "
-  - shot
-  - Chartreuse Yellow liqueur
-- - "1 1/2 "
-  - shot
-  - Courvoisier V.S.O.P cognac
-- - " 1/2 "
-  - shot
-  - Oban 14yo malt whisky
-- - " 1/4 "
-  - shot
-  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
-- - "2"
-  - dash
-  - Peychaud's aromatic bitters
-- - "1"
-  - dash
-  - Angostura aromatic bitters
-method: RINSE glass with Yellow Chartreuse. STIR the rest of ingredients with ice and fine strain into Chartreuse rinsed glass.<br />
-name: Highland Sazerac
-rate: 4.0
+comment: A Scotch and Chartreuse variation on the classic Sazerac.
+aka: 
+variant: 
+origin: Adapted from a recipe by Don Lee, PDT, New York. However, Yellow Chartreuse
+  is now used for rinsing th glass.<br />
+source: www.diffordsguide.com (2807)
+recipe_steps:
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- amount: '1'
+  doze: dash
+  ingredient_name: Angostura aromatic bitters
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Courvoisier V.S.O.P cognac
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Chartreuse Yellow liqueur
+- amount: '2'
+  doze: dash
+  ingredient_name: Peychaud's aromatic bitters
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Oban 14yo malt whisky

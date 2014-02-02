@@ -1,26 +1,29 @@
---- !ruby/object:DirtyCocktail 
+---
+name: North Pole Martini
+method: SHAKE first 4 ingredients with ice and fine strain into chilled glass. FLOAT
+  cream over drink.
+rate: 4.0
 garnish: 
 glass: Martini
-infos: 
-  Comment: An Aviation smoothed by egg white and cream.
-  Origin: Adapted from a recipe in the 1947-72 Trader Vic's Bartender's Guide by Victor Bergeron.
-  source: www.diffordsguide.com (1410)
-ingredients: 
-- - "2"
-  - shot
-  - Bombay London dry gin
-- - "1"
-  - shot
-  - Luxardo maraschino liqueur
-- - " 1/2 "
-  - shot
-  - Freshly squeezed lemon juice
-- - " 1/2 "
-  - fresh
-  - Egg white
-- - "1"
-  - float
-  - Double (heavy) cream
-method: SHAKE first 4 ingredients with ice and fine strain into chilled glass. FLOAT cream over drink.
-name: North Pole Martini
-rate: 4.0
+comment: An Aviation smoothed by egg white and cream.
+aka: 
+variant: 
+origin: Adapted from a recipe in the 1947-72 Trader Vic's Bartender's Guide by Victor
+  Bergeron.
+source: www.diffordsguide.com (1410)
+recipe_steps:
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Freshly squeezed lemon juice
+- amount: '2'
+  doze: shot
+  ingredient_name: Bombay London dry gin
+- amount: '1'
+  doze: float
+  ingredient_name: Double (heavy) cream
+- amount: ' 1/2 '
+  doze: fresh
+  ingredient_name: Egg white
+- amount: '1'
+  doze: shot
+  ingredient_name: Luxardo maraschino liqueur

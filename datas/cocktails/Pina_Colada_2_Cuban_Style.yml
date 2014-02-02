@@ -1,24 +1,25 @@
---- !ruby/object:DirtyCocktail 
+---
+name: 'Pi~na Colada #2 (Cuban Style)'
+method: SHAKE all ingredients with ice and strain into ice-filled glass.
+rate: 4.0
 garnish: Lime wedge on rim
 glass: Pineapple shell (frozen)
-infos: 
-  Comment: This Colada has no coconut, but it is smooth, balanced and rather tasty.<br /><br />
-  Origin: Touted by some as the original Pi~na Colada from Cuba.<br />
-  Variant: <br />
-  source: www.diffordsguide.com (2735)
-ingredients: 
-- - "2"
-  - shot
-  - Zacapa aged rum
-- - "4"
-  - shot
-  - Fresh pressed pineapple juice
-- - " 1/4 "
-  - shot
-  - Freshly squeezed lime juice
-- - " 1/4 "
-  - shot
-  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
-method: SHAKE all ingredients with ice and strain into ice-filled glass.
-name: "Pi~na Colada #2 (Cuban Style)"
-rate: 4.0
+comment: This Colada has no coconut, but it is smooth, balanced and rather tasty.<br
+  /><br />
+aka: 
+variant: <br />
+origin: Touted by some as the original Pi~na Colada from Cuba.<br />
+source: www.diffordsguide.com (2735)
+recipe_steps:
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Freshly squeezed lime juice
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- amount: '4'
+  doze: shot
+  ingredient_name: Fresh pressed pineapple juice
+- amount: '2'
+  doze: shot
+  ingredient_name: Zacapa aged rum

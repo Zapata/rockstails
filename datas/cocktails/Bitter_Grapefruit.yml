@@ -1,23 +1,24 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Bitter Grapefruit
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 3.5
 garnish: Grapefruit zest<br />
 glass: Martini
-infos: 
-  Comment: Grapefruit influenced and Negroni in style.
-  Origin: Discovered in 2007 at Public Restaurant, New York City, USA.
-  source: www.diffordsguide.com (2299)
-ingredients: 
-- - "1 1/2 "
-  - shot
-  - Ketel One vodka
-- - " 1/2 "
-  - shot
-  - Aperol
-- - "1"
-  - shot
-  - Martini Rosso sweet vermouth
-- - " 1/2 "
-  - shot
-  - Freshly squeezed pink grapefruit juice
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: Bitter Grapefruit
-rate: 3.5
+comment: Grapefruit influenced and Negroni in style.
+aka: 
+variant: 
+origin: Discovered in 2007 at Public Restaurant, New York City, USA.
+source: www.diffordsguide.com (2299)
+recipe_steps:
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Aperol
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Ketel One vodka
+- amount: '1'
+  doze: shot
+  ingredient_name: Martini Rosso sweet vermouth
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Freshly squeezed pink grapefruit juice

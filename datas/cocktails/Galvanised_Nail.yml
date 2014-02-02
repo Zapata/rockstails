@@ -1,26 +1,28 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Galvanised Nail
+method: <p>SHAKE all ingredients with ice and fine strain into chilled glass.</p>
+rate: 4.0
 garnish: <p>Lemon zest twist</p>
 glass: Martini
-infos: 
-  Comment: <p>Scotch and honeyed spice with a hint of apple and elderflower plus some lemon freshness.</p>
-  Origin: <p>Created in 2003 by Simon Difford, taking inspiration from the Rusty Nail.</p>
-  source: www.diffordsguide.com (823)
-ingredients: 
-- - "2"
-  - shot
-  - Johnnie Walker Scotch Whisky
-- - " 1/2 "
-  - shot
-  - Drambuie
-- - " 1/4 "
-  - shot
-  - St-Germain elderflower liqueur
-- - " 1/2 "
-  - shot
-  - Pressed apple juice
-- - " 1/4 "
-  - shot
-  - Freshly squeezed lemon juice
-method: <p>SHAKE all ingredients with ice and fine strain into chilled glass.</p>
-name: Galvanised Nail
-rate: 4.0
+comment: <p>Scotch and honeyed spice with a hint of apple and elderflower plus some
+  lemon freshness.</p>
+aka: 
+variant: 
+origin: <p>Created in 2003 by Simon Difford, taking inspiration from the Rusty Nail.</p>
+source: www.diffordsguide.com (823)
+recipe_steps:
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: St-Germain elderflower liqueur
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Freshly squeezed lemon juice
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Pressed apple juice
+- amount: '2'
+  doze: shot
+  ingredient_name: Johnnie Walker Scotch Whisky
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Drambuie

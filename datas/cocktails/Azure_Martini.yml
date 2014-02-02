@@ -1,26 +1,29 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Azure Martini
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 4.0
 garnish: Apple slice on rim
 glass: Martini
-infos: 
-  Comment: A tangy cocktail - reminiscent of a cinnamon laced apple pie. Shame it's not blue.
-  Origin: Created in 1998 by Ben Reed at the Met Bar, London, England, and originally made with muddled fresh apple.
-  source: www.diffordsguide.com (130)
-ingredients: 
-- - "2"
-  - shot
-  - Leblon cachaca
-- - " 1/4 "
-  - shot
-  - Goldschlager cinnamon schnapps
-- - "1"
-  - shot
-  - Pressed apple juice
-- - " 1/2 "
-  - shot
-  - Freshly squeezed lime juice
-- - " 1/4 "
-  - shot
-  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: Azure Martini
-rate: 4.0
+comment: A tangy cocktail - reminiscent of a cinnamon laced apple pie. Shame it's
+  not blue.
+aka: 
+variant: 
+origin: Created in 1998 by Ben Reed at the Met Bar, London, England, and originally
+  made with muddled fresh apple.
+source: www.diffordsguide.com (130)
+recipe_steps:
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Freshly squeezed lime juice
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- amount: '1'
+  doze: shot
+  ingredient_name: Pressed apple juice
+- amount: '2'
+  doze: shot
+  ingredient_name: Leblon cachaca
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Goldschlager cinnamon schnapps

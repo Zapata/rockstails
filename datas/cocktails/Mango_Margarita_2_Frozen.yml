@@ -1,26 +1,27 @@
---- !ruby/object:DirtyCocktail 
+---
+name: 'Mango Margarita #2 (Frozen)'
+method: BLEND all ingredients with 6oz scoop of crushed ice. Serve with straws.
+rate: 4.0
 garnish: Mango slice on rim
 glass: Coupette
-infos: 
-  Comment: Mango first and Margarita second.
-  Origin: Formula by Yours Truly (Simon Difford) in 2006.
-  source: www.diffordsguide.com (1241)
-ingredients: 
-- - "2"
-  - shot
-  - Herradura 100% agave tequila
-- - " 3/4 "
-  - shot
-  - Mango pure
-- - "1"
-  - shot
-  - Cointreau triple sec
-- - " 1/2 "
-  - shot
-  - Freshly squeezed lime juice
-- - " 1/4 "
-  - shot
-  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
-method: BLEND all ingredients with 6oz scoop of crushed ice. Serve with straws.
-name: "Mango Margarita #2 (Frozen)"
-rate: 4.0
+comment: Mango first and Margarita second.
+aka: 
+variant: 
+origin: Formula by Yours Truly (Simon Difford) in 2006.
+source: www.diffordsguide.com (1241)
+recipe_steps:
+- amount: '1'
+  doze: shot
+  ingredient_name: Cointreau triple sec
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Freshly squeezed lime juice
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- amount: '2'
+  doze: shot
+  ingredient_name: Herradura 100% agave tequila
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Mango pure

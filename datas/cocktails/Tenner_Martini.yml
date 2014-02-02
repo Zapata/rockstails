@@ -1,20 +1,21 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Tenner Martini
+method: STIR all ingredients with ice and strain into chilled glass.
+rate: 4.5
 garnish: Grapefruit zest twist
 glass: Martini
-infos: 
-  Comment: Very wet, aromatic Martini.<br /><br />
-  Origin: <br _moz_editor_bogus_node="TRUE" />
-  source: www.diffordsguide.com (2591)
-ingredients: 
-- - "2"
-  - shot
-  - Bombay London dry gin
-- - "1"
-  - shot
-  - Noilly Prat dry vermouth
-- - "2"
-  - dash
-  - Fee Brothers grapefruit bitters
-method: STIR all ingredients with ice and strain into chilled glass.
-name: Tenner Martini
-rate: 4.5
+comment: Very wet, aromatic Martini.<br /><br />
+aka: 
+variant: 
+origin: <br _moz_editor_bogus_node="TRUE" />
+source: www.diffordsguide.com (2591)
+recipe_steps:
+- amount: '1'
+  doze: shot
+  ingredient_name: Noilly Prat dry vermouth
+- amount: '2'
+  doze: shot
+  ingredient_name: Bombay London dry gin
+- amount: '2'
+  doze: dash
+  ingredient_name: Fee Brothers grapefruit bitters

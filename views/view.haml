@@ -5,11 +5,11 @@
       %tr
         %td= step.amount
         %td= step.doze
-        %td= step.ingredient.name
+        %td= step.ingredient_name
 %div#infos
   %table.table.table-condensed
     - [:method, :glass, :garnish, :rate, :aka, :variant, :comment, :origin, :source].each do |info|
-      - value = cocktail.send(info)
+      - value = cocktail[info]
       - unless value.nil? or value.blank?
         %tr
           %td= info.to_s.capitalize

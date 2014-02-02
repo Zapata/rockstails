@@ -1,29 +1,31 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Pappy Honeysuckle
+method: STIR honey with whiskey in base of shaker to dissolve honey. Add other ingredients,
+  SHAKE with ice and fine strain into chilled glass.
+rate: 4.5
 garnish: Physalis fruit
 glass: Martini
-infos: 
-  Comment: Fresh and fruity with honeyed sweetness.
-  Origin: Created in 2002 by Shelim Islam at the GE Club, London, England.
-  source: www.diffordsguide.com (1465)
-ingredients: 
-- - "1 1/2 "
-  - shot
-  - Jameson Irish whiskey
-- - "1 1/4 "
-  - shot
-  - Sauvignon blanc wine
-- - "2"
-  - spoon
-  - Runny honey
-- - "1 1/2 "
-  - shot
-  - Pressed apple juice
-- - " 1/4 "
-  - shot
-  - Freshly squeezed lemon juice
-- - " 1/4 "
-  - shot
-  - Passion fruit syrup
-method: STIR honey with whiskey in base of shaker to dissolve honey. Add other ingredients, SHAKE with ice and fine strain into chilled glass.
-name: Pappy Honeysuckle
-rate: 4.5
+comment: Fresh and fruity with honeyed sweetness.
+aka: 
+variant: 
+origin: Created in 2002 by Shelim Islam at the GE Club, London, England.
+source: www.diffordsguide.com (1465)
+recipe_steps:
+- amount: '1 1/4 '
+  doze: shot
+  ingredient_name: Sauvignon blanc wine
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Freshly squeezed lemon juice
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Pressed apple juice
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Passion fruit syrup
+- amount: '2'
+  doze: spoon
+  ingredient_name: Runny honey
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Jameson Irish whiskey

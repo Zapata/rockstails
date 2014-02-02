@@ -1,20 +1,22 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Grand Sidecar
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 4.0
 garnish: Orange zest twist
 glass: Martini
-infos: 
-  Comment: A twist on the classic, simple but very tasty. Also works well shaken and strained into an ice-filled old-fashioned glass.
-  Origin: Created by Yours Truly (Simon Difford) in June 2005.
-  source: www.diffordsguide.com (892)
-ingredients: 
-- - "2 1/2 "
-  - shot
-  - Grand Marnier liqueur
-- - "1"
-  - shot
-  - Freshly squeezed lemon juice
-- - " 1/2 "
-  - shot
-  - Chilled mineral water
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: Grand Sidecar
-rate: 4.0
+comment: A twist on the classic, simple but very tasty. Also works well shaken and
+  strained into an ice-filled old-fashioned glass.
+aka: 
+variant: 
+origin: Created by Yours Truly (Simon Difford) in June 2005.
+source: www.diffordsguide.com (892)
+recipe_steps:
+- amount: '1'
+  doze: shot
+  ingredient_name: Freshly squeezed lemon juice
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Chilled mineral water
+- amount: '2 1/2 '
+  doze: shot
+  ingredient_name: Grand Marnier liqueur

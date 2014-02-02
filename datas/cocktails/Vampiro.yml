@@ -1,35 +1,38 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Vampiro
+method: SHAKE all ingredients with ice and strain into ice-filled glass.
+rate: 4.0
 garnish: Lime wedge
 glass: Old-fashioned
-infos: 
-  Comment: Something of a supercharged Bloody Mary with tequila and a hint of sweet grenadine.
-  Origin: The national drink of Mexico where it's often made with pomegranate juice in place of tomato juice and without the grenadine.
-  source: www.diffordsguide.com (2024)
-ingredients: 
-- - "2"
-  - shot
-  - Herradura 100% agave tequila
-- - "1"
-  - shot
-  - Tomato juice
-- - "1"
-  - shot
-  - Freshly squeezed orange juice
-- - " 1/2 "
-  - shot
-  - Freshly squeezed lime juice
-- - " 1/2 "
-  - shot
-  - Pomegranate (grenadine) syrup
-- - "7"
-  - drop
-  - Tobasco hot pepper sauce
-- - "1"
-  - pinch
-  - Salt
-- - "1"
-  - grind
-  - Black pepper
-method: SHAKE all ingredients with ice and strain into ice-filled glass.
-name: Vampiro
-rate: 4.0
+comment: Something of a supercharged Bloody Mary with tequila and a hint of sweet
+  grenadine.
+aka: 
+variant: 
+origin: The national drink of Mexico where it's often made with pomegranate juice
+  in place of tomato juice and without the grenadine.
+source: www.diffordsguide.com (2024)
+recipe_steps:
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Freshly squeezed lime juice
+- amount: '1'
+  doze: shot
+  ingredient_name: Freshly squeezed orange juice
+- amount: '7'
+  doze: drop
+  ingredient_name: Tobasco hot pepper sauce
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Pomegranate (grenadine) syrup
+- amount: '2'
+  doze: shot
+  ingredient_name: Herradura 100% agave tequila
+- amount: '1'
+  doze: grind
+  ingredient_name: Black pepper
+- amount: '1'
+  doze: shot
+  ingredient_name: Tomato juice
+- amount: '1'
+  doze: pinch
+  ingredient_name: Salt

@@ -1,26 +1,27 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Leninade
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 4.0
 garnish: Orange zest twist
 glass: Martini
-infos: 
-  Comment: Orange undertones add citrus depth to the lemon explosion.
-  Origin: Created by Dick Bradsell at Fred's, London, England, in the late 80's.
-  source: www.diffordsguide.com (1153)
-ingredients: 
-- - "1 1/2 "
-  - shot
-  - Ketel One Citroen vodka
-- - " 1/4 "
-  - shot
-  - Cointreau triple sec
-- - "1"
-  - shot
-  - Freshly squeezed lemon juice
-- - " 1/4 "
-  - shot
-  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
-- - "3"
-  - dash
-  - Angostura orange bitters
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: Leninade
-rate: 4.0
+comment: Orange undertones add citrus depth to the lemon explosion.
+aka: 
+variant: 
+origin: Created by Dick Bradsell at Fred's, London, England, in the late 80's.
+source: www.diffordsguide.com (1153)
+recipe_steps:
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Ketel One Citroen vodka
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Cointreau triple sec
+- amount: '1'
+  doze: shot
+  ingredient_name: Freshly squeezed lemon juice
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- amount: '3'
+  doze: dash
+  ingredient_name: Angostura orange bitters

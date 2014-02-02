@@ -1,24 +1,32 @@
---- !ruby/object:DirtyCocktail 
-garnish: Cut a straw sized hole in the top of the pineapple shell and replace it as a lid.
-glass: Pineapple shell (frozen)
-infos: 
-  AKA: Burner
-  Comment: Looks and tastes great but a load of hassle to make.
-  Origin: Adapted from David Embury's 1948 'The Fine Art of Mixing Drinks'. Pronounced 'Ah-bah-Kah-shee Rich-kah-So', the Portuguese name of this Brazilian drink literally translates as 'Extra Delicious Pineapple'.
-  source: www.diffordsguide.com (1)
-ingredients: 
-- - "1"
-  - whole
-  - Pineapple (fresh)
-- - "3"
-  - shot
-  - Bacardi Oro golden rum
-- - " 3/4 "
-  - shot
-  - Freshly squeezed lime juice
-- - " 1/2 "
-  - shot
-  - Granulated sugar
-method: Cut the top off a small pineapple and carefully scoop out the flesh from the base to leave a shell with 12mm (1/2 inch) thick walls. Place the shell in a freezer to chill. Remove the hard core from the pineapple flesh and discard; roughly chop the remaining flesh, add other ingredients and BLEND with one 12oz scoop of crushed ice. Pour into the pineapple shell and serve with straws. (The flesh of one pineapple blended with the following ingredients will fill at least two shells).
+---
 name: Abacaxi Ricaco
+method: Cut the top off a small pineapple and carefully scoop out the flesh from the
+  base to leave a shell with 12mm (1/2 inch) thick walls. Place the shell in a freezer
+  to chill. Remove the hard core from the pineapple flesh and discard; roughly chop
+  the remaining flesh, add other ingredients and BLEND with one 12oz scoop of crushed
+  ice. Pour into the pineapple shell and serve with straws. (The flesh of one pineapple
+  blended with the following ingredients will fill at least two shells).
 rate: 4.0
+garnish: Cut a straw sized hole in the top of the pineapple shell and replace it as
+  a lid.
+glass: Pineapple shell (frozen)
+comment: Looks and tastes great but a load of hassle to make.
+aka: Burner
+variant: 
+origin: Adapted from David Embury's 1948 'The Fine Art of Mixing Drinks'. Pronounced
+  'Ah-bah-Kah-shee Rich-kah-So', the Portuguese name of this Brazilian drink literally
+  translates as 'Extra Delicious Pineapple'.
+source: www.diffordsguide.com (1)
+recipe_steps:
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Freshly squeezed lime juice
+- amount: '3'
+  doze: shot
+  ingredient_name: Bacardi Oro golden rum
+- amount: '1'
+  doze: whole
+  ingredient_name: Pineapple (fresh)
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Granulated sugar

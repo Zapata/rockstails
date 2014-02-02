@@ -1,20 +1,22 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Spritz Al Bitter
+method: POUR ingredients into ice-filled glass and lightly stir.
+rate: 3.5
 garnish: Orange zest twist
 glass: Old-fashioned
-infos: 
-  Comment: Basically a Spritzer with a  generous splash of campari - dry and very refreshing.
-  Origin: The origins of this Venetian speciality date back to the end of the 19th century when the Austrians ruled the city.
-  source: www.diffordsguide.com (1861)
-ingredients: 
-- - "1 1/2 "
-  - shot
-  - Sauvignon blanc wine
-- - "1 1/2 "
-  - shot
-  - Campari Bitter
-- - "1"
-  - top up with
-  - Soda (club soda)
-method: POUR ingredients into ice-filled glass and lightly stir.
-name: Spritz Al Bitter
-rate: 3.5
+comment: Basically a Spritzer with a  generous splash of campari - dry and very refreshing.
+aka: 
+variant: 
+origin: The origins of this Venetian speciality date back to the end of the 19th century
+  when the Austrians ruled the city.
+source: www.diffordsguide.com (1861)
+recipe_steps:
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Sauvignon blanc wine
+- amount: '1'
+  doze: top up with
+  ingredient_name: Soda (club soda)
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Campari Bitter

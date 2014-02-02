@@ -1,22 +1,24 @@
---- !ruby/object:DirtyCocktail 
+---
+name: English Garden
+method: SHAKE all ingredient with ice and fine strain into ice-filled glass.
+rate: 4.0
 garnish: Three slices of cucumber
 glass: Collins
-infos: 
-  Comment: Quintessentially English in flavour - anyone for tennis?
-  source: www.diffordsguide.com (715)
-ingredients: 
-- - "2"
-  - shot
-  - Bombay London dry gin
-- - "2 1/2 "
-  - shot
-  - Pressed apple juice
-- - "1"
-  - shot
-  - St-Germain elderflower liqueur
-- - " 1/2 "
-  - shot
-  - Freshly squeezed lime juice
-method: SHAKE all ingredient with ice and fine strain into ice-filled glass.
-name: English Garden
-rate: 4.0
+comment: Quintessentially English in flavour - anyone for tennis?
+aka: 
+variant: 
+origin: 
+source: www.diffordsguide.com (715)
+recipe_steps:
+- amount: '1'
+  doze: shot
+  ingredient_name: St-Germain elderflower liqueur
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Freshly squeezed lime juice
+- amount: '2 1/2 '
+  doze: shot
+  ingredient_name: Pressed apple juice
+- amount: '2'
+  doze: shot
+  ingredient_name: Bombay London dry gin

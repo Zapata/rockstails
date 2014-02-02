@@ -1,16 +1,18 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Black & Tan
+method: POUR lager into chilled glass then FLOAT Guinness on top.
+rate: 3.5
 garnish: None
 glass: Pint
-infos: 
-  Comment: Lager downstairs, Guinness upstairs.
-  source: www.diffordsguide.com (222)
-ingredients: 
-- - " 1/2 "
-  - pint
-  - Lager
-- - " 1/2 "
-  - pint
-  - Guiness
-method: POUR lager into chilled glass then FLOAT Guinness on top.
-name: Black & Tan
-rate: 3.5
+comment: Lager downstairs, Guinness upstairs.
+aka: 
+variant: 
+origin: 
+source: www.diffordsguide.com (222)
+recipe_steps:
+- amount: ' 1/2 '
+  doze: pint
+  ingredient_name: Lager
+- amount: ' 1/2 '
+  doze: pint
+  ingredient_name: Guiness

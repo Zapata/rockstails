@@ -1,22 +1,24 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Columbus Daiquiri
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 3.0
 garnish: Lime wedge on rim
 glass: Martini
-infos: 
-  Comment: A tangy, apricot flavoured Daiquiri.
-  source: www.diffordsguide.com (587)
-ingredients: 
-- - "1"
-  - shot
-  - Bacardi Oro golden rum
-- - "1"
-  - shot
-  - Bols apricot brandy liqueur
-- - "1"
-  - shot
-  - Freshly squeezed lime juice
-- - " 1/2 "
-  - shot
-  - Chilled mineral water
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: Columbus Daiquiri
-rate: 3.0
+comment: A tangy, apricot flavoured Daiquiri.
+aka: 
+variant: 
+origin: 
+source: www.diffordsguide.com (587)
+recipe_steps:
+- amount: '1'
+  doze: shot
+  ingredient_name: Freshly squeezed lime juice
+- amount: '1'
+  doze: shot
+  ingredient_name: Bols apricot brandy liqueur
+- amount: '1'
+  doze: shot
+  ingredient_name: Bacardi Oro golden rum
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Chilled mineral water

@@ -1,23 +1,27 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Cola de Mono
+method: MUDDLE cinnamon stick and pisco in base of shaker. Add other ingredients,
+  SHAKE with ice and fine strain into a chilled glass.
+rate: 4.5
 garnish: Dust with cinnamon powder
 glass: Martini
-infos: 
-  Comment: Coffee and cinnamon - a drink to be savoured.
-  Origin: I based this on a Chilean drink traditionally consumed at Christmas, the name of which literally translates as 'Tail of Monkey'. The original uses milk and sugar instead of coffee liqueur.
-  source: www.diffordsguide.com (454)
-ingredients: 
-- - "1"
-  - inch
-  - Cinnamon stick
-- - "2"
-  - shot
-  - Macchu pisco
-- - "1"
-  - shot
-  - Hot espresso coffee
-- - "1"
-  - shot
-  - Kahla coffee liqueur
-method: MUDDLE cinnamon stick and pisco in base of shaker. Add other ingredients, SHAKE with ice and fine strain into a chilled glass.
-name: Cola de Mono
-rate: 4.5
+comment: Coffee and cinnamon - a drink to be savoured.
+aka: 
+variant: 
+origin: I based this on a Chilean drink traditionally consumed at Christmas, the name
+  of which literally translates as 'Tail of Monkey'. The original uses milk and sugar
+  instead of coffee liqueur.
+source: www.diffordsguide.com (454)
+recipe_steps:
+- amount: '1'
+  doze: shot
+  ingredient_name: Kahla coffee liqueur
+- amount: '2'
+  doze: shot
+  ingredient_name: Macchu pisco
+- amount: '1'
+  doze: shot
+  ingredient_name: Hot espresso coffee
+- amount: '1'
+  doze: inch
+  ingredient_name: Cinnamon stick

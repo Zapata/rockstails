@@ -1,25 +1,28 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Black 'N' Blue Caipirovska
+method: MUDDLE berries in base of glass. Add other ingredients. Fill glass with crushed
+  ice and CHURN (stir) with bar spoon. Serve with straws.
+rate: 4.0
 garnish: 
 glass: Old-fashioned
-infos: 
-  Comment: A great fruity twist on the regular Caipirovska.
-  source: www.diffordsguide.com (234)
-ingredients: 
-- - "6"
-  - fresh
-  - Blackberries
-- - "10"
-  - fresh
-  - Blueberries
-- - "2"
-  - shot
-  - Ketel One vodka
-- - " 1/2 "
-  - shot
-  - Freshly squeezed lime juice
-- - " 3/4 "
-  - shot
-  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
-method: MUDDLE berries in base of glass. Add other ingredients. Fill glass with crushed ice and CHURN (stir) with bar spoon. Serve with straws.
-name: Black 'N' Blue Caipirovska
-rate: 4.0
+comment: A great fruity twist on the regular Caipirovska.
+aka: 
+variant: 
+origin: 
+source: www.diffordsguide.com (234)
+recipe_steps:
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Freshly squeezed lime juice
+- amount: '2'
+  doze: shot
+  ingredient_name: Ketel One vodka
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- amount: '6'
+  doze: fresh
+  ingredient_name: Blackberries
+- amount: '10'
+  doze: fresh
+  ingredient_name: Blueberries

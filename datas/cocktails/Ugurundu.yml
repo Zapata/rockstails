@@ -1,20 +1,22 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Ugurundu
+method: Lightly MUDDLE mint in base of shaker (just to bruise). Add other ingredients,
+  SHAKE with ice and fine strain into chilled glass.
+rate: 3.5
 garnish: 
 glass: Shot
-infos: 
-  Comment: Fresh tasting and all too easy to knock back.
-  Origin: Created by Peter Kubista at Bugsy's Bar, Prague, Czech Republic.
-  source: www.diffordsguide.com (2011)
-ingredients: 
-- - "3"
-  - fresh
-  - Mint leaves
-- - " 1/2 "
-  - shot
-  - Cranberry flavoured vodka
-- - " 1/2 "
-  - shot
-  - Rose's lime cordial
-method: Lightly MUDDLE mint in base of shaker (just to bruise). Add other ingredients, SHAKE with ice and fine strain into chilled glass.
-name: Ugurundu
-rate: 3.5
+comment: Fresh tasting and all too easy to knock back.
+aka: 
+variant: 
+origin: Created by Peter Kubista at Bugsy's Bar, Prague, Czech Republic.
+source: www.diffordsguide.com (2011)
+recipe_steps:
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Rose's lime cordial
+- amount: '3'
+  doze: fresh
+  ingredient_name: Mint leaves
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Cranberry flavoured vodka

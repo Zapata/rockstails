@@ -1,28 +1,30 @@
---- !ruby/object:DirtyCocktail 
-garnish: " Orange zest twist"
-glass: Martini
-infos: 
-  Comment: A wet martini softened by liqueur and given a hint of citrus and spice.
-  source: www.diffordsguide.com (2255)
-ingredients: 
-- - "1"
-  - shot
-  - Bombay London dry gin
-- - "1"
-  - shot
-  - Noilly Prat dry vermouth
-- - " 1/4 "
-  - shot
-  - Cointreau triple sec
-- - " 1/4 "
-  - shot
-  - Bénédictine D.O.M.
-- - "1"
-  - dash
-  - Angostura orange bitters
-- - "1"
-  - dash
-  - Angostura aromatic bitters
-method: " STIR all ingredients with ice and strain into chilled glass."
+---
 name: Argentina Cocktail
+method: ' STIR all ingredients with ice and strain into chilled glass.'
 rate: 4.0
+garnish: ' Orange zest twist'
+glass: Martini
+comment: A wet martini softened by liqueur and given a hint of citrus and spice.
+aka: 
+variant: 
+origin: 
+source: www.diffordsguide.com (2255)
+recipe_steps:
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Cointreau triple sec
+- amount: '1'
+  doze: shot
+  ingredient_name: Noilly Prat dry vermouth
+- amount: '1'
+  doze: shot
+  ingredient_name: Bombay London dry gin
+- amount: '1'
+  doze: dash
+  ingredient_name: Angostura aromatic bitters
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Bénédictine D.O.M.
+- amount: '1'
+  doze: dash
+  ingredient_name: Angostura orange bitters

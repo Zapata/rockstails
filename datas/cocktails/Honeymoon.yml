@@ -1,27 +1,28 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Honeymoon
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 4.0
 garnish: Orange zest twist
 glass: Martini
-infos: 
-  AKA: Farmer's Daughter
-  Comment: A romantic combination of apple, orange, lemon and herbs.
-  Origin: A 1930s classic created in a long since departed New York bar called Brown Derby.
-  source: www.diffordsguide.com (969)
-ingredients: 
-- - "1"
-  - shot
-  - Bénédictine D.O.M.
-- - "1 1/2 "
-  - shot
-  - Boulard Grand Solage calvados
-- - " 1/4 "
-  - shot
-  - Cointreau triple sec
-- - " 1/2 "
-  - shot
-  - Freshly squeezed lemon juice
-- - " 1/2 "
-  - fresh
-  - Egg white
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: Honeymoon
-rate: 4.0
+comment: A romantic combination of apple, orange, lemon and herbs.
+aka: Farmer's Daughter
+variant: 
+origin: A 1930s classic created in a long since departed New York bar called Brown
+  Derby.
+source: www.diffordsguide.com (969)
+recipe_steps:
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Cointreau triple sec
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Freshly squeezed lemon juice
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Boulard Grand Solage calvados
+- amount: '1'
+  doze: shot
+  ingredient_name: Bénédictine D.O.M.
+- amount: ' 1/2 '
+  doze: fresh
+  ingredient_name: Egg white

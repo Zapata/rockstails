@@ -1,23 +1,26 @@
---- !ruby/object:DirtyCocktail 
+---
+name: The Broadmoor
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 4.5
 garnish: Flamed orange zest twist
 glass: Martini
-infos: 
-  Comment: Beautifully simple and seriously complex.
-  Origin: Created in 2001 by Swedish bartender  Andreas Noren at The Player, London, and popularised at Milk &amp; Honey, London, England. Named after the infamous British mental institution.
-  source: www.diffordsguide.com (324)
-ingredients: 
-- - "2"
-  - shot
-  - Johnnie Walker Scotch Whisky
-- - " 1/2 "
-  - shot
-  - Chartreuse Green liqueur
-- - " 1/2 "
-  - shot
-  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
-- - "4"
-  - dash
-  - Angostura orange bitters
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: The Broadmoor
-rate: 4.5
+comment: Beautifully simple and seriously complex.
+aka: 
+variant: 
+origin: Created in 2001 by Swedish bartender  Andreas Noren at The Player, London,
+  and popularised at Milk &amp; Honey, London, England. Named after the infamous British
+  mental institution.
+source: www.diffordsguide.com (324)
+recipe_steps:
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Chartreuse Green liqueur
+- amount: '4'
+  doze: dash
+  ingredient_name: Angostura orange bitters
+- amount: '2'
+  doze: shot
+  ingredient_name: Johnnie Walker Scotch Whisky

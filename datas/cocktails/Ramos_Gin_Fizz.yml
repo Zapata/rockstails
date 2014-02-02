@@ -1,38 +1,50 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Ramos Gin Fizz
+method: '1/ Flash BLEND first 8 ingredients without ice (to emulsify mix). Then pour
+  contents of blender into shaker and SHAKE with ice. Strain into chilled glass (no
+  ice in glass) and TOP with soda from siphon. ALTERNATIVELY: 2/ Vigorously DRY SHAKE
+  first eight ingredients until bored/tired. Add ice to shaker, SHAKE again and strain
+  into chilled glass (no ice). TOP with soda water from siphon.<br /><br />'
+rate: 5.0
 garnish: Half lemon wheel &amp; mint sprig
 glass: Collins
-infos: 
-  Comment: One of the great classic cocktails. The perfect balance of sweet and sour is enhanced by the incredibly smooth, almost fluffy mouth feel.<br /><br />
-  Origin: This was the secret recipe of Henry C. Ramos, who opened his Imperial Cabinet Bar in New Orleans in 1888. At the onset of Prohibition his brother, Charles Henry Ramos, published it in a full-page advertisement, and since 1935, the Roosevelt (now named the Fairmont) Hotel, New Orleans, has held the trademark on the name Ramos Gin Fizz.<br />    <br />To make a more traditional style of Ramos Gin Fizz try using full fat milk in place of cream and shake until bubbles disappear.<br /><br />
-  source: www.diffordsguide.com (1628)
-ingredients: 
-- - "2"
-  - shot
-  - Bombay London dry gin
-- - " 1/2 "
-  - shot
-  - Freshly squeezed lemon juice
-- - " 1/2 "
-  - shot
-  - Freshly squeezed lime juice
-- - " 3/4 "
-  - shot
-  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
-- - " 1/8 "
-  - shot
-  - Orange flower water
-- - "3"
-  - drop
-  - Vanilla extract
-- - "1"
-  - fresh
-  - Egg white
-- - "1"
-  - shot
-  - Double (heavy) cream
-- - "1"
-  - top up with
-  - Soda from siphon
-method: "1/ Flash BLEND first 8 ingredients without ice (to emulsify mix). Then pour contents of blender into shaker and SHAKE with ice. Strain into chilled glass (no ice in glass) and TOP with soda from siphon. ALTERNATIVELY: 2/ Vigorously DRY SHAKE first eight ingredients until bored/tired. Add ice to shaker, SHAKE again and strain into chilled glass (no ice). TOP with soda water from siphon.<br /><br />"
-name: Ramos Gin Fizz
-rate: 5.0
+comment: One of the great classic cocktails. The perfect balance of sweet and sour
+  is enhanced by the incredibly smooth, almost fluffy mouth feel.<br /><br />
+aka: 
+variant: 
+origin: This was the secret recipe of Henry C. Ramos, who opened his Imperial Cabinet
+  Bar in New Orleans in 1888. At the onset of Prohibition his brother, Charles Henry
+  Ramos, published it in a full-page advertisement, and since 1935, the Roosevelt
+  (now named the Fairmont) Hotel, New Orleans, has held the trademark on the name
+  Ramos Gin Fizz.<br />    <br />To make a more traditional style of Ramos Gin Fizz
+  try using full fat milk in place of cream and shake until bubbles disappear.<br
+  /><br />
+source: www.diffordsguide.com (1628)
+recipe_steps:
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Freshly squeezed lime juice
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Freshly squeezed lemon juice
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- amount: '2'
+  doze: shot
+  ingredient_name: Bombay London dry gin
+- amount: '1'
+  doze: shot
+  ingredient_name: Double (heavy) cream
+- amount: '1'
+  doze: fresh
+  ingredient_name: Egg white
+- amount: '3'
+  doze: drop
+  ingredient_name: Vanilla extract
+- amount: '1'
+  doze: top up with
+  ingredient_name: Soda from siphon
+- amount: ' 1/8 '
+  doze: shot
+  ingredient_name: Orange flower water

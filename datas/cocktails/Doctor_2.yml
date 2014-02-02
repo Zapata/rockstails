@@ -1,17 +1,18 @@
---- !ruby/object:DirtyCocktail 
+---
+name: 'Doctor #2'
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 4.5
 garnish: Lime zest twist
 glass: Martini
-infos: 
-  Comment: Lime combines wells with the aromatics spices in Swedish Punch.<br />
-  Origin: Vintage cocktail of unknown origin.
-  source: www.diffordsguide.com (2630)
-ingredients: 
-- - "2"
-  - shot
-  - Swedish Punch liqueur
-- - "1"
-  - shot
-  - Freshly squeezed lime juice
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: "Doctor #2"
-rate: 4.5
+comment: Lime combines wells with the aromatics spices in Swedish Punch.<br />
+aka: 
+variant: 
+origin: Vintage cocktail of unknown origin.
+source: www.diffordsguide.com (2630)
+recipe_steps:
+- amount: '1'
+  doze: shot
+  ingredient_name: Freshly squeezed lime juice
+- amount: '2'
+  doze: shot
+  ingredient_name: Swedish Punch liqueur

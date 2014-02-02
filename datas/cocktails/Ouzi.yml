@@ -1,22 +1,24 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Ouzi
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 3.5
 garnish: 
 glass: Shot
-infos: 
-  Comment: A lemon and liquorice shooter.
-  source: www.diffordsguide.com (1452)
-ingredients: 
-- - " 3/4 "
-  - shot
-  - Ketel One vodka
-- - " 1/2 "
-  - shot
-  - Ouzo 12
-- - " 1/4 "
-  - shot
-  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
-- - " 1/4 "
-  - shot
-  - Freshly squeezed lemon juice
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: Ouzi
-rate: 3.5
+comment: A lemon and liquorice shooter.
+aka: 
+variant: 
+origin: 
+source: www.diffordsguide.com (1452)
+recipe_steps:
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Ketel One vodka
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Freshly squeezed lemon juice
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Ouzo 12

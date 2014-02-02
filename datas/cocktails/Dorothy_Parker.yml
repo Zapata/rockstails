@@ -1,26 +1,29 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Dorothy Parker
+method: SHAKE first 4 ingredients with ice and fine strain into chilled glass. TOP
+  with champagne.
+rate: 3.5
 garnish: Sugar rim<br />
 glass: Martini
-infos: 
-  Comment: Light, fruity and easy to drink.
-  Origin: Discovered in 2007 at Town Hall, San Francisco, USA, and named for the wit and drinker.
-  source: www.diffordsguide.com (2632)
-ingredients: 
-- - "1 1/2 "
-  - shot
-  - Ketel One Citroen vodka
-- - " 1/2 "
-  - shot
-  - Cointreau triple sec
-- - " 1/4 "
-  - shot
-  - Chambord
-- - " 1/2 "
-  - shot
-  - Freshly squeezed lemon juice
-- - "1"
-  - top up with
-  - Perrier Jouet brut champagne
-method: SHAKE first 4 ingredients with ice and fine strain into chilled glass. TOP with champagne.
-name: Dorothy Parker
-rate: 3.5
+comment: Light, fruity and easy to drink.
+aka: 
+variant: 
+origin: Discovered in 2007 at Town Hall, San Francisco, USA, and named for the wit
+  and drinker.
+source: www.diffordsguide.com (2632)
+recipe_steps:
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Ketel One Citroen vodka
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Cointreau triple sec
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Freshly squeezed lemon juice
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Chambord
+- amount: '1'
+  doze: top up with
+  ingredient_name: Perrier Jouet brut champagne

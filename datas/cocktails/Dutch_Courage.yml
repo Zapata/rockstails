@@ -1,23 +1,24 @@
---- !ruby/object:DirtyCocktail 
-garnish: "<div style=\"text-align: left;\">Lemon slice</div>"
-glass: Collins
-infos: 
-  Comment: A refreshing alternative to a traditional England lemonade.
-  Origin: Created in 2002 by Alex Kammerling, London, England.
-  source: www.diffordsguide.com (682)
-ingredients: 
-- - "1"
-  - shot
-  - Bombay London dry gin
-- - "1"
-  - shot
-  - Bols advocaat liqueur
-- - " 3/4 "
-  - shot
-  - Freshly squeezed lemon juice
-- - "3"
-  - shot
-  - Pressed apple juice
-method: SHAKE all ingredients with ice and strain into ice-filled glass.
+---
 name: Dutch Courage
+method: SHAKE all ingredients with ice and strain into ice-filled glass.
 rate: 4.0
+garnish: '<div style="text-align: left;">Lemon slice</div>'
+glass: Collins
+comment: A refreshing alternative to a traditional England lemonade.
+aka: 
+variant: 
+origin: Created in 2002 by Alex Kammerling, London, England.
+source: www.diffordsguide.com (682)
+recipe_steps:
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Freshly squeezed lemon juice
+- amount: '3'
+  doze: shot
+  ingredient_name: Pressed apple juice
+- amount: '1'
+  doze: shot
+  ingredient_name: Bombay London dry gin
+- amount: '1'
+  doze: shot
+  ingredient_name: Bols advocaat liqueur

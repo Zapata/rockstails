@@ -1,20 +1,22 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Salty Dog
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 4.0
 garnish: Salt rim
 glass: Martini
-infos: 
-  Comment: For a more interesting drink, try basing this classic on gin rather than vodka.
-  Origin: Created in the 1960s.
-  source: www.diffordsguide.com (1735)
-ingredients: 
-- - "2"
-  - shot
-  - Ketel One vodka
-- - " 1/8 "
-  - shot
-  - Luxardo maraschino liqueur
-- - "2 1/4 "
-  - shot
-  - Freshly squeezed grapefruit juice
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: Salty Dog
-rate: 4.0
+comment: For a more interesting drink, try basing this classic on gin rather than
+  vodka.
+aka: 
+variant: 
+origin: Created in the 1960s.
+source: www.diffordsguide.com (1735)
+recipe_steps:
+- amount: '2'
+  doze: shot
+  ingredient_name: Ketel One vodka
+- amount: '2 1/4 '
+  doze: shot
+  ingredient_name: Freshly squeezed grapefruit juice
+- amount: ' 1/8 '
+  doze: shot
+  ingredient_name: Luxardo maraschino liqueur

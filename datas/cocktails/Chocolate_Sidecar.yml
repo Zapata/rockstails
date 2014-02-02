@@ -1,26 +1,27 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Chocolate Sidecar
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 4.0
 garnish: Wipe rim with cacao liqueur &amp; dust with cocoa powder
 glass: Martini
-infos: 
-  Comment: <br _moz_editor_bogus_node="TRUE" />
-  Origin: Created in 2005 by Wayne Collins for Maxxium UK.
-  source: www.diffordsguide.com (431)
-ingredients: 
-- - "1"
-  - shot
-  - Courvoisier V.S.O.P cognac
-- - "1"
-  - shot
-  - "Brown cr\xE8me de cacao liqueur"
-- - "1"
-  - shot
-  - Warre's Otima tawny port
-- - "1"
-  - shot
-  - Freshly squeezed lime juice
-- - " 1/2 "
-  - shot
-  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: Chocolate Sidecar
-rate: 4.0
+comment: <br _moz_editor_bogus_node="TRUE" />
+aka: 
+variant: 
+origin: Created in 2005 by Wayne Collins for Maxxium UK.
+source: www.diffordsguide.com (431)
+recipe_steps:
+- amount: '1'
+  doze: shot
+  ingredient_name: Freshly squeezed lime juice
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- amount: '1'
+  doze: shot
+  ingredient_name: Brown crème de cacao liqueur
+- amount: '1'
+  doze: shot
+  ingredient_name: Courvoisier V.S.O.P cognac
+- amount: '1'
+  doze: shot
+  ingredient_name: Warre's Otima tawny port

@@ -1,31 +1,33 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Caribbean Punch
+method: SHAKE all ingredients with ice and strain into glass filled with crushed ice.
+rate: 4.0
 garnish: None
 glass: Collins
-infos: 
-  Comment: Red in colour and innocent looking, this flavoursome drink sure packs a punch.
-  source: www.diffordsguide.com (378)
-ingredients: 
-- - "2 1/4 "
-  - shot
-  - Wray & Nephew overproof rum
-- - " 1/2 "
-  - shot
-  - Luxardo Amaretto di Saschira
-- - " 1/2 "
-  - shot
-  - Malibu coconut rum liqueur
-- - " 1/4 "
-  - shot
-  - Galliano L'Autentico liqueur
-- - " 3/4 "
-  - shot
-  - Freshly squeezed lemon juice
-- - "3"
-  - shot
-  - Fresh pressed pineapple juice
-- - " 1/4 "
-  - shot
-  - Pomegranate (grenadine) syrup
-method: SHAKE all ingredients with ice and strain into glass filled with crushed ice.
-name: Caribbean Punch
-rate: 4.0
+comment: Red in colour and innocent looking, this flavoursome drink sure packs a punch.
+aka: 
+variant: 
+origin: 
+source: www.diffordsguide.com (378)
+recipe_steps:
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Freshly squeezed lemon juice
+- amount: '3'
+  doze: shot
+  ingredient_name: Fresh pressed pineapple juice
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Galliano L'Autentico liqueur
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Pomegranate (grenadine) syrup
+- amount: '2 1/4 '
+  doze: shot
+  ingredient_name: Wray & Nephew overproof rum
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Malibu coconut rum liqueur
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Luxardo Amaretto di Saschira

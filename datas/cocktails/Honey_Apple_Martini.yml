@@ -1,23 +1,24 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Honey Apple Martini
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 4.0
 garnish: Lemon zest twist
 glass: Martini
-infos: 
-  Comment: A classically Polish blend of flavours.
-  source: www.diffordsguide.com (961)
-  Variant: Polish Martini
-ingredients: 
-- - "1 1/2 "
-  - shot
-  - Zubrwka bison vodka
-- - " 3/4 "
-  - shot
-  - Krupnik spiced honey liqueur
-- - "1 1/4 "
-  - shot
-  - Pressed apple juice
-- - " 1/4 "
-  - shot
-  - Freshly squeezed lemon juice
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: Honey Apple Martini
-rate: 4.0
+comment: A classically Polish blend of flavours.
+aka: 
+variant: Polish Martini
+origin: 
+source: www.diffordsguide.com (961)
+recipe_steps:
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Freshly squeezed lemon juice
+- amount: '1 1/4 '
+  doze: shot
+  ingredient_name: Pressed apple juice
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Zubrwka bison vodka
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Krupnik spiced honey liqueur

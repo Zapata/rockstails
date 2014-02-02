@@ -1,23 +1,25 @@
---- !ruby/object:DirtyCocktail 
+---
+name: 'Tipperary #1'
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 4.5
 garnish: Cherries on stick
 glass: Martini
-infos: 
-  Comment: Chartreuse fans will love this serious drink. The uninitiated will hate it.
-  Origin: Adapted from a recipe in Harry Craddock's 1930 Savoy Cocktail Book, which called for equal parts.
-  source: www.diffordsguide.com (1958)
-ingredients: 
-- - "2"
-  - shot
-  - Jameson Irish whiskey
-- - " 1/2 "
-  - shot
-  - Chartreuse Green liqueur
-- - "1"
-  - shot
-  - Martini Rosso sweet vermouth
-- - " 1/2 "
-  - shot
-  - Chilled mineral water
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: "Tipperary #1"
-rate: 4.5
+comment: Chartreuse fans will love this serious drink. The uninitiated will hate it.
+aka: 
+variant: 
+origin: Adapted from a recipe in Harry Craddock's 1930 Savoy Cocktail Book, which
+  called for equal parts.
+source: www.diffordsguide.com (1958)
+recipe_steps:
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Chartreuse Green liqueur
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Chilled mineral water
+- amount: '1'
+  doze: shot
+  ingredient_name: Martini Rosso sweet vermouth
+- amount: '2'
+  doze: shot
+  ingredient_name: Jameson Irish whiskey

@@ -1,20 +1,21 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Vanilla Margarita
+method: SHAKE all ingredients with ice and fine strain into ice-filled chilled glass.
+rate: 4.0
 garnish: Lime wedge
 glass: Old-fashioned
-infos: 
-  Comment: A classic Margarita with a hint of vanilla.
-  Origin: I first discovered this drink in 1998 at Caf Pacifico, London, England.
-  source: www.diffordsguide.com (2030)
-ingredients: 
-- - "2"
-  - shot
-  - Vanilla-infused Don Julio tequila
-- - "1"
-  - shot
-  - Cointreau triple sec
-- - "1"
-  - shot
-  - Freshly squeezed lemon juice
-method: SHAKE all ingredients with ice and fine strain into ice-filled chilled glass.
-name: Vanilla Margarita
-rate: 4.0
+comment: A classic Margarita with a hint of vanilla.
+aka: 
+variant: 
+origin: I first discovered this drink in 1998 at Caf Pacifico, London, England.
+source: www.diffordsguide.com (2030)
+recipe_steps:
+- amount: '1'
+  doze: shot
+  ingredient_name: Cointreau triple sec
+- amount: '1'
+  doze: shot
+  ingredient_name: Freshly squeezed lemon juice
+- amount: '2'
+  doze: shot
+  ingredient_name: Vanilla-infused Don Julio tequila

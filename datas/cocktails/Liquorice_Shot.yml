@@ -1,19 +1,21 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Liquorice Shot
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 3.5
 garnish: 
 glass: Shot
-infos: 
-  Comment: For liquorice fans.
-  source: www.diffordsguide.com (1176)
-ingredients: 
-- - " 1/2 "
-  - shot
-  - Ketel One vodka
-- - " 1/2 "
-  - shot
-  - Luxardo sambuca dei cesari
-- - " 1/2 "
-  - shot
-  - "Cr\xE8me de cassis liqueur"
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: Liquorice Shot
-rate: 3.5
+comment: For liquorice fans.
+aka: 
+variant: 
+origin: 
+source: www.diffordsguide.com (1176)
+recipe_steps:
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Ketel One vodka
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Crème de cassis liqueur
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Luxardo sambuca dei cesari

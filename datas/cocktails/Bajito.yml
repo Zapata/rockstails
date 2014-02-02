@@ -1,26 +1,30 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Bajito
+method: Lightly MUDDLE mint and basil in glass just enough to bruise. Add rum, sugar
+  and lime juice. Half fill glass with crushed ice and CHURN (stir) with bar spoon.
+  Add more crushed ice and CHURN some more. Continue adding crushed ice and churning
+  until glass is full.
+rate: 4.5
 garnish: Mint sprig
 glass: Collins
-infos: 
-  Comment: Basically a Mojito with basil as well as mint.
-  Origin: Discovered in 2004 at Excelsior Bar, Boston, USA.
-  source: www.diffordsguide.com (148)
-ingredients: 
-- - "6"
-  - fresh
-  - Mint leaves
-- - "6"
-  - fresh
-  - Torn basil leaves
-- - "2"
-  - shot
-  - Bacardi Superior rum
-- - "1"
-  - shot
-  - Freshly squeezed lime juice
-- - " 1/4 "
-  - shot
-  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
-method: Lightly MUDDLE mint and basil in glass just enough to bruise. Add rum, sugar and lime juice. Half fill glass with crushed ice and CHURN (stir) with bar spoon. Add more crushed ice and CHURN some more. Continue adding crushed ice and churning until glass is full.
-name: Bajito
-rate: 4.5
+comment: Basically a Mojito with basil as well as mint.
+aka: 
+variant: 
+origin: Discovered in 2004 at Excelsior Bar, Boston, USA.
+source: www.diffordsguide.com (148)
+recipe_steps:
+- amount: '1'
+  doze: shot
+  ingredient_name: Freshly squeezed lime juice
+- amount: '6'
+  doze: fresh
+  ingredient_name: Mint leaves
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- amount: '2'
+  doze: shot
+  ingredient_name: Bacardi Superior rum
+- amount: '6'
+  doze: fresh
+  ingredient_name: Torn basil leaves

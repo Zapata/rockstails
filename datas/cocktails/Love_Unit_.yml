@@ -1,32 +1,35 @@
---- !ruby/object:DirtyCocktail 
+---
+name: 'Love Unit '
+method: MUDDLE pepper in base of shaker. Add other ingredients, SHAKE with ice and
+  fine strain into chilled glass.<br /><br />
+rate: 4.5
 garnish: Red bell pepper ring &amp; basil sprig
 glass: Martini
-infos: 
-  Comment: Delicate, complex and balanced with enough fruit and veg to make your five-a-day.<br /><br /><br _moz_editor_bogus_node="TRUE" />
-  Origin: Created by Ryan Magarian, Seattle, USA.
-  source: www.diffordsguide.com (2477)
-ingredients: 
-- - "2"
-  - slice
-  - Red bell pepper
-- - "7"
-  - fresh
-  - Torn basil leaves
-- - "1"
-  - shot
-  - Bacardi Superior rum
-- - "1"
-  - shot
-  - Vanilla-infused Bacardi rum
-- - " 3/4 "
-  - shot
-  - Freshly squeezed lime juice
-- - " 1/2 "
-  - shot
-  - Freshly squeezed grapefruit juice
-- - " 1/2 "
-  - shot
-  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
-method: MUDDLE pepper in base of shaker. Add other ingredients, SHAKE with ice and fine strain into chilled glass.<br /><br />
-name: "Love Unit "
-rate: 4.5
+comment: Delicate, complex and balanced with enough fruit and veg to make your five-a-day.<br
+  /><br /><br _moz_editor_bogus_node="TRUE" />
+aka: 
+variant: 
+origin: Created by Ryan Magarian, Seattle, USA.
+source: www.diffordsguide.com (2477)
+recipe_steps:
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Freshly squeezed lime juice
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- amount: '1'
+  doze: shot
+  ingredient_name: Bacardi Superior rum
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Freshly squeezed grapefruit juice
+- amount: '1'
+  doze: shot
+  ingredient_name: Vanilla-infused Bacardi rum
+- amount: '7'
+  doze: fresh
+  ingredient_name: Torn basil leaves
+- amount: '2'
+  doze: slice
+  ingredient_name: Red bell pepper

@@ -1,23 +1,24 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Crimson Blush
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 4.0
 garnish: Berries
 glass: Martini
-infos: 
-  Comment: Well balanced, fruity sweet and sour.
-  Origin: Created in 2004 by Jonathan Lamm at The Admirable Crichton, London, England.
-  source: www.diffordsguide.com (491)
-ingredients: 
-- - "2"
-  - shot
-  - Ketel One Citroen vodka
-- - " 1/2 "
-  - shot
-  - Chambord
-- - "2"
-  - shot
-  - Freshly squeezed grapefruit juice
-- - " 1/4 "
-  - shot
-  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: Crimson Blush
-rate: 4.0
+comment: Well balanced, fruity sweet and sour.
+aka: 
+variant: 
+origin: Created in 2004 by Jonathan Lamm at The Admirable Crichton, London, England.
+source: www.diffordsguide.com (491)
+recipe_steps:
+- amount: '2'
+  doze: shot
+  ingredient_name: Ketel One Citroen vodka
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Chambord
+- amount: '2'
+  doze: shot
+  ingredient_name: Freshly squeezed grapefruit juice

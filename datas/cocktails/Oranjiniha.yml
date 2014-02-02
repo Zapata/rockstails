@@ -1,23 +1,24 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Oranjiniha
+method: SHAKE all ingredients with ice and strain into glass filled with crushed ice.
+rate: 3.5
 garnish: Orange slice in rim
 glass: Collins
-infos: 
-  Comment: A tall, richly flavoured orange drink.
-  Origin: Created in 2002 by Alex Kammerling, London, England.
-  source: www.diffordsguide.com (1447)
-ingredients: 
-- - "2"
-  - shot
-  - Orange-infused Ketel One vodka
-- - "2 1/2 "
-  - shot
-  - Freshly squeezed orange juice
-- - "1"
-  - shot
-  - Freshly squeezed lemon juice
-- - " 1/2 "
-  - shot
-  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
-method: SHAKE all ingredients with ice and strain into glass filled with crushed ice.
-name: Oranjiniha
-rate: 3.5
+comment: A tall, richly flavoured orange drink.
+aka: 
+variant: 
+origin: Created in 2002 by Alex Kammerling, London, England.
+source: www.diffordsguide.com (1447)
+recipe_steps:
+- amount: '1'
+  doze: shot
+  ingredient_name: Freshly squeezed lemon juice
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- amount: '2 1/2 '
+  doze: shot
+  ingredient_name: Freshly squeezed orange juice
+- amount: '2'
+  doze: shot
+  ingredient_name: Orange-infused Ketel One vodka

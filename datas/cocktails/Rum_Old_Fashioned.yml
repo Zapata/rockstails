@@ -1,23 +1,26 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Rum Old Fashioned
+method: STIR rum with two ice cubes in a glass. ADD sugar, falernum and Angostura
+  and two more ice cubes. STIR lots more and add more ice.<br />
+rate: 5.0
 garnish: Orange zest twist<br />
 glass: Old-fashioned
-infos: 
-  Comment: The flavour of the overproof rum greatly adds to the character of this old fashioned.<br />
-  Origin: Created in 2009 by Goncalo de Sousa Monteiro, Berlin, Germany.<br />
-  source: www.diffordsguide.com (2845)
-ingredients: 
-- - "2"
-  - shot
-  - Zacapa aged rum
-- - " 1/2 "
-  - shot
-  - Wray & Nephew overproof rum
-- - " 1/4 "
-  - shot
-  - Velvet Falernum liqueur
-- - "1"
-  - dash
-  - Angostura aromatic bitters
-method: STIR rum with two ice cubes in a glass. ADD sugar, falernum and Angostura and two more ice cubes. STIR lots more and add more ice.<br />
-name: Rum Old Fashioned
-rate: 5.0
+comment: The flavour of the overproof rum greatly adds to the character of this old
+  fashioned.<br />
+aka: 
+variant: 
+origin: Created in 2009 by Goncalo de Sousa Monteiro, Berlin, Germany.<br />
+source: www.diffordsguide.com (2845)
+recipe_steps:
+- amount: '1'
+  doze: dash
+  ingredient_name: Angostura aromatic bitters
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Wray & Nephew overproof rum
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Velvet Falernum liqueur
+- amount: '2'
+  doze: shot
+  ingredient_name: Zacapa aged rum

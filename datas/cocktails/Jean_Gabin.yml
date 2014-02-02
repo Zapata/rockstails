@@ -1,23 +1,25 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Jean Gabin
+method: POUR first 3 ingredients into glass. Add maple syrup and STIR until maple
+  syrup dissolves.
+rate: 4.0
 garnish: Dust with freshly grated nutmeg.
 glass: Toddy
-infos: 
-  Comment: Beats hot chocolate as a nightcap.
-  Origin: Created in 1986 by Charles Schumann, Munich, Germany.
-  source: www.diffordsguide.com (1060)
-ingredients: 
-- - "1 1/2 "
-  - shot
-  - Gosling's Black Seal rum
-- - " 3/4 "
-  - shot
-  - Boulard Grand Solage calvados
-- - "5"
-  - shot
-  - Milk
-- - "1"
-  - spoon
-  - Maple syrup
-method: POUR first 3 ingredients into glass. Add maple syrup and STIR until maple syrup dissolves.
-name: Jean Gabin
-rate: 4.0
+comment: Beats hot chocolate as a nightcap.
+aka: 
+variant: 
+origin: Created in 1986 by Charles Schumann, Munich, Germany.
+source: www.diffordsguide.com (1060)
+recipe_steps:
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Boulard Grand Solage calvados
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Gosling's Black Seal rum
+- amount: '5'
+  doze: shot
+  ingredient_name: Milk
+- amount: '1'
+  doze: spoon
+  ingredient_name: Maple syrup

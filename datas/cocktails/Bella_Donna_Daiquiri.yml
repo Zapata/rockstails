@@ -1,26 +1,28 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Bella Donna Daiquiri
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 4.5
 garnish: Wipe rim with lemon &amp; dust with cinnamon powder
 glass: Martini
-infos: 
-  Comment: This was the hit cocktail for diffordsguide staff at the Bellagio, Las Vegas, after working at the Nightclub &amp; Bar Beverage Convention. Try one and see why.
-  Origin: Adapted from a drink discovered in 2003 at Bellagio, Las Vegas, USA.
-  source: www.diffordsguide.com (200)
-ingredients: 
-- - "1 1/2 "
-  - shot
-  - Gosling's Black Seal rum
-- - "1 1/2 "
-  - shot
-  - Luxardo Amaretto di Saschira
-- - " 1/2 "
-  - shot
-  - Freshly squeezed lemon juice
-- - " 1/4 "
-  - shot
-  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
-- - " 1/2 "
-  - shot
-  - Chilled mineral water
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: Bella Donna Daiquiri
-rate: 4.5
+comment: This was the hit cocktail for diffordsguide staff at the Bellagio, Las Vegas,
+  after working at the Nightclub &amp; Bar Beverage Convention. Try one and see why.
+aka: 
+variant: 
+origin: Adapted from a drink discovered in 2003 at Bellagio, Las Vegas, USA.
+source: www.diffordsguide.com (200)
+recipe_steps:
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Freshly squeezed lemon juice
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Chilled mineral water
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Gosling's Black Seal rum
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Luxardo Amaretto di Saschira

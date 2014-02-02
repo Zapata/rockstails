@@ -1,29 +1,31 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Improved Holland Gin Cocktail
+method: STIR all ingredients with ice and strain into chilled glass.<br />
+rate: 4.0
 garnish: Lemon zest twist<br />
 glass: Coupette
-infos: 
-  Comment: Salmon-pink with subtle juniper, rounded by maraschino liqueur, Angostura bitters and absinthe.
-  Origin: <br _moz_editor_bogus_node="TRUE" />
-  source: www.diffordsguide.com (2879)
-ingredients: 
-- - "2"
-  - shot
-  - Bokma oude genever
-- - " 1/4 "
-  - shot
-  - Luxardo maraschino liqueur
-- - "2"
-  - dash
-  - Angostura aromatic bitters
-- - " 1/4 "
-  - spoon
-  - "La F\xE9e Parisienne (68%) absinthe"
-- - " 1/2 "
-  - spoon
-  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
-- - " 1/2 "
-  - shot
-  - Chilled mineral water
-method: STIR all ingredients with ice and strain into chilled glass.<br />
-name: Improved Holland Gin Cocktail
-rate: 4.0
+comment: Salmon-pink with subtle juniper, rounded by maraschino liqueur, Angostura
+  bitters and absinthe.
+aka: 
+variant: 
+origin: <br _moz_editor_bogus_node="TRUE" />
+source: www.diffordsguide.com (2879)
+recipe_steps:
+- amount: ' 1/4 '
+  doze: spoon
+  ingredient_name: La Fée Parisienne (68%) absinthe
+- amount: ' 1/2 '
+  doze: spoon
+  ingredient_name: Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Chilled mineral water
+- amount: '2'
+  doze: dash
+  ingredient_name: Angostura aromatic bitters
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Luxardo maraschino liqueur
+- amount: '2'
+  doze: shot
+  ingredient_name: Bokma oude genever

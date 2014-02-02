@@ -1,26 +1,28 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Lago Cosmo
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 3.5
 garnish: Orange zest twist
 glass: Martini
-infos: 
-  Comment: A Cosmo with cranberry vodka in place of citrus vodka and orange juice in place of cranberry juice.
-  Origin: Discovered in 2003 at Nectar @ Bellagio, Las Vegas, USA.
-  source: www.diffordsguide.com (1131)
-ingredients: 
-- - "1 1/2 "
-  - shot
-  - Cranberry flavoured vodka
-- - " 3/4 "
-  - shot
-  - Cointreau triple sec
-- - "1 3/4 "
-  - shot
-  - Freshly squeezed orange juice
-- - " 1/4 "
-  - shot
-  - Freshly squeezed lime juice
-- - " 1/2 "
-  - shot
-  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: Lago Cosmo
-rate: 3.5
+comment: A Cosmo with cranberry vodka in place of citrus vodka and orange juice in
+  place of cranberry juice.
+aka: 
+variant: 
+origin: Discovered in 2003 at Nectar @ Bellagio, Las Vegas, USA.
+source: www.diffordsguide.com (1131)
+recipe_steps:
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Cointreau triple sec
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Freshly squeezed lime juice
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- amount: '1 3/4 '
+  doze: shot
+  ingredient_name: Freshly squeezed orange juice
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Cranberry flavoured vodka

@@ -1,23 +1,27 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Warsaw Pact
+method: SHAKE all ingredients with ice and fine strain into chilled glass.<br /><br
+  />
+rate: 4.0
 garnish: Float mint leaf<br />
 glass: Martini
-infos: 
-  Comment: Fruit and mint flavours combine in this beautifully balanced complex yet easy cocktail.<br /><br />
-  Origin: Adapted from a drink discovered in 2007 at Paparazzi, Warsaw, Poland.<br /><br />
-  source: www.diffordsguide.com (2603)
-ingredients: 
-- - "5"
-  - fresh
-  - Mint leaves
-- - "2"
-  - shot
-  - Zubrwka bison vodka
-- - " 1/2 "
-  - shot
-  - Luxardo Amaretto di Saschira
-- - "1 1/2 "
-  - shot
-  - Pressed apple juice
-method: SHAKE all ingredients with ice and fine strain into chilled glass.<br /><br />
-name: Warsaw Pact
-rate: 4.0
+comment: Fruit and mint flavours combine in this beautifully balanced complex yet
+  easy cocktail.<br /><br />
+aka: 
+variant: 
+origin: Adapted from a drink discovered in 2007 at Paparazzi, Warsaw, Poland.<br /><br
+  />
+source: www.diffordsguide.com (2603)
+recipe_steps:
+- amount: '5'
+  doze: fresh
+  ingredient_name: Mint leaves
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Pressed apple juice
+- amount: '2'
+  doze: shot
+  ingredient_name: Zubrwka bison vodka
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Luxardo Amaretto di Saschira

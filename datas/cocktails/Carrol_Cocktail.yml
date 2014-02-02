@@ -1,17 +1,19 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Carrol Cocktail
+method: STIR all ingredients with ice and strain into chilled glass.
+rate: 3.5
 garnish: Pickled walnut or onion
 glass: Martini
-infos: 
-  Comment: Aromatic wine and cognac - dry yet easy.
-  Origin: Adapted form Victor Bergeron's 'Trader Vic's Bartender's Guide' (1972 revised edition).
-  source: www.diffordsguide.com (574)
-ingredients: 
-- - "2"
-  - shot
-  - Courvoisier V.S.O.P cognac
-- - "1"
-  - shot
-  - Martini Rosso sweet vermouth
-method: STIR all ingredients with ice and strain into chilled glass.
-name: Carrol Cocktail
-rate: 3.5
+comment: Aromatic wine and cognac - dry yet easy.
+aka: 
+variant: 
+origin: Adapted form Victor Bergeron's 'Trader Vic's Bartender's Guide' (1972 revised
+  edition).
+source: www.diffordsguide.com (574)
+recipe_steps:
+- amount: '1'
+  doze: shot
+  ingredient_name: Martini Rosso sweet vermouth
+- amount: '2'
+  doze: shot
+  ingredient_name: Courvoisier V.S.O.P cognac

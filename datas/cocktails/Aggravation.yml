@@ -1,25 +1,27 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Aggravation
+method: SHAKE all ingredients with ice and strain into ice-filled glass.
+rate: 4.0
 garnish: Dust with freshly grated nutmeg
 glass: Old-fashioned
-infos: 
-  Comment: If you like Scotch and enjoy creamy drinks, you'll love this.
-  source: www.diffordsguide.com (26)
-ingredients: 
-- - "2"
-  - shot
-  - Johnnie Walker Scotch Whisky
-- - " 3/4 "
-  - shot
-  - Kahla coffee liqueur
-- - " 3/4 "
-  - shot
-  - Double (heavy) cream
-- - " 3/4 "
-  - shot
-  - Milk
-- - " 1/4 "
-  - shot
-  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
-method: SHAKE all ingredients with ice and strain into ice-filled glass.
-name: Aggravation
-rate: 4.0
+comment: If you like Scotch and enjoy creamy drinks, you'll love this.
+aka: 
+variant: 
+origin: 
+source: www.diffordsguide.com (26)
+recipe_steps:
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Double (heavy) cream
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Milk
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Kahla coffee liqueur
+- amount: '2'
+  doze: shot
+  ingredient_name: Johnnie Walker Scotch Whisky

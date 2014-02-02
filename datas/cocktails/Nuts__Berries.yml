@@ -1,26 +1,28 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Nuts & Berries
+method: STIR all ingredients with ice and strain into chilled glass.
+rate: 4.0
 garnish: Float raspberry and almond flake
 glass: Martini
-infos: 
-  Comment: The inclusion of a carbonate (lemonade) may annoy some classical bartenders but it adds flavour, sweetness and dilution.
-  Origin: Created in 2004 by yours truly.
-  source: www.diffordsguide.com (1416)
-ingredients: 
-- - "1"
-  - shot
-  - Raspberry flavoured vodka
-- - "1"
-  - shot
-  - Ketel One vodka
-- - " 1/4 "
-  - shot
-  - Hazelnut liqueur
-- - " 1/4 "
-  - shot
-  - Chambord
-- - "1"
-  - shot
-  - Lemonade/Sprite/7-Up
-method: STIR all ingredients with ice and strain into chilled glass.
-name: Nuts & Berries
-rate: 4.0
+comment: The inclusion of a carbonate (lemonade) may annoy some classical bartenders
+  but it adds flavour, sweetness and dilution.
+aka: 
+variant: 
+origin: Created in 2004 by yours truly.
+source: www.diffordsguide.com (1416)
+recipe_steps:
+- amount: '1'
+  doze: shot
+  ingredient_name: Lemonade/Sprite/7-Up
+- amount: '1'
+  doze: shot
+  ingredient_name: Raspberry flavoured vodka
+- amount: '1'
+  doze: shot
+  ingredient_name: Ketel One vodka
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Chambord
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Hazelnut liqueur

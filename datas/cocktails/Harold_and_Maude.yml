@@ -1,26 +1,28 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Harold and Maude
+method: SHAKE all ingredients with ice and fine strain into ice-filled glass.<br />
+rate: 4.5
 garnish: Orange zest twist<br />
 glass: Coupette
-infos: 
-  Comment: Balanced, complex and very, very serious.
-  Origin: Adapted from a drink created in 2009 by Chase Mallen at Raines Lay Rooms, New York City, USA.<br />
-  source: www.diffordsguide.com (2806)
-ingredients: 
-- - "1"
-  - shot
-  - Johnnie Walker Scotch Whisky
-- - "1"
-  - shot
-  - Zacapa aged rum
-- - " 1/2 "
-  - shot
-  - Freshly squeezed lemon juice
-- - " 1/4 "
-  - shot
-  - Rose syrup
-- - " 1/8 "
-  - shot
-  - Monin Lavender sugar syrup
-method: SHAKE all ingredients with ice and fine strain into ice-filled glass.<br />
-name: Harold and Maude
-rate: 4.5
+comment: Balanced, complex and very, very serious.
+aka: 
+variant: 
+origin: Adapted from a drink created in 2009 by Chase Mallen at Raines Lay Rooms,
+  New York City, USA.<br />
+source: www.diffordsguide.com (2806)
+recipe_steps:
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Freshly squeezed lemon juice
+- amount: '1'
+  doze: shot
+  ingredient_name: Johnnie Walker Scotch Whisky
+- amount: '1'
+  doze: shot
+  ingredient_name: Zacapa aged rum
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Rose syrup
+- amount: ' 1/8 '
+  doze: shot
+  ingredient_name: Monin Lavender sugar syrup

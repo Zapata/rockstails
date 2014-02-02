@@ -1,23 +1,25 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Santiago Daiquiri
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 5.0
 garnish: Maraschino cherry
 glass: Martini
-infos: 
-  Comment: This Daiquiri is particularly delicate in its balance between sweet and sour.
-  Origin: Adapted from a recipe in Harry Craddock's 1930 'The Savoy Cocktail Book'. Made with Barcardi rum this becomes the Barcardi Cocktail.
-  source: www.diffordsguide.com (1746)
-ingredients: 
-- - "2"
-  - shot
-  - Bacardi Superior rum
-- - "1"
-  - shot
-  - Freshly squeezed lemon juice
-- - " 1/2 "
-  - shot
-  - Pomegranate (grenadine) syrup
-- - " 1/2 "
-  - shot
-  - Chilled mineral water
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: Santiago Daiquiri
-rate: 5.0
+comment: This Daiquiri is particularly delicate in its balance between sweet and sour.
+aka: 
+variant: 
+origin: Adapted from a recipe in Harry Craddock's 1930 'The Savoy Cocktail Book'.
+  Made with Barcardi rum this becomes the Barcardi Cocktail.
+source: www.diffordsguide.com (1746)
+recipe_steps:
+- amount: '1'
+  doze: shot
+  ingredient_name: Freshly squeezed lemon juice
+- amount: '2'
+  doze: shot
+  ingredient_name: Bacardi Superior rum
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Chilled mineral water
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Pomegranate (grenadine) syrup

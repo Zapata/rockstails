@@ -1,23 +1,24 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Pharmaceutical Stimulant
+method: SHAKE all ingredients with ice and strain into ice-filled glass.
+rate: 4.0
 garnish: Float three coffee beans
 glass: Medical cup or Old-fashioned
-infos: 
-  Comment: A real wake-up call and the drink that lead to many an Espresso Martini.
-  Origin: Created in 1998 by Dick Bradsell at The Pharmacy, London, England.
-  source: www.diffordsguide.com (1516)
-ingredients: 
-- - "2"
-  - shot
-  - Ketel One vodka
-- - " 1/2 "
-  - shot
-  - Kahla coffee liqueur
-- - " 1/4 "
-  - shot
-  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
-- - "1 1/2 "
-  - shot
-  - Hot espresso coffee
-method: SHAKE all ingredients with ice and strain into ice-filled glass.
-name: Pharmaceutical Stimulant
-rate: 4.0
+comment: A real wake-up call and the drink that lead to many an Espresso Martini.
+aka: 
+variant: 
+origin: Created in 1998 by Dick Bradsell at The Pharmacy, London, England.
+source: www.diffordsguide.com (1516)
+recipe_steps:
+- amount: '2'
+  doze: shot
+  ingredient_name: Ketel One vodka
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Kahla coffee liqueur
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Hot espresso coffee

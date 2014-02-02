@@ -1,24 +1,25 @@
---- !ruby/object:DirtyCocktail 
+---
+name: 'Bee''s Knees #2'
+method: In base of shaker STIR honey with gin until honey dissolves. Add lemon and
+  orange juice, SHAKE with ice and fine strain into chilled glass.
+rate: 4.5
 garnish: Orange zest twist
 glass: Martini
-infos: 
-  Comment: This honeyed citrus concoction really is the bee's knees.
-  Origin: Adapted from David Embury's 1948 'The Fine Art Of Mixing Drinks'.
-  Variant: Made with light rum in place of gin this drink becomes a Honeysuckle Martini.
-  source: www.diffordsguide.com (196)
-ingredients: 
-- - "2"
-  - shot
-  - Bombay London dry gin
-- - "3"
-  - spoon
-  - Runny honey
-- - "1"
-  - shot
-  - Freshly squeezed lemon juice
-- - "1"
-  - shot
-  - Freshly squeezed orange juice
-method: In base of shaker STIR honey with gin until honey dissolves. Add lemon and orange juice, SHAKE with ice and fine strain into chilled glass.
-name: "Bee's Knees #2"
-rate: 4.5
+comment: This honeyed citrus concoction really is the bee's knees.
+aka: 
+variant: Made with light rum in place of gin this drink becomes a Honeysuckle Martini.
+origin: Adapted from David Embury's 1948 'The Fine Art Of Mixing Drinks'.
+source: www.diffordsguide.com (196)
+recipe_steps:
+- amount: '1'
+  doze: shot
+  ingredient_name: Freshly squeezed lemon juice
+- amount: '1'
+  doze: shot
+  ingredient_name: Freshly squeezed orange juice
+- amount: '2'
+  doze: shot
+  ingredient_name: Bombay London dry gin
+- amount: '3'
+  doze: spoon
+  ingredient_name: Runny honey

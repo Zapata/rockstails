@@ -1,19 +1,21 @@
---- !ruby/object:DirtyCocktail 
-garnish: SHAKE all ingredients with ice and fine strain into chilled glass.
-glass: Shot
-infos: 
-  Comment: A well balanced, creamy shot with hints of butterscotch and cinnamon.
-  source: www.diffordsguide.com (1421)
-ingredients: 
-- - " 1/2 "
-  - shot
-  - Teichenn butterscotch schnapps
-- - " 3/4 "
-  - shot
-  - Baileys Irish cream liqueur
-- - " 1/4 "
-  - shot
-  - Goldschlager cinnamon schnapps
-method: 
+---
 name: Oatmeal Cookie
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
 rate: 3.5
+garnish: 
+glass: Shot
+comment: A well balanced, creamy shot with hints of butterscotch and cinnamon.
+aka: 
+variant: 
+origin: 
+source: www.diffordsguide.com (1421)
+recipe_steps:
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Baileys Irish cream liqueur
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Teichenn butterscotch schnapps
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Goldschlager cinnamon schnapps

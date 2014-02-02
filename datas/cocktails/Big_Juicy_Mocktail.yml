@@ -1,29 +1,32 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Big Juicy (Mocktail)
+method: SHAKE first five ingredients with ice and strain into ice-filled glass. TOP
+  with soda, stir and serve with straws.
+rate: 3.5
 garnish: Lime wedge<br />
 glass: Collins
-infos: 
-  Comment: Everything about this drink is juicy, even its creator. A tasty way to top up your vitamin C levels.
-  Origin: Created in 2006 by Jose 'Juice' Miranda at Wd-50, New York City, USA.
-  source: www.diffordsguide.com (2294)
-ingredients: 
-- - "2 1/2 "
-  - shot
-  - Ocean Spray cranberry juice
-- - "1 1/2 "
-  - shot
-  - Fresh pressed pineapple juice
-- - "1"
-  - shot
-  - Freshly squeezed lime juice
-- - " 1/4 "
-  - shot
-  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
-- - " 1/4 "
-  - shot
-  - Pomegranate (grenadine) syrup
-- - "1"
-  - top up with
-  - Soda (club soda)
-method: SHAKE first five ingredients with ice and strain into ice-filled glass. TOP with soda, stir and serve with straws.
-name: Big Juicy (Mocktail)
-rate: 3.5
+comment: Everything about this drink is juicy, even its creator. A tasty way to top
+  up your vitamin C levels.
+aka: 
+variant: 
+origin: Created in 2006 by Jose 'Juice' Miranda at Wd-50, New York City, USA.
+source: www.diffordsguide.com (2294)
+recipe_steps:
+- amount: '2 1/2 '
+  doze: shot
+  ingredient_name: Ocean Spray cranberry juice
+- amount: '1'
+  doze: shot
+  ingredient_name: Freshly squeezed lime juice
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- amount: '1'
+  doze: top up with
+  ingredient_name: Soda (club soda)
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Fresh pressed pineapple juice
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Pomegranate (grenadine) syrup

@@ -1,29 +1,33 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Dr Zeus
+method: POUR Fernet Branca into ice-filled glass. Separately MUDDLE raisins in base
+  of shaker, add other ingredients and SHAKE with ice. Finally DISCARD contents of
+  glass and strain contents of shaker into the Fernet Branca coated glass.
+rate: 4.5
 garnish: 
 glass: Old-fashioned
-infos: 
-  Comment: Not that far removed from a Sazerac cocktail, this is innovative and great tasting.
-  Origin: Created by Adam Ennis in 2001 at Isola, Knightsbridge, London, England.
-  source: www.diffordsguide.com (670)
-ingredients: 
-- - "1"
-  - shot
-  - Fernet Branca
-- - "20"
-  - dried
-  - Raisins
-- - "2"
-  - shot
-  - Courvoisier V.S.O.P cognac
-- - " 1/4 "
-  - shot
-  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
-- - " 1/8 "
-  - shot
-  - Kahla coffee liqueur
-- - "1"
-  - dash
-  - Angostura orange bitters
-method: POUR Fernet Branca into ice-filled glass. Separately MUDDLE raisins in base of shaker, add other ingredients and SHAKE with ice. Finally DISCARD contents of glass and strain contents of shaker into the Fernet Branca coated glass.
-name: Dr Zeus
-rate: 4.5
+comment: Not that far removed from a Sazerac cocktail, this is innovative and great
+  tasting.
+aka: 
+variant: 
+origin: Created by Adam Ennis in 2001 at Isola, Knightsbridge, London, England.
+source: www.diffordsguide.com (670)
+recipe_steps:
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- amount: '1'
+  doze: shot
+  ingredient_name: Fernet Branca
+- amount: '2'
+  doze: shot
+  ingredient_name: Courvoisier V.S.O.P cognac
+- amount: ' 1/8 '
+  doze: shot
+  ingredient_name: Kahla coffee liqueur
+- amount: '1'
+  doze: dash
+  ingredient_name: Angostura orange bitters
+- amount: '20'
+  doze: dried
+  ingredient_name: Raisins

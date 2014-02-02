@@ -1,23 +1,24 @@
---- !ruby/object:DirtyCocktail 
+---
+name: 'Almond Martini #2'
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 4.0
 garnish: Sink three almonds
 glass: Martini
-infos: 
-  Comment: A delicate, almond flavoured Vodka Martini.
-  Origin: Created in 2005 by yours truly.
-  source: www.diffordsguide.com (51)
-ingredients: 
-- - "2"
-  - shot
-  - Ketel One vodka
-- - " 3/4 "
-  - shot
-  - Luxardo Amaretto di Saschira
-- - " 1/4 "
-  - shot
-  - Noilly Prat dry vermouth
-- - " 3/4 "
-  - shot
-  - Chilled mineral water
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: "Almond Martini #2"
-rate: 4.0
+comment: A delicate, almond flavoured Vodka Martini.
+aka: 
+variant: 
+origin: Created in 2005 by yours truly.
+source: www.diffordsguide.com (51)
+recipe_steps:
+- amount: '2'
+  doze: shot
+  ingredient_name: Ketel One vodka
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Noilly Prat dry vermouth
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Chilled mineral water
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Luxardo Amaretto di Saschira

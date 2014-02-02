@@ -1,26 +1,37 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Remember the Maine
+method: POUR the absinthe into ice-filled glass, top up with water and set to one
+  side.  Separately, POUR other ingredients into a ice-filled mixing glass and STIR
+  well. DISCARD absinthe, water and ice from serving glass. Finally strain contents
+  of mixing glass into the absinthe rinsed glass.
+rate: 4.5
 garnish: Lemon zest twist
 glass: Old-fashioned
-infos: 
-  Comment: Charles H. Baker says of this twist on a Sazerac, "Treat this one with the respect it deserves, gentleman.&quot;<br /><br />
-  Origin: Adapted from a recipe by Charles H. Baker Junior. In his 1939 'The Gentleman's Companion' he writes of this drink, "a Hazy Memory of a Night in Havana during the Unpleasantnesses of 1933, when Each Swallow Was Punctuated with Bombs Going off on the Prado, or the Sound of 3" Shells Being Fired at the Hotel NACIONAL, then Haven for Certain Anti-Revolutionary Officers".<br />        <br />The drink is named after the press slogan, which allegedly provoked the 1898 Spanish-American War.<br /><br />
-  source: www.diffordsguide.com (1668)
-ingredients: 
-- - "1"
-  - shot
-  - "La F\xE9e Parisienne (68%) absinthe"
-- - "1"
-  - top up with
-  - Chilled mineral water
-- - "2"
-  - shot
-  - Maker's Mark bourbon
-- - " 3/4 "
-  - shot
-  - Heering cherry brandy liqueur
-- - " 3/4 "
-  - shot
-  - Martini Rosso sweet vermouth
-method: POUR the absinthe into ice-filled glass, top up with water and set to one side.  Separately, POUR other ingredients into a ice-filled mixing glass and STIR well. DISCARD absinthe, water and ice from serving glass. Finally strain contents of mixing glass into the absinthe rinsed glass.
-name: Remember the Maine
-rate: 4.5
+comment: Charles H. Baker says of this twist on a Sazerac, "Treat this one with the
+  respect it deserves, gentleman.&quot;<br /><br />
+aka: 
+variant: 
+origin: Adapted from a recipe by Charles H. Baker Junior. In his 1939 'The Gentleman's
+  Companion' he writes of this drink, "a Hazy Memory of a Night in Havana during the
+  Unpleasantnesses of 1933, when Each Swallow Was Punctuated with Bombs Going off
+  on the Prado, or the Sound of 3" Shells Being Fired at the Hotel NACIONAL, then
+  Haven for Certain Anti-Revolutionary Officers".<br />        <br />The drink is
+  named after the press slogan, which allegedly provoked the 1898 Spanish-American
+  War.<br /><br />
+source: www.diffordsguide.com (1668)
+recipe_steps:
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Heering cherry brandy liqueur
+- amount: '1'
+  doze: shot
+  ingredient_name: La Fée Parisienne (68%) absinthe
+- amount: '1'
+  doze: top up with
+  ingredient_name: Chilled mineral water
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Martini Rosso sweet vermouth
+- amount: '2'
+  doze: shot
+  ingredient_name: Maker's Mark bourbon

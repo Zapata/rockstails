@@ -1,26 +1,28 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Vowel Cocktail
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 4.5
 garnish: Orange zest twist <br />
 glass: Martini
-infos: 
-  Comment: Caraway from the K"ummel subtly dominates this aromatic drink.
-  Origin: Adapted from a recipe in Vintage Spirits &amp; Forgotten Cocktails by Ted Haigh (AKA Dr Cocktail).
-  source: www.diffordsguide.com (2057)
-ingredients: 
-- - "1 1/4 "
-  - shot
-  - Johnnie Walker Scotch Whisky
-- - "1"
-  - shot
-  - Kummel
-- - "1"
-  - shot
-  - Martini Rosso sweet vermouth
-- - " 3/4 "
-  - shot
-  - Freshly squeezed orange juice
-- - "2"
-  - dash
-  - Angostura aromatic bitters
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: Vowel Cocktail
-rate: 4.5
+comment: Caraway from the K"ummel subtly dominates this aromatic drink.
+aka: 
+variant: 
+origin: Adapted from a recipe in Vintage Spirits &amp; Forgotten Cocktails by Ted
+  Haigh (AKA Dr Cocktail).
+source: www.diffordsguide.com (2057)
+recipe_steps:
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Freshly squeezed orange juice
+- amount: '1'
+  doze: shot
+  ingredient_name: Martini Rosso sweet vermouth
+- amount: '2'
+  doze: dash
+  ingredient_name: Angostura aromatic bitters
+- amount: '1 1/4 '
+  doze: shot
+  ingredient_name: Johnnie Walker Scotch Whisky
+- amount: '1'
+  doze: shot
+  ingredient_name: Kummel

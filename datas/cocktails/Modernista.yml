@@ -1,29 +1,31 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Modernista
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 3.5
 garnish: Lemon zest twist
 glass: Martini
-infos: 
-  Comment: A massive flavour hit to awaken your taste buds.
-  Origin: Adapted from a drink created by Ted Haigh (AKA Dr. Cocktail) and derived from the 'Modern Cocktail'. See Ted's book, 'Vintage Spirits &amp; Foreign Cocktails'.
-  source: www.diffordsguide.com (1340)
-ingredients: 
-- - "2"
-  - shot
-  - Bombay London dry gin
-- - " 1/2 "
-  - shot
-  - Gosling's Black Seal rum
-- - " 1/4 "
-  - shot
-  - Pernod anis
-- - "1"
-  - shot
-  - Swedish Punch liqueur
-- - " 1/4 "
-  - shot
-  - Freshly squeezed lemon juice
-- - "1"
-  - dash
-  - Angostura orange bitters
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: Modernista
-rate: 3.5
+comment: A massive flavour hit to awaken your taste buds.
+aka: 
+variant: 
+origin: Adapted from a drink created by Ted Haigh (AKA Dr. Cocktail) and derived from
+  the 'Modern Cocktail'. See Ted's book, 'Vintage Spirits &amp; Foreign Cocktails'.
+source: www.diffordsguide.com (1340)
+recipe_steps:
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Freshly squeezed lemon juice
+- amount: '2'
+  doze: shot
+  ingredient_name: Bombay London dry gin
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Gosling's Black Seal rum
+- amount: '1'
+  doze: dash
+  ingredient_name: Angostura orange bitters
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Pernod anis
+- amount: '1'
+  doze: shot
+  ingredient_name: Swedish Punch liqueur

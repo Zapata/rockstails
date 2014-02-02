@@ -1,23 +1,24 @@
---- !ruby/object:DirtyCocktail 
+---
+name: 'Dolores #2'
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 3.5
 garnish: Dust with grated nutmeg
 glass: Martini
-infos: 
-  Comment: A chocolaty after dinner libation.
-  Origin: <br />
-  source: www.diffordsguide.com (2631)
-ingredients: 
-- - "1 1/2 "
-  - shot
-  - Courvoisier V.S.O.P cognac
-- - " 3/4 "
-  - shot
-  - Heering cherry brandy liqueur
-- - " 3/4 "
-  - shot
-  - "White cr\xE8me de cacao liqueur"
-- - "1"
-  - fresh
-  - Egg white
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: "Dolores #2"
-rate: 3.5
+comment: A chocolaty after dinner libation.
+aka: 
+variant: 
+origin: <br />
+source: www.diffordsguide.com (2631)
+recipe_steps:
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Heering cherry brandy liqueur
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: White crème de cacao liqueur
+- amount: '1'
+  doze: fresh
+  ingredient_name: Egg white
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Courvoisier V.S.O.P cognac

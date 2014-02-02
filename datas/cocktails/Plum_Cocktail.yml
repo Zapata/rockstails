@@ -1,23 +1,25 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Plum Cocktail
+method: CUT plum into quarters, remove stone and peel. MUDDLE plum in base of shaker.
+  Add other ingredients, SHAKE with ice and fine strain into chilled glass.
+rate: 3.5
 garnish: Plum quarter on rim
 glass: Martini
-infos: 
-  Comment: The slivovitz adds woody, brandied notes to the plum.
-  Origin: Formula by Yours Truly (Simon Difford) in 2004.
-  source: www.diffordsguide.com (1571)
-ingredients: 
-- - "1"
-  - fresh
-  - Choya Umeshu plum liqueur
-- - "2"
-  - shot
-  - Slivovitz plum brandy
-- - " 1/4 "
-  - shot
-  - Noilly Prat dry vermouth
-- - " 1/4 "
-  - shot
-  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
-method: CUT plum into quarters, remove stone and peel. MUDDLE plum in base of shaker. Add other ingredients, SHAKE with ice and fine strain into chilled glass.
-name: Plum Cocktail
-rate: 3.5
+comment: The slivovitz adds woody, brandied notes to the plum.
+aka: 
+variant: 
+origin: Formula by Yours Truly (Simon Difford) in 2004.
+source: www.diffordsguide.com (1571)
+recipe_steps:
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Noilly Prat dry vermouth
+- amount: '2'
+  doze: shot
+  ingredient_name: Slivovitz plum brandy
+- amount: '1'
+  doze: fresh
+  ingredient_name: Choya Umeshu plum liqueur

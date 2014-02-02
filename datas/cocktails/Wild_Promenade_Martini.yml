@@ -1,29 +1,31 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Wild Promenade Martini
+method: MUDDLE cucumber and raspberries in base of shaker. Add other ingredients,
+  SHAKE with ice and fine strain into chilled glass.
+rate: 4.0
 garnish: Float 3 raspberries
 glass: Martini
-infos: 
-  Comment: Rich raspberry with green hints of cucumber.
-  Origin: Created in 2002 by Mehdi Otmann at The Player, London, England.
-  source: www.diffordsguide.com (2100)
-ingredients: 
-- - "2"
-  - inch
-  - Cucumber (chopped & peeled)
-- - "5"
-  - fresh
-  - Raspberries
-- - "1 1/2 "
-  - shot
-  - Ketel One vodka
-- - " 1/2 "
-  - shot
-  - Raspberry flavoured vodka
-- - " 1/2 "
-  - shot
-  - "Cr\xE8me de framboise liqueur"
-- - " 1/4 "
-  - shot
-  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
-method: MUDDLE cucumber and raspberries in base of shaker. Add other ingredients, SHAKE with ice and fine strain into chilled glass.
-name: Wild Promenade Martini
-rate: 4.0
+comment: Rich raspberry with green hints of cucumber.
+aka: 
+variant: 
+origin: Created in 2002 by Mehdi Otmann at The Player, London, England.
+source: www.diffordsguide.com (2100)
+recipe_steps:
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Raspberry flavoured vodka
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Ketel One vodka
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- amount: '2'
+  doze: inch
+  ingredient_name: Cucumber (chopped & peeled)
+- amount: '5'
+  doze: fresh
+  ingredient_name: Raspberries
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Crème de framboise liqueur

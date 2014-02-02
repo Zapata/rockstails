@@ -1,20 +1,22 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Triple 'C' Martini
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 4.5
 garnish: Dark chocolate on rim
 glass: Martini
-infos: 
-  Comment: Rich vanilla, dark chocolate and cranberry juice.
-  Origin: I created this drink in originally called it the Chocolate Covered Cranberry Martini.
-  source: www.diffordsguide.com (1990)
-ingredients: 
-- - "2"
-  - shot
-  - Vanilla-infused Ketel One vodka
-- - "1"
-  - shot
-  - "Brown cr\xE8me de cacao liqueur"
-- - "1 1/4 "
-  - shot
-  - Ocean Spray cranberry juice
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: Triple 'C' Martini
-rate: 4.5
+comment: Rich vanilla, dark chocolate and cranberry juice.
+aka: 
+variant: 
+origin: I created this drink in originally called it the Chocolate Covered Cranberry
+  Martini.
+source: www.diffordsguide.com (1990)
+recipe_steps:
+- amount: '1 1/4 '
+  doze: shot
+  ingredient_name: Ocean Spray cranberry juice
+- amount: '2'
+  doze: shot
+  ingredient_name: Vanilla-infused Ketel One vodka
+- amount: '1'
+  doze: shot
+  ingredient_name: Brown crème de cacao liqueur

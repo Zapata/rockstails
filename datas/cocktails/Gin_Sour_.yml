@@ -1,25 +1,30 @@
---- !ruby/object:DirtyCocktail 
+---
+name: 'Gin Sour '
+method: SHAKE all ingredients with ice and strain into ice-filled glass.
+rate: 4.5
 garnish: Lemon slice &amp; cherry on stick (sail)
 glass: Old-fashioned
-infos: 
-  Comment: "This 4:2:8 formula is a tad sourer than the classic sour proportions of 3:4:8: three quarter part of the sour ingredient (lemon juice), one part of the sweet ingredient (sugar syrup) and two parts of the strong ingredient (gin). <br /><br />"
-  source: www.diffordsguide.com (845)
-ingredients: 
-- - "2"
-  - shot
-  - Bombay London dry gin
-- - "1"
-  - shot
-  - Freshly squeezed lemon juice
-- - " 1/2 "
-  - shot
-  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
-- - " 1/2 "
-  - fresh
-  - Egg white
-- - "3"
-  - dash
-  - Angostura aromatic bitters
-method: SHAKE all ingredients with ice and strain into ice-filled glass.
-name: "Gin Sour "
-rate: 4.5
+comment: 'This 4:2:8 formula is a tad sourer than the classic sour proportions of
+  3:4:8: three quarter part of the sour ingredient (lemon juice), one part of the
+  sweet ingredient (sugar syrup) and two parts of the strong ingredient (gin). <br
+  /><br />'
+aka: 
+variant: 
+origin: 
+source: www.diffordsguide.com (845)
+recipe_steps:
+- amount: '1'
+  doze: shot
+  ingredient_name: Freshly squeezed lemon juice
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- amount: '2'
+  doze: shot
+  ingredient_name: Bombay London dry gin
+- amount: '3'
+  doze: dash
+  ingredient_name: Angostura aromatic bitters
+- amount: ' 1/2 '
+  doze: fresh
+  ingredient_name: Egg white

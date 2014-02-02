@@ -1,20 +1,22 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Beachcomber's Daiquiri
+method: BLEND all ingredients with one 6oz scoop crushed ice and serve with straws.
+rate: 4.0
 garnish: Lime slice
 glass: Martini
-infos: 
-  Comment: Basically a frozen rum margarita.
-  Origin: Created by Ernest Raymond Beaumont-Gantt, A.K.A. Don The Beachcomber at his bar in Hollywood, California, USA.<br /><br />
-  source: www.diffordsguide.com (2286)
-ingredients: 
-- - "2"
-  - shot
-  - Bacardi Superior rum
-- - "1"
-  - shot
-  - Cointreau triple sec
-- - " 3/4 "
-  - shot
-  - Freshly squeezed lime juice
-method: BLEND all ingredients with one 6oz scoop crushed ice and serve with straws.
-name: Beachcomber's Daiquiri
-rate: 4.0
+comment: Basically a frozen rum margarita.
+aka: 
+variant: 
+origin: Created by Ernest Raymond Beaumont-Gantt, A.K.A. Don The Beachcomber at his
+  bar in Hollywood, California, USA.<br /><br />
+source: www.diffordsguide.com (2286)
+recipe_steps:
+- amount: '1'
+  doze: shot
+  ingredient_name: Cointreau triple sec
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Freshly squeezed lime juice
+- amount: '2'
+  doze: shot
+  ingredient_name: Bacardi Superior rum

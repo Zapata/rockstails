@@ -1,20 +1,23 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Manicure
+method: STIR all ingredients with ice and fine strain into chilled glass.<br />
+rate: 4.0
 garnish: Apple wedge<br />
 glass: Coupette
-infos: 
-  Comment: Due to the use of Calvados thsi drink was going to be called 'FRENCH NAIL CARE' but thankfully this led to the name 'Manicure'.
-  Origin: Created in 2010 by a collaboration between Emma Ramos and Simon Difford at the Cabinet Room, London, England.<br />
-  source: www.diffordsguide.com (2820)
-ingredients: 
-- - "1"
-  - shot
-  - Boulard Grand Solage calvados
-- - "1"
-  - shot
-  - Johnnie Walker Scotch Whisky
-- - "1"
-  - shot
-  - Drambuie
-method: STIR all ingredients with ice and fine strain into chilled glass.<br />
-name: Manicure
-rate: 4.0
+comment: Due to the use of Calvados thsi drink was going to be called 'FRENCH NAIL
+  CARE' but thankfully this led to the name 'Manicure'.
+aka: 
+variant: 
+origin: Created in 2010 by a collaboration between Emma Ramos and Simon Difford at
+  the Cabinet Room, London, England.<br />
+source: www.diffordsguide.com (2820)
+recipe_steps:
+- amount: '1'
+  doze: shot
+  ingredient_name: Boulard Grand Solage calvados
+- amount: '1'
+  doze: shot
+  ingredient_name: Johnnie Walker Scotch Whisky
+- amount: '1'
+  doze: shot
+  ingredient_name: Drambuie

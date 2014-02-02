@@ -1,26 +1,28 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Paloma
+method: SHAKE first 4 ingredients with ice and strain into ice-filled glass. TOP with
+  grapefruit soda, lightly stir and serve with straws.<br /><br />
+rate: 4.5
 garnish: Lime wedge &amp; salt rim
 glass: Collins
-infos: 
-  Comment: A long, fruity, Margarita.
-  Origin: The name is Spanish for 'dove' and the cocktail is well-known in Mexico.
-  source: www.diffordsguide.com (1456)
-ingredients: 
-- - "2"
-  - shot
-  - Herradura 100% agave tequila
-- - "2"
-  - shot
-  - Freshly squeezed grapefruit juice
-- - " 1/2 "
-  - shot
-  - Freshly squeezed lime juice
-- - " 1/4 "
-  - shot
-  - Agave nectar
-- - "1"
-  - top up with
-  - Mexican 'Squirt' or Caribbean 'Ting' grapefruit soda
-method: SHAKE first 4 ingredients with ice and strain into ice-filled glass. TOP with grapefruit soda, lightly stir and serve with straws.<br /><br />
-name: Paloma
-rate: 4.5
+comment: A long, fruity, Margarita.
+aka: 
+variant: 
+origin: The name is Spanish for 'dove' and the cocktail is well-known in Mexico.
+source: www.diffordsguide.com (1456)
+recipe_steps:
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Freshly squeezed lime juice
+- amount: '2'
+  doze: shot
+  ingredient_name: Freshly squeezed grapefruit juice
+- amount: '2'
+  doze: shot
+  ingredient_name: Herradura 100% agave tequila
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Agave nectar
+- amount: '1'
+  doze: top up with
+  ingredient_name: Mexican 'Squirt' or Caribbean 'Ting' grapefruit soda

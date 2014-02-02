@@ -1,19 +1,22 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Hibiscus Margarita
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 4.0
 garnish: Wild Hibiscus flower from jar
 glass: Martini
-infos: 
-  Comment: Hibiscus combines wonderfully with tequila in this flavoursome Margarita.<br /><br /><br _moz_editor_bogus_node="TRUE" />
-  source: www.diffordsguide.com (2442)
-ingredients: 
-- - "2"
-  - shot
-  - Herradura 100% agave tequila
-- - "1"
-  - shot
-  - Freshly squeezed lime juice
-- - "1"
-  - shot
-  - Homemade hibiscus tea syrup
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: Hibiscus Margarita
-rate: 4.0
+comment: Hibiscus combines wonderfully with tequila in this flavoursome Margarita.<br
+  /><br /><br _moz_editor_bogus_node="TRUE" />
+aka: 
+variant: 
+origin: 
+source: www.diffordsguide.com (2442)
+recipe_steps:
+- amount: '1'
+  doze: shot
+  ingredient_name: Freshly squeezed lime juice
+- amount: '2'
+  doze: shot
+  ingredient_name: Herradura 100% agave tequila
+- amount: '1'
+  doze: shot
+  ingredient_name: Homemade hibiscus tea syrup

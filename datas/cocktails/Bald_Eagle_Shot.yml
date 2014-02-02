@@ -1,16 +1,19 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Bald Eagle Shot
+method: Refrigerate ingredients then LAYER in chilled glass by carefully pouring in
+  the following order.
+rate: 2.5
 garnish: None
 glass: Shot
-infos: 
-  Comment: Minty tequila - fresh breath tastic.
-  source: www.diffordsguide.com (150)
-ingredients: 
-- - " 1/2 "
-  - shot
-  - Giffard Menthe Pastille liqueur
-- - " 3/4 "
-  - shot
-  - Herradura 100% agave tequila
-method: Refrigerate ingredients then LAYER in chilled glass by carefully pouring in the following order.
-name: Bald Eagle Shot
-rate: 2.5
+comment: Minty tequila - fresh breath tastic.
+aka: 
+variant: 
+origin: 
+source: www.diffordsguide.com (150)
+recipe_steps:
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Herradura 100% agave tequila
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Giffard Menthe Pastille liqueur

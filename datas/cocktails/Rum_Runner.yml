@@ -1,28 +1,30 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Rum Runner
+method: SHAKE all ingredients with ice and strain into glass filled with crushed ice.
+rate: 4.0
 garnish: Pineapple wedge &amp; cherry
 glass: Hurricane
-infos: 
-  Comment: Fruity, sharp and rounded.
-  source: www.diffordsguide.com (1715)
-ingredients: 
-- - "1 1/2 "
-  - shot
-  - Pusser's Navy rum
-- - " 1/2 "
-  - shot
-  - "Cr\xE8me de M\xFBre liqueur"
-- - "1"
-  - shot
-  - "Cr\xE8me de banane liqueur"
-- - "1"
-  - shot
-  - Freshly squeezed lime juice
-- - "2"
-  - shot
-  - Fresh pressed pineapple juice
-- - " 1/2 "
-  - shot
-  - Pomegranate (grenadine) syrup
-method: SHAKE all ingredients with ice and strain into glass filled with crushed ice.
-name: Rum Runner
-rate: 4.0
+comment: Fruity, sharp and rounded.
+aka: 
+variant: 
+origin: 
+source: www.diffordsguide.com (1715)
+recipe_steps:
+- amount: '1'
+  doze: shot
+  ingredient_name: Freshly squeezed lime juice
+- amount: '2'
+  doze: shot
+  ingredient_name: Fresh pressed pineapple juice
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Crème de Mûre liqueur
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Pusser's Navy rum
+- amount: '1'
+  doze: shot
+  ingredient_name: Crème de banane liqueur
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Pomegranate (grenadine) syrup

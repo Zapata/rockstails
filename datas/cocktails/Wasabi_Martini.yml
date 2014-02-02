@@ -1,23 +1,26 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Wasabi Martini
+method: Squeeze a pea-sized quantity of wasabi paste onto a barspoon and STIR with
+  vodka until wasabi dissolves. Add other ingredients, SHAKE with ice and fine strain
+  into chilled glass.
+rate: 4.5
 garnish: Float strips of yaki nori seaweed
 glass: Martini
-infos: 
-  Comment: Wonderfully balanced with spicy heat and a zesty finish.
-  Origin: Created in 2004 by Philippe Guidi at Morton's, London, England.
-  source: www.diffordsguide.com (2065)
-ingredients: 
-- - "2"
-  - shot
-  - Ketel One vodka
-- - "1"
-  - pea
-  - Wasabi paste
-- - " 3/4 "
-  - shot
-  - Freshly squeezed lemon juice
-- - " 1/2 "
-  - shot
-  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
-method: Squeeze a pea-sized quantity of wasabi paste onto a barspoon and STIR with vodka until wasabi dissolves. Add other ingredients, SHAKE with ice and fine strain into chilled glass.
-name: Wasabi Martini
-rate: 4.5
+comment: Wonderfully balanced with spicy heat and a zesty finish.
+aka: 
+variant: 
+origin: Created in 2004 by Philippe Guidi at Morton's, London, England.
+source: www.diffordsguide.com (2065)
+recipe_steps:
+- amount: '2'
+  doze: shot
+  ingredient_name: Ketel One vodka
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Freshly squeezed lemon juice
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- amount: '1'
+  doze: pea
+  ingredient_name: Wasabi paste

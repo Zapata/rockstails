@@ -1,19 +1,22 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Fontainebleau Special
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 3.5
 garnish: Star anise<br />
 glass: Martini
-infos: 
-  Comment: Cognac, aniseed and vermouth combine in this pleasant after dinner drink which has a taste reminiscent of liquorice.
-  source: www.diffordsguide.com (2657)
-ingredients: 
-- - "1 1/2 "
-  - shot
-  - Courvoisier V.S.O.P cognac
-- - "1 1/2 "
-  - shot
-  - Marie Brizard anisette liqueur
-- - " 3/4 "
-  - shot
-  - Noilly Prat dry vermouth
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: Fontainebleau Special
-rate: 3.5
+comment: Cognac, aniseed and vermouth combine in this pleasant after dinner drink
+  which has a taste reminiscent of liquorice.
+aka: 
+variant: 
+origin: 
+source: www.diffordsguide.com (2657)
+recipe_steps:
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Noilly Prat dry vermouth
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Courvoisier V.S.O.P cognac
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Marie Brizard anisette liqueur

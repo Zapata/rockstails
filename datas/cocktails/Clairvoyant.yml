@@ -1,23 +1,26 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Clairvoyant
+method: STIR all ingredients with ice and fine strain into chilled glass.
+rate: 4.0
 garnish: Orange zest twist<br />
 glass: Martini
-infos: 
-  Comment: A hazelnut flavoured variation on the classic Coronation Cocktail.
-  Origin: Created in 2008 by Simon Difford in Jerez, Spain and named after Claire Hu, a fellow drinks hack on the same trip who was a fan of hazelnut liqueur.<br /><br />
-  source: www.diffordsguide.com (2342)
-ingredients: 
-- - "1 1/2 "
-  - shot
-  - Tio Pepe fino sherry
-- - "1 1/2 "
-  - shot
-  - Noilly Prat dry vermouth
-- - " 3/4 "
-  - shot
-  - Hazelnut liqueur
-- - "1"
-  - dash
-  - Angostura orange bitters
-method: STIR all ingredients with ice and fine strain into chilled glass.
-name: Clairvoyant
-rate: 4.0
+comment: A hazelnut flavoured variation on the classic Coronation Cocktail.
+aka: 
+variant: 
+origin: Created in 2008 by Simon Difford in Jerez, Spain and named after Claire Hu,
+  a fellow drinks hack on the same trip who was a fan of hazelnut liqueur.<br /><br
+  />
+source: www.diffordsguide.com (2342)
+recipe_steps:
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Noilly Prat dry vermouth
+- amount: '1'
+  doze: dash
+  ingredient_name: Angostura orange bitters
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Hazelnut liqueur
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Tio Pepe fino sherry

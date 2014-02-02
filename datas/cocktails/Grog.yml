@@ -1,27 +1,40 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Grog
+method: STIR honey with rum in base of shaker until honey dissolves. Add other ingredients,
+  SHAKE with ice and strain into ice-filled glass.<br /><br />
+rate: 4.0
 garnish: Lime wedge
 glass: Old-fashioned
-infos: 
-  Comment: Strong, flavoursome Navy rum with a splash of scurvy-inhibiting lime. Too many and you'll be groggy in the morning.
-  Origin: For over 300 years the British Navy issued a daily 'tot' of rum, sometimes with double issues before battle. In 1740, as an attempt to combat drunkenness, Admiral Vernon gave orders that the standard daily issue of half a pint of neat, high-proof rum be replaced with two servings of a quarter of a pint, diluted 4:1 with water. The Admiral was nicknamed 'Old Grogram' due to the waterproof grogram cloak he wore, so the mixture he introduced became known as 'grog'. Lime juice was often added to the grog in an attempt to prevent scurvy, lending British sailors their 'limey' nickname.<br />        <br />The 'tot' tradition, which started in Jamaica in 1665, was finally broken on 31st July 1970, a day now known as 'Black Tot Day' - although by then the 'tot' had been reduced to a meagre two ounces.<br />       <br />Sounds plausible to me but drinks historians now say that grog is earlier than Old Grogram.<br /><br />
-  Variant: Hot Grog
-  source: www.diffordsguide.com (920)
-ingredients: 
-- - "2"
-  - spoon
-  - Runny honey
-- - "1 1/2 "
-  - shot
-  - Pusser's Navy rum
-- - " 1/4 "
-  - shot
-  - Freshly squeezed lime juice
-- - "2 1/2 "
-  - shot
-  - Chilled mineral water
-- - "3"
-  - dash
-  - Angostura aromatic bitters
-method: STIR honey with rum in base of shaker until honey dissolves. Add other ingredients, SHAKE with ice and strain into ice-filled glass.<br /><br />
-name: Grog
-rate: 4.0
+comment: Strong, flavoursome Navy rum with a splash of scurvy-inhibiting lime. Too
+  many and you'll be groggy in the morning.
+aka: 
+variant: Hot Grog
+origin: For over 300 years the British Navy issued a daily 'tot' of rum, sometimes
+  with double issues before battle. In 1740, as an attempt to combat drunkenness,
+  Admiral Vernon gave orders that the standard daily issue of half a pint of neat,
+  high-proof rum be replaced with two servings of a quarter of a pint, diluted 4:1
+  with water. The Admiral was nicknamed 'Old Grogram' due to the waterproof grogram
+  cloak he wore, so the mixture he introduced became known as 'grog'. Lime juice was
+  often added to the grog in an attempt to prevent scurvy, lending British sailors
+  their 'limey' nickname.<br />        <br />The 'tot' tradition, which started in
+  Jamaica in 1665, was finally broken on 31st July 1970, a day now known as 'Black
+  Tot Day' - although by then the 'tot' had been reduced to a meagre two ounces.<br
+  />       <br />Sounds plausible to me but drinks historians now say that grog is
+  earlier than Old Grogram.<br /><br />
+source: www.diffordsguide.com (920)
+recipe_steps:
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Freshly squeezed lime juice
+- amount: '2 1/2 '
+  doze: shot
+  ingredient_name: Chilled mineral water
+- amount: '2'
+  doze: spoon
+  ingredient_name: Runny honey
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Pusser's Navy rum
+- amount: '3'
+  doze: dash
+  ingredient_name: Angostura aromatic bitters

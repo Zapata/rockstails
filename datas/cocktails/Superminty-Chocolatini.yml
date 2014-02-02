@@ -1,19 +1,21 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Superminty-Chocolatini
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 3.5
 garnish: Chocolate powder rim
 glass: Martini
-infos: 
-  Comment: Obvious but nicely flavoured.
-  source: www.diffordsguide.com (1905)
-ingredients: 
-- - "2"
-  - shot
-  - Ketel One vodka
-- - "1"
-  - shot
-  - "White cr\xE8me de cacao liqueur"
-- - "1"
-  - shot
-  - Giffard Menthe Pastille liqueur
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: Superminty-Chocolatini
-rate: 3.5
+comment: Obvious but nicely flavoured.
+aka: 
+variant: 
+origin: 
+source: www.diffordsguide.com (1905)
+recipe_steps:
+- amount: '2'
+  doze: shot
+  ingredient_name: Ketel One vodka
+- amount: '1'
+  doze: shot
+  ingredient_name: White crème de cacao liqueur
+- amount: '1'
+  doze: shot
+  ingredient_name: Giffard Menthe Pastille liqueur

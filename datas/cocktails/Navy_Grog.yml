@@ -1,26 +1,29 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Navy Grog
+method: STIR honey with rum in base of shaker to dissolve honey. Add next 3 ingredients,
+  SHAKE with ice and strain into ice-filled glass.
+rate: 4.0
 garnish: Lemon wedge
 glass: Old-fashioned
-infos: 
-  Comment: An extremely drinkable, honeyed cocktail.
-  Variant: Also great served hot. Top with boiling water and garnish with a cinnamon stick.
-  source: www.diffordsguide.com (1391)
-ingredients: 
-- - "1 1/2 "
-  - shot
-  - Pusser's Navy rum
-- - "3"
-  - spoon
-  - Runny honey
-- - " 1/4 "
-  - shot
-  - Freshly squeezed lime juice
-- - "2"
-  - dash
-  - Angostura aromatic bitters
-- - "2 1/2 "
-  - shot
-  - Chilled mineral water
-method: STIR honey with rum in base of shaker to dissolve honey. Add next 3 ingredients, SHAKE with ice and strain into ice-filled glass.
-name: Navy Grog
-rate: 4.0
+comment: An extremely drinkable, honeyed cocktail.
+aka: 
+variant: Also great served hot. Top with boiling water and garnish with a cinnamon
+  stick.
+origin: 
+source: www.diffordsguide.com (1391)
+recipe_steps:
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Freshly squeezed lime juice
+- amount: '2 1/2 '
+  doze: shot
+  ingredient_name: Chilled mineral water
+- amount: '3'
+  doze: spoon
+  ingredient_name: Runny honey
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Pusser's Navy rum
+- amount: '2'
+  doze: dash
+  ingredient_name: Angostura aromatic bitters

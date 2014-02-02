@@ -1,20 +1,22 @@
---- !ruby/object:DirtyCocktail 
+---
+name: B-52 Shot
+method: Refrigerate ingredients then LAYER in chilled glass by carefully pouring in
+  the following order.
+rate: 3.5
 garnish: 
 glass: Shot
-infos: 
-  Comment: Probably the best-known and most popular shot.
-  Origin: Named after B-52 bombers in Vietnam.
-  source: www.diffordsguide.com (133)
-ingredients: 
-- - " 1/2 "
-  - shot
-  - Kahla coffee liqueur
-- - " 1/2 "
-  - shot
-  - Baileys Irish cream liqueur
-- - " 1/2 "
-  - shot
-  - Grand Marnier liqueur
-method: Refrigerate ingredients then LAYER in chilled glass by carefully pouring in the following order.
-name: B-52 Shot
-rate: 3.5
+comment: Probably the best-known and most popular shot.
+aka: 
+variant: 
+origin: Named after B-52 bombers in Vietnam.
+source: www.diffordsguide.com (133)
+recipe_steps:
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Grand Marnier liqueur
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Baileys Irish cream liqueur
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Kahla coffee liqueur

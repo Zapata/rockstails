@@ -1,28 +1,30 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Sleeping Bison-Tini
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 4.0
 garnish: Pear slice on rim
 glass: Martini
-infos: 
-  Comment: A light cocktail featuring a melange of subtle flavours.
-  source: www.diffordsguide.com (1829)
-ingredients: 
-- - "1 1/2 "
-  - shot
-  - Zubrwka bison vodka
-- - " 1/4 "
-  - shot
-  - Bols apricot brandy liqueur
-- - " 1/4 "
-  - shot
-  - Belle de Brillet pear liqueur
-- - "1"
-  - shot
-  - Pressed pear juice
-- - "1"
-  - shot
-  - Pressed apple juice
-- - "1"
-  - shot
-  - Cold camomile tea
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: Sleeping Bison-Tini
-rate: 4.0
+comment: A light cocktail featuring a melange of subtle flavours.
+aka: 
+variant: 
+origin: 
+source: www.diffordsguide.com (1829)
+recipe_steps:
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Bols apricot brandy liqueur
+- amount: '1'
+  doze: shot
+  ingredient_name: Pressed apple juice
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Zubrwka bison vodka
+- amount: '1'
+  doze: shot
+  ingredient_name: Pressed pear juice
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Belle de Brillet pear liqueur
+- amount: '1'
+  doze: shot
+  ingredient_name: Cold camomile tea

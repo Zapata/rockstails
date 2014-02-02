@@ -1,23 +1,24 @@
---- !ruby/object:DirtyCocktail 
+---
+name: The GTO Cocktail
+method: SHAKE all ingredients with ice and strain into ice-filled glass.
+rate: 3.5
 garnish: Pineapple wedge on rim
 glass: Collins
-infos: 
-  Comment: A fruity punch-like drink.
-  Origin: Adapted from a recipe discovered in 2004 at Jones, Los Angeles, USA.
-  source: www.diffordsguide.com (921)
-ingredients: 
-- - "2"
-  - shot
-  - Maker's Mark bourbon
-- - " 1/2 "
-  - shot
-  - Luxardo Amaretto di Saschira
-- - " 1/2 "
-  - shot
-  - Freshly squeezed lemon juice
-- - "3"
-  - shot
-  - Fresh pressed pineapple juice
-method: SHAKE all ingredients with ice and strain into ice-filled glass.
-name: The GTO Cocktail
-rate: 3.5
+comment: A fruity punch-like drink.
+aka: 
+variant: 
+origin: Adapted from a recipe discovered in 2004 at Jones, Los Angeles, USA.
+source: www.diffordsguide.com (921)
+recipe_steps:
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Freshly squeezed lemon juice
+- amount: '3'
+  doze: shot
+  ingredient_name: Fresh pressed pineapple juice
+- amount: '2'
+  doze: shot
+  ingredient_name: Maker's Mark bourbon
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Luxardo Amaretto di Saschira

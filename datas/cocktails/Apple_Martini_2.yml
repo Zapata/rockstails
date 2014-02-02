@@ -1,19 +1,22 @@
---- !ruby/object:DirtyCocktail 
+---
+name: 'Apple Martini #2'
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 4.0
 garnish: Apple wedge on rim
 glass: Martini
-infos: 
-  Comment: "There are as many different recipes for this drink as there are varieties of apple and brands of apple liqueur: this is one of the more popular."
-  source: www.diffordsguide.com (82)
-ingredients: 
-- - "2"
-  - shot
-  - Ketel One vodka
-- - " 3/4 "
-  - shot
-  - Berentzen Apple schnapps
-- - "2"
-  - shot
-  - Pressed apple juice
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: "Apple Martini #2"
-rate: 4.0
+comment: 'There are as many different recipes for this drink as there are varieties
+  of apple and brands of apple liqueur: this is one of the more popular.'
+aka: 
+variant: 
+origin: 
+source: www.diffordsguide.com (82)
+recipe_steps:
+- amount: '2'
+  doze: shot
+  ingredient_name: Ketel One vodka
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Berentzen Apple schnapps
+- amount: '2'
+  doze: shot
+  ingredient_name: Pressed apple juice

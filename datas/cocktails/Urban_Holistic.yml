@@ -1,20 +1,23 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Urban Holistic
+method: SHAKE first 2 ingredients with ice and fine strain into chilled glass. Top
+  with ginger ale.
+rate: 3.5
 garnish: Lemon zest twist
 glass: Martini
-infos: 
-  Comment: East meets West in this dry refreshing cocktail.
-  Origin: Adapted from a drink discovered in 2005 at Mo Bar, Landmark Mandarin Oriental Hotel, Hong Kong, China.
-  source: www.diffordsguide.com (2017)
-ingredients: 
-- - "2"
-  - shot
-  - Sake
-- - "1"
-  - shot
-  - Noilly Prat dry vermouth
-- - "1"
-  - top up with
-  - Ginger ale
-method: SHAKE first 2 ingredients with ice and fine strain into chilled glass. Top with ginger ale.
-name: Urban Holistic
-rate: 3.5
+comment: East meets West in this dry refreshing cocktail.
+aka: 
+variant: 
+origin: Adapted from a drink discovered in 2005 at Mo Bar, Landmark Mandarin Oriental
+  Hotel, Hong Kong, China.
+source: www.diffordsguide.com (2017)
+recipe_steps:
+- amount: '1'
+  doze: shot
+  ingredient_name: Noilly Prat dry vermouth
+- amount: '1'
+  doze: top up with
+  ingredient_name: Ginger ale
+- amount: '2'
+  doze: shot
+  ingredient_name: Sake

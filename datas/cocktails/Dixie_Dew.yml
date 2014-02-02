@@ -1,22 +1,24 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Dixie Dew
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 4.5
 garnish: Orange zest twist
 glass: Martini
-infos: 
-  Comment: A peppermint fresh, bourbon laced drink.
-  source: www.diffordsguide.com (653)
-ingredients: 
-- - "2"
-  - shot
-  - Maker's Mark bourbon
-- - " 1/2 "
-  - shot
-  - Giffard Menthe Pastille liqueur
-- - " 1/2 "
-  - shot
-  - Cointreau triple sec
-- - " 3/4 "
-  - shot
-  - Chilled mineral water
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: Dixie Dew
-rate: 4.5
+comment: A peppermint fresh, bourbon laced drink.
+aka: 
+variant: 
+origin: 
+source: www.diffordsguide.com (653)
+recipe_steps:
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Cointreau triple sec
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Chilled mineral water
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Giffard Menthe Pastille liqueur
+- amount: '2'
+  doze: shot
+  ingredient_name: Maker's Mark bourbon

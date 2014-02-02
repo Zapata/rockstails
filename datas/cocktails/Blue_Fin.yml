@@ -1,20 +1,21 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Blue Fin
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 3.5
 garnish: Gummy fish
 glass: Martini
-infos: 
-  Comment: Citrussy, reminiscent of a blue Cosmo.
-  Origin: Created in 2003 at The Blue Fin, W Hotel, Times Square, New York, USA.
-  source: www.diffordsguide.com (259)
-ingredients: 
-- - "2"
-  - shot
-  - Ketel One vodka
-- - "1"
-  - shot
-  - Hpnotiq liqueur
-- - "1 1/2 "
-  - shot
-  - Ocean Spray cranberry juice
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: Blue Fin
-rate: 3.5
+comment: Citrussy, reminiscent of a blue Cosmo.
+aka: 
+variant: 
+origin: Created in 2003 at The Blue Fin, W Hotel, Times Square, New York, USA.
+source: www.diffordsguide.com (259)
+recipe_steps:
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Ocean Spray cranberry juice
+- amount: '2'
+  doze: shot
+  ingredient_name: Ketel One vodka
+- amount: '1'
+  doze: shot
+  ingredient_name: Hpnotiq liqueur

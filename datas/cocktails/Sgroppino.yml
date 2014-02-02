@@ -1,24 +1,26 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Sgroppino
+method: BLEND all ingredients without additional ice and serve in chilled glass.
+rate: 4.5
 garnish: Lemon zest twist
 glass: Flute
-infos: 
-  AKA: Sorbetto
-  Comment: Smooth and all too easy to quaff. A great dessert.
-  Origin: Pronounced 'scroe-pee-noe', this hybrid of cocktail and dessert is often served after meals in Venice. The name comes from a vernacular word meaning 'untie', a reference to the belief that it relaxes your stomach after a hearty meal.
-  source: www.diffordsguide.com (1813)
-ingredients: 
-- - " 1/2 "
-  - shot
-  - Ketel One vodka
-- - " 1/4 "
-  - shot
-  - Double (heavy) cream
-- - "1 1/2 "
-  - shot
-  - Prosecco sparkling wine
-- - "2"
-  - scoop
-  - Lemon sorbet
-method: BLEND all ingredients without additional ice and serve in chilled glass.
-name: Sgroppino
-rate: 4.5
+comment: Smooth and all too easy to quaff. A great dessert.
+aka: Sorbetto
+variant: 
+origin: Pronounced 'scroe-pee-noe', this hybrid of cocktail and dessert is often served
+  after meals in Venice. The name comes from a vernacular word meaning 'untie', a
+  reference to the belief that it relaxes your stomach after a hearty meal.
+source: www.diffordsguide.com (1813)
+recipe_steps:
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Ketel One vodka
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Double (heavy) cream
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Prosecco sparkling wine
+- amount: '2'
+  doze: scoop
+  ingredient_name: Lemon sorbet

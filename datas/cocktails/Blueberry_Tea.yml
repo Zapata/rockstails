@@ -1,19 +1,21 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Blueberry Tea
+method: POUR first two ingredients into glass, top up with tea and stir.
+rate: 4.0
 garnish: Lemon slice &amp; cinnamon stick
 glass: Toddy
-infos: 
-  Comment: This does indeed taste just as described on the tin.
-  source: www.diffordsguide.com (277)
-ingredients: 
-- - " 3/4 "
-  - shot
-  - Luxardo Amaretto di Saschira
-- - " 3/4 "
-  - shot
-  - Grand Marnier liqueur
-- - "1"
-  - top up with
-  - Cold English breakfast tea
-method: POUR first two ingredients into glass, top up with tea and stir.
-name: Blueberry Tea
-rate: 4.0
+comment: This does indeed taste just as described on the tin.
+aka: 
+variant: 
+origin: 
+source: www.diffordsguide.com (277)
+recipe_steps:
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Grand Marnier liqueur
+- amount: '1'
+  doze: top up with
+  ingredient_name: Cold English breakfast tea
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Luxardo Amaretto di Saschira

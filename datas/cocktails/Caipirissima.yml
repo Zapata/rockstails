@@ -1,19 +1,23 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Caipirissima
+method: MUDDLE lime wedges in the base of shaker to release juice and oils in its
+  skin. Add rum and sugar. SHAKE with 6oz scoop crushed ice and pour all without straining
+  into glass.<br /><br />
+rate: 4.5
 garnish: Serve with 2 short straws
 glass: Old-fashioned
-infos: 
-  Comment: A Daiquiri-like drink made in the style of a Caipirinha.
-  source: www.diffordsguide.com (355)
-ingredients: 
-- - " 3/4 "
-  - fresh
-  - Lime
-- - "2"
-  - shot
-  - Ketel One vodka
-- - " 1/2 "
-  - shot
-  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
-method: MUDDLE lime wedges in the base of shaker to release juice and oils in its skin. Add rum and sugar. SHAKE with 6oz scoop crushed ice and pour all without straining into glass.<br /><br />
-name: Caipirissima
-rate: 4.5
+comment: A Daiquiri-like drink made in the style of a Caipirinha.
+aka: 
+variant: 
+origin: 
+source: www.diffordsguide.com (355)
+recipe_steps:
+- amount: '2'
+  doze: shot
+  ingredient_name: Ketel One vodka
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- amount: ' 3/4 '
+  doze: fresh
+  ingredient_name: Lime

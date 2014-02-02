@@ -1,19 +1,22 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Tawny-Tini
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 4.0
 garnish: Orange zest twist
 glass: Martini
-infos: 
-  Comment: Dry yet rich. Port combines wonderfully with the maple syrup and is further fortified by the grainy vodka.
-  source: www.diffordsguide.com (1925)
-ingredients: 
-- - "2"
-  - shot
-  - Ketel One vodka
-- - "2"
-  - shot
-  - Warre's Otima tawny port
-- - " 1/4 "
-  - shot
-  - Maple syrup
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: Tawny-Tini
-rate: 4.0
+comment: Dry yet rich. Port combines wonderfully with the maple syrup and is further
+  fortified by the grainy vodka.
+aka: 
+variant: 
+origin: 
+source: www.diffordsguide.com (1925)
+recipe_steps:
+- amount: '2'
+  doze: shot
+  ingredient_name: Ketel One vodka
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Maple syrup
+- amount: '2'
+  doze: shot
+  ingredient_name: Warre's Otima tawny port

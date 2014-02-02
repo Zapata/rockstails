@@ -1,23 +1,25 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Threesome
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 3.5
 garnish: Pineapple wedge on rim
 glass: Martini
-infos: 
-  Comment: Why stop at three when you can have a foursome? An interesting meld of apple, orange, anise and pineapple.
-  Origin: Adapted from a drink discovered in 2002 at Circus Bar, London, England.
-  source: www.diffordsguide.com (1948)
-ingredients: 
-- - "1 1/2 "
-  - shot
-  - Boulard Grand Solage calvados
-- - "1"
-  - shot
-  - Cointreau triple sec
-- - " 1/2 "
-  - shot
-  - Pernod anis
-- - "1 1/2 "
-  - shot
-  - Fresh pressed pineapple juice
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: Threesome
-rate: 3.5
+comment: Why stop at three when you can have a foursome? An interesting meld of apple,
+  orange, anise and pineapple.
+aka: 
+variant: 
+origin: Adapted from a drink discovered in 2002 at Circus Bar, London, England.
+source: www.diffordsguide.com (1948)
+recipe_steps:
+- amount: '1'
+  doze: shot
+  ingredient_name: Cointreau triple sec
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Boulard Grand Solage calvados
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Fresh pressed pineapple juice
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Pernod anis

@@ -1,20 +1,22 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Froupe Cocktail
+method: <p>STIR all ingredients with ice and strain into chilled glass.</p>
+rate: 4.0
 garnish: <p>Orange zest twist</p>
 glass: Martini
-infos: 
-  Comment: <p>A bittersweet, herbal old-school drink that's in line for rediscovery. </p>
-  Origin: <p>Adapted from Harry Craddock's 1930 'The Savoy Cocktail Book'.</p>
-  source: www.diffordsguide.com (2661)
-ingredients: 
-- - "1 1/2 "
-  - shot
-  - Courvoisier V.S.O.P cognac
-- - "1 1/2 "
-  - shot
-  - Martini Rosso sweet vermouth
-- - " 1/4 "
-  - shot
-  - Bénédictine D.O.M.
-method: <p>STIR all ingredients with ice and strain into chilled glass.</p>
-name: Froupe Cocktail
-rate: 4.0
+comment: <p>A bittersweet, herbal old-school drink that's in line for rediscovery.
+  </p>
+aka: 
+variant: 
+origin: <p>Adapted from Harry Craddock's 1930 'The Savoy Cocktail Book'.</p>
+source: www.diffordsguide.com (2661)
+recipe_steps:
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Martini Rosso sweet vermouth
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Bénédictine D.O.M.
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Courvoisier V.S.O.P cognac

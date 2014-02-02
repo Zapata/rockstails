@@ -1,23 +1,25 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Pineapple & Cardamom Martini
+method: MUDDLE cardamom in base of shaker. Add other ingredients, SHAKE with ice and
+  fine strain into a chilled glass.
+rate: 5.0
 garnish: Pineapple wedge on rim
 glass: Martini
-infos: 
-  Comment: "This is about as good as it gets: a spectacular pairing of fruit and spice."
-  Origin: Created in 2002 by Henry Besant at The Lonsdale, London, England.
-  source: www.diffordsguide.com (1529)
-ingredients: 
-- - "4"
-  - whole
-  - Cardamom pods
-- - "2"
-  - shot
-  - Ketel One vodka
-- - "2"
-  - shot
-  - Fresh pressed pineapple juice
-- - " 1/4 "
-  - shot
-  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
-method: MUDDLE cardamom in base of shaker. Add other ingredients, SHAKE with ice and fine strain into a chilled glass.
-name: Pineapple & Cardamom Martini
-rate: 5.0
+comment: 'This is about as good as it gets: a spectacular pairing of fruit and spice.'
+aka: 
+variant: 
+origin: Created in 2002 by Henry Besant at The Lonsdale, London, England.
+source: www.diffordsguide.com (1529)
+recipe_steps:
+- amount: '2'
+  doze: shot
+  ingredient_name: Ketel One vodka
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- amount: '2'
+  doze: shot
+  ingredient_name: Fresh pressed pineapple juice
+- amount: '4'
+  doze: whole
+  ingredient_name: Cardamom pods

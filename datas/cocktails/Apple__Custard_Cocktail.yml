@@ -1,23 +1,24 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Apple & Custard Cocktail
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 3.5
 garnish: Apple wedge on rim
 glass: Martini
-infos: 
-  Comment: Smooth and creamy, this tastes like its name.
-  Origin: I created this in 2002 after rediscovering advocaat on a trip to Amsterdam.
-  source: www.diffordsguide.com (68)
-ingredients: 
-- - "2"
-  - shot
-  - Bols advocaat liqueur
-- - "1 1/2 "
-  - shot
-  - Boulard Grand Solage calvados
-- - " 1/2 "
-  - shot
-  - Berentzen Apple schnapps
-- - " 1/4 "
-  - shot
-  - Monin Vanilla sugar syrup
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: Apple & Custard Cocktail
-rate: 3.5
+comment: Smooth and creamy, this tastes like its name.
+aka: 
+variant: 
+origin: I created this in 2002 after rediscovering advocaat on a trip to Amsterdam.
+source: www.diffordsguide.com (68)
+recipe_steps:
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Boulard Grand Solage calvados
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Berentzen Apple schnapps
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Monin Vanilla sugar syrup
+- amount: '2'
+  doze: shot
+  ingredient_name: Bols advocaat liqueur

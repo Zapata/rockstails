@@ -1,23 +1,25 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Tex Collins
+method: STIR honey with gin in base of shaker to dissolve honey . Add grapefruit juice,
+  SHAKE with ice and strain into ice-filled glass. TOP with soda water.
+rate: 3.5
 garnish: Lemon slice
 glass: Collins
-infos: 
-  Comment: A dry, tart blend of grapefruit and gin.
-  Origin: Adapted from a recipe in the 1949 edition of Esquire's Handbook for Hosts.
-  source: www.diffordsguide.com (1941)
-ingredients: 
-- - "2"
-  - shot
-  - Bombay London dry gin
-- - "2"
-  - spoon
-  - Runny honey
-- - "2"
-  - shot
-  - Freshly squeezed grapefruit juice
-- - "1"
-  - top up with
-  - Soda (club soda)
-method: STIR honey with gin in base of shaker to dissolve honey . Add grapefruit juice, SHAKE with ice and strain into ice-filled glass. TOP with soda water.
-name: Tex Collins
-rate: 3.5
+comment: A dry, tart blend of grapefruit and gin.
+aka: 
+variant: 
+origin: Adapted from a recipe in the 1949 edition of Esquire's Handbook for Hosts.
+source: www.diffordsguide.com (1941)
+recipe_steps:
+- amount: '1'
+  doze: top up with
+  ingredient_name: Soda (club soda)
+- amount: '2'
+  doze: shot
+  ingredient_name: Bombay London dry gin
+- amount: '2'
+  doze: spoon
+  ingredient_name: Runny honey
+- amount: '2'
+  doze: shot
+  ingredient_name: Freshly squeezed grapefruit juice

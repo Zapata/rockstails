@@ -1,20 +1,22 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Parisian Sidecar
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 4.5
 garnish: Lemon zest twist<br />
 glass: Martini
-infos: 
-  Comment: An elderflower flavoured Sidecar named after the fashionable Left Bank area of Paris.
-  Origin: Created in 2006 by Yours Truly (Simon Difford).
-  source: www.diffordsguide.com (2725)
-ingredients: 
-- - "1 1/2 "
-  - shot
-  - Courvoisier V.S.O.P cognac
-- - "1 1/2 "
-  - shot
-  - St-Germain elderflower liqueur
-- - "1"
-  - shot
-  - Freshly squeezed lemon juice
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: Parisian Sidecar
-rate: 4.5
+comment: An elderflower flavoured Sidecar named after the fashionable Left Bank area
+  of Paris.
+aka: 
+variant: 
+origin: Created in 2006 by Yours Truly (Simon Difford).
+source: www.diffordsguide.com (2725)
+recipe_steps:
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: St-Germain elderflower liqueur
+- amount: '1'
+  doze: shot
+  ingredient_name: Freshly squeezed lemon juice
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Courvoisier V.S.O.P cognac

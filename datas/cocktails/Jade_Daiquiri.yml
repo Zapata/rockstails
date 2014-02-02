@@ -1,25 +1,27 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Jade Daiquiri
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 3.5
 garnish: Mint leaf
 glass: Martini
-infos: 
-  Comment: A Daiquiri with a splash of orange and mint liqueurs. Fresh breath enhancing.
-  source: www.diffordsguide.com (1043)
-ingredients: 
-- - "2"
-  - shot
-  - Bacardi Superior rum
-- - " 1/4 "
-  - shot
-  - Cointreau triple sec
-- - " 1/4 "
-  - shot
-  - Giffard Menthe Pastille liqueur
-- - " 1/2 "
-  - shot
-  - Freshly squeezed lime juice
-- - " 1/4 "
-  - shot
-  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: Jade Daiquiri
-rate: 3.5
+comment: A Daiquiri with a splash of orange and mint liqueurs. Fresh breath enhancing.
+aka: 
+variant: 
+origin: 
+source: www.diffordsguide.com (1043)
+recipe_steps:
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Cointreau triple sec
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Freshly squeezed lime juice
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- amount: '2'
+  doze: shot
+  ingredient_name: Bacardi Superior rum
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Giffard Menthe Pastille liqueur

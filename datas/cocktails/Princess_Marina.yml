@@ -1,29 +1,31 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Princess Marina
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 4.0
 garnish: Orange zest twist
 glass: Martini
-infos: 
-  Comment: Delicate yet loaded with alcohol and flavour.
-  Origin: Created in the late 1920s/early 1930s and named after the Princess Marina, the late mother of The Duke of Kent, Prince Michael of Kent and Princess Alexandra.
-  source: www.diffordsguide.com (1602)
-ingredients: 
-- - "1"
-  - shot
-  - Bombay London dry gin
-- - " 1/2 "
-  - shot
-  - Boulard Grand Solage calvados
-- - " 1/2 "
-  - shot
-  - Dubonnet Red (French made)
-- - " 1/2 "
-  - shot
-  - Cointreau triple sec
-- - " 1/2 "
-  - shot
-  - Swedish Punch liqueur
-- - " 3/4 "
-  - shot
-  - Chilled mineral water
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: Princess Marina
-rate: 4.0
+comment: Delicate yet loaded with alcohol and flavour.
+aka: 
+variant: 
+origin: Created in the late 1920s/early 1930s and named after the Princess Marina,
+  the late mother of The Duke of Kent, Prince Michael of Kent and Princess Alexandra.
+source: www.diffordsguide.com (1602)
+recipe_steps:
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Cointreau triple sec
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Boulard Grand Solage calvados
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Dubonnet Red (French made)
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Chilled mineral water
+- amount: '1'
+  doze: shot
+  ingredient_name: Bombay London dry gin
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Swedish Punch liqueur

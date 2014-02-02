@@ -1,16 +1,18 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Greyhound
+method: POUR ingredients into ice-filled glass and stir.
+rate: 3.0
 garnish: Orange slice
 glass: Collins
-infos: 
-  Comment: A sour Screwdriver.
-  source: www.diffordsguide.com (919)
-ingredients: 
-- - "2"
-  - shot
-  - Ketel One vodka
-- - "1"
-  - top up with
-  - Freshly squeezed grapefruit juice
-method: POUR ingredients into ice-filled glass and stir.
-name: Greyhound
-rate: 3.0
+comment: A sour Screwdriver.
+aka: 
+variant: 
+origin: 
+source: www.diffordsguide.com (919)
+recipe_steps:
+- amount: '2'
+  doze: shot
+  ingredient_name: Ketel One vodka
+- amount: '1'
+  doze: top up with
+  ingredient_name: Freshly squeezed grapefruit juice

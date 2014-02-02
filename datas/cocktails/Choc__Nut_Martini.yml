@@ -1,22 +1,24 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Choc & Nut Martini
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 3.5
 garnish: Wipe rim with orange and dust with cocoa powder.
 glass: Martini
-infos: 
-  Comment: Surprise, surprise - it's chocolate and hazelnut.
-  source: www.diffordsguide.com (424)
-ingredients: 
-- - "2"
-  - shot
-  - Ketel One vodka
-- - "1"
-  - shot
-  - Hazelnut liqueur
-- - "1"
-  - shot
-  - "White cr\xE8me de cacao liqueur"
-- - " 1/4 "
-  - shot
-  - Chilled mineral water
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: Choc & Nut Martini
-rate: 3.5
+comment: Surprise, surprise - it's chocolate and hazelnut.
+aka: 
+variant: 
+origin: 
+source: www.diffordsguide.com (424)
+recipe_steps:
+- amount: '2'
+  doze: shot
+  ingredient_name: Ketel One vodka
+- amount: '1'
+  doze: shot
+  ingredient_name: White crème de cacao liqueur
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Chilled mineral water
+- amount: '1'
+  doze: shot
+  ingredient_name: Hazelnut liqueur

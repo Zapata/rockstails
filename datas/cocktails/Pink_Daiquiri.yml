@@ -1,30 +1,30 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Pink Daiquiri
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 4.0
 garnish: Lime wedge on rim
 glass: Martini
-infos: 
-  AKA: Daiquiri No.5
-  Comment: The quality of the pomegranate syrup will make or break this delicate Daiquiri.
-  Origin: A classic from the 1930s
-  source: www.diffordsguide.com (1541)
-ingredients: 
-- - "2"
-  - shot
-  - Bacardi Superior rum
-- - " 1/2 "
-  - shot
-  - Pomegranate (grenadine) syrup
-- - " 1/4 "
-  - shot
-  - Luxardo maraschino liqueur
-- - " 1/2 "
-  - shot
-  - Freshly squeezed lime juice
-- - "3"
-  - dash
-  - Angostura aromatic bitters
-- - " 1/2 "
-  - shot
-  - Chilled mineral water
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: Pink Daiquiri
-rate: 4.0
+comment: The quality of the pomegranate syrup will make or break this delicate Daiquiri.
+aka: Daiquiri No.5
+variant: 
+origin: A classic from the 1930s
+source: www.diffordsguide.com (1541)
+recipe_steps:
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Freshly squeezed lime juice
+- amount: '2'
+  doze: shot
+  ingredient_name: Bacardi Superior rum
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Chilled mineral water
+- amount: '3'
+  doze: dash
+  ingredient_name: Angostura aromatic bitters
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Pomegranate (grenadine) syrup
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Luxardo maraschino liqueur

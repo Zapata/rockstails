@@ -1,29 +1,31 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Rude Ginger Cosmopolitan
+method: MUDDLE ginger in base of shaker. Add the other ingredients, SHAKE with ice
+  and fine strain into chilled glass.
+rate: 4.0
 garnish: Orange zest twist
 glass: Martini
-infos: 
-  Comment: To quote Halo's list, &quot;Looks like a cosmo, goes like a Mexican!&quot;
-  Origin: Created in 2003 by Jeremy Adderley at Halo, Edinburgh, Scotland.
-  source: www.diffordsguide.com (1710)
-ingredients: 
-- - "2"
-  - slice
-  - Fresh root ginger (thumbnail sized)
-- - "1 1/2 "
-  - shot
-  - Herradura 100% agave tequila
-- - "1"
-  - shot
-  - Cointreau triple sec
-- - "1"
-  - shot
-  - Ocean Spray cranberry juice
-- - " 1/2 "
-  - shot
-  - Freshly squeezed lime juice
-- - " 1/4 "
-  - shot
-  - Rose's lime cordial
-method: MUDDLE ginger in base of shaker. Add the other ingredients, SHAKE with ice and fine strain into chilled glass.
-name: Rude Ginger Cosmopolitan
-rate: 4.0
+comment: To quote Halo's list, &quot;Looks like a cosmo, goes like a Mexican!&quot;
+aka: 
+variant: 
+origin: Created in 2003 by Jeremy Adderley at Halo, Edinburgh, Scotland.
+source: www.diffordsguide.com (1710)
+recipe_steps:
+- amount: '1'
+  doze: shot
+  ingredient_name: Cointreau triple sec
+- amount: '1'
+  doze: shot
+  ingredient_name: Ocean Spray cranberry juice
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Freshly squeezed lime juice
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Rose's lime cordial
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Herradura 100% agave tequila
+- amount: '2'
+  doze: slice
+  ingredient_name: Fresh root ginger (thumbnail sized)

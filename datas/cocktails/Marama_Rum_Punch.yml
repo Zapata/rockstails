@@ -1,31 +1,35 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Marama Rum Punch
+method: Lightly MUDDLE mint (just to bruise). Add next five ingredients, SHAKE with
+  ice and strain into ice-filled glass. TOP with lemonade, lightly stir and serve
+  with straws.
+rate: 4.0
 garnish: Mint sprig &amp; lime wedge
 glass: Sling
-infos: 
-  Comment: A tangy, well-balanced punch.
-  source: www.diffordsguide.com (1253)
-ingredients: 
-- - "12"
-  - fresh
-  - Mint leaves
-- - "1 1/2 "
-  - shot
-  - Wray & Nephew overproof rum
-- - " 1/2 "
-  - shot
-  - Cointreau triple sec
-- - " 1/2 "
-  - shot
-  - Freshly squeezed lime juice
-- - " 1/2 "
-  - shot
-  - Monin Almond (orgeat) syrup
-- - "3"
-  - dash
-  - Angostura aromatic bitters
-- - "1"
-  - top up with
-  - Lemonade/Sprite/7-Up
-method: Lightly MUDDLE mint (just to bruise). Add next five ingredients, SHAKE with ice and strain into ice-filled glass. TOP with lemonade, lightly stir and serve with straws.
-name: Marama Rum Punch
-rate: 4.0
+comment: A tangy, well-balanced punch.
+aka: 
+variant: 
+origin: 
+source: www.diffordsguide.com (1253)
+recipe_steps:
+- amount: '1'
+  doze: top up with
+  ingredient_name: Lemonade/Sprite/7-Up
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Cointreau triple sec
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Freshly squeezed lime juice
+- amount: '12'
+  doze: fresh
+  ingredient_name: Mint leaves
+- amount: '3'
+  doze: dash
+  ingredient_name: Angostura aromatic bitters
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Wray & Nephew overproof rum
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Monin Almond (orgeat) syrup

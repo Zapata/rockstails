@@ -1,25 +1,29 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Wanton Abandon
+method: MUDDLE strawberries in shaker. Add next 3 ingredients, SHAKE with ice and
+  fine strain into chilled glass. TOP with champagne.
+rate: 4.0
 garnish: Strawberry on rim
 glass: Martini
-infos: 
-  Comment: A crowd-pleaser - looks great and its fruity, balanced flavour will offend few.
-  source: www.diffordsguide.com (2061)
-ingredients: 
-- - "5"
-  - fresh
-  - Strawberries (hulled)
-- - "2"
-  - shot
-  - Ketel One vodka
-- - " 3/4 "
-  - shot
-  - Freshly squeezed lemon juice
-- - " 1/2 "
-  - shot
-  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
-- - "1"
-  - top up with
-  - Perrier Jouet brut champagne
-method: MUDDLE strawberries in shaker. Add next 3 ingredients, SHAKE with ice and fine strain into chilled glass. TOP with champagne.
-name: Wanton Abandon
-rate: 4.0
+comment: A crowd-pleaser - looks great and its fruity, balanced flavour will offend
+  few.
+aka: 
+variant: 
+origin: 
+source: www.diffordsguide.com (2061)
+recipe_steps:
+- amount: '2'
+  doze: shot
+  ingredient_name: Ketel One vodka
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Freshly squeezed lemon juice
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- amount: '1'
+  doze: top up with
+  ingredient_name: Perrier Jouet brut champagne
+- amount: '5'
+  doze: fresh
+  ingredient_name: Strawberries (hulled)

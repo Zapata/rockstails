@@ -1,29 +1,33 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Zeus Martini
+method: POUR Fernet Branca into frozen glass, swirl round and DISCARD. MUDDLE raisins
+  with cognac in base of shaker. Add other ingredients, SHAKE with ice and fine strain
+  into chilled glass.
+rate: 4.5
 garnish: Float three coffee beans
 glass: Martini
-infos: 
-  Comment: Rich, pungent and not too sweet.
-  Origin: Adapted from Dr Zeus, a cocktail created by Adam Ennis in 2001 at Isola, London, England.
-  source: www.diffordsguide.com (2126)
-ingredients: 
-- - "1"
-  - shot
-  - Fernet Branca
-- - "24"
-  - dried
-  - Raisins
-- - "2"
-  - shot
-  - Courvoisier V.S.O.P cognac
-- - " 1/8 "
-  - shot
-  - Kahla coffee liqueur
-- - " 1/4 "
-  - shot
-  - Maple syrup
-- - "1"
-  - shot
-  - Chilled mineral water
-method: POUR Fernet Branca into frozen glass, swirl round and DISCARD. MUDDLE raisins with cognac in base of shaker. Add other ingredients, SHAKE with ice and fine strain into chilled glass.
-name: Zeus Martini
-rate: 4.5
+comment: Rich, pungent and not too sweet.
+aka: 
+variant: 
+origin: Adapted from Dr Zeus, a cocktail created by Adam Ennis in 2001 at Isola, London,
+  England.
+source: www.diffordsguide.com (2126)
+recipe_steps:
+- amount: '1'
+  doze: shot
+  ingredient_name: Chilled mineral water
+- amount: '1'
+  doze: shot
+  ingredient_name: Fernet Branca
+- amount: '2'
+  doze: shot
+  ingredient_name: Courvoisier V.S.O.P cognac
+- amount: ' 1/8 '
+  doze: shot
+  ingredient_name: Kahla coffee liqueur
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Maple syrup
+- amount: '24'
+  doze: dried
+  ingredient_name: Raisins

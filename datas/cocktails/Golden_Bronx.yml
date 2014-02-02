@@ -1,29 +1,32 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Golden Bronx
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 3.5
 garnish: Maraschino cherry
 glass: Martini
-infos: 
-  Comment: A Bronx made 'golden' by the addition of egg yolk.
-  Origin: A vintage cocktail adapted from the classic Bronx Cocktail, created in 1906 by Johnny Solon, a bartender at New York's Waldorf-Astoria Hotel, and named after the newly opened Bronx Zoo.
-  source: www.diffordsguide.com (2175)
-ingredients: 
-- - "2"
-  - shot
-  - Bombay London dry gin
-- - " 1/4 "
-  - shot
-  - Noilly Prat dry vermouth
-- - " 1/4 "
-  - shot
-  - Martini Rosso sweet vermouth
-- - "1"
-  - shot
-  - Freshly squeezed orange juice
-- - " 1/8 "
-  - shot
-  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
-- - "1"
-  - fresh
-  - Egg yolk
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: Golden Bronx
-rate: 3.5
+comment: A Bronx made 'golden' by the addition of egg yolk.
+aka: 
+variant: 
+origin: A vintage cocktail adapted from the classic Bronx Cocktail, created in 1906
+  by Johnny Solon, a bartender at New York's Waldorf-Astoria Hotel, and named after
+  the newly opened Bronx Zoo.
+source: www.diffordsguide.com (2175)
+recipe_steps:
+- amount: ' 1/8 '
+  doze: shot
+  ingredient_name: Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Noilly Prat dry vermouth
+- amount: '1'
+  doze: shot
+  ingredient_name: Freshly squeezed orange juice
+- amount: '2'
+  doze: shot
+  ingredient_name: Bombay London dry gin
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Martini Rosso sweet vermouth
+- amount: '1'
+  doze: fresh
+  ingredient_name: Egg yolk

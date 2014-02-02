@@ -1,17 +1,21 @@
---- !ruby/object:DirtyCocktail 
+---
+name: In-and-Out Martini
+method: Gently SHAKE vermouth with ice. Strain and discard vermouth to leave the ice
+  in the shaker coated with vermouth. Add gin, SHAKE again with coated ice and strain
+  into chilled glass.<br /><br />
+rate: 4.0
 garnish: Olive or lemon zest twist
 glass: Martini
-infos: 
-  Comment: A well diluted shaken Dry Martini.
-  Origin: Unknown but former U.S. President Richard Nixon is to have preferred his Martini made this way.<br /><br />
-  source: www.diffordsguide.com (2450)
-ingredients: 
-- - " 1/2 "
-  - shot
-  - Noilly Prat dry vermouth
-- - "2 1/2 "
-  - shot
-  - Bombay London dry gin
-method: Gently SHAKE vermouth with ice. Strain and discard vermouth to leave the ice in the shaker coated with vermouth. Add gin, SHAKE again with coated ice and strain into chilled glass.<br /><br />
-name: In-and-Out Martini
-rate: 4.0
+comment: A well diluted shaken Dry Martini.
+aka: 
+variant: 
+origin: Unknown but former U.S. President Richard Nixon is to have preferred his Martini
+  made this way.<br /><br />
+source: www.diffordsguide.com (2450)
+recipe_steps:
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Noilly Prat dry vermouth
+- amount: '2 1/2 '
+  doze: shot
+  ingredient_name: Bombay London dry gin

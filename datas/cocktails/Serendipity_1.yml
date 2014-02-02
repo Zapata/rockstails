@@ -1,32 +1,34 @@
---- !ruby/object:DirtyCocktail 
+---
+name: 'Serendipity #1'
+method: MUDDLE blackberries in in base of shaker. Add other ingredients, SHAKE with
+  ice and strain into glass filled with crushed ice.
+rate: 4.0
 garnish: Slice of lemon
 glass: Collins
-infos: 
-  Comment: Long, red, fruity, vanilla
-  Origin: Created in 2002 by Jamie Stephenson, Manchester, England
-  source: www.diffordsguide.com (1809)
-ingredients: 
-- - "6"
-  - fresh
-  - Blackberries
-- - "1"
-  - shot
-  - Bombay London dry gin
-- - " 1/2 "
-  - shot
-  - Vanilla schnapps
-- - " 1/2 "
-  - shot
-  - "Cr\xE8me de cassis liqueur"
-- - "3"
-  - shot
-  - Ocean Spray cranberry juice
-- - " 1/4 "
-  - shot
-  - Freshly squeezed lemon juice
-- - " 1/4 "
-  - shot
-  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
-method: MUDDLE blackberries in in base of shaker. Add other ingredients, SHAKE with ice and strain into glass filled with crushed ice.
-name: "Serendipity #1"
-rate: 4.0
+comment: Long, red, fruity, vanilla
+aka: 
+variant: 
+origin: Created in 2002 by Jamie Stephenson, Manchester, England
+source: www.diffordsguide.com (1809)
+recipe_steps:
+- amount: '3'
+  doze: shot
+  ingredient_name: Ocean Spray cranberry juice
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Freshly squeezed lemon juice
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- amount: '1'
+  doze: shot
+  ingredient_name: Bombay London dry gin
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Crème de cassis liqueur
+- amount: '6'
+  doze: fresh
+  ingredient_name: Blackberries
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Vanilla schnapps

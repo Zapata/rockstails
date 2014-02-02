@@ -1,29 +1,31 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Doughnut Martini
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 3.5
 garnish: Segment of doughnut
 glass: Martini
-infos: 
-  Comment: My attempt at mimicking the taste of a Krispy Kreme Original Glazed doughnut without ending up with an overly sweet cocktail.
-  Origin: Created in 2003 by Yours Truly (Simon Difford).
-  source: www.diffordsguide.com (667)
-ingredients: 
-- - "1 1/2 "
-  - shot
-  - Bacardi Superior rum
-- - " 3/4 "
-  - shot
-  - Maker's Mark bourbon
-- - " 1/2 "
-  - shot
-  - Vanilla schnapps
-- - " 1/2 "
-  - shot
-  - Cuarenta y Tres (Licor 43) liqueur
-- - " 1/2 "
-  - shot
-  - Teichenn butterscotch schnapps
-- - " 3/4 "
-  - shot
-  - Chilled mineral water
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: Doughnut Martini
-rate: 3.5
+comment: My attempt at mimicking the taste of a Krispy Kreme Original Glazed doughnut
+  without ending up with an overly sweet cocktail.
+aka: 
+variant: 
+origin: Created in 2003 by Yours Truly (Simon Difford).
+source: www.diffordsguide.com (667)
+recipe_steps:
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Bacardi Superior rum
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Chilled mineral water
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Maker's Mark bourbon
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Teichenn butterscotch schnapps
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Cuarenta y Tres (Licor 43) liqueur
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Vanilla schnapps

@@ -1,26 +1,29 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Trinity
+method: STIR all ingredients with ice and strain into chilled glass.
+rate: 3.5
 garnish: Orange twist (discarded) &amp; two maraschino cherries
 glass: Martini
-infos: 
-  Comment: A Dry Manhattan based on Scotch with a dash of apricot liqueur and a touch of crème de menthe.
-  Origin: Recipe purloined from David Embury's classic book, The Fine Art of Mixing Drinks.
-  source: www.diffordsguide.com (1989)
-ingredients: 
-- - "2 1/2 "
-  - shot
-  - Johnnie Walker Scotch Whisky
-- - " 1/4 "
-  - shot
-  - Bols apricot brandy liqueur
-- - "1"
-  - shot
-  - Noilly Prat dry vermouth
-- - " 1/4 "
-  - shot
-  - Giffard Menthe Pastille liqueur
-- - "1"
-  - dash
-  - Angostura orange bitters
-method: STIR all ingredients with ice and strain into chilled glass.
-name: Trinity
-rate: 3.5
+comment: A Dry Manhattan based on Scotch with a dash of apricot liqueur and a touch
+  of crème de menthe.
+aka: 
+variant: 
+origin: Recipe purloined from David Embury's classic book, The Fine Art of Mixing
+  Drinks.
+source: www.diffordsguide.com (1989)
+recipe_steps:
+- amount: '1'
+  doze: shot
+  ingredient_name: Noilly Prat dry vermouth
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Bols apricot brandy liqueur
+- amount: '1'
+  doze: dash
+  ingredient_name: Angostura orange bitters
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Giffard Menthe Pastille liqueur
+- amount: '2 1/2 '
+  doze: shot
+  ingredient_name: Johnnie Walker Scotch Whisky

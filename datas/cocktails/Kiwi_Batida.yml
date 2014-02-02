@@ -1,19 +1,23 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Kiwi Batida
+method: Cut kiwi in half and scoop flesh into blender. Add other ingredients and BLEND
+  with 18oz scoop crushed ice until smooth. Serve with straws.
+rate: 3.0
 garnish: Kiwi slice
 glass: Collins
-infos: 
-  Comment: The kiwi fruit flavour is a little lacking so this drink is improved by using kiwi-flavoured sugar syrup.
-  source: www.diffordsguide.com (1111)
-ingredients: 
-- - "2 1/2 "
-  - shot
-  - Leblon cachaca
-- - "1"
-  - fresh
-  - Kiwi fruit
-- - "1"
-  - shot
-  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
-method: Cut kiwi in half and scoop flesh into blender. Add other ingredients and BLEND with 18oz scoop crushed ice until smooth. Serve with straws.
-name: Kiwi Batida
-rate: 3.0
+comment: The kiwi fruit flavour is a little lacking so this drink is improved by using
+  kiwi-flavoured sugar syrup.
+aka: 
+variant: 
+origin: 
+source: www.diffordsguide.com (1111)
+recipe_steps:
+- amount: '1'
+  doze: shot
+  ingredient_name: Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- amount: '1'
+  doze: fresh
+  ingredient_name: Kiwi fruit
+- amount: '2 1/2 '
+  doze: shot
+  ingredient_name: Leblon cachaca

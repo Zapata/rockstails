@@ -1,22 +1,24 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Stupid Cupid
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 3.0
 garnish: Lemon zest twist
 glass: Martini
-infos: 
-  Comment: Citrussy with a subtle Sloe gin.
-  source: www.diffordsguide.com (1890)
-ingredients: 
-- - "2"
-  - shot
-  - Ketel One Citroen vodka
-- - " 1/2 "
-  - shot
-  - Sloe Gin liqueur
-- - "1"
-  - shot
-  - Freshly squeezed lime juice
-- - " 1/2 "
-  - shot
-  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: Stupid Cupid
-rate: 3.0
+comment: Citrussy with a subtle Sloe gin.
+aka: 
+variant: 
+origin: 
+source: www.diffordsguide.com (1890)
+recipe_steps:
+- amount: '2'
+  doze: shot
+  ingredient_name: Ketel One Citroen vodka
+- amount: '1'
+  doze: shot
+  ingredient_name: Freshly squeezed lime juice
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Sloe Gin liqueur

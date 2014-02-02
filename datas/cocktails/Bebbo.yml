@@ -1,26 +1,29 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Bebbo
+method: STIR honey with gin in base of shaker until honey dissolves. Add other ingredients,
+  SHAKE with ice and fine strain into chilled glass.
+rate: 4.0
 garnish: Lemon zest twist
 glass: Martini
-infos: 
-  Comment: Fresh, clean and fruity with honeyed notes. Choose your honey wisely.
-  Origin: A long lost relation of the Bee's Knees. This recipe is based on one from Ted Haigh's 2004 book 'Vintage Spirits &amp; Forgotten Cocktails'.
-  source: www.diffordsguide.com (193)
-ingredients: 
-- - "2"
-  - spoon
-  - Runny honey
-- - "1 1/2 "
-  - shot
-  - Bombay London dry gin
-- - "1"
-  - shot
-  - Freshly squeezed lemon juice
-- - " 1/2 "
-  - shot
-  - Freshly squeezed orange juice
-- - " 1/4 "
-  - shot
-  - Chilled mineral water
-method: STIR honey with gin in base of shaker until honey dissolves. Add other ingredients, SHAKE with ice and fine strain into chilled glass.
-name: Bebbo
-rate: 4.0
+comment: Fresh, clean and fruity with honeyed notes. Choose your honey wisely.
+aka: 
+variant: 
+origin: A long lost relation of the Bee's Knees. This recipe is based on one from
+  Ted Haigh's 2004 book 'Vintage Spirits &amp; Forgotten Cocktails'.
+source: www.diffordsguide.com (193)
+recipe_steps:
+- amount: '1'
+  doze: shot
+  ingredient_name: Freshly squeezed lemon juice
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Chilled mineral water
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Freshly squeezed orange juice
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Bombay London dry gin
+- amount: '2'
+  doze: spoon
+  ingredient_name: Runny honey

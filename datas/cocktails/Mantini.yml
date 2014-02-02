@@ -1,17 +1,19 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Mantini
+method: STIR all ingredients with ice and strain into chilled glass.<br />
+rate: 4.5
 garnish: Olives wrapped in cooked bacon<br />
 glass: Martini
-infos: 
-  Comment: A gin martini-style drink made with beer in place of vermouth. A suitably manly garnish is also called for.
-  Origin: <br _moz_editor_bogus_node="TRUE" />
-  source: www.diffordsguide.com (2881)
-ingredients: 
-- - "2 1/2 "
-  - shot
-  - Bombay London dry gin
-- - " 1/2 "
-  - shot
-  - British cask conditioned ale
-method: STIR all ingredients with ice and strain into chilled glass.<br />
-name: Mantini
-rate: 4.5
+comment: A gin martini-style drink made with beer in place of vermouth. A suitably
+  manly garnish is also called for.
+aka: 
+variant: 
+origin: <br _moz_editor_bogus_node="TRUE" />
+source: www.diffordsguide.com (2881)
+recipe_steps:
+- amount: '2 1/2 '
+  doze: shot
+  ingredient_name: Bombay London dry gin
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: British cask conditioned ale

@@ -1,20 +1,27 @@
---- !ruby/object:DirtyCocktail 
+---
+name: 'Absinthe Drip Cocktail #1 (French method)'
+method: POUR absinthe into glass. PLACE cube of sugar on a slotted absinthe spoon
+  resting across the top of the glass. Using a bottle of chilled mineral water with
+  a small hole in the cap, DRIP water over the sugar so it dissolves and drips into
+  the glass. Traditionally the same amount of sugar is added as water but I find full
+  strength absinthe requires more dilution. Add ice, stir and serve.
+rate: 3.0
 garnish: None<br />
 glass: Absinthe glass or old-fashioned
-infos: 
-  Comment: <p>Patience is a virtue. Slow dripping of the water is essential to dissolve the entire sugar cube and give the drink enough sweetness to balance the absinthe.</p>
-  Origin: <p>This is the traditional method of serving absinthe. It was common until shortly before the First World War, when the drink was banned in most countries.</p>
-  source: www.diffordsguide.com (507)
-ingredients: 
-- - "1 1/2 "
-  - shot
-  - "La F\xE9e Parisienne (68%) absinthe"
-- - "2"
-  - shot
-  - Chilled mineral water
-- - "1"
-  - cube
-  - Granulated sugar
-method: POUR absinthe into glass. PLACE cube of sugar on a slotted absinthe spoon resting across the top of the glass. Using a bottle of chilled mineral water with a small hole in the cap, DRIP water over the sugar so it dissolves and drips into the glass. Traditionally the same amount of sugar is added as water but I find full strength absinthe requires more dilution. Add ice, stir and serve.
-name: "Absinthe Drip Cocktail #1 (French method)"
-rate: 3.0
+comment: <p>Patience is a virtue. Slow dripping of the water is essential to dissolve
+  the entire sugar cube and give the drink enough sweetness to balance the absinthe.</p>
+aka: 
+variant: 
+origin: <p>This is the traditional method of serving absinthe. It was common until
+  shortly before the First World War, when the drink was banned in most countries.</p>
+source: www.diffordsguide.com (507)
+recipe_steps:
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: La Fée Parisienne (68%) absinthe
+- amount: '2'
+  doze: shot
+  ingredient_name: Chilled mineral water
+- amount: '1'
+  doze: cube
+  ingredient_name: Granulated sugar

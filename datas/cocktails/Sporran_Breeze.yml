@@ -1,20 +1,25 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Sporran Breeze
+method: SHAKE all ingredients with ice and strain into ice-filled glass. Serve with
+  straws.
+rate: 4.5
 garnish: Apple slice on rim
 glass: Collins
-infos: 
-  Comment: As with all simple drinks, the quality and flavour of the three ingredients used greatly affects the end product - choose wisely and you'll have a deliciously fresh blend of malty fruit.
-  Origin: Phillip Jeffrey created this drink for me in 2002 at the GE Club, London, England. I take credit (if any's due) for the name.
-  source: www.diffordsguide.com (1860)
-ingredients: 
-- - "2"
-  - shot
-  - Johnnie Walker Scotch Whisky
-- - "4"
-  - shot
-  - Pressed apple juice
-- - " 1/2 "
-  - shot
-  - Passion fruit syrup
-method: SHAKE all ingredients with ice and strain into ice-filled glass. Serve with straws.
-name: Sporran Breeze
-rate: 4.5
+comment: As with all simple drinks, the quality and flavour of the three ingredients
+  used greatly affects the end product - choose wisely and you'll have a deliciously
+  fresh blend of malty fruit.
+aka: 
+variant: 
+origin: Phillip Jeffrey created this drink for me in 2002 at the GE Club, London,
+  England. I take credit (if any's due) for the name.
+source: www.diffordsguide.com (1860)
+recipe_steps:
+- amount: '4'
+  doze: shot
+  ingredient_name: Pressed apple juice
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Passion fruit syrup
+- amount: '2'
+  doze: shot
+  ingredient_name: Johnnie Walker Scotch Whisky

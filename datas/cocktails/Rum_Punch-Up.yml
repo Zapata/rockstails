@@ -1,26 +1,28 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Rum Punch-Up
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 4.5
 garnish: Lime wedge on rim
 glass: Martini
-infos: 
-  Comment: Exactly  what the name promises - a rum punch served straight-up. Daiquiri style.
-  Origin: Adapted from a drink discovered in 2006 at Albannach, London, England.
-  source: www.diffordsguide.com (1713)
-ingredients: 
-- - "1 1/2 "
-  - shot
-  - Wray & Nephew overproof rum
-- - " 1/2 "
-  - shot
-  - Freshly squeezed lime juice
-- - " 1/2 "
-  - shot
-  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
-- - "2"
-  - dash
-  - Angostura aromatic bitters
-- - "1"
-  - shot
-  - Chilled mineral water
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: Rum Punch-Up
-rate: 4.5
+comment: Exactly  what the name promises - a rum punch served straight-up. Daiquiri
+  style.
+aka: 
+variant: 
+origin: Adapted from a drink discovered in 2006 at Albannach, London, England.
+source: www.diffordsguide.com (1713)
+recipe_steps:
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Freshly squeezed lime juice
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- amount: '1'
+  doze: shot
+  ingredient_name: Chilled mineral water
+- amount: '2'
+  doze: dash
+  ingredient_name: Angostura aromatic bitters
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Wray & Nephew overproof rum

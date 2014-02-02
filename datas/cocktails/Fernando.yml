@@ -1,23 +1,25 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Fernando
+method: STIR all ingredients with ice and strain into chilled glass.<br />
+rate: 4.0
 garnish: 
 glass: Coupette
-infos: 
-  Comment: An unusually vermouth based herbal cocktail - very fresh and aromatic.
-  Origin: Drink adapted from one discovered in 2010 at Employees Only, New York City, USA. Origionally based only on bianco vermouth with no dry vermouth.<br />
-  source: www.diffordsguide.com (2798)
-ingredients: 
-- - "1"
-  - shot
-  - Noilly Prat dry vermouth
-- - "1"
-  - shot
-  - Martini Rosso sweet vermouth
-- - " 1/4 "
-  - shot
-  - Galliano L'Autentico liqueur
-- - " 1/8 "
-  - shot
-  - Fernet Branca
-method: STIR all ingredients with ice and strain into chilled glass.<br />
-name: Fernando
-rate: 4.0
+comment: An unusually vermouth based herbal cocktail - very fresh and aromatic.
+aka: 
+variant: 
+origin: Drink adapted from one discovered in 2010 at Employees Only, New York City,
+  USA. Origionally based only on bianco vermouth with no dry vermouth.<br />
+source: www.diffordsguide.com (2798)
+recipe_steps:
+- amount: '1'
+  doze: shot
+  ingredient_name: Noilly Prat dry vermouth
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Galliano L'Autentico liqueur
+- amount: '1'
+  doze: shot
+  ingredient_name: Martini Rosso sweet vermouth
+- amount: ' 1/8 '
+  doze: shot
+  ingredient_name: Fernet Branca

@@ -1,26 +1,28 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Fantasia (Mocktail)
+method: SHAKE first four ingredients with ice and strain into ice-filled glass. TOP
+  with lemonade, stir and serve with straws.
+rate: 3.5
 garnish: Lime wedge
 glass: Collins
-infos: 
-  Comment: A Spanish twist on the popular Australian LLB.
-  Origin: Discovered in 2004 at Claris Hotel, Barcelona, Spain.
-  source: www.diffordsguide.com (739)
-ingredients: 
-- - " 1/4 "
-  - shot
-  - Freshly squeezed lime juice
-- - " 1/4 "
-  - shot
-  - Freshly squeezed lemon juice
-- - " 1/4 "
-  - shot
-  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
-- - "5"
-  - dash
-  - Angostura aromatic bitters
-- - "1"
-  - top up with
-  - Lemonade/Sprite/7-Up
-method: SHAKE first four ingredients with ice and strain into ice-filled glass. TOP with lemonade, stir and serve with straws.
-name: Fantasia (Mocktail)
-rate: 3.5
+comment: A Spanish twist on the popular Australian LLB.
+aka: 
+variant: 
+origin: Discovered in 2004 at Claris Hotel, Barcelona, Spain.
+source: www.diffordsguide.com (739)
+recipe_steps:
+- amount: '1'
+  doze: top up with
+  ingredient_name: Lemonade/Sprite/7-Up
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Freshly squeezed lime juice
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Freshly squeezed lemon juice
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- amount: '5'
+  doze: dash
+  ingredient_name: Angostura aromatic bitters

@@ -1,19 +1,21 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Ginger Nut
+method: POUR ingredients into ice-filled glass and stir.
+rate: 3.5
 garnish: Lemon wedge
 glass: Collins
-infos: 
-  Comment: A long, refreshing meld of strong flavours.
-  source: www.diffordsguide.com (854)
-ingredients: 
-- - "1 1/2 "
-  - shot
-  - Ketel One Citroen vodka
-- - "1 1/2 "
-  - shot
-  - Hazelnut liqueur
-- - "1"
-  - top up with
-  - Ginger beer
-method: POUR ingredients into ice-filled glass and stir.
-name: Ginger Nut
-rate: 3.5
+comment: A long, refreshing meld of strong flavours.
+aka: 
+variant: 
+origin: 
+source: www.diffordsguide.com (854)
+recipe_steps:
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Ketel One Citroen vodka
+- amount: '1'
+  doze: top up with
+  ingredient_name: Ginger beer
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Hazelnut liqueur

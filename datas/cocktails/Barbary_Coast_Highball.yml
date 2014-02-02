@@ -1,29 +1,31 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Barbary Coast Highball
+method: SHAKE all but soda with ice and strain into ice-filled glass. TOP with soda
+  and stir.
+rate: 3.5
 garnish: None
 glass: Collins
-infos: 
-  Comment: Looks like a glass of frothy weak tea - bourbon and chocolate predominate.
-  Variant: Omit soda and serve straight-up in a Martini glass.
-  source: www.diffordsguide.com (169)
-ingredients: 
-- - "1"
-  - shot
-  - Maker's Mark bourbon
-- - "1"
-  - shot
-  - Bombay London dry gin
-- - "1"
-  - shot
-  - "Brown cr\xE8me de cacao liqueur"
-- - " 1/2 "
-  - shot
-  - Double (heavy) cream
-- - " 1/2 "
-  - shot
-  - Milk
-- - "1"
-  - top up with
-  - Soda (club soda)
-method: SHAKE all but soda with ice and strain into ice-filled glass. TOP with soda and stir.
-name: Barbary Coast Highball
-rate: 3.5
+comment: Looks like a glass of frothy weak tea - bourbon and chocolate predominate.
+aka: 
+variant: Omit soda and serve straight-up in a Martini glass.
+origin: 
+source: www.diffordsguide.com (169)
+recipe_steps:
+- amount: '1'
+  doze: top up with
+  ingredient_name: Soda (club soda)
+- amount: '1'
+  doze: shot
+  ingredient_name: Bombay London dry gin
+- amount: '1'
+  doze: shot
+  ingredient_name: Brown crème de cacao liqueur
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Double (heavy) cream
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Milk
+- amount: '1'
+  doze: shot
+  ingredient_name: Maker's Mark bourbon

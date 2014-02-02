@@ -1,20 +1,24 @@
---- !ruby/object:DirtyCocktail 
+---
+name: 'Purgatory '
+method: SHAKE all ingredients with ice and strain into chilled glass. <br />
+rate: 4.5
 garnish: SHAKE all ingredients with ice and strain into chilled glass. <br />
 glass: Martini
-infos: 
-  Comment: "Too many and you're in it. "
-  Origin: Created in 2007 by Ted Kilgore at Monarch Restaurant, Maplewood, USA. Adapted from an adapted recipe by Gary Regan and first published in his column in The San Francisco Chronicle. Apparently, Kilgore created this drink as a pick-me-up.<br /><br />
-  source: www.diffordsguide.com (2551)
-ingredients: 
-- - "2 1/2 "
-  - shot
-  - Rye whiskey
-- - " 3/4 "
-  - shot
-  - Bénédictine D.O.M.
-- - " 3/4 "
-  - shot
-  - Chartreuse Green liqueur
-method: SHAKE all ingredients with ice and strain into chilled glass. <br />
-name: "Purgatory "
-rate: 4.5
+comment: 'Too many and you''re in it. '
+aka: 
+variant: 
+origin: Created in 2007 by Ted Kilgore at Monarch Restaurant, Maplewood, USA. Adapted
+  from an adapted recipe by Gary Regan and first published in his column in The San
+  Francisco Chronicle. Apparently, Kilgore created this drink as a pick-me-up.<br
+  /><br />
+source: www.diffordsguide.com (2551)
+recipe_steps:
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Chartreuse Green liqueur
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Bénédictine D.O.M.
+- amount: '2 1/2 '
+  doze: shot
+  ingredient_name: Rye whiskey

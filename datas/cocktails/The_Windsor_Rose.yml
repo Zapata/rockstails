@@ -1,26 +1,28 @@
---- !ruby/object:DirtyCocktail 
+---
+name: The Windsor Rose
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 4.0
 garnish: Float rose petal
 glass: Martini
-infos: 
-  Comment: An orange vodka and rosewater Cosmo.
-  Origin: Adapted from a drink discovered in 2005 at The Polo Club Lounge, New Orleans, USA.
-  source: www.diffordsguide.com (2103)
-ingredients: 
-- - "1 1/4 "
-  - shot
-  - Orange-infused Ketel One vodka
-- - "1"
-  - shot
-  - Cointreau triple sec
-- - "1"
-  - shot
-  - Ocean Spray cranberry juice
-- - " 1/2 "
-  - shot
-  - Freshly squeezed lime juice
-- - " 1/8 "
-  - shot
-  - Rose water
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: The Windsor Rose
-rate: 4.0
+comment: An orange vodka and rosewater Cosmo.
+aka: 
+variant: 
+origin: Adapted from a drink discovered in 2005 at The Polo Club Lounge, New Orleans,
+  USA.
+source: www.diffordsguide.com (2103)
+recipe_steps:
+- amount: '1'
+  doze: shot
+  ingredient_name: Cointreau triple sec
+- amount: '1'
+  doze: shot
+  ingredient_name: Ocean Spray cranberry juice
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Freshly squeezed lime juice
+- amount: ' 1/8 '
+  doze: shot
+  ingredient_name: Rose water
+- amount: '1 1/4 '
+  doze: shot
+  ingredient_name: Orange-infused Ketel One vodka

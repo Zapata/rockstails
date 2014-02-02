@@ -1,23 +1,25 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Red Breast
+method: POUR first 3 ingredients into ice-filled glass and lightly stir. DRIZZLE raspberry
+  liqueur over surface of drink.
+rate: 3.5
 garnish: Raspberry
 glass: Collins
-infos: 
-  Comment: Long and a tad pink but packs a tasty punch.
-  Origin: Created in 2004 by Wayne Collins, England.
-  source: www.diffordsguide.com (1655)
-ingredients: 
-- - "2"
-  - shot
-  - Johnnie Walker Scotch Whisky
-- - " 1/2 "
-  - shot
-  - Freshly squeezed lime juice
-- - "1"
-  - top up with
-  - Ginger beer
-- - " 1/2 "
-  - shot
-  - "Cr\xE8me de framboise liqueur"
-method: POUR first 3 ingredients into ice-filled glass and lightly stir. DRIZZLE raspberry liqueur over surface of drink.
-name: Red Breast
-rate: 3.5
+comment: Long and a tad pink but packs a tasty punch.
+aka: 
+variant: 
+origin: Created in 2004 by Wayne Collins, England.
+source: www.diffordsguide.com (1655)
+recipe_steps:
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Freshly squeezed lime juice
+- amount: '2'
+  doze: shot
+  ingredient_name: Johnnie Walker Scotch Whisky
+- amount: '1'
+  doze: top up with
+  ingredient_name: Ginger beer
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Crème de framboise liqueur

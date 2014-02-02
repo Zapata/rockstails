@@ -1,24 +1,25 @@
---- !ruby/object:DirtyCocktail 
+---
+name: House-Made Clover Club
+method: SHAKE all ingredients with ice and fine strain into chilled glass.<br />
+rate: 4.5
 garnish: Lemon zest twist<br />
 glass: Martini
-infos: 
-  Comment: "Fruity, light, well-balanced and easy-drinking. "
-  Origin: Created by Julie Reiner at Clover Club, New York City, USA.<br />
-  source: www.diffordsguide.com (2809)
-  Variant: Substitute vodka or tequila for gin. Different flavours of jam may also be used.<br />
-ingredients: 
-- - "1 1/2 "
-  - shot
-  - Bombay London dry gin
-- - "1 1/2 "
-  - spoon
-  - Raspberry syrup (1 juice to 1 sugar)
-- - " 1/2 "
-  - shot
-  - Noilly Prat dry vermouth
-- - " 3/4 "
-  - shot
-  - Freshly squeezed lemon juice
-method: SHAKE all ingredients with ice and fine strain into chilled glass.<br />
-name: House-Made Clover Club
-rate: 4.5
+comment: 'Fruity, light, well-balanced and easy-drinking. '
+aka: 
+variant: Substitute vodka or tequila for gin. Different flavours of jam may also be
+  used.<br />
+origin: Created by Julie Reiner at Clover Club, New York City, USA.<br />
+source: www.diffordsguide.com (2809)
+recipe_steps:
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Freshly squeezed lemon juice
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Noilly Prat dry vermouth
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Bombay London dry gin
+- amount: '1 1/2 '
+  doze: spoon
+  ingredient_name: Raspberry syrup (1 juice to 1 sugar)

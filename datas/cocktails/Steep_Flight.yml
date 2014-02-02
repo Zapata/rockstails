@@ -1,23 +1,26 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Steep Flight
+method: SHAKE all ingredients with ice and fine strain into ice-filled glass.
+rate: 5.0
 garnish: Apple or pear slice
 glass: Collins
-infos: 
-  Comment: "'Apples and pears' is the cockney rhyming slang for stairs, hence the flavours in this particular flight."
-  Origin: Created in 2005 by Yours Truly (Simon Difford). Awarded a Gold in Long Drink category at Drinks International Bartender's Challenge on<br />31st May 2006.
-  source: www.diffordsguide.com (1872)
-ingredients: 
-- - "1"
-  - shot
-  - Boulard Grand Solage calvados
-- - "1"
-  - shot
-  - Ketel One vodka
-- - "1"
-  - shot
-  - Courvoisier V.S.O.P cognac
-- - "3"
-  - shot
-  - Pressed apple juice
-method: SHAKE all ingredients with ice and fine strain into ice-filled glass.
-name: Steep Flight
-rate: 5.0
+comment: '''Apples and pears'' is the cockney rhyming slang for stairs, hence the
+  flavours in this particular flight.'
+aka: 
+variant: 
+origin: Created in 2005 by Yours Truly (Simon Difford). Awarded a Gold in Long Drink
+  category at Drinks International Bartender's Challenge on<br />31st May 2006.
+source: www.diffordsguide.com (1872)
+recipe_steps:
+- amount: '1'
+  doze: shot
+  ingredient_name: Ketel One vodka
+- amount: '1'
+  doze: shot
+  ingredient_name: Boulard Grand Solage calvados
+- amount: '3'
+  doze: shot
+  ingredient_name: Pressed apple juice
+- amount: '1'
+  doze: shot
+  ingredient_name: Courvoisier V.S.O.P cognac

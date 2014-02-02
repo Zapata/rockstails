@@ -1,29 +1,31 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Grapefruit Julep
+method: STIR honey with vodka in base of shaker until honey dissolves. Add other ingredients,
+  SHAKE with ice and strain into glass filled with crushed ice.
+rate: 4.5
 garnish: Mint sprig
 glass: Collins
-infos: 
-  Comment: Wonderfully refreshing. Bring on the sun.
-  Origin: Created by Dale DeGroff, New York City, USA.
-  source: www.diffordsguide.com (901)
-ingredients: 
-- - "1"
-  - spoon
-  - Runny honey
-- - "2"
-  - shot
-  - Ketel One vodka
-- - "4"
-  - fresh
-  - Mint leaves
-- - " 1/2 "
-  - shot
-  - Freshly squeezed lime juice
-- - " 3/4 "
-  - shot
-  - Freshly squeezed grapefruit juice
-- - " 1/2 "
-  - shot
-  - Pomegranate (grenadine) syrup
-method: STIR honey with vodka in base of shaker until honey dissolves. Add other ingredients, SHAKE with ice and strain into glass filled with crushed ice.
-name: Grapefruit Julep
-rate: 4.5
+comment: Wonderfully refreshing. Bring on the sun.
+aka: 
+variant: 
+origin: Created by Dale DeGroff, New York City, USA.
+source: www.diffordsguide.com (901)
+recipe_steps:
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Freshly squeezed lime juice
+- amount: '4'
+  doze: fresh
+  ingredient_name: Mint leaves
+- amount: '2'
+  doze: shot
+  ingredient_name: Ketel One vodka
+- amount: '1'
+  doze: spoon
+  ingredient_name: Runny honey
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Freshly squeezed grapefruit juice
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Pomegranate (grenadine) syrup

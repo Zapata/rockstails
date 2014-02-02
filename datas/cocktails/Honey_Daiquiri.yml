@@ -1,22 +1,26 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Honey Daiquiri
+method: STIR honey with rum in base of shaker until honey dissolves. Add other ingredients,
+  SHAKE with ice and fine strain into chilled glass.
+rate: 4.5
 garnish: Lime wedge on rim
 glass: Martini
-infos: 
-  Comment: Sweet honey replaces sugar syrup in this natural Daiquiri. Try experimenting with different honeys. I favour orange blossom honey.
-  source: www.diffordsguide.com (965)
-ingredients: 
-- - "2"
-  - spoon
-  - Runny honey
-- - "2"
-  - shot
-  - Bacardi Superior rum
-- - " 1/2 "
-  - shot
-  - Freshly squeezed lime juice
-- - " 1/2 "
-  - shot
-  - Chilled mineral water
-method: STIR honey with rum in base of shaker until honey dissolves. Add other ingredients, SHAKE with ice and fine strain into chilled glass.
-name: Honey Daiquiri
-rate: 4.5
+comment: Sweet honey replaces sugar syrup in this natural Daiquiri. Try experimenting
+  with different honeys. I favour orange blossom honey.
+aka: 
+variant: 
+origin: 
+source: www.diffordsguide.com (965)
+recipe_steps:
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Freshly squeezed lime juice
+- amount: '2'
+  doze: shot
+  ingredient_name: Bacardi Superior rum
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Chilled mineral water
+- amount: '2'
+  doze: spoon
+  ingredient_name: Runny honey

@@ -1,29 +1,31 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Dirty Banana
+method: BLEND all ingredients with 12oz scoop crushed ice. Serve with straws.
+rate: 4.0
 garnish: Banana slice on rim
 glass: Collins
-infos: 
-  Comment: Long, creamy and filling banana drink with a 'dirty' flavour and colour courtesy of coffee liqueur.
-  Origin: A popular cocktail in Jamaica.
-  source: www.diffordsguide.com (649)
-ingredients: 
-- - "1 1/2 "
-  - shot
-  - Bacardi Superior rum
-- - "1"
-  - shot
-  - Kahla coffee liqueur
-- - "1"
-  - shot
-  - "Cr\xE8me de banane liqueur"
-- - "1"
-  - shot
-  - Double (heavy) cream
-- - "1"
-  - shot
-  - Milk
-- - "1"
-  - fresh
-  - Banana (peeled)
-method: BLEND all ingredients with 12oz scoop crushed ice. Serve with straws.
-name: Dirty Banana
-rate: 4.0
+comment: Long, creamy and filling banana drink with a 'dirty' flavour and colour courtesy
+  of coffee liqueur.
+aka: 
+variant: 
+origin: A popular cocktail in Jamaica.
+source: www.diffordsguide.com (649)
+recipe_steps:
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Bacardi Superior rum
+- amount: '1'
+  doze: shot
+  ingredient_name: Crème de banane liqueur
+- amount: '1'
+  doze: shot
+  ingredient_name: Double (heavy) cream
+- amount: '1'
+  doze: shot
+  ingredient_name: Milk
+- amount: '1'
+  doze: shot
+  ingredient_name: Kahla coffee liqueur
+- amount: '1'
+  doze: fresh
+  ingredient_name: Banana (peeled)

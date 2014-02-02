@@ -1,20 +1,21 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Violet Affinity
+method: STIR all ingredients with ice and strain into chilled glass.
+rate: 4.5
 garnish: Lemon zest twist
 glass: Martini
-infos: 
-  Comment: Amazingly delicate and complex for such a simple drink.
-  Origin: An adaptation of the classic Affinity.
-  source: www.diffordsguide.com (2049)
-ingredients: 
-- - "2"
-  - shot
-  - Benoit Serres crème de violette
-- - "1"
-  - shot
-  - Martini Rosso sweet vermouth
-- - "1"
-  - shot
-  - Noilly Prat dry vermouth
-method: STIR all ingredients with ice and strain into chilled glass.
-name: Violet Affinity
-rate: 4.5
+comment: Amazingly delicate and complex for such a simple drink.
+aka: 
+variant: 
+origin: An adaptation of the classic Affinity.
+source: www.diffordsguide.com (2049)
+recipe_steps:
+- amount: '1'
+  doze: shot
+  ingredient_name: Noilly Prat dry vermouth
+- amount: '1'
+  doze: shot
+  ingredient_name: Martini Rosso sweet vermouth
+- amount: '2'
+  doze: shot
+  ingredient_name: Benoit Serres crème de violette

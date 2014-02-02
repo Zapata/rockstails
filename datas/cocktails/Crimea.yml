@@ -1,29 +1,31 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Crimea
+method: MUDDLE coriander in base of shaker. Add other ingredients, SHAKE with ice
+  and fine strain into chilled glass.
+rate: 3.0
 garnish: Float coriander leaf
 glass: Martini
-infos: 
-  Comment: Fragrant, herbal gin with a hint of citrus.
-  Origin: Adapted from a drink discovered in 2006 at Ballroom, London, England.
-  source: www.diffordsguide.com (599)
-ingredients: 
-- - "5"
-  - fresh
-  - Coriander (cilantro)
-- - "2"
-  - shot
-  - Bombay London dry gin
-- - "1"
-  - shot
-  - Pressed apple juice
-- - " 1/4 "
-  - shot
-  - Freshly squeezed lemon juice
-- - " 1/8 "
-  - shot
-  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
-- - " 1/2 "
-  - shot
-  - Chilled mineral water
-method: MUDDLE coriander in base of shaker. Add other ingredients, SHAKE with ice and fine strain into chilled glass.
-name: Crimea
-rate: 3.0
+comment: Fragrant, herbal gin with a hint of citrus.
+aka: 
+variant: 
+origin: Adapted from a drink discovered in 2006 at Ballroom, London, England.
+source: www.diffordsguide.com (599)
+recipe_steps:
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Freshly squeezed lemon juice
+- amount: ' 1/8 '
+  doze: shot
+  ingredient_name: Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- amount: '1'
+  doze: shot
+  ingredient_name: Pressed apple juice
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Chilled mineral water
+- amount: '2'
+  doze: shot
+  ingredient_name: Bombay London dry gin
+- amount: '5'
+  doze: fresh
+  ingredient_name: Coriander (cilantro)

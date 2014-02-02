@@ -1,17 +1,27 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Lo Mismo
+method: POUR ingredients into ice-filled glass.
+rate: 3.5
 garnish: Lime zest twist<br />
 glass: Old-fashioned
-infos: 
-  Comment: Light rum and soda makes for a fabulously subtle and refreshing drink. Don't serve too long or the dilution will kill it.<br /><br />
-  Origin: The Mismo was a craze said to be started by a group of Americans at the Cosmopolitan Club in Santiago in 1899. When ordering drinks, one of their Cuban colleagues asked for a Bacardi rum and seltzer (soda). His friend, also Cuban, called for 'Lo mismo' - Spanish for 'the same'. Not speaking Spanish, but eager to fit in, the Americans all also asked for 'lo mismos'. The next day, the Americans returned and ordered another round of 'Mismos' from the same barman. The name stuck.<br />       <br />'It spread with remarkable rapidity', reported the New York Tribune soon after. 'Now every barkeeper in Santiago knows what you are after if you ask for a "Mismo".<br /><br />
-  source: www.diffordsguide.com (2504)
-ingredients: 
-- - "2"
-  - shot
-  - Bacardi Superior rum
-- - "1"
-  - top up with
-  - Soda (club soda)
-method: POUR ingredients into ice-filled glass.
-name: Lo Mismo
-rate: 3.5
+comment: Light rum and soda makes for a fabulously subtle and refreshing drink. Don't
+  serve too long or the dilution will kill it.<br /><br />
+aka: 
+variant: 
+origin: The Mismo was a craze said to be started by a group of Americans at the Cosmopolitan
+  Club in Santiago in 1899. When ordering drinks, one of their Cuban colleagues asked
+  for a Bacardi rum and seltzer (soda). His friend, also Cuban, called for 'Lo mismo'
+  - Spanish for 'the same'. Not speaking Spanish, but eager to fit in, the Americans
+  all also asked for 'lo mismos'. The next day, the Americans returned and ordered
+  another round of 'Mismos' from the same barman. The name stuck.<br />       <br
+  />'It spread with remarkable rapidity', reported the New York Tribune soon after.
+  'Now every barkeeper in Santiago knows what you are after if you ask for a "Mismo".<br
+  /><br />
+source: www.diffordsguide.com (2504)
+recipe_steps:
+- amount: '1'
+  doze: top up with
+  ingredient_name: Soda (club soda)
+- amount: '2'
+  doze: shot
+  ingredient_name: Bacardi Superior rum

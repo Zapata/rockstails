@@ -1,23 +1,27 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Elixirita
+method: <p>SHAKE all ingredients with ice and fine strain into chilled glass.</p>
+rate: 4.0
 garnish: <p>None</p>
 glass: Martini
-infos: 
-  Comment: <p>Basically a Tommy's Margarita with a splash of cognac served straight-up.</p><br />
-  Origin: <p>Created in 2007 by H. Joseph Ehrmann, this is the signature Margarita at his bar 'Elixir' in San Francisco, USA. He dedicated it to the Boston College Eagles. </p><br />
-  source: www.diffordsguide.com (2399)
-ingredients: 
-- - "2"
-  - shot
-  - Herradura 100% agave tequila
-- - "1"
-  - shot
-  - Lime
-- - " 1/2 "
-  - shot
-  - Agave nectar
-- - " 1/4 "
-  - shot
-  - Courvoisier V.S.O.P cognac
-method: <p>SHAKE all ingredients with ice and fine strain into chilled glass.</p>
-name: Elixirita
-rate: 4.0
+comment: <p>Basically a Tommy's Margarita with a splash of cognac served straight-up.</p><br
+  />
+aka: 
+variant: 
+origin: <p>Created in 2007 by H. Joseph Ehrmann, this is the signature Margarita at
+  his bar 'Elixir' in San Francisco, USA. He dedicated it to the Boston College Eagles.
+  </p><br />
+source: www.diffordsguide.com (2399)
+recipe_steps:
+- amount: '2'
+  doze: shot
+  ingredient_name: Herradura 100% agave tequila
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Courvoisier V.S.O.P cognac
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Agave nectar
+- amount: '1'
+  doze: shot
+  ingredient_name: Lime

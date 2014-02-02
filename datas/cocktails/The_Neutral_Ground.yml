@@ -1,23 +1,27 @@
---- !ruby/object:DirtyCocktail 
+---
+name: The Neutral Ground
+method: STIR all ingredients with ice and strain into chilled glass.
+rate: 4.5
 garnish: Orange zest twist<br />
 glass: Coupette
-infos: 
-  Comment: Sweet Manhattan - like with sherry and spiced notes.
-  Origin: Created in 2008 by Rhiannon Enlil at Bar Tonique, New Orleans, USA and named after the median area on Canal Street in New Orleans that formerly separated the American district from the Spanish/French district (now known as the French quarter)<br />
-  source: www.diffordsguide.com (2518)
-ingredients: 
-- - "2"
-  - shot
-  - Rye whiskey
-- - " 1/2 "
-  - shot
-  - Amontillado sherry
-- - " 1/2 "
-  - shot
-  - Bénédictine D.O.M.
-- - "3"
-  - dash
-  - Angostura aromatic bitters
-method: STIR all ingredients with ice and strain into chilled glass.
-name: The Neutral Ground
-rate: 4.5
+comment: Sweet Manhattan - like with sherry and spiced notes.
+aka: 
+variant: 
+origin: Created in 2008 by Rhiannon Enlil at Bar Tonique, New Orleans, USA and named
+  after the median area on Canal Street in New Orleans that formerly separated the
+  American district from the Spanish/French district (now known as the French quarter)<br
+  />
+source: www.diffordsguide.com (2518)
+recipe_steps:
+- amount: '3'
+  doze: dash
+  ingredient_name: Angostura aromatic bitters
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Bénédictine D.O.M.
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Amontillado sherry
+- amount: '2'
+  doze: shot
+  ingredient_name: Rye whiskey

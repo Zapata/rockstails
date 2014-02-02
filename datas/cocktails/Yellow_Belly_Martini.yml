@@ -1,25 +1,27 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Yellow Belly Martini
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 4.0
 garnish: Lemon zest twist
 glass: Martini
-infos: 
-  Comment: Lemon, lemon, lemon. Nice though...
-  source: www.diffordsguide.com (2112)
-ingredients: 
-- - "1"
-  - shot
-  - Ketel One Citroen vodka
-- - "1"
-  - shot
-  - Luxardo limoncello liqueur
-- - "1"
-  - shot
-  - Freshly squeezed lemon juice
-- - " 1/8 "
-  - shot
-  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
-- - " 1/2 "
-  - shot
-  - Chilled mineral water
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: Yellow Belly Martini
-rate: 4.0
+comment: Lemon, lemon, lemon. Nice though...
+aka: 
+variant: 
+origin: 
+source: www.diffordsguide.com (2112)
+recipe_steps:
+- amount: '1'
+  doze: shot
+  ingredient_name: Ketel One Citroen vodka
+- amount: '1'
+  doze: shot
+  ingredient_name: Freshly squeezed lemon juice
+- amount: ' 1/8 '
+  doze: shot
+  ingredient_name: Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Chilled mineral water
+- amount: '1'
+  doze: shot
+  ingredient_name: Luxardo limoncello liqueur

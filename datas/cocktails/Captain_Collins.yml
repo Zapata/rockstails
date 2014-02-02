@@ -1,23 +1,25 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Captain Collins
+method: SHAKE first 3 ingredients with ice and strain into ice-filled glass. TOP with
+  soda, stir and serve with straws.
+rate: 3.5
 garnish: Orange slice &amp; cherry on stick (sail)
 glass: Collins
-infos: 
-  Comment: Sweetened, soured and diluted whiskey.
-  Origin: Classic Collins variation.
-  source: www.diffordsguide.com (370)
-ingredients: 
-- - "2"
-  - shot
-  - Canadian whisky
-- - "1"
-  - shot
-  - Freshly squeezed lemon juice
-- - " 1/2 "
-  - shot
-  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
-- - "1"
-  - top up with
-  - Soda (club soda)
-method: SHAKE first 3 ingredients with ice and strain into ice-filled glass. TOP with soda, stir and serve with straws.
-name: Captain Collins
-rate: 3.5
+comment: Sweetened, soured and diluted whiskey.
+aka: 
+variant: 
+origin: Classic Collins variation.
+source: www.diffordsguide.com (370)
+recipe_steps:
+- amount: '1'
+  doze: shot
+  ingredient_name: Freshly squeezed lemon juice
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- amount: '1'
+  doze: top up with
+  ingredient_name: Soda (club soda)
+- amount: '2'
+  doze: shot
+  ingredient_name: Canadian whisky

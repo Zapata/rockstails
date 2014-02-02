@@ -1,19 +1,21 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Peanut Butter & Jelly Shot
+method: SHAKE all ingredients with ice and fine strain into a chilled glass.
+rate: 3.5
 garnish: 
 glass: Shot
-infos: 
-  Comment: Does indeed taste a little like peanut butter and jelly (jam in the UK).
-  source: www.diffordsguide.com (1493)
-ingredients: 
-- - " 1/2 "
-  - shot
-  - Baileys Irish cream liqueur
-- - " 1/2 "
-  - shot
-  - Chambord
-- - " 1/2 "
-  - shot
-  - Hazelnut liqueur
-method: SHAKE all ingredients with ice and fine strain into a chilled glass.
-name: Peanut Butter & Jelly Shot
-rate: 3.5
+comment: Does indeed taste a little like peanut butter and jelly (jam in the UK).
+aka: 
+variant: 
+origin: 
+source: www.diffordsguide.com (1493)
+recipe_steps:
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Chambord
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Baileys Irish cream liqueur
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Hazelnut liqueur

@@ -1,23 +1,26 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Japanese Cocktail
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 4.0
 garnish: Lemon zest twist
 glass: Martini
-infos: 
-  Comment: Lightly sweetened and diluted cognac flavoured with almond and a hint of spice.
-  Origin: Adapted from a recipe first published in Jerry Thomas' 1862 'Bartender's Guide or How To Mix Drinks'.
-  source: www.diffordsguide.com (1055)
-ingredients: 
-- - "2"
-  - shot
-  - Courvoisier V.S.O.P cognac
-- - " 1/2 "
-  - shot
-  - Monin Almond (orgeat) syrup
-- - " 3/4 "
-  - shot
-  - Chilled mineral water
-- - "2"
-  - dash
-  - Angostura aromatic bitters
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: Japanese Cocktail
-rate: 4.0
+comment: Lightly sweetened and diluted cognac flavoured with almond and a hint of
+  spice.
+aka: 
+variant: 
+origin: Adapted from a recipe first published in Jerry Thomas' 1862 'Bartender's Guide
+  or How To Mix Drinks'.
+source: www.diffordsguide.com (1055)
+recipe_steps:
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Chilled mineral water
+- amount: '2'
+  doze: dash
+  ingredient_name: Angostura aromatic bitters
+- amount: '2'
+  doze: shot
+  ingredient_name: Courvoisier V.S.O.P cognac
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Monin Almond (orgeat) syrup

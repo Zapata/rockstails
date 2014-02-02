@@ -1,31 +1,35 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Utterly Butterly
+method: STIR peanut butter with vodka in base of shaker. Add other ingredients, SHAKE
+  with ice and fine strain into ice-filled glass.
+rate: 3.5
 garnish: Apple wedge
 glass: Collins
-infos: 
-  Comment: Yup, your eyes are not deceiving you and nor will your taste buds - it's made with peanut butter. Refreshingly different.
-  source: www.diffordsguide.com (2020)
-ingredients: 
-- - "1"
-  - spoon
-  - Smooth peanut butter
-- - "2"
-  - shot
-  - Ketel One vodka
-- - " 1/4 "
-  - shot
-  - Goldschlager cinnamon schnapps
-- - " 1/2 "
-  - shot
-  - Malibu coconut rum liqueur
-- - "1 1/2 "
-  - shot
-  - Pressed apple juice
-- - "1 1/2 "
-  - shot
-  - Fresh pressed pineapple juice
-- - " 3/4 "
-  - shot
-  - Freshly squeezed lime juice
-method: STIR peanut butter with vodka in base of shaker. Add other ingredients, SHAKE with ice and fine strain into ice-filled glass.
-name: Utterly Butterly
-rate: 3.5
+comment: Yup, your eyes are not deceiving you and nor will your taste buds - it's
+  made with peanut butter. Refreshingly different.
+aka: 
+variant: 
+origin: 
+source: www.diffordsguide.com (2020)
+recipe_steps:
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Freshly squeezed lime juice
+- amount: '2'
+  doze: shot
+  ingredient_name: Ketel One vodka
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Fresh pressed pineapple juice
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Pressed apple juice
+- amount: '1'
+  doze: spoon
+  ingredient_name: Smooth peanut butter
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Goldschlager cinnamon schnapps
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Malibu coconut rum liqueur

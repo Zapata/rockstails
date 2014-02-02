@@ -1,21 +1,22 @@
---- !ruby/object:DirtyCocktail 
+---
+name: 'Smoky Martini #1'
+method: STIR all ingredients with ice and strain into chilled glass.
+rate: 5.0
 garnish: Olive on stick<br />
 glass: Martini
-infos: 
-  AKA: Burnt Martini
-  Comment: Smoky Islay malt combines with London dry gin to give a smoky, almost sweet character to a traditional Dry Martini.<br />
-  Variant: Substitute vodka for gin.
-  source: www.diffordsguide.com (1784)
-ingredients: 
-- - "2"
-  - shot
-  - Bombay London dry gin
-- - " 1/4 "
-  - shot
-  - Lagavulin 16yo malt whisky
-- - " 1/2 "
-  - shot
-  - Noilly Prat dry vermouth
-method: STIR all ingredients with ice and strain into chilled glass.
-name: "Smoky Martini #1"
-rate: 5.0
+comment: Smoky Islay malt combines with London dry gin to give a smoky, almost sweet
+  character to a traditional Dry Martini.<br />
+aka: Burnt Martini
+variant: Substitute vodka for gin.
+origin: 
+source: www.diffordsguide.com (1784)
+recipe_steps:
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Noilly Prat dry vermouth
+- amount: '2'
+  doze: shot
+  ingredient_name: Bombay London dry gin
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Lagavulin 16yo malt whisky

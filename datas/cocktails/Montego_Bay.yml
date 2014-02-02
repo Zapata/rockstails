@@ -1,26 +1,29 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Montego Bay
+method: SHAKE all ingredients with ice and strain into ice-filled glass.
+rate: 3.5
 garnish: Lime wedge
 glass: Old-fashioned
-infos: 
-  Comment: The name suggest Jamaica but the recipe requires agricole rum. This pungent style of rum is not Jamaican.
-  Origin: Adapted from a recipe in the 1947-72 Trader Vic's Bartender's Guide by Victor Bergeron.
-  source: www.diffordsguide.com (1357)
-ingredients: 
-- - "1 1/2 "
-  - shot
-  - Martinique agricole rum
-- - " 1/2 "
-  - shot
-  - Cointreau triple sec
-- - " 1/2 "
-  - shot
-  - Freshly squeezed lime juice
-- - " 1/4 "
-  - shot
-  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
-- - "2"
-  - dash
-  - Angostura aromatic bitters
-method: SHAKE all ingredients with ice and strain into ice-filled glass.
-name: Montego Bay
-rate: 3.5
+comment: The name suggest Jamaica but the recipe requires agricole rum. This pungent
+  style of rum is not Jamaican.
+aka: 
+variant: 
+origin: Adapted from a recipe in the 1947-72 Trader Vic's Bartender's Guide by Victor
+  Bergeron.
+source: www.diffordsguide.com (1357)
+recipe_steps:
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Cointreau triple sec
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Freshly squeezed lime juice
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- amount: '2'
+  doze: dash
+  ingredient_name: Angostura aromatic bitters
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Martinique agricole rum

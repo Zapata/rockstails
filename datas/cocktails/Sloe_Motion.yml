@@ -1,16 +1,18 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Sloe Motion
+method: POUR liqueur into chilled glass and TOP with champagne.
+rate: 3.5
 garnish: Lemon zest twist
 glass: Flute
-infos: 
-  Comment: Sloe gin proves to be an excellent compliment to champagne.
-  source: www.diffordsguide.com (1831)
-ingredients: 
-- - " 3/4 "
-  - shot
-  - Sloe Gin liqueur
-- - "1"
-  - top up with
-  - Perrier Jouet brut champagne
-method: POUR liqueur into chilled glass and TOP with champagne.
-name: Sloe Motion
-rate: 3.5
+comment: Sloe gin proves to be an excellent compliment to champagne.
+aka: 
+variant: 
+origin: 
+source: www.diffordsguide.com (1831)
+recipe_steps:
+- amount: '1'
+  doze: top up with
+  ingredient_name: Perrier Jouet brut champagne
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Sloe Gin liqueur

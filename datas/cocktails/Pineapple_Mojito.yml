@@ -1,26 +1,29 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Pineapple Mojito
+method: Lightly MUDDLE mint (just to bruise) in glass. POUR other ingredients into
+  glass and half fill with crushed ice.  CHURN (stir) with barspoon. Fill glass with
+  more crushed ice, churn and serve with straws.
+rate: 4.5
 garnish: 
 glass: Collins
-infos: 
-  Comment: A fruity, vanilla-ed twist on the classic Mojito
-  Origin: Discovered in 2003 at Apartment 195, London, England.
-  source: www.diffordsguide.com (1537)
-ingredients: 
-- - "12"
-  - fresh
-  - Mint leaves
-- - "2"
-  - shot
-  - Bacardi Superior rum
-- - " 3/4 "
-  - shot
-  - Cuarenta y Tres (Licor 43) liqueur
-- - "2"
-  - shot
-  - Fresh pressed pineapple juice
-- - "1"
-  - shot
-  - Freshly squeezed lime juice
-method: Lightly MUDDLE mint (just to bruise) in glass. POUR other ingredients into glass and half fill with crushed ice.  CHURN (stir) with barspoon. Fill glass with more crushed ice, churn and serve with straws.
-name: Pineapple Mojito
-rate: 4.5
+comment: A fruity, vanilla-ed twist on the classic Mojito
+aka: 
+variant: 
+origin: Discovered in 2003 at Apartment 195, London, England.
+source: www.diffordsguide.com (1537)
+recipe_steps:
+- amount: '1'
+  doze: shot
+  ingredient_name: Freshly squeezed lime juice
+- amount: '12'
+  doze: fresh
+  ingredient_name: Mint leaves
+- amount: '2'
+  doze: shot
+  ingredient_name: Bacardi Superior rum
+- amount: '2'
+  doze: shot
+  ingredient_name: Fresh pressed pineapple juice
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Cuarenta y Tres (Licor 43) liqueur

@@ -1,23 +1,28 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Molotov Cocktail
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 3.5
 garnish: Lemon zest
 glass: Martini
-infos: 
-  Comment: The ingredients represent the four liquids used in the weapon. Vodka, stands for alcohol, parfait amour shares the purple hue of paraffin, lemon juice<br />represents gasoline and black sambuca replaces tar.
-  Origin: Created after a visit to the Rajam"aki distillery in Finland. At the start of the Second World War the plant was used to produce Molotov cocktails, inflammatory bombs with which the Finns put hundreds of Soviet tanks out of action.
-  source: www.diffordsguide.com (1343)
-ingredients: 
-- - "1 1/2 "
-  - shot
-  - Ketel One vodka
-- - "1 1/4 "
-  - shot
-  - Parfait Amour liqueur
-- - " 1/2 "
-  - shot
-  - Opal Nera black sambuca
-- - " 1/2 "
-  - shot
-  - Freshly squeezed lemon juice
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: Molotov Cocktail
-rate: 3.5
+comment: The ingredients represent the four liquids used in the weapon. Vodka, stands
+  for alcohol, parfait amour shares the purple hue of paraffin, lemon juice<br />represents
+  gasoline and black sambuca replaces tar.
+aka: 
+variant: 
+origin: Created after a visit to the Rajam"aki distillery in Finland. At the start
+  of the Second World War the plant was used to produce Molotov cocktails, inflammatory
+  bombs with which the Finns put hundreds of Soviet tanks out of action.
+source: www.diffordsguide.com (1343)
+recipe_steps:
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Ketel One vodka
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Freshly squeezed lemon juice
+- amount: '1 1/4 '
+  doze: shot
+  ingredient_name: Parfait Amour liqueur
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Opal Nera black sambuca

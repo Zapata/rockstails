@@ -1,26 +1,29 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Cold Blooded
+method: MUDDLE rosemary in base of shaker. Add other ingredients, SHAKE with ice and
+  fine strain into ice-filled glass.<br /><br />
+rate: 3.5
 garnish: Rosemary sprig<br />
 glass: Old-fashioned
-infos: 
-  Comment: Red berry, orange and pine.
-  Origin: Adapted from a drink discovered in 2008 on Steve Olson's akawinegeek.com site.<br /><br />
-  source: www.diffordsguide.com (2351)
-ingredients: 
-- - "1"
-  - fresh
-  - Rosemary sprig
-- - "1 1/2 "
-  - shot
-  - Grand Marnier liqueur
-- - "2"
-  - shot
-  - Ocean Spray cranberry juice
-- - " 1/2 "
-  - shot
-  - Freshly squeezed lemon juice
-- - " 1/2 "
-  - shot
-  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
-method: MUDDLE rosemary in base of shaker. Add other ingredients, SHAKE with ice and fine strain into ice-filled glass.<br /><br />
-name: Cold Blooded
-rate: 3.5
+comment: Red berry, orange and pine.
+aka: 
+variant: 
+origin: Adapted from a drink discovered in 2008 on Steve Olson's akawinegeek.com site.<br
+  /><br />
+source: www.diffordsguide.com (2351)
+recipe_steps:
+- amount: '2'
+  doze: shot
+  ingredient_name: Ocean Spray cranberry juice
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Freshly squeezed lemon juice
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Grand Marnier liqueur
+- amount: '1'
+  doze: fresh
+  ingredient_name: Rosemary sprig

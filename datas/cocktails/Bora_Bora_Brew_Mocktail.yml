@@ -1,19 +1,21 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Bora Bora Brew (Mocktail)
+method: SHAKE all ingredients with ice and strain into ice-filled glass.
+rate: 2.5
 garnish: Pineapple wedge
 glass: Collins
-infos: 
-  Comment: Fruity and frothy ginger beer.
-  source: www.diffordsguide.com (290)
-ingredients: 
-- - "3"
-  - shot
-  - Fresh pressed pineapple juice
-- - " 1/8 "
-  - shot
-  - Pomegranate (grenadine) syrup
-- - "1"
-  - top up with
-  - Ginger ale
-method: SHAKE all ingredients with ice and strain into ice-filled glass.
-name: Bora Bora Brew (Mocktail)
-rate: 2.5
+comment: Fruity and frothy ginger beer.
+aka: 
+variant: 
+origin: 
+source: www.diffordsguide.com (290)
+recipe_steps:
+- amount: '3'
+  doze: shot
+  ingredient_name: Fresh pressed pineapple juice
+- amount: ' 1/8 '
+  doze: shot
+  ingredient_name: Pomegranate (grenadine) syrup
+- amount: '1'
+  doze: top up with
+  ingredient_name: Ginger ale

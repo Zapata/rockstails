@@ -1,23 +1,25 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Gusto
+method: MUDDLE grapes in base of shaker. Add other ingredients, SHAKE with ice and
+  fine strain into ice-filled glass.
+rate: 4.0
 garnish: Apple slice
 glass: Collins
-infos: 
-  Comment: A pleasing long drink flavoured with apple, grape and tequila.
-  Origin: Created in 2003 by Thomas Gillgren at The Kingly Club, London, England.
-  source: www.diffordsguide.com (924)
-ingredients: 
-- - "7"
-  - fresh
-  - Seedless white grapes
-- - "2"
-  - shot
-  - Herradura 100% agave tequila
-- - " 3/4 "
-  - shot
-  - Agavero liqueur
-- - "2"
-  - shot
-  - Pressed apple juice
-method: MUDDLE grapes in base of shaker. Add other ingredients, SHAKE with ice and fine strain into ice-filled glass.
-name: Gusto
-rate: 4.0
+comment: A pleasing long drink flavoured with apple, grape and tequila.
+aka: 
+variant: 
+origin: Created in 2003 by Thomas Gillgren at The Kingly Club, London, England.
+source: www.diffordsguide.com (924)
+recipe_steps:
+- amount: '2'
+  doze: shot
+  ingredient_name: Pressed apple juice
+- amount: '2'
+  doze: shot
+  ingredient_name: Herradura 100% agave tequila
+- amount: '7'
+  doze: fresh
+  ingredient_name: Seedless white grapes
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Agavero liqueur

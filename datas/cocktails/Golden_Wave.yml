@@ -1,26 +1,28 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Golden Wave
+method: BLEND all ingredients with a 12oz scoop of crushed ice and serve with straws.
+rate: 3.5
 garnish: Pineapple wedge
 glass: Sling
-infos: 
-  Comment: Rum laced fruit served long and cold with crushed ice.
-  Origin: A Tiki drink created in 1969 by Jose 'Joe' Yatco at China Trader, California, USA.
-  source: www.diffordsguide.com (885)
-ingredients: 
-- - "1"
-  - shot
-  - Bacardi Superior rum
-- - " 1/2 "
-  - shot
-  - Cointreau triple sec
-- - " 1/2 "
-  - shot
-  - Velvet Falernum liqueur
-- - "1"
-  - shot
-  - Fresh pressed pineapple juice
-- - " 3/4 "
-  - shot
-  - Freshly squeezed lemon juice
-method: BLEND all ingredients with a 12oz scoop of crushed ice and serve with straws.
-name: Golden Wave
-rate: 3.5
+comment: Rum laced fruit served long and cold with crushed ice.
+aka: 
+variant: 
+origin: A Tiki drink created in 1969 by Jose 'Joe' Yatco at China Trader, California,
+  USA.
+source: www.diffordsguide.com (885)
+recipe_steps:
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Cointreau triple sec
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Freshly squeezed lemon juice
+- amount: '1'
+  doze: shot
+  ingredient_name: Bacardi Superior rum
+- amount: '1'
+  doze: shot
+  ingredient_name: Fresh pressed pineapple juice
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Velvet Falernum liqueur

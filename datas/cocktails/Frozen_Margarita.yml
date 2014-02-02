@@ -1,24 +1,25 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Frozen Margarita
+method: BLEND all ingredients with 6oz scoop of crushed ice. Serve heaped in the glass
+  and with straws.
+rate: 4.0
 garnish: Maraschino cherry
 glass: Martini
-infos: 
-  Comment: Citrus freshness with the subtle agave of tequila served frozen.
-  Origin: <br />
-  source: www.diffordsguide.com (811)
-  Variant: With fruit and/or fruit liqueurs.
-ingredients: 
-- - "1 1/2 "
-  - shot
-  - Herradura 100% agave tequila
-- - " 3/4 "
-  - shot
-  - Cointreau triple sec
-- - " 3/4 "
-  - shot
-  - Freshly squeezed lime juice
-- - " 1/2 "
-  - shot
-  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
-method: BLEND all ingredients with 6oz scoop of crushed ice. Serve heaped in the glass and with straws.
-name: Frozen Margarita
-rate: 4.0
+comment: Citrus freshness with the subtle agave of tequila served frozen.
+aka: 
+variant: With fruit and/or fruit liqueurs.
+origin: <br />
+source: www.diffordsguide.com (811)
+recipe_steps:
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Cointreau triple sec
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Freshly squeezed lime juice
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Herradura 100% agave tequila

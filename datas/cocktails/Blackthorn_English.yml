@@ -1,26 +1,27 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Blackthorn English
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 3.5
 garnish: Orange zest twist
 glass: Martini
-infos: 
-  Comment: A fruit influenced yet dry and classic Martini.
-  Origin: A vintage classic whose origins are unknown.<br /><br />
-  source: www.diffordsguide.com (239)
-ingredients: 
-- - "1 1/2 "
-  - shot
-  - Sloe Gin liqueur
-- - "1"
-  - shot
-  - Bombay London dry gin
-- - " 3/4 "
-  - shot
-  - Martini Rosso sweet vermouth
-- - "3"
-  - dash
-  - Angostura orange bitters
-- - " 1/2 "
-  - shot
-  - Chilled mineral water
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: Blackthorn English
-rate: 3.5
+comment: A fruit influenced yet dry and classic Martini.
+aka: 
+variant: 
+origin: A vintage classic whose origins are unknown.<br /><br />
+source: www.diffordsguide.com (239)
+recipe_steps:
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Chilled mineral water
+- amount: '1'
+  doze: shot
+  ingredient_name: Bombay London dry gin
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Martini Rosso sweet vermouth
+- amount: '3'
+  doze: dash
+  ingredient_name: Angostura orange bitters
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Sloe Gin liqueur

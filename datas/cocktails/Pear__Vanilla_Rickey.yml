@@ -1,22 +1,25 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Pear & Vanilla Rickey
+method: SHAKE first 3 ingredients with ice and strain into ice-filled glass. TOP with
+  lemonade, lightly stir and serve with straws.
+rate: 3.5
 garnish: Lime wedge
 glass: Collins
-infos: 
-  Comment: Vanilla and pear create a creamy mouthful cut by lime juice.
-  source: www.diffordsguide.com (1496)
-ingredients: 
-- - "1"
-  - shot
-  - Vanilla-infused Ketel One vodka
-- - "1"
-  - shot
-  - Belle de Brillet pear liqueur
-- - "1"
-  - shot
-  - Freshly squeezed lime juice
-- - "1"
-  - top up with
-  - Lemonade/Sprite/7-Up
-method: SHAKE first 3 ingredients with ice and strain into ice-filled glass. TOP with lemonade, lightly stir and serve with straws.
-name: Pear & Vanilla Rickey
-rate: 3.5
+comment: Vanilla and pear create a creamy mouthful cut by lime juice.
+aka: 
+variant: 
+origin: 
+source: www.diffordsguide.com (1496)
+recipe_steps:
+- amount: '1'
+  doze: top up with
+  ingredient_name: Lemonade/Sprite/7-Up
+- amount: '1'
+  doze: shot
+  ingredient_name: Freshly squeezed lime juice
+- amount: '1'
+  doze: shot
+  ingredient_name: Vanilla-infused Ketel One vodka
+- amount: '1'
+  doze: shot
+  ingredient_name: Belle de Brillet pear liqueur

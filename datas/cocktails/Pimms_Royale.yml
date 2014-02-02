@@ -1,16 +1,18 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Pimm's Royale
+method: POUR Pimm's into chilled glass and TOP with champagne.
+rate: 2.5
 garnish: Berries on stick with cucumber peel
 glass: Flute
-infos: 
-  Comment: Dry, subtle and refreshing.
-  source: www.diffordsguide.com (1524)
-ingredients: 
-- - "1"
-  - shot
-  - Pimm's No.1 Cup
-- - "1"
-  - top up with
-  - Perrier Jouet brut champagne
-method: POUR Pimm's into chilled glass and TOP with champagne.
-name: Pimm's Royale
-rate: 2.5
+comment: Dry, subtle and refreshing.
+aka: 
+variant: 
+origin: 
+source: www.diffordsguide.com (1524)
+recipe_steps:
+- amount: '1'
+  doze: top up with
+  ingredient_name: Perrier Jouet brut champagne
+- amount: '1'
+  doze: shot
+  ingredient_name: Pimm's No.1 Cup

@@ -1,26 +1,29 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Mulata Daisy
+method: MUDDLE fennel seeds in base of shaker. Add other ingredients, SHAKE with ice
+  and fine strain into chilled glass.<br /><br />
+rate: 4.0
 garnish: Cocoa powder rim<br />
 glass: Coupette
-infos: 
-  Comment: Created in 2008 by Ago Perrone at The Connaught, London, England.<br /><br /><br _moz_editor_bogus_node="TRUE" />
-  Origin: Delicately spiced and subtly chocolaty.
-  source: www.diffordsguide.com (2512)
-ingredients: 
-- - "1 1/2 "
-  - spoon
-  - Fennel seeds
-- - "1 3/4 "
-  - shot
-  - Bacardi Superior rum
-- - "1"
-  - shot
-  - "Brown cr\xE8me de cacao liqueur"
-- - " 3/4 "
-  - shot
-  - Freshly squeezed lime juice
-- - " 1/4 "
-  - shot
-  - Galliano L'Autentico liqueur
-method: MUDDLE fennel seeds in base of shaker. Add other ingredients, SHAKE with ice and fine strain into chilled glass.<br /><br />
-name: Mulata Daisy
-rate: 4.0
+comment: Created in 2008 by Ago Perrone at The Connaught, London, England.<br /><br
+  /><br _moz_editor_bogus_node="TRUE" />
+aka: 
+variant: 
+origin: Delicately spiced and subtly chocolaty.
+source: www.diffordsguide.com (2512)
+recipe_steps:
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Freshly squeezed lime juice
+- amount: '1 3/4 '
+  doze: shot
+  ingredient_name: Bacardi Superior rum
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Galliano L'Autentico liqueur
+- amount: '1'
+  doze: shot
+  ingredient_name: Brown crème de cacao liqueur
+- amount: '1 1/2 '
+  doze: spoon
+  ingredient_name: Fennel seeds

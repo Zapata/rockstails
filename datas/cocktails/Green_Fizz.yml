@@ -1,27 +1,28 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Green Fizz
+method: SHAKE first four ingredients with ice and strain into chilled glass. TOP with
+  soda.
+rate: 3.0
 garnish: Slice of lemon and mint
 glass: Collins
-infos: 
-  Comment: Fresh, cleansing and refreshing - as only a minty Fizz can be.
-  Origin: A mid-19th century classic.
-  Variant: Gin Fizz
-  source: www.diffordsguide.com (912)
-ingredients: 
-- - "2"
-  - shot
-  - Bombay London dry gin
-- - " 1/2 "
-  - shot
-  - Giffard Menthe Pastille liqueur
-- - "1"
-  - shot
-  - Freshly squeezed lemon juice
-- - " 1/4 "
-  - shot
-  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
-- - "1"
-  - top up with
-  - Soda (club soda)
-method: SHAKE first four ingredients with ice and strain into chilled glass. TOP with soda.
-name: Green Fizz
-rate: 3.0
+comment: Fresh, cleansing and refreshing - as only a minty Fizz can be.
+aka: 
+variant: Gin Fizz
+origin: A mid-19th century classic.
+source: www.diffordsguide.com (912)
+recipe_steps:
+- amount: '1'
+  doze: shot
+  ingredient_name: Freshly squeezed lemon juice
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- amount: '1'
+  doze: top up with
+  ingredient_name: Soda (club soda)
+- amount: '2'
+  doze: shot
+  ingredient_name: Bombay London dry gin
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Giffard Menthe Pastille liqueur

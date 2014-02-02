@@ -1,19 +1,21 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Pink Hound
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 4.0
 garnish: Lemon zest twist
 glass: Martini
-infos: 
-  Comment: A flavoursome balance of sweet and sour.
-  source: www.diffordsguide.com (1547)
-ingredients: 
-- - "2"
-  - shot
-  - Bombay London dry gin
-- - "1 1/2 "
-  - shot
-  - Freshly squeezed grapefruit juice
-- - " 1/4 "
-  - shot
-  - Pomegranate (grenadine) syrup
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: Pink Hound
-rate: 4.0
+comment: A flavoursome balance of sweet and sour.
+aka: 
+variant: 
+origin: 
+source: www.diffordsguide.com (1547)
+recipe_steps:
+- amount: '2'
+  doze: shot
+  ingredient_name: Bombay London dry gin
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Freshly squeezed grapefruit juice
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Pomegranate (grenadine) syrup

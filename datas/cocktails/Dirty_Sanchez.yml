@@ -1,26 +1,29 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Dirty Sanchez
+method: SHAKE first 4 ingredients with ice and strain into ice-filled glass. TOP with
+  ginger beer.
+rate: 4.0
 garnish: Lime slice
 glass: Collins
-infos: 
-  Comment: A wonderfully refreshing and complex long summer drink.
-  Origin: Created in 2001 by Phillip Jeffrey and Ian Baldwin at the GE Club, London, England.
-  source: www.diffordsguide.com (651)
-ingredients: 
-- - "2"
-  - shot
-  - Herradura 100% agave tequila
-- - " 3/4 "
-  - shot
-  - Agavero liqueur
-- - " 1/2 "
-  - shot
-  - Chambord
-- - " 1/2 "
-  - shot
-  - Freshly squeezed lime juice
-- - "1"
-  - top up with
-  - Ginger beer
-method: SHAKE first 4 ingredients with ice and strain into ice-filled glass. TOP with ginger beer.
-name: Dirty Sanchez
-rate: 4.0
+comment: A wonderfully refreshing and complex long summer drink.
+aka: 
+variant: 
+origin: Created in 2001 by Phillip Jeffrey and Ian Baldwin at the GE Club, London,
+  England.
+source: www.diffordsguide.com (651)
+recipe_steps:
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Freshly squeezed lime juice
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Chambord
+- amount: '2'
+  doze: shot
+  ingredient_name: Herradura 100% agave tequila
+- amount: '1'
+  doze: top up with
+  ingredient_name: Ginger beer
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Agavero liqueur

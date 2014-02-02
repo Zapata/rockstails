@@ -1,20 +1,21 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Cassini
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 3.5
 garnish: Blackberries on stick
 glass: Martini
-infos: 
-  Comment: A simple but pleasant berry drink.
-  Origin: Created in 1998 by Yours Truly (Simon Difford).
-  source: www.diffordsguide.com (386)
-ingredients: 
-- - "2"
-  - shot
-  - Ketel One vodka
-- - " 1/4 "
-  - shot
-  - "Cr\xE8me de cassis liqueur"
-- - "1 1/2 "
-  - shot
-  - Ocean Spray cranberry juice
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: Cassini
-rate: 3.5
+comment: A simple but pleasant berry drink.
+aka: 
+variant: 
+origin: Created in 1998 by Yours Truly (Simon Difford).
+source: www.diffordsguide.com (386)
+recipe_steps:
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Ocean Spray cranberry juice
+- amount: '2'
+  doze: shot
+  ingredient_name: Ketel One vodka
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Crème de cassis liqueur

@@ -1,19 +1,22 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Madras
+method: SHAKE all ingredients with ice and strain into ice-filled glass.
+rate: 3.5
 garnish: Orange slice
 glass: Collins
-infos: 
-  Comment: A seabreeze with orange juice in place of grapefruit, making it slightly sweeter.
-  source: www.diffordsguide.com (1216)
-ingredients: 
-- - "2"
-  - shot
-  - Ketel One vodka
-- - "3"
-  - shot
-  - Ocean Spray cranberry juice
-- - "2"
-  - shot
-  - Freshly squeezed orange juice
-method: SHAKE all ingredients with ice and strain into ice-filled glass.
-name: Madras
-rate: 3.5
+comment: A seabreeze with orange juice in place of grapefruit, making it slightly
+  sweeter.
+aka: 
+variant: 
+origin: 
+source: www.diffordsguide.com (1216)
+recipe_steps:
+- amount: '3'
+  doze: shot
+  ingredient_name: Ocean Spray cranberry juice
+- amount: '2'
+  doze: shot
+  ingredient_name: Ketel One vodka
+- amount: '2'
+  doze: shot
+  ingredient_name: Freshly squeezed orange juice

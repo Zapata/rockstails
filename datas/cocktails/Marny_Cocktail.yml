@@ -1,20 +1,21 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Marny Cocktail
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 4.5
 garnish: Orange zest twist
 glass: Martini
-infos: 
-  Comment: Spirit and liqueur in harmony.
-  Origin: Adapted from a recipe in Harry Cradock's 1930 Savoy Cocktail Book.
-  source: www.diffordsguide.com (1262)
-ingredients: 
-- - "2"
-  - shot
-  - Bombay London dry gin
-- - "1"
-  - shot
-  - Grand Marnier liqueur
-- - "2"
-  - dash
-  - Angostura orange bitters
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: Marny Cocktail
-rate: 4.5
+comment: Spirit and liqueur in harmony.
+aka: 
+variant: 
+origin: Adapted from a recipe in Harry Cradock's 1930 Savoy Cocktail Book.
+source: www.diffordsguide.com (1262)
+recipe_steps:
+- amount: '2'
+  doze: shot
+  ingredient_name: Bombay London dry gin
+- amount: '1'
+  doze: shot
+  ingredient_name: Grand Marnier liqueur
+- amount: '2'
+  doze: dash
+  ingredient_name: Angostura orange bitters

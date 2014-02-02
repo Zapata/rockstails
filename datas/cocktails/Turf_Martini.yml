@@ -1,26 +1,27 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Turf Martini
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 4.0
 garnish: Orange zest twist
 glass: Martini
-infos: 
-  Comment: Old-school, full flavoured, aromatic and dry.
-  Origin: Created before 1900 at the Ritz Hotel, Paris, France.
-  source: www.diffordsguide.com (1998)
-ingredients: 
-- - "1 1/2 "
-  - shot
-  - Bombay London dry gin
-- - "1 1/2 "
-  - shot
-  - Martini Rosso sweet vermouth
-- - " 1/8 "
-  - shot
-  - Luxardo maraschino liqueur
-- - " 1/8 "
-  - shot
-  - "La F\xE9e Parisienne (68%) absinthe"
-- - "2"
-  - dash
-  - Angostura orange bitters
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: Turf Martini
-rate: 4.0
+comment: Old-school, full flavoured, aromatic and dry.
+aka: 
+variant: 
+origin: Created before 1900 at the Ritz Hotel, Paris, France.
+source: www.diffordsguide.com (1998)
+recipe_steps:
+- amount: ' 1/8 '
+  doze: shot
+  ingredient_name: La Fée Parisienne (68%) absinthe
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Bombay London dry gin
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Martini Rosso sweet vermouth
+- amount: '2'
+  doze: dash
+  ingredient_name: Angostura orange bitters
+- amount: ' 1/8 '
+  doze: shot
+  ingredient_name: Luxardo maraschino liqueur

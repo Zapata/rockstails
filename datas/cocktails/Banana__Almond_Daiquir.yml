@@ -1,26 +1,28 @@
---- !ruby/object:DirtyCocktail 
-garnish: " Banana slice on rim"
-glass: Martini
-infos: 
-  Comment: Just as it says on the tin - banana and almond flavoured Daiquiri.
-  Origin: " Adapted from a drink created in 2008 by Apostol Bachev at Coq D'Argent, London, England."
-  source: www.diffordsguide.com (2271)
-ingredients: 
-- - "1 1/2 "
-  - shot
-  - Bacardi Superior rum
-- - "1"
-  - shot
-  - Almond flavoured vodka
-- - " 1/2 "
-  - shot
-  - Freshly squeezed lemon juice
-- - " 1/4 "
-  - shot
-  - Monin Almond (orgeat) syrup
-- - " 1/4 "
-  - fresh
-  - Banana (peeled)
-method: " BLEND all ingredients with crushed ice and serve in chilled glass."
+---
 name: Banana & Almond Daiquir
+method: ' BLEND all ingredients with crushed ice and serve in chilled glass.'
 rate: 3.5
+garnish: ' Banana slice on rim'
+glass: Martini
+comment: Just as it says on the tin - banana and almond flavoured Daiquiri.
+aka: 
+variant: 
+origin: ' Adapted from a drink created in 2008 by Apostol Bachev at Coq D''Argent,
+  London, England.'
+source: www.diffordsguide.com (2271)
+recipe_steps:
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Freshly squeezed lemon juice
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Bacardi Superior rum
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Monin Almond (orgeat) syrup
+- amount: ' 1/4 '
+  doze: fresh
+  ingredient_name: Banana (peeled)
+- amount: '1'
+  doze: shot
+  ingredient_name: Almond flavoured vodka

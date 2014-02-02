@@ -1,23 +1,27 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Adelaide Swizzle
+method: POUR all ingredients into glass filled with crushed ice and SWIZZLE.
+rate: 4.0
 garnish: Lime slice
 glass: Collins
-infos: 
-  Comment: A slightly pink, dry, spicy long drink with rum and a hint of cloves and lime.
-  Origin: This is the signature cocktail at Caf Adelaide's Swizzle Stick Bar, New Orleans, USA. There it is made with a liquid poured from a plain bottle marked 'top secret' but, having tried a drop, I think it is Falernum.
-  source: www.diffordsguide.com (511)
-ingredients: 
-- - "2"
-  - shot
-  - Bacardi Superior rum
-- - " 3/4 "
-  - shot
-  - Velvet Falernum liqueur
-- - " 1/2 "
-  - shot
-  - Freshly squeezed lime juice
-- - "2"
-  - dash
-  - Peychaud's aromatic bitters
-method: POUR all ingredients into glass filled with crushed ice and SWIZZLE.
-name: Adelaide Swizzle
-rate: 4.0
+comment: A slightly pink, dry, spicy long drink with rum and a hint of cloves and
+  lime.
+aka: 
+variant: 
+origin: This is the signature cocktail at Caf Adelaide's Swizzle Stick Bar, New Orleans,
+  USA. There it is made with a liquid poured from a plain bottle marked 'top secret'
+  but, having tried a drop, I think it is Falernum.
+source: www.diffordsguide.com (511)
+recipe_steps:
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Freshly squeezed lime juice
+- amount: '2'
+  doze: shot
+  ingredient_name: Bacardi Superior rum
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Velvet Falernum liqueur
+- amount: '2'
+  doze: dash
+  ingredient_name: Peychaud's aromatic bitters

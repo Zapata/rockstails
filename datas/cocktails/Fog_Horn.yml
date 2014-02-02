@@ -1,19 +1,21 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Fog Horn
+method: POUR ingredients into ice-filled glass and stir.
+rate: 3.5
 garnish: Lime wedge
 glass: Old-fashioned
-infos: 
-  Comment: Different! Almost flowery in taste with the spice of ginger beer.
-  source: www.diffordsguide.com (780)
-ingredients: 
-- - "2"
-  - shot
-  - Bombay London dry gin
-- - " 1/2 "
-  - shot
-  - Rose's lime cordial
-- - "1"
-  - top up with
-  - Ginger ale
-method: POUR ingredients into ice-filled glass and stir.
-name: Fog Horn
-rate: 3.5
+comment: Different! Almost flowery in taste with the spice of ginger beer.
+aka: 
+variant: 
+origin: 
+source: www.diffordsguide.com (780)
+recipe_steps:
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Rose's lime cordial
+- amount: '2'
+  doze: shot
+  ingredient_name: Bombay London dry gin
+- amount: '1'
+  doze: top up with
+  ingredient_name: Ginger ale

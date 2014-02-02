@@ -1,20 +1,21 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Dry Ice Martini
+method: STIR all ingredients with ice and strain into chilled glass.
+rate: 4.5
 garnish: Lemon zest twist
 glass: Martini
-infos: 
-  Comment: Despite the name, this is slightly honeyed rather than dry.
-  Origin: Created by Yours Truly (Simon Difford) in 2004.
-  source: www.diffordsguide.com (675)
-ingredients: 
-- - "2"
-  - shot
-  - Ketel One vodka
-- - " 1/2 "
-  - shot
-  - Noilly Prat dry vermouth
-- - " 3/4 "
-  - shot
-  - Icewine
-method: STIR all ingredients with ice and strain into chilled glass.
-name: Dry Ice Martini
-rate: 4.5
+comment: Despite the name, this is slightly honeyed rather than dry.
+aka: 
+variant: 
+origin: Created by Yours Truly (Simon Difford) in 2004.
+source: www.diffordsguide.com (675)
+recipe_steps:
+- amount: '2'
+  doze: shot
+  ingredient_name: Ketel One vodka
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Noilly Prat dry vermouth
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Icewine

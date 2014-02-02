@@ -1,23 +1,24 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Basil Gimlet
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 4.5
 garnish: Lime wedge or cherry
 glass: Martini
-infos: 
-  Comment: Tangy, citrus fresh and balanced.
-  Origin: Adapted from a drink discovered in 2006 at Stella, Boston, USA
-  source: www.diffordsguide.com (538)
-ingredients: 
-- - "2 1/2 "
-  - shot
-  - Bombay London dry gin
-- - " 1/4 "
-  - shot
-  - Freshly squeezed lime juice
-- - "1 1/2 "
-  - shot
-  - Rose's lime cordial
-- - "3"
-  - shot
-  - Torn basil leaves
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: Basil Gimlet
-rate: 4.5
+comment: Tangy, citrus fresh and balanced.
+aka: 
+variant: 
+origin: Adapted from a drink discovered in 2006 at Stella, Boston, USA
+source: www.diffordsguide.com (538)
+recipe_steps:
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Freshly squeezed lime juice
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Rose's lime cordial
+- amount: '2 1/2 '
+  doze: shot
+  ingredient_name: Bombay London dry gin
+- amount: '3'
+  doze: shot
+  ingredient_name: Torn basil leaves

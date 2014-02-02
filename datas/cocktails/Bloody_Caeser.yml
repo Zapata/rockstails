@@ -1,32 +1,35 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Bloody Caeser
+method: SHAKE all ingredients with ice and strain into ice-filled glass.
+rate: 4.0
 garnish: Pickled bean
 glass: Collins
-infos: 
-  Comment: A peculiarly Canadian fishy twist on the classic Bloody Mary.
-  Origin: Created by Walter Chell in 1969 to celebrate the opening of Marco's Italian restaurant at the Calgary Inn, Canada. Walter was inspired by the flavours of Spaghetti Vongole (spaghetti with clams) and named the drink after the Roman emperor.
-  source: www.diffordsguide.com (557)
-ingredients: 
-- - "2"
-  - shot
-  - Ketel One vodka
-- - "4"
-  - shot
-  - Mott's Clamato juice
-- - " 1/2 "
-  - shot
-  - Freshly squeezed lemon juice
-- - "7"
-  - drop
-  - Tobasco hot pepper sauce
-- - "3"
-  - dash
-  - Worcestershire sauce
-- - "2"
-  - pinch
-  - Celery salt
-- - "2"
-  - grind
-  - Black pepper
-method: SHAKE all ingredients with ice and strain into ice-filled glass.
-name: Bloody Caeser
-rate: 4.0
+comment: A peculiarly Canadian fishy twist on the classic Bloody Mary.
+aka: 
+variant: 
+origin: Created by Walter Chell in 1969 to celebrate the opening of Marco's Italian
+  restaurant at the Calgary Inn, Canada. Walter was inspired by the flavours of Spaghetti
+  Vongole (spaghetti with clams) and named the drink after the Roman emperor.
+source: www.diffordsguide.com (557)
+recipe_steps:
+- amount: '2'
+  doze: shot
+  ingredient_name: Ketel One vodka
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Freshly squeezed lemon juice
+- amount: '7'
+  doze: drop
+  ingredient_name: Tobasco hot pepper sauce
+- amount: '3'
+  doze: dash
+  ingredient_name: Worcestershire sauce
+- amount: '2'
+  doze: pinch
+  ingredient_name: Celery salt
+- amount: '2'
+  doze: grind
+  ingredient_name: Black pepper
+- amount: '4'
+  doze: shot
+  ingredient_name: Mott's Clamato juice

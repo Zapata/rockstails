@@ -1,28 +1,33 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Margarita with Salt Foam Float
+method: Combine first three ingredients, POUR into cream whipping siphon and CHARGE
+  with nitrous oxide. Shake and place siphon in a refrigerator for one hour prior
+  to making drink. SHAKE next three ingredients with ice and fine strain into chilled
+  glass. SQUIRT salt foam over surface of drink from siphon.
+rate: 3.5
 garnish: Lime wedge on rim
 glass: Margarita
-infos: 
-  Comment: Classic Margarita with a salty foam topping.
-  source: www.diffordsguide.com (1257)
-ingredients: 
-- - "4"
-  - spoon
-  - Salt
-- - "1"
-  - pint
-  - Chilled mineral water
-- - "2"
-  - fresh
-  - Egg white
-- - "2"
-  - shot
-  - Herradura 100% agave tequila
-- - "1"
-  - shot
-  - Freshly squeezed lime juice
-- - "1"
-  - shot
-  - Cointreau triple sec
-method: Combine first three ingredients, POUR into cream whipping siphon and CHARGE with nitrous oxide. Shake and place siphon in a refrigerator for one hour prior to making drink. SHAKE next three ingredients with ice and fine strain into chilled glass. SQUIRT salt foam over surface of drink from siphon.
-name: Margarita with Salt Foam Float
-rate: 3.5
+comment: Classic Margarita with a salty foam topping.
+aka: 
+variant: 
+origin: 
+source: www.diffordsguide.com (1257)
+recipe_steps:
+- amount: '1'
+  doze: shot
+  ingredient_name: Cointreau triple sec
+- amount: '1'
+  doze: shot
+  ingredient_name: Freshly squeezed lime juice
+- amount: '1'
+  doze: pint
+  ingredient_name: Chilled mineral water
+- amount: '2'
+  doze: shot
+  ingredient_name: Herradura 100% agave tequila
+- amount: '2'
+  doze: fresh
+  ingredient_name: Egg white
+- amount: '4'
+  doze: spoon
+  ingredient_name: Salt

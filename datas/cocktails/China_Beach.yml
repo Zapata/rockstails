@@ -1,19 +1,21 @@
---- !ruby/object:DirtyCocktail 
+---
+name: China Beach
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 4.0
 garnish: Ginger slice on rim
 glass: Martini
-infos: 
-  Comment: Dry and lightly spiced.
-  source: www.diffordsguide.com (417)
-ingredients: 
-- - "1"
-  - shot
-  - Ketel One vodka
-- - "1"
-  - shot
-  - Domaine de Canton ginger liqueur
-- - "2"
-  - shot
-  - Ocean Spray cranberry juice
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: China Beach
-rate: 4.0
+comment: Dry and lightly spiced.
+aka: 
+variant: 
+origin: 
+source: www.diffordsguide.com (417)
+recipe_steps:
+- amount: '2'
+  doze: shot
+  ingredient_name: Ocean Spray cranberry juice
+- amount: '1'
+  doze: shot
+  ingredient_name: Ketel One vodka
+- amount: '1'
+  doze: shot
+  ingredient_name: Domaine de Canton ginger liqueur

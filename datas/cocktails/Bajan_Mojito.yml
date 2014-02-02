@@ -1,29 +1,32 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Bajan Mojito
+method: <div>Cut passion fruit in half and scoop flesh into glass. Add mint and gently
+  MUDDLE (just to bruise mint). Add rum, lime juice and crushed ice. CHURN (stir)
+  drink in glass to mix. DRIZZLE passion fruit liqueur and serve with straws.</div>
+rate: 4.0
 garnish: Passion fruit slice or mint sprig
 glass: Collins
-infos: 
-  Comment: A laid-back fruity, slightly sweet Mojito.
-  Origin: Adapted from a recipe by Wayne Collins, London, England
-  source: www.diffordsguide.com (146)
-ingredients: 
-- - "1"
-  - fresh
-  - Passion fruit
-- - "8"
-  - fresh
-  - Mint leaves
-- - "2"
-  - shot
-  - Bacardi Oro golden rum
-- - " 1/2 "
-  - shot
-  - Freshly squeezed lime juice
-- - " 1/2 "
-  - shot
-  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
-- - " 1/4 "
-  - shot
-  - Passoa passion fruit liqueur
-method: <div>Cut passion fruit in half and scoop flesh into glass. Add mint and gently MUDDLE (just to bruise mint). Add rum, lime juice and crushed ice. CHURN (stir) drink in glass to mix. DRIZZLE passion fruit liqueur and serve with straws.</div>
-name: Bajan Mojito
-rate: 4.0
+comment: A laid-back fruity, slightly sweet Mojito.
+aka: 
+variant: 
+origin: Adapted from a recipe by Wayne Collins, London, England
+source: www.diffordsguide.com (146)
+recipe_steps:
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Freshly squeezed lime juice
+- amount: '8'
+  doze: fresh
+  ingredient_name: Mint leaves
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- amount: '2'
+  doze: shot
+  ingredient_name: Bacardi Oro golden rum
+- amount: '1'
+  doze: fresh
+  ingredient_name: Passion fruit
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Passoa passion fruit liqueur

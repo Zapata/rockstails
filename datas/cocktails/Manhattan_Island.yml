@@ -1,22 +1,24 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Manhattan Island
+method: STIR all ingredients with ice and fine strain into chilled glass.
+rate: 4.0
 garnish: Maraschino cherry
 glass: Martini
-infos: 
-  Comment: A twist on the classic Harvard, or brandy based Manhattan.
-  source: www.diffordsguide.com (1248)
-ingredients: 
-- - "2"
-  - shot
-  - Courvoisier V.S.O.P cognac
-- - "1"
-  - shot
-  - Martini Rosso sweet vermouth
-- - "3"
-  - dash
-  - Angostura aromatic bitters
-- - " 1/8 "
-  - shot
-  - Luxardo maraschino liqueur
-method: STIR all ingredients with ice and fine strain into chilled glass.
-name: Manhattan Island
-rate: 4.0
+comment: A twist on the classic Harvard, or brandy based Manhattan.
+aka: 
+variant: 
+origin: 
+source: www.diffordsguide.com (1248)
+recipe_steps:
+- amount: '1'
+  doze: shot
+  ingredient_name: Martini Rosso sweet vermouth
+- amount: '3'
+  doze: dash
+  ingredient_name: Angostura aromatic bitters
+- amount: '2'
+  doze: shot
+  ingredient_name: Courvoisier V.S.O.P cognac
+- amount: ' 1/8 '
+  doze: shot
+  ingredient_name: Luxardo maraschino liqueur

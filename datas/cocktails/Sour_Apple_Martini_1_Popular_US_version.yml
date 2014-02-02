@@ -1,20 +1,22 @@
---- !ruby/object:DirtyCocktail 
+---
+name: 'Sour Apple Martini #1 (Popular US version)'
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 3.5
 garnish: Cherry in glass
 glass: Martini
-infos: 
-  Comment: A hugely popular drink across North America in the Noughties.<br />
-  source: www.diffordsguide.com (1796)
-  Variant: Some bars add sour mix in place of Rose's, others add a dash of fresh lime and sugar.
-ingredients: 
-- - "1 1/2 "
-  - shot
-  - Ketel One vodka
-- - "1 1/2 "
-  - shot
-  - Sour apple liqueur
-- - " 1/4 "
-  - shot
-  - Rose's lime cordial
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: "Sour Apple Martini #1 (Popular US version)"
-rate: 3.5
+comment: A hugely popular drink across North America in the Noughties.<br />
+aka: 
+variant: Some bars add sour mix in place of Rose's, others add a dash of fresh lime
+  and sugar.
+origin: 
+source: www.diffordsguide.com (1796)
+recipe_steps:
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Rose's lime cordial
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Ketel One vodka
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Sour apple liqueur

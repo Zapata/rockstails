@@ -1,26 +1,29 @@
---- !ruby/object:DirtyCocktail 
+---
+name: 'Maestro '
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 4.0
 garnish: Half strawberry on rim with drop of balsamic vinegar.
 glass: Martini
-infos: 
-  Comment: Strawberry and balsamic are a great combo - here served with orange juice, vodka and maple syrup.<br /><br /><br _moz_editor_bogus_node="TRUE" />
-  Origin: Created by Salvatore Calabrese at Salvatore At Fifty, London, England.<br />
-  source: www.diffordsguide.com (2479)
-ingredients: 
-- - "2"
-  - shot
-  - Ketel One vodka
-- - "1"
-  - shot
-  - "Cr\xE8me de fraise liqueur"
-- - "1"
-  - shot
-  - Freshly squeezed orange juice
-- - " 1/8 "
-  - shot
-  - Maple syrup
-- - "1"
-  - dash
-  - Balsamic vinegar
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: "Maestro "
-rate: 4.0
+comment: Strawberry and balsamic are a great combo - here served with orange juice,
+  vodka and maple syrup.<br /><br /><br _moz_editor_bogus_node="TRUE" />
+aka: 
+variant: 
+origin: Created by Salvatore Calabrese at Salvatore At Fifty, London, England.<br
+  />
+source: www.diffordsguide.com (2479)
+recipe_steps:
+- amount: '2'
+  doze: shot
+  ingredient_name: Ketel One vodka
+- amount: '1'
+  doze: shot
+  ingredient_name: Freshly squeezed orange juice
+- amount: ' 1/8 '
+  doze: shot
+  ingredient_name: Maple syrup
+- amount: '1'
+  doze: dash
+  ingredient_name: Balsamic vinegar
+- amount: '1'
+  doze: shot
+  ingredient_name: Crème de fraise liqueur

@@ -1,20 +1,22 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Pontberry Martini
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 4.0
 garnish: Blackberrries
 glass: Martini
-infos: 
-  Comment: A light, fruity, easy drinking cocktail.
-  Origin: Created by Dick Bradsell in the late 90s for the opening of Agent Provocateur in Pont Street, London, England.
-  source: www.diffordsguide.com (1588)
-ingredients: 
-- - "1 1/2 "
-  - shot
-  - Ketel One vodka
-- - " 1/2 "
-  - shot
-  - "Cr\xE8me de M\xFBre liqueur"
-- - "2"
-  - shot
-  - Ocean Spray cranberry juice
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: Pontberry Martini
-rate: 4.0
+comment: A light, fruity, easy drinking cocktail.
+aka: 
+variant: 
+origin: Created by Dick Bradsell in the late 90s for the opening of Agent Provocateur
+  in Pont Street, London, England.
+source: www.diffordsguide.com (1588)
+recipe_steps:
+- amount: '2'
+  doze: shot
+  ingredient_name: Ocean Spray cranberry juice
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Ketel One vodka
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Crème de Mûre liqueur

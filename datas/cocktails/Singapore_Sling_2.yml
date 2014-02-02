@@ -1,31 +1,35 @@
---- !ruby/object:DirtyCocktail 
+---
+name: 'Singapore Sling #2'
+method: SHAKE first 6 ingredients with ice and strain into ice-filled glass. TOP with
+  soda, lightly stir and serve with straws.
+rate: 4.0
 garnish: Lemon slice &amp; cherry on stick (sail)
 glass: Sling
-infos: 
-  Comment: On the sour side of dry, this is decidedly more complex than most Singapore Sling recipes.<br /><br />
-  source: www.diffordsguide.com (1777)
-ingredients: 
-- - "2"
-  - shot
-  - Bombay London dry gin
-- - " 1/2 "
-  - shot
-  - Bénédictine D.O.M.
-- - " 1/2 "
-  - shot
-  - Heering cherry brandy liqueur
-- - "1"
-  - shot
-  - Freshly squeezed lemon juice
-- - "2"
-  - dash
-  - Angostura aromatic bitters
-- - "2"
-  - dash
-  - Angostura orange bitters
-- - "1"
-  - top up with
-  - Soda (club soda)
-method: SHAKE first 6 ingredients with ice and strain into ice-filled glass. TOP with soda, lightly stir and serve with straws.
-name: "Singapore Sling #2"
-rate: 4.0
+comment: On the sour side of dry, this is decidedly more complex than most Singapore
+  Sling recipes.<br /><br />
+aka: 
+variant: 
+origin: 
+source: www.diffordsguide.com (1777)
+recipe_steps:
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Heering cherry brandy liqueur
+- amount: '1'
+  doze: shot
+  ingredient_name: Freshly squeezed lemon juice
+- amount: '1'
+  doze: top up with
+  ingredient_name: Soda (club soda)
+- amount: '2'
+  doze: shot
+  ingredient_name: Bombay London dry gin
+- amount: '2'
+  doze: dash
+  ingredient_name: Angostura aromatic bitters
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Bénédictine D.O.M.
+- amount: '2'
+  doze: dash
+  ingredient_name: Angostura orange bitters

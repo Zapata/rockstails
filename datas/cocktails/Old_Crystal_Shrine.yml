@@ -1,23 +1,26 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Old Crystal Shrine
+method: STIR all ingredients with ice and strain over into glass over ice ball made
+  from mineral water.<br /><br />
+rate: 3.5
 garnish: Lemon &amp; orange zests<br />
 glass: Old-fashioned
-infos: 
-  Comment: Honeyed and spiced whiskey.<br _moz_editor_bogus_node="TRUE" />
-  Origin: Created in 2008 by Stanislav Vadrna for the Red Monkey Group, Slovakia.<br /><br />
-  source: www.diffordsguide.com (2528)
-ingredients: 
-- - "1"
-  - spoon
-  - White truffle honey
-- - "2"
-  - shot
-  - Yamazaki 12yo Japanese whisky
-- - "2"
-  - dash
-  - "Regan's Orange #6"
-- - "1"
-  - dash
-  - Peychaud's aromatic bitters
-method: STIR all ingredients with ice and strain over into glass over ice ball made from mineral water.<br /><br />
-name: Old Crystal Shrine
-rate: 3.5
+comment: Honeyed and spiced whiskey.<br _moz_editor_bogus_node="TRUE" />
+aka: 
+variant: 
+origin: Created in 2008 by Stanislav Vadrna for the Red Monkey Group, Slovakia.<br
+  /><br />
+source: www.diffordsguide.com (2528)
+recipe_steps:
+- amount: '1'
+  doze: spoon
+  ingredient_name: White truffle honey
+- amount: '2'
+  doze: shot
+  ingredient_name: Yamazaki 12yo Japanese whisky
+- amount: '2'
+  doze: dash
+  ingredient_name: 'Regan''s Orange #6'
+- amount: '1'
+  doze: dash
+  ingredient_name: Peychaud's aromatic bitters

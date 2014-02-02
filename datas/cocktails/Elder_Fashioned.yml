@@ -1,20 +1,24 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Elder Fashioned
+method: STIR one shot of bourbon with two ice cubes in a glass. ADD elderflower liqueur,
+  orange bitters and two more ice cubes. STIR some more<br />and add another two ice
+  cubes and the rest of the bourbon. STIR lots more and add more ice.
+rate: 4.0
 garnish: Orange zest twist<br />
 glass: Old-fashioned
-infos: 
-  Comment: Whiskey and elderflower served in the Old-Fashioned style. The elderflower liqueur smooths the bourbon.
-  Origin: Created in 2006 by Yours Truly (Simon Difford).
-  source: www.diffordsguide.com (2638)
-ingredients: 
-- - "2"
-  - shot
-  - Maker's Mark bourbon
-- - " 3/4 "
-  - shot
-  - St-Germain elderflower liqueur
-- - "1"
-  - dash
-  - Angostura aromatic bitters
-method: STIR one shot of bourbon with two ice cubes in a glass. ADD elderflower liqueur, orange bitters and two more ice cubes. STIR some more<br />and add another two ice cubes and the rest of the bourbon. STIR lots more and add more ice.
-name: Elder Fashioned
-rate: 4.0
+comment: Whiskey and elderflower served in the Old-Fashioned style. The elderflower
+  liqueur smooths the bourbon.
+aka: 
+variant: 
+origin: Created in 2006 by Yours Truly (Simon Difford).
+source: www.diffordsguide.com (2638)
+recipe_steps:
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: St-Germain elderflower liqueur
+- amount: '1'
+  doze: dash
+  ingredient_name: Angostura aromatic bitters
+- amount: '2'
+  doze: shot
+  ingredient_name: Maker's Mark bourbon

@@ -1,20 +1,21 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Emerald Martini
+method: STIR all ingredients with ice and strain into chilled glass.
+rate: 4.0
 garnish: Sprayed and discarded lemon and lime zest twists plus mint leaf
 glass: Martini
-infos: 
-  Comment: A serious drink that's rammed with alcohol and flavour.
-  Origin: Discovered in 2005 at Bugsy's Prague, Czech Republic.
-  source: www.diffordsguide.com (712)
-ingredients: 
-- - "2"
-  - shot
-  - Lime flavoured vodka
-- - "1"
-  - shot
-  - Chartreuse Green liqueur
-- - "1"
-  - shot
-  - Chilled mineral water
-method: STIR all ingredients with ice and strain into chilled glass.
-name: Emerald Martini
-rate: 4.0
+comment: A serious drink that's rammed with alcohol and flavour.
+aka: 
+variant: 
+origin: Discovered in 2005 at Bugsy's Prague, Czech Republic.
+source: www.diffordsguide.com (712)
+recipe_steps:
+- amount: '1'
+  doze: shot
+  ingredient_name: Chartreuse Green liqueur
+- amount: '1'
+  doze: shot
+  ingredient_name: Chilled mineral water
+- amount: '2'
+  doze: shot
+  ingredient_name: Lime flavoured vodka

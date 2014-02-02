@@ -1,20 +1,21 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Lavendar Margarita
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 5.0
 garnish: Lime wedge
 glass: Coupette
-infos: 
-  Comment: Lavender lime and tequila combine harmoniously.
-  Origin: Created in 2006 by Yours Truly (Simon Difford).
-  source: www.diffordsguide.com (1130)
-ingredients: 
-- - "2"
-  - shot
-  - Herradura 100% agave tequila
-- - "1"
-  - shot
-  - Freshly squeezed lime juice
-- - " 1/2 "
-  - shot
-  - Monin Lavender sugar syrup
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: Lavendar Margarita
-rate: 5.0
+comment: Lavender lime and tequila combine harmoniously.
+aka: 
+variant: 
+origin: Created in 2006 by Yours Truly (Simon Difford).
+source: www.diffordsguide.com (1130)
+recipe_steps:
+- amount: '1'
+  doze: shot
+  ingredient_name: Freshly squeezed lime juice
+- amount: '2'
+  doze: shot
+  ingredient_name: Herradura 100% agave tequila
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Monin Lavender sugar syrup

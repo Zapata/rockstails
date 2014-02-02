@@ -1,23 +1,26 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Fallen Leaves
+method: <p>STIR all ingredients with ice and strain into chilled glass.</p>
+rate: 4.0
 garnish: <p>Lemon peel zest</p>
 glass: Martini
-infos: 
-  Comment: <p>Suitably autumnal in colour. The vermouths and brandies are in harmony. </p>
-  Origin: <p>Created in 1982 by Charles Schumann in Munich, Germany, and first published in his book 'American Bar'.</p>
-  source: www.diffordsguide.com (2652)
-ingredients: 
-- - "1 1/2 "
-  - shot
-  - Boulard Grand Solage calvados
-- - "1 1/2 "
-  - shot
-  - Martini Rosso sweet vermouth
-- - " 1/2 "
-  - shot
-  - Noilly Prat dry vermouth
-- - " 1/4 "
-  - shot
-  - Courvoisier V.S.O.P cognac
-method: <p>STIR all ingredients with ice and strain into chilled glass.</p>
-name: Fallen Leaves
-rate: 4.0
+comment: <p>Suitably autumnal in colour. The vermouths and brandies are in harmony.
+  </p>
+aka: 
+variant: 
+origin: <p>Created in 1982 by Charles Schumann in Munich, Germany, and first published
+  in his book 'American Bar'.</p>
+source: www.diffordsguide.com (2652)
+recipe_steps:
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Boulard Grand Solage calvados
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Noilly Prat dry vermouth
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Martini Rosso sweet vermouth
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Courvoisier V.S.O.P cognac

@@ -1,29 +1,30 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Peppered Mary
+method: SHAKE all ingredients with ice and strain into ice-filled glass.
+rate: 4.0
 garnish: Peppered rim &amp; cherry tomato
 glass: Collins
-infos: 
-  Comment: Hot and sweet pepper spice in this Bloody Mary.
-  Origin: Created in 2003 by Yours Truly (Simon Difford).
-  source: www.diffordsguide.com (1506)
-ingredients: 
-- - "2"
-  - shot
-  - Pepper-infused Ketel One vodka
-- - "2"
-  - shot
-  - Yellow bell pepper juice
-- - "2"
-  - shot
-  - Tomato juice
-- - " 1/2 "
-  - shot
-  - Freshly squeezed lemon juice
-- - "7"
-  - drop
-  - Tobasco hot pepper sauce
-- - "1"
-  - spoon
-  - Worcestershire sauce
-method: SHAKE all ingredients with ice and strain into ice-filled glass.
-name: Peppered Mary
-rate: 4.0
+comment: Hot and sweet pepper spice in this Bloody Mary.
+aka: 
+variant: 
+origin: Created in 2003 by Yours Truly (Simon Difford).
+source: www.diffordsguide.com (1506)
+recipe_steps:
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Freshly squeezed lemon juice
+- amount: '7'
+  doze: drop
+  ingredient_name: Tobasco hot pepper sauce
+- amount: '1'
+  doze: spoon
+  ingredient_name: Worcestershire sauce
+- amount: '2'
+  doze: shot
+  ingredient_name: Tomato juice
+- amount: '2'
+  doze: shot
+  ingredient_name: Pepper-infused Ketel One vodka
+- amount: '2'
+  doze: shot
+  ingredient_name: Yellow bell pepper juice

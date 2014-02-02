@@ -1,26 +1,30 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Menehune Juice
+method: SHAKE all ingredients with ice and strain into glass filled with crushed ice.
+  Serve with straws.
+rate: 4.0
 garnish: Lime wedge, mint &amp; Menehune
 glass: Old-fashioned
-infos: 
-  Comment: Slightly sweet and strong. According to Vic, &quot;One sip and you may see a Menehune.&quot;
-  Origin: Adapted from a recipe in the 1947-72 Trader Vic's Bartender's Guide by Victor Bergeron.
-  source: www.diffordsguide.com (1293)
-ingredients: 
-- - "2"
-  - shot
-  - Bacardi Superior rum
-- - " 1/2 "
-  - shot
-  - Cointreau triple sec
-- - " 1/4 "
-  - shot
-  - Monin Almond (orgeat) syrup
-- - " 3/4 "
-  - shot
-  - Freshly squeezed lime juice
-- - " 1/4 "
-  - shot
-  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
-method: SHAKE all ingredients with ice and strain into glass filled with crushed ice. Serve with straws.
-name: Menehune Juice
-rate: 4.0
+comment: Slightly sweet and strong. According to Vic, &quot;One sip and you may see
+  a Menehune.&quot;
+aka: 
+variant: 
+origin: Adapted from a recipe in the 1947-72 Trader Vic's Bartender's Guide by Victor
+  Bergeron.
+source: www.diffordsguide.com (1293)
+recipe_steps:
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Cointreau triple sec
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Freshly squeezed lime juice
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- amount: '2'
+  doze: shot
+  ingredient_name: Bacardi Superior rum
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Monin Almond (orgeat) syrup

@@ -1,25 +1,28 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Brandy Sour
+method: SHAKE all ingredients with ice and strain into ice-filled glass.
+rate: 4.5
 garnish: Lemon slice &amp; cherry on stick (sail)
 glass: Old-fashioned
-infos: 
-  Comment: After the Whiskey Sour, this is the most requested sour. Try it and you'll see why - but don't omit the egg white.
-  source: www.diffordsguide.com (316)
-ingredients: 
-- - "2"
-  - shot
-  - Courvoisier V.S.O.P cognac
-- - "1"
-  - shot
-  - Freshly squeezed lemon juice
-- - " 1/2 "
-  - shot
-  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
-- - "3"
-  - dash
-  - Angostura aromatic bitters
-- - " 1/2 "
-  - fresh
-  - Egg white
-method: SHAKE all ingredients with ice and strain into ice-filled glass.
-name: Brandy Sour
-rate: 4.5
+comment: After the Whiskey Sour, this is the most requested sour. Try it and you'll
+  see why - but don't omit the egg white.
+aka: 
+variant: 
+origin: 
+source: www.diffordsguide.com (316)
+recipe_steps:
+- amount: '1'
+  doze: shot
+  ingredient_name: Freshly squeezed lemon juice
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- amount: '3'
+  doze: dash
+  ingredient_name: Angostura aromatic bitters
+- amount: ' 1/2 '
+  doze: fresh
+  ingredient_name: Egg white
+- amount: '2'
+  doze: shot
+  ingredient_name: Courvoisier V.S.O.P cognac

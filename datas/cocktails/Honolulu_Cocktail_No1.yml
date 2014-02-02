@@ -1,26 +1,28 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Honolulu Cocktail No.1
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 3.5
 garnish: Pineapple wedge &amp; cherry on rim
 glass: Martini
-infos: 
-  Comment: Gin is hardly Hawaiian, but its bite works well in this tropically fruity cocktail.
-  Origin: Adapted from Harry Craddock's 1930 'The Savoy Cocktail Book'.
-  source: www.diffordsguide.com (2180)
-ingredients: 
-- - "2"
-  - shot
-  - Bombay London dry gin
-- - " 1/4 "
-  - shot
-  - Freshly squeezed orange juice
-- - " 1/4 "
-  - shot
-  - Fresh pressed pineapple juice
-- - " 1/4 "
-  - shot
-  - Freshly squeezed lemon juice
-- - " 1/4 "
-  - shot
-  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: Honolulu Cocktail No.1
-rate: 3.5
+comment: Gin is hardly Hawaiian, but its bite works well in this tropically fruity
+  cocktail.
+aka: 
+variant: 
+origin: Adapted from Harry Craddock's 1930 'The Savoy Cocktail Book'.
+source: www.diffordsguide.com (2180)
+recipe_steps:
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Freshly squeezed lemon juice
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Fresh pressed pineapple juice
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Freshly squeezed orange juice
+- amount: '2'
+  doze: shot
+  ingredient_name: Bombay London dry gin

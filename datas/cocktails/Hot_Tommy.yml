@@ -1,137 +1,31 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Hot Tommy
+method: Place spoon in glass. POUR first 3 ingredients into glass. TOP up with boiling
+  water and STIR until agave nectar dissolves.
+rate: 4.0
 garnish: Lime zest twist<br />
 glass: Toddy
-infos: 
-  Comment: "A Mexican twist on the original winter pick-me-up. "
-  Origin: |-
-    <link href="file:///C:\Users\Steph\AppData\Local\Temp\msohtml1\08\clip_filelist.xml" rel="File-List" /><o:smarttagtype name="country-region" namespaceuri="urn:schemas-microsoft-com:office:smarttags"><o:smarttagtype name="City" namespaceuri="urn:schemas-microsoft-com:office:smarttags"><o:smarttagtype name="place" namespaceuri="urn:schemas-microsoft-com:office:smarttags"><!--[if gte mso 9]&amp;amp;gt;&amp;amp;lt;xml&amp;amp;gt;
-     &amp;amp;lt;o:OfficeDocumentSettings&amp;amp;gt;
-      &amp;amp;lt;o:RelyOnVML/&amp;amp;gt;
-      &amp;amp;lt;o:AllowPNG/&amp;amp;gt;
-     &amp;amp;lt;/o:OfficeDocumentSettings&amp;amp;gt;
-    &amp;amp;lt;/xml&amp;amp;gt;&amp;amp;lt;![endif]--><!--[if gte mso 9]&amp;amp;gt;&amp;amp;lt;xml&amp;amp;gt;
-     &amp;amp;lt;w:WordDocument&amp;amp;gt;
-      &amp;amp;lt;w:View&amp;amp;gt;Normal&amp;amp;lt;/w:View&amp;amp;gt;
-      &amp;amp;lt;w:Zoom&amp;amp;gt;0&amp;amp;lt;/w:Zoom&amp;amp;gt;
-      &amp;amp;lt;w:PunctuationKerning/&amp;amp;gt;
-      &amp;amp;lt;w:ValidateAgainstSchemas/&amp;amp;gt;
-      &amp;amp;lt;w:SaveIfXMLInvalid&amp;amp;gt;false&amp;amp;lt;/w:SaveIfXMLInvalid&amp;amp;gt;
-      &amp;amp;lt;w:IgnoreMixedContent&amp;amp;gt;false&amp;amp;lt;/w:IgnoreMixedContent&amp;amp;gt;
-      &amp;amp;lt;w:AlwaysShowPlaceholderText&amp;amp;gt;false&amp;amp;lt;/w:AlwaysShowPlaceholderText&amp;amp;gt;
-      &amp;amp;lt;w:Compatibility&amp;amp;gt;
-       &amp;amp;lt;w:BreakWrappedTables/&amp;amp;gt;
-       &amp;amp;lt;w:SnapToGridInCell/&amp;amp;gt;
-       &amp;amp;lt;w:WrapTextWithPunct/&amp;amp;gt;
-       &amp;amp;lt;w:UseAsianBreakRules/&amp;amp;gt;
-       &amp;amp;lt;w:DontGrowAutofit/&amp;amp;gt;
-      &amp;amp;lt;/w:Compatibility&amp;amp;gt;
-     &amp;amp;lt;/w:WordDocument&amp;amp;gt;
-    &amp;amp;lt;/xml&amp;amp;gt;&amp;amp;lt;![endif]--><!--[if gte mso 9]&amp;amp;gt;&amp;amp;lt;xml&amp;amp;gt;
-     &amp;amp;lt;w:LatentStyles DefLockedState=&amp;amp;quot;false&amp;amp;quot; LatentStyleCount=&amp;amp;quot;156&amp;amp;quot;&amp;amp;gt;
-     &amp;amp;lt;/w:LatentStyles&amp;amp;gt;
-    &amp;amp;lt;/xml&amp;amp;gt;&amp;amp;lt;![endif]--><!--[if !mso]&amp;amp;gt;&amp;amp;lt;object
-     classid=&amp;amp;quot;clsid:38481807-CA0E-42D2-BF39-B33AF135CC4D&amp;amp;quot; id=ieooui&amp;amp;gt;&amp;amp;lt;/object&amp;amp;gt;
-    &amp;amp;lt;style&amp;amp;gt;
-    st1\:*{behavior:url(#ieooui) }
-    &amp;amp;lt;/style&amp;amp;gt;
-    &amp;amp;lt;![endif]--><style>
-    &amp;amp;lt;!--
-     /* Font Definitions */
-     @font-face
-    	{font-family:Georgia;
-    	panose-1:2 4 5 2 5 4 5 2 3 3;
-    	mso-font-charset:0;
-    	mso-generic-font-family:roman;
-    	mso-font-pitch:variable;
-    	mso-font-signature:647 0 0 0 159 0;}
-     /* Style Definitions */
-     p.MsoNormal, li.MsoNormal, div.MsoNormal
-    	{mso-style-name:&amp;amp;quot;Normal\,Simon\0027s Norm&amp;amp;quot;;
-    	mso-style-parent:&amp;amp;quot;&amp;amp;quot;;
-    	margin:0cm;
-    	margin-bottom:.0001pt;
-    	mso-pagination:widow-orphan;
-    	font-size:10.0pt;
-    	mso-bidi-font-size:12.0pt;
-    	font-family:Georgia;
-    	mso-fareast-font-family:&amp;amp;quot;Times New Roman&amp;amp;quot;;
-    	mso-bidi-font-family:&amp;amp;quot;Times New Roman&amp;amp;quot;;
-    	mso-fareast-language:EN-US;}
-    p.Simon, li.Simon, div.Simon
-    	{mso-style-name:Simon;
-    	mso-style-link:&amp;amp;quot;Simon Char&amp;amp;quot;;
-    	margin:0cm;
-    	margin-bottom:.0001pt;
-    	mso-pagination:widow-orphan;
-    	mso-layout-grid-align:none;
-    	text-autospace:none;
-    	font-size:10.0pt;
-    	font-family:Georgia;
-    	mso-fareast-font-family:&amp;amp;quot;Times New Roman&amp;amp;quot;;
-    	mso-bidi-font-family:&amp;amp;quot;Times New Roman&amp;amp;quot;;}
-    span.SimonChar
-    	{mso-style-name:&amp;amp;quot;Simon Char&amp;amp;quot;;
-    	mso-style-locked:yes;
-    	mso-style-link:Simon;
-    	font-family:Georgia;
-    	mso-ascii-font-family:Georgia;
-    	mso-hansi-font-family:Georgia;
-    	mso-ansi-language:EN-GB;
-    	mso-fareast-language:EN-GB;
-    	mso-bidi-language:AR-SA;}
-    @page Section1
-    	{size:612.0pt 792.0pt;
-    	margin:72.0pt 90.0pt 72.0pt 90.0pt;
-    	mso-header-margin:36.0pt;
-    	mso-footer-margin:36.0pt;
-    	mso-paper-source:0;}
-    div.Section1
-    	{page:Section1;}
-    --&amp;amp;gt;
-    </style><!--[if gte mso 10]&amp;amp;gt;
-    &amp;amp;lt;style&amp;amp;gt;
-     /* Style Definitions */
-     table.MsoNormalTable
-    	{mso-style-name:&amp;amp;quot;Table Normal&amp;amp;quot;;
-    	mso-tstyle-rowband-size:0;
-    	mso-tstyle-colband-size:0;
-    	mso-style-noshow:yes;
-    	mso-style-parent:&amp;amp;quot;&amp;amp;quot;;
-    	mso-padding-alt:0cm 5.4pt 0cm 5.4pt;
-    	mso-para-margin:0cm;
-    	mso-para-margin-bottom:.0001pt;
-    	mso-pagination:widow-orphan;
-    	font-size:10.0pt;
-    	font-family:&amp;amp;quot;Times New Roman&amp;amp;quot;;
-    	mso-ansi-language:#0400;
-    	mso-fareast-language:#0400;
-    	mso-bidi-language:#0400;}
-    &amp;amp;lt;/style&amp;amp;gt;
-    &amp;amp;lt;![endif]-->Created in December 2009 by Alan Brown of Menzel's Bar, <st1:place w:st="on"><st1:city w:st="on">Sheffield</st1:city>, <st1:country-region w:st="on">England</st1:country-region></st1:place>
-    who says of this drink, "Over the busy festive period, feeling full of flu and
-    cold I decided to make a hot toddy to soothe my symptoms. Having no honey to
-    hand I tried using agave nectar instead. This led me to the idea of using
-    tequila and lime instead of lemon (to complement the tequila) with the agave
-    and boiling water. The name for the drink is a Hot Tommy, a nod to the Tommy's
-    Margarita, which makes use of both tequila and agave."
-    
-    <p class="Simon"><o:p> </o:p></p>
-    
-    </o:smarttagtype></o:smarttagtype></o:smarttagtype>
-  source: www.diffordsguide.com (2808)
-ingredients: 
-- - "2"
-  - shot
-  - Herradura 100% agave tequila
-- - " 1/2 "
-  - shot
-  - Freshly squeezed lime juice
-- - " 1/2 "
-  - shot
-  - Agave nectar
-- - "1"
-  - top up with
-  - Boiling water
-method: 
-name: Hot Tommy
-rate: 4.0
+comment: 'A Mexican twist on the original winter pick-me-up. '
+aka: 
+variant: 
+origin: Created in December 2009 by Alan Brown of Menzel's Bar, who says of this drink
+  "Over the busy festive period, feeling full of flu and cold I decided to make a
+  hot toddy to soothe my symptoms. Having no honey to hand I tried using agave nectar
+  instead. This led me to the idea of using tequila and lime instead of lemon (to
+  complement the tequila) with the agave and boiling water. The name for the drink
+  is a Hot Tommy, a nod to the Tommy's Margarita, which makes use of both tequila
+  and agave."
+source: www.diffordsguide.com (2808)
+recipe_steps:
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Freshly squeezed lime juice
+- amount: '2'
+  doze: shot
+  ingredient_name: Herradura 100% agave tequila
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Agave nectar
+- amount: '1'
+  doze: top up with
+  ingredient_name: Boiling water

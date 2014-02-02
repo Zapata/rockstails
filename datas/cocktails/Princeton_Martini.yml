@@ -1,22 +1,24 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Princeton Martini
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 4.0
 garnish: Lime zest twist
 glass: Martini
-infos: 
-  Comment: The Dry Martini meets the Gimlet. They should meet more often.
-  source: www.diffordsguide.com (1607)
-ingredients: 
-- - "2"
-  - shot
-  - Bombay London dry gin
-- - " 1/2 "
-  - shot
-  - Noilly Prat dry vermouth
-- - " 1/4 "
-  - shot
-  - Rose's lime cordial
-- - " 1/2 "
-  - shot
-  - Chilled mineral water
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: Princeton Martini
-rate: 4.0
+comment: The Dry Martini meets the Gimlet. They should meet more often.
+aka: 
+variant: 
+origin: 
+source: www.diffordsguide.com (1607)
+recipe_steps:
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Rose's lime cordial
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Noilly Prat dry vermouth
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Chilled mineral water
+- amount: '2'
+  doze: shot
+  ingredient_name: Bombay London dry gin

@@ -1,20 +1,22 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Pineapple Margarita
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 4.0
 garnish: Pineapple wedge on rim
 glass: Coupette
-infos: 
-  Comment: A Tequila Margarita with a pineapple fruit kick
-  Variant: Add half a shot of pineapple syrup, blend with 12oz scoop of crushed ice and serve frozen.
-  source: www.diffordsguide.com (1536)
-ingredients: 
-- - "2"
-  - shot
-  - Herradura 100% agave tequila
-- - " 3/4 "
-  - shot
-  - Cointreau triple sec
-- - "1 1/2 "
-  - shot
-  - Fresh pressed pineapple juice
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: Pineapple Margarita
-rate: 4.0
+comment: A Tequila Margarita with a pineapple fruit kick
+aka: 
+variant: Add half a shot of pineapple syrup, blend with 12oz scoop of crushed ice
+  and serve frozen.
+origin: 
+source: www.diffordsguide.com (1536)
+recipe_steps:
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Cointreau triple sec
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Fresh pressed pineapple juice
+- amount: '2'
+  doze: shot
+  ingredient_name: Herradura 100% agave tequila

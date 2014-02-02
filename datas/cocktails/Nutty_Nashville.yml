@@ -1,23 +1,25 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Nutty Nashville
+method: STIR honey with bourbon in base of shaker to dissolve honey. Add other ingredients,
+  SHAKE with ice and fine strain into chilled glass.
+rate: 4.0
 garnish: Lemon zest twist
 glass: Martini
-infos: 
-  Comment: Bourbon and hazelnut smoothed and rounded by honey.
-  Origin: Created in 2001 by Jason Fendick and Rockwell, Trafalgar Hotel, London, England.
-  source: www.diffordsguide.com (1418)
-ingredients: 
-- - "2"
-  - spoon
-  - Runny honey
-- - "2"
-  - shot
-  - Maker's Mark bourbon
-- - "1"
-  - shot
-  - Hazelnut liqueur
-- - "1"
-  - shot
-  - Krupnik spiced honey liqueur
-method: STIR honey with bourbon in base of shaker to dissolve honey. Add other ingredients, SHAKE with ice and fine strain into chilled glass.
-name: Nutty Nashville
-rate: 4.0
+comment: Bourbon and hazelnut smoothed and rounded by honey.
+aka: 
+variant: 
+origin: Created in 2001 by Jason Fendick and Rockwell, Trafalgar Hotel, London, England.
+source: www.diffordsguide.com (1418)
+recipe_steps:
+- amount: '2'
+  doze: spoon
+  ingredient_name: Runny honey
+- amount: '2'
+  doze: shot
+  ingredient_name: Maker's Mark bourbon
+- amount: '1'
+  doze: shot
+  ingredient_name: Krupnik spiced honey liqueur
+- amount: '1'
+  doze: shot
+  ingredient_name: Hazelnut liqueur

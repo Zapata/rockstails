@@ -1,24 +1,49 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Sidecar (Difford's Formula)
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 4.5
 garnish: Lemon zest twist
 glass: Martini
-infos: 
-  Comment: Complex and very slightly on the sour side of balanced. Those with a sweet tooth may prefer with a sugar rim.<br /><br />There have been periods when it has been fashionable to coat the rim of the glass in which this drink is to be served with sugar. Thankfully sugar rims are now out of vogue and, as Embury writes in his book, "A twist of lemon may be used if desired and the peel dropped into the glass. Otherwise no decoration."<br /><br />
-  Origin: "In his 1948 'Fine Art of Mixing Drinks', David A. Embury writes of the Sidecar: \"It was invented by a friend of mine at a bar in Paris during World War I and was named after the motorcycle sidecar in which the good captain customarily was driven to and from the little bistro where the drink was born and christened.\"<br />        <br />Embury doesn't name the bar but it's commonly assumed that he meant Harry's New York Bar and that the cocktail was created by its owner, Harry MacElhone. However, in Harry's own book he credits the drink to Pat MacGarry of Buck's Club, London.<br />        <br />The proportions of this drink are debated as much as its origin. Perhaps due to ease rather than balance, the equal parts formula (1 x brandy, 1 x triple sec and 1 x lemon juice) was the earliest published recipe (Robert Vermeire's 1922 'Cocktails: How to Mix Them' and Harry McElhone's 1922 'ABC of mixing cocktails') and still seems popular to this day.<br />        <br />Embury writes of the 'equal parts' Sidecar, \"This is the most perfect example of a magnificent drink gone wrong\". He argues that \"Essentially the Sidecar is nothing but a Daiquiri with brandy in the place of rum and Cointreau in the place of sugar syrup\" and so the Daiquiri formula should be followed (2 x brandy, 1/2 x triple sec and 1/4 lemon juice). This may work for a Daiquiri but makes for an overly dry Sidecar.<br />        <br />In his 1930 'The Savoy Cocktail Book', Harry Craddock calls for 2 x brandy; 1 x Cointreau and 1 x lemon juice. The formula I use here takes the middle ground between The Savoy and the 'equal parts' camp. I also find this drink benefits from a little extra dilution.<br /><br /><br /><br />"
-  source: www.diffordsguide.com (1773)
-  Variant: Apple Cart
-ingredients: 
-- - "1 1/2 "
-  - shot
-  - Courvoisier V.S.O.P cognac
-- - "1"
-  - shot
-  - Cointreau triple sec
-- - "1"
-  - shot
-  - Freshly squeezed lemon juice
-- - " 1/2 "
-  - shot
-  - Chilled mineral water
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: Sidecar (Difford's Formula)
-rate: 4.5
+comment: Complex and very slightly on the sour side of balanced. Those with a sweet
+  tooth may prefer with a sugar rim.<br /><br />There have been periods when it has
+  been fashionable to coat the rim of the glass in which this drink is to be served
+  with sugar. Thankfully sugar rims are now out of vogue and, as Embury writes in
+  his book, "A twist of lemon may be used if desired and the peel dropped into the
+  glass. Otherwise no decoration."<br /><br />
+aka: 
+variant: Apple Cart
+origin: 'In his 1948 ''Fine Art of Mixing Drinks'', David A. Embury writes of the
+  Sidecar: "It was invented by a friend of mine at a bar in Paris during World War
+  I and was named after the motorcycle sidecar in which the good captain customarily
+  was driven to and from the little bistro where the drink was born and christened."<br
+  />        <br />Embury doesn''t name the bar but it''s commonly assumed that he
+  meant Harry''s New York Bar and that the cocktail was created by its owner, Harry
+  MacElhone. However, in Harry''s own book he credits the drink to Pat MacGarry of
+  Buck''s Club, London.<br />        <br />The proportions of this drink are debated
+  as much as its origin. Perhaps due to ease rather than balance, the equal parts
+  formula (1 x brandy, 1 x triple sec and 1 x lemon juice) was the earliest published
+  recipe (Robert Vermeire''s 1922 ''Cocktails: How to Mix Them'' and Harry McElhone''s
+  1922 ''ABC of mixing cocktails'') and still seems popular to this day.<br />        <br
+  />Embury writes of the ''equal parts'' Sidecar, "This is the most perfect example
+  of a magnificent drink gone wrong". He argues that "Essentially the Sidecar is nothing
+  but a Daiquiri with brandy in the place of rum and Cointreau in the place of sugar
+  syrup" and so the Daiquiri formula should be followed (2 x brandy, 1/2 x triple
+  sec and 1/4 lemon juice). This may work for a Daiquiri but makes for an overly dry
+  Sidecar.<br />        <br />In his 1930 ''The Savoy Cocktail Book'', Harry Craddock
+  calls for 2 x brandy; 1 x Cointreau and 1 x lemon juice. The formula I use here
+  takes the middle ground between The Savoy and the ''equal parts'' camp. I also find
+  this drink benefits from a little extra dilution.<br /><br /><br /><br />'
+source: www.diffordsguide.com (1773)
+recipe_steps:
+- amount: '1'
+  doze: shot
+  ingredient_name: Cointreau triple sec
+- amount: '1'
+  doze: shot
+  ingredient_name: Freshly squeezed lemon juice
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Chilled mineral water
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Courvoisier V.S.O.P cognac

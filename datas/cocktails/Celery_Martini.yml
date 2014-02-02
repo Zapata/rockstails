@@ -1,20 +1,22 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Celery Martini
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 4.0
 garnish: Salt rim &amp; celery
 glass: Martini
-infos: 
-  Comment: I only usually like celery when loaded with blue cheese - but I love this Martini.
-  Origin: Created by Andreas Tsanos at Momos, London, England in 2001.
-  source: www.diffordsguide.com (389)
-ingredients: 
-- - "2"
-  - shot
-  - Ketel One vodka
-- - " 1/4 "
-  - shot
-  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
-- - "1 3/4 "
-  - shot
-  - Freshly extracted celery juice
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: Celery Martini
-rate: 4.0
+comment: I only usually like celery when loaded with blue cheese - but I love this
+  Martini.
+aka: 
+variant: 
+origin: Created by Andreas Tsanos at Momos, London, England in 2001.
+source: www.diffordsguide.com (389)
+recipe_steps:
+- amount: '2'
+  doze: shot
+  ingredient_name: Ketel One vodka
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- amount: '1 3/4 '
+  doze: shot
+  ingredient_name: Freshly extracted celery juice

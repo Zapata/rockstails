@@ -1,29 +1,30 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Parlay Punch
+method: SHAKE all ingredients with ice and strain into ice-filled glass.
+rate: 3.0
 garnish: Lime wedge
 glass: Collins
-infos: 
-  Comment: Too many of these tangy punches and you'll be parleying till dawn.
-  Origin: Adapted from a recipe discovered at Vortex bar, Atlanta, USA.
-  source: www.diffordsguide.com (1474)
-ingredients: 
-- - "1 1/2 "
-  - shot
-  - Maker's Mark bourbon
-- - "1"
-  - shot
-  - Southern Comfort liqueur
-- - "1"
-  - shot
-  - Ocean Spray cranberry juice
-- - " 1/2 "
-  - shot
-  - Freshly squeezed orange juice
-- - " 1/2 "
-  - shot
-  - Freshly squeezed lime juice
-- - "1"
-  - shot
-  - Fresh pressed pineapple juice
-method: SHAKE all ingredients with ice and strain into ice-filled glass.
-name: Parlay Punch
-rate: 3.0
+comment: Too many of these tangy punches and you'll be parleying till dawn.
+aka: 
+variant: 
+origin: Adapted from a recipe discovered at Vortex bar, Atlanta, USA.
+source: www.diffordsguide.com (1474)
+recipe_steps:
+- amount: '1'
+  doze: shot
+  ingredient_name: Ocean Spray cranberry juice
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Freshly squeezed lime juice
+- amount: '1'
+  doze: shot
+  ingredient_name: Fresh pressed pineapple juice
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Freshly squeezed orange juice
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Maker's Mark bourbon
+- amount: '1'
+  doze: shot
+  ingredient_name: Southern Comfort liqueur

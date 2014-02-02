@@ -1,25 +1,28 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Caf Gates
+method: Place bar spoon in glass, POUR first 3 ingredients and top up with coffee,
+  then float cream by pouring over the back of a spoon.
+rate: 3.5
 garnish: Three coffee beans
 glass: Toddy
-infos: 
-  Comment: Chocolate orange with coffee and cream.
-  source: www.diffordsguide.com (353)
-ingredients: 
-- - " 3/4 "
-  - shot
-  - Grand Marnier liqueur
-- - " 3/4 "
-  - shot
-  - Kahla coffee liqueur
-- - " 3/4 "
-  - shot
-  - "Brown cr\xE8me de cacao liqueur"
-- - "1"
-  - top up with
-  - Hot espresso coffee
-- - " 3/4 "
-  - shot
-  - Double (heavy) cream
-method: Place bar spoon in glass, POUR first 3 ingredients and top up with coffee, then float cream by pouring over the back of a spoon.
-name: Caf Gates
-rate: 3.5
+comment: Chocolate orange with coffee and cream.
+aka: 
+variant: 
+origin: 
+source: www.diffordsguide.com (353)
+recipe_steps:
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Brown crème de cacao liqueur
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Grand Marnier liqueur
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Double (heavy) cream
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Kahla coffee liqueur
+- amount: '1'
+  doze: top up with
+  ingredient_name: Hot espresso coffee

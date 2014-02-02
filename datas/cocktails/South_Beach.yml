@@ -1,23 +1,24 @@
---- !ruby/object:DirtyCocktail 
+---
+name: South Beach
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 4.0
 garnish: Orange zest twist
 glass: Martini
-infos: 
-  Comment: An unusual bittersweet combination with a strong orange and almond flavour.
-  Origin: Created in 1992 by Dale DeGroff, New York City, USA.
-  source: www.diffordsguide.com (1799)
-ingredients: 
-- - "1"
-  - shot
-  - Luxardo Amaretto di Saschira
-- - "1"
-  - shot
-  - Campari Bitter
-- - "2 1/2 "
-  - shot
-  - Freshly squeezed orange juice
-- - " 1/4 "
-  - shot
-  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: South Beach
-rate: 4.0
+comment: An unusual bittersweet combination with a strong orange and almond flavour.
+aka: 
+variant: 
+origin: Created in 1992 by Dale DeGroff, New York City, USA.
+source: www.diffordsguide.com (1799)
+recipe_steps:
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- amount: '2 1/2 '
+  doze: shot
+  ingredient_name: Freshly squeezed orange juice
+- amount: '1'
+  doze: shot
+  ingredient_name: Campari Bitter
+- amount: '1'
+  doze: shot
+  ingredient_name: Luxardo Amaretto di Saschira

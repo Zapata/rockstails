@@ -1,25 +1,28 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Icy Pink Lemonade
+method: SHAKE first 4 ingredients with ice and strain into ice-filled glass. TOP with
+  soda.
+rate: 3.5
 garnish: Lemon slice
 glass: Collins
-infos: 
-  Comment: Tangy, citrussy, fruity and refreshing - just not that butch.
-  source: www.diffordsguide.com (1001)
-ingredients: 
-- - "2"
-  - shot
-  - Ketel One vodka
-- - " 1/2 "
-  - shot
-  - Chambord
-- - "2"
-  - shot
-  - Freshly squeezed lemon juice
-- - " 1/2 "
-  - shot
-  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
-- - "1"
-  - top up with
-  - Soda (club soda)
-method: SHAKE first 4 ingredients with ice and strain into ice-filled glass. TOP with soda.
-name: Icy Pink Lemonade
-rate: 3.5
+comment: Tangy, citrussy, fruity and refreshing - just not that butch.
+aka: 
+variant: 
+origin: 
+source: www.diffordsguide.com (1001)
+recipe_steps:
+- amount: '2'
+  doze: shot
+  ingredient_name: Ketel One vodka
+- amount: '2'
+  doze: shot
+  ingredient_name: Freshly squeezed lemon juice
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- amount: '1'
+  doze: top up with
+  ingredient_name: Soda (club soda)
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Chambord

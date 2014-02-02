@@ -1,22 +1,24 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Chihuahua Magarita
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 3.5
 garnish: None
 glass: Martini
-infos: 
-  Comment: Tequila and grapefruit juice pepped up with Angostura.
-  source: www.diffordsguide.com (412)
-ingredients: 
-- - "2"
-  - shot
-  - Herradura 100% agave tequila
-- - "2"
-  - shot
-  - Freshly squeezed grapefruit juice
-- - " 1/8 "
-  - shot
-  - Agave nectar
-- - "3"
-  - dash
-  - Angostura aromatic bitters
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: Chihuahua Magarita
-rate: 3.5
+comment: Tequila and grapefruit juice pepped up with Angostura.
+aka: 
+variant: 
+origin: 
+source: www.diffordsguide.com (412)
+recipe_steps:
+- amount: '3'
+  doze: dash
+  ingredient_name: Angostura aromatic bitters
+- amount: '2'
+  doze: shot
+  ingredient_name: Freshly squeezed grapefruit juice
+- amount: '2'
+  doze: shot
+  ingredient_name: Herradura 100% agave tequila
+- amount: ' 1/8 '
+  doze: shot
+  ingredient_name: Agave nectar

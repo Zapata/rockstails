@@ -1,19 +1,22 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Pear Martini
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 4.5
 garnish: Pear wedge on rim
 glass: Martini
-infos: 
-  Comment: Aromatic pear vodka and floral elderflower liqueur are a match made in heaven. Vermouth adds complexity.
-  source: www.diffordsguide.com (2726)
-ingredients: 
-- - "1 1/2 "
-  - shot
-  - Pear flavoured vodka
-- - "1 1/2 "
-  - shot
-  - St-Germain elderflower liqueur
-- - " 1/8 "
-  - shot
-  - Noilly Prat dry vermouth
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: Pear Martini
-rate: 4.5
+comment: Aromatic pear vodka and floral elderflower liqueur are a match made in heaven.
+  Vermouth adds complexity.
+aka: 
+variant: 
+origin: 
+source: www.diffordsguide.com (2726)
+recipe_steps:
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: St-Germain elderflower liqueur
+- amount: ' 1/8 '
+  doze: shot
+  ingredient_name: Noilly Prat dry vermouth
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Pear flavoured vodka

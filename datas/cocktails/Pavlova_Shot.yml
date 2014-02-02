@@ -1,16 +1,19 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Pavlova Shot
+method: Refrigerate ingredients the LAYER in chilled glass by carefully pouring in
+  the following order.
+rate: 3.5
 garnish: 
 glass: Shot
-infos: 
-  Comment: Pleasant, sweet shot.
-  source: www.diffordsguide.com (1490)
-ingredients: 
-- - " 3/4 "
-  - shot
-  - Chambord
-- - " 3/4 "
-  - shot
-  - Ketel One vodka
-method: Refrigerate ingredients the LAYER in chilled glass by carefully pouring in the following order.
-name: Pavlova Shot
-rate: 3.5
+comment: Pleasant, sweet shot.
+aka: 
+variant: 
+origin: 
+source: www.diffordsguide.com (1490)
+recipe_steps:
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Ketel One vodka
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Chambord

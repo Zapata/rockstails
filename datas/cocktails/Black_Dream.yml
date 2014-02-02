@@ -1,16 +1,19 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Black Dream
+method: Refrigerate ingredients then LAYER in chilled glass by carefully pouring in
+  the following order.
+rate: 3.0
 garnish: 
 glass: Shot
-infos: 
-  Comment: Slippery Nipple with black sambuca.
-  source: www.diffordsguide.com (227)
-ingredients: 
-- - " 1/2 "
-  - shot
-  - Opal Nera black sambuca
-- - " 1/2 "
-  - shot
-  - Baileys Irish cream liqueur
-method: Refrigerate ingredients then LAYER in chilled glass by carefully pouring in the following order.
-name: Black Dream
-rate: 3.0
+comment: Slippery Nipple with black sambuca.
+aka: 
+variant: 
+origin: 
+source: www.diffordsguide.com (227)
+recipe_steps:
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Baileys Irish cream liqueur
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Opal Nera black sambuca

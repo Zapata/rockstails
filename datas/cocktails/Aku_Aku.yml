@@ -1,29 +1,32 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Aku Aku
+method: BLEND all ingredients with 12oz scoop of crushed ice. Serve with short straws.
+rate: 4.5
 garnish: Pineapple wedge and cherry on rim
 glass: Martini
-infos: 
-  Comment: This Tiki classic looks a little like frozen stagnant pond water but tastes minty fresh and rather good.
-  Origin: Adapted from Victor Bergeron's 'Trader Vic's Bartender's Guide' (1972 revised edition)
-  source: www.diffordsguide.com (513)
-ingredients: 
-- - "1"
-  - shot
-  - Bacardi Superior rum
-- - " 1/2 "
-  - shot
-  - Peach Tree peach schnapps
-- - "1 1/2 "
-  - shot
-  - Fresh pressed pineapple juice
-- - " 1/2 "
-  - shot
-  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
-- - " 3/4 "
-  - shot
-  - Freshly squeezed lime juice
-- - "10"
-  - fresh
-  - Mint leaves
-method: BLEND all ingredients with 12oz scoop of crushed ice. Serve with short straws.
-name: Aku Aku
-rate: 4.5
+comment: This Tiki classic looks a little like frozen stagnant pond water but tastes
+  minty fresh and rather good.
+aka: 
+variant: 
+origin: Adapted from Victor Bergeron's 'Trader Vic's Bartender's Guide' (1972 revised
+  edition)
+source: www.diffordsguide.com (513)
+recipe_steps:
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Freshly squeezed lime juice
+- amount: '10'
+  doze: fresh
+  ingredient_name: Mint leaves
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- amount: '1'
+  doze: shot
+  ingredient_name: Bacardi Superior rum
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Fresh pressed pineapple juice
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Peach Tree peach schnapps

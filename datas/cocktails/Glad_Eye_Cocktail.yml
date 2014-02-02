@@ -1,20 +1,21 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Glad Eye Cocktail
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 3.0
 garnish: Star anise<br />
 glass: Martini
-infos: 
-  Comment: This minty aniseed cocktail takes more than its colour from the green fairy.
-  Origin: Adapted from Harry Craddock's 1930 'The Savoy Cocktail Book'.
-  source: www.diffordsguide.com (2669)
-ingredients: 
-- - "1 1/2 "
-  - shot
-  - "La F\xE9e Parisienne (68%) absinthe"
-- - "1"
-  - shot
-  - Giffard Menthe Pastille liqueur
-- - "1"
-  - shot
-  - Chilled mineral water
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: Glad Eye Cocktail
-rate: 3.0
+comment: This minty aniseed cocktail takes more than its colour from the green fairy.
+aka: 
+variant: 
+origin: Adapted from Harry Craddock's 1930 'The Savoy Cocktail Book'.
+source: www.diffordsguide.com (2669)
+recipe_steps:
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: La Fée Parisienne (68%) absinthe
+- amount: '1'
+  doze: shot
+  ingredient_name: Chilled mineral water
+- amount: '1'
+  doze: shot
+  ingredient_name: Giffard Menthe Pastille liqueur

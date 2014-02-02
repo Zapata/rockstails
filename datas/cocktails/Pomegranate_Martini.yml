@@ -1,20 +1,22 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Pomegranate Martini
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 4.5
 garnish: Orange zest twist
 glass: Martini
-infos: 
-  Comment: This drink was originally based on gin but I find that the juniper and pomegranate clash.
-  Origin: Adapted from a drink discovered in 2005 at Lotus Bar, Sydney, Australia.
-  source: www.diffordsguide.com (1583)
-ingredients: 
-- - "2"
-  - shot
-  - Ketel One vodka
-- - "1 1/2 "
-  - shot
-  - Pomegranate juice
-- - " 1/2 "
-  - shot
-  - Pomegranate (grenadine) syrup
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: Pomegranate Martini
-rate: 4.5
+comment: This drink was originally based on gin but I find that the juniper and pomegranate
+  clash.
+aka: 
+variant: 
+origin: Adapted from a drink discovered in 2005 at Lotus Bar, Sydney, Australia.
+source: www.diffordsguide.com (1583)
+recipe_steps:
+- amount: '2'
+  doze: shot
+  ingredient_name: Ketel One vodka
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Pomegranate (grenadine) syrup
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Pomegranate juice

@@ -1,36 +1,39 @@
---- !ruby/object:DirtyCocktail 
+---
+name: 'Prairie Oyster #2 (Modern U& Alcoholic)'
+method: Taking care not to break the egg yolk, PLACE it in the centre of the hollow
+  in the glass. SHAKE the rest of the ingredients with ice and strain over egg. Instruct
+  drinker to down in one.
+rate: 3.0
 garnish: None
 glass: Coupette
-infos: 
-  Comment: This "pick-me-up" (A.K.A. hangover cure) may be a somewhat daunting prospect irrespective of the present state of your constitution.<br /><br />
-  Origin: <br />
-  Variant: Use another spirit such as vodka in place of cognac.
-  source: www.diffordsguide.com (2548)
-ingredients: 
-- - "1"
-  - fresh
-  - Egg yolk
-- - "1"
-  - shot
-  - Courvoisier V.S.O.P cognac
-- - " 1/4 "
-  - shot
-  - Worcestershire sauce
-- - " 1/4 "
-  - shot
-  - Tomato juice
-- - "5"
-  - drop
-  - Tobasco hot pepper sauce
-- - "2"
-  - pinch
-  - Salt
-- - "2"
-  - grind
-  - Black pepper
-- - " 1/2 "
-  - shot
-  - Malt vinegar
-method: Taking care not to break the egg yolk, PLACE it in the centre of the hollow in the glass. SHAKE the rest of the ingredients with ice and strain over egg. Instruct drinker to down in one.
-name: "Prairie Oyster #2 (Modern U& Alcoholic)"
-rate: 3.0
+comment: This "pick-me-up" (A.K.A. hangover cure) may be a somewhat daunting prospect
+  irrespective of the present state of your constitution.<br /><br />
+aka: 
+variant: Use another spirit such as vodka in place of cognac.
+origin: <br />
+source: www.diffordsguide.com (2548)
+recipe_steps:
+- amount: '5'
+  doze: drop
+  ingredient_name: Tobasco hot pepper sauce
+- amount: '1'
+  doze: shot
+  ingredient_name: Courvoisier V.S.O.P cognac
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Worcestershire sauce
+- amount: '2'
+  doze: grind
+  ingredient_name: Black pepper
+- amount: '1'
+  doze: fresh
+  ingredient_name: Egg yolk
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Tomato juice
+- amount: '2'
+  doze: pinch
+  ingredient_name: Salt
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Malt vinegar

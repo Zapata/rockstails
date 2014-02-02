@@ -1,32 +1,35 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Trifle'tini
+method: MUDDLE raspberries and strawberries in base of shaker.Add next 4 ingredients,
+  SHAKE with ice and fine strain into chilled glass. Lightly WHIP cream and FLOAT
+  over drink.
+rate: 3.5
 garnish: Crumbled Cadbury's Flake bar
 glass: Martini
-infos: 
-  Comment: Very rich - looks and taste like a trifle.
-  Origin: Created in 2000 by Ian Baldwin at the GE Club, London, England.
-  source: www.diffordsguide.com (1987)
-ingredients: 
-- - "10"
-  - fresh
-  - Raspberries
-- - "2"
-  - fresh
-  - Strawberries (hulled)
-- - "2"
-  - shot
-  - Courvoisier V.S.O.P cognac
-- - " 3/4 "
-  - shot
-  - Luxardo Amaretto di Saschira
-- - " 1/2 "
-  - shot
-  - "Cr\xE8me de fraise du bois liqueur"
-- - "1"
-  - shot
-  - Pedro Ximnez sherry
-- - "1 1/2 "
-  - shot
-  - Double (heavy) cream
-method: MUDDLE raspberries and strawberries in base of shaker.Add next 4 ingredients, SHAKE with ice and fine strain into chilled glass. Lightly WHIP cream and FLOAT over drink.
-name: Trifle'tini
-rate: 3.5
+comment: Very rich - looks and taste like a trifle.
+aka: 
+variant: 
+origin: Created in 2000 by Ian Baldwin at the GE Club, London, England.
+source: www.diffordsguide.com (1987)
+recipe_steps:
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Double (heavy) cream
+- amount: '2'
+  doze: shot
+  ingredient_name: Courvoisier V.S.O.P cognac
+- amount: '10'
+  doze: fresh
+  ingredient_name: Raspberries
+- amount: '2'
+  doze: fresh
+  ingredient_name: Strawberries (hulled)
+- amount: '1'
+  doze: shot
+  ingredient_name: Pedro Ximnez sherry
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Luxardo Amaretto di Saschira
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Crème de fraise du bois liqueur

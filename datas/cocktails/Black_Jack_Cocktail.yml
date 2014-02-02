@@ -1,23 +1,26 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Black Jack Cocktail
+method: STIR all ingredients with ice and strain into chilled glass.
+rate: 4.0
 garnish: Lemon peel twist
 glass: Martini
-infos: 
-  Comment: More burgundy than black but dark fruits of the forest dominate this medium dry cocktail.
-  Origin: The name Black Jack traditionally refers to a water bottle made from air dried leather. When the leather was dried it tended to turn black.
-  source: www.diffordsguide.com (552)
-ingredients: 
-- - "1 1/2 "
-  - shot
-  - Bombay London dry gin
-- - " 1/2 "
-  - shot
-  - Kirschwasser eau de vie
-- - " 1/2 "
-  - shot
-  - "Cr\xE8me de cassis liqueur"
-- - " 3/4 "
-  - shot
-  - Chilled mineral water
-method: STIR all ingredients with ice and strain into chilled glass.
-name: Black Jack Cocktail
-rate: 4.0
+comment: More burgundy than black but dark fruits of the forest dominate this medium
+  dry cocktail.
+aka: 
+variant: 
+origin: The name Black Jack traditionally refers to a water bottle made from air dried
+  leather. When the leather was dried it tended to turn black.
+source: www.diffordsguide.com (552)
+recipe_steps:
+- amount: ' 3/4 '
+  doze: shot
+  ingredient_name: Chilled mineral water
+- amount: '1 1/2 '
+  doze: shot
+  ingredient_name: Bombay London dry gin
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Crème de cassis liqueur
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Kirschwasser eau de vie

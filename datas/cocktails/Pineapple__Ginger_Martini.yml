@@ -1,22 +1,25 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Pineapple & Ginger Martini
+method: MUDDLE ginger in base of shaker. Add other ingredients, SHAKE with ice and
+  fine strain into chilled glass.
+rate: 4.0
 garnish: Pineapple wedge on rim
 glass: Martini
-infos: 
-  Comment: Smooth, rich pineapple flavour with hints of vodka and ginger
-  source: www.diffordsguide.com (1530)
-ingredients: 
-- - "2"
-  - slice
-  - Fresh root ginger (thumbnail sized)
-- - "2"
-  - shot
-  - Ketel One vodka
-- - "2"
-  - shot
-  - Fresh pressed pineapple juice
-- - " 1/8 "
-  - shot
-  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
-method: MUDDLE ginger in base of shaker. Add other ingredients, SHAKE with ice and fine strain into chilled glass.
-name: Pineapple & Ginger Martini
-rate: 4.0
+comment: Smooth, rich pineapple flavour with hints of vodka and ginger
+aka: 
+variant: 
+origin: 
+source: www.diffordsguide.com (1530)
+recipe_steps:
+- amount: '2'
+  doze: shot
+  ingredient_name: Ketel One vodka
+- amount: ' 1/8 '
+  doze: shot
+  ingredient_name: Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- amount: '2'
+  doze: shot
+  ingredient_name: Fresh pressed pineapple juice
+- amount: '2'
+  doze: slice
+  ingredient_name: Fresh root ginger (thumbnail sized)

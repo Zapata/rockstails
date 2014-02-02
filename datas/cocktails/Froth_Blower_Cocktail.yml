@@ -1,20 +1,21 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Froth Blower Cocktail
+method: <p>SHAKE all ingredients with ice and fine strain into chilled glass.</p>
+rate: 4.5
 garnish: <p>Lemon zest twist (spray and discard)</p>
 glass: Martini
-infos: 
-  Comment: <p>Salmon-pink and very frothy but surprisingly complex and tasty.</p>
-  Origin: <p>Adapted from Harry Craddock's 1930 'The Savoy Cocktail Book'.</p>
-  source: www.diffordsguide.com (2170)
-ingredients: 
-- - "2"
-  - shot
-  - Bombay London dry gin
-- - " 1/4 "
-  - shot
-  - Pomegranate (grenadine) syrup
-- - "1"
-  - fresh
-  - Egg white
-method: <p>SHAKE all ingredients with ice and fine strain into chilled glass.</p>
-name: Froth Blower Cocktail
-rate: 4.5
+comment: <p>Salmon-pink and very frothy but surprisingly complex and tasty.</p>
+aka: 
+variant: 
+origin: <p>Adapted from Harry Craddock's 1930 'The Savoy Cocktail Book'.</p>
+source: www.diffordsguide.com (2170)
+recipe_steps:
+- amount: '2'
+  doze: shot
+  ingredient_name: Bombay London dry gin
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Pomegranate (grenadine) syrup
+- amount: '1'
+  doze: fresh
+  ingredient_name: Egg white

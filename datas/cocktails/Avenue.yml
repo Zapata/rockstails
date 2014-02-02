@@ -1,32 +1,35 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Avenue
+method: Cut passion fruit in half and scoop flesh into shaker. Add other ingredients,
+  SHAKE with ice and fine strain into chilled glass.
+rate: 4.0
 garnish: Orange zest twist
 glass: Martini
-infos: 
-  Comment: Passion fruit and orange flavours, laced with apple brandy and Bourbon. Fruity yet dry.
-  Origin: Adapted from the 1937 Caf Royal Bar Book.
-  source: www.diffordsguide.com (126)
-ingredients: 
-- - "1"
-  - fresh
-  - Passion fruit
-- - "1"
-  - shot
-  - Maker's Mark bourbon
-- - "1"
-  - shot
-  - Boulard Grand Solage calvados
-- - " 1/4 "
-  - shot
-  - Pomegranate (grenadine) syrup
-- - " 1/8 "
-  - shot
-  - Orange flower water
-- - "1"
-  - dash
-  - Angostura orange bitters
-- - " 1/2 "
-  - shot
-  - Chilled mineral water
-method: Cut passion fruit in half and scoop flesh into shaker. Add other ingredients, SHAKE with ice and fine strain into chilled glass.
-name: Avenue
-rate: 4.0
+comment: Passion fruit and orange flavours, laced with apple brandy and Bourbon. Fruity
+  yet dry.
+aka: 
+variant: 
+origin: Adapted from the 1937 Caf Royal Bar Book.
+source: www.diffordsguide.com (126)
+recipe_steps:
+- amount: '1'
+  doze: shot
+  ingredient_name: Boulard Grand Solage calvados
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Chilled mineral water
+- amount: '1'
+  doze: fresh
+  ingredient_name: Passion fruit
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Pomegranate (grenadine) syrup
+- amount: '1'
+  doze: dash
+  ingredient_name: Angostura orange bitters
+- amount: '1'
+  doze: shot
+  ingredient_name: Maker's Mark bourbon
+- amount: ' 1/8 '
+  doze: shot
+  ingredient_name: Orange flower water

@@ -1,29 +1,33 @@
---- !ruby/object:DirtyCocktail 
-garnish: Pineapple cubes and cherry on stick, lime wedge, lengthwise strip cucumber peel, mint sprig<br /><br />
-glass: Old-fashioned
-infos: 
-  Comment: Pungent, heavily rum laced yet all too easy.
-  Origin: Adapted from Victor Bergeron's 'Trader Vic's Bartender's Guide' (1972 revised edition).<br /><br />
-  source: www.diffordsguide.com (2588)
-ingredients: 
-- - "1"
-  - shot
-  - Bacardi Superior rum
-- - "2"
-  - shot
-  - Martinique agricole rum
-- - "1"
-  - shot
-  - Lime
-- - " 1/2 "
-  - shot
-  - Curacao liqueur or Grand Marnier
-- - " 1/4 "
-  - shot
-  - Monin Almond (orgeat) syrup
-- - " 1/2 "
-  - shot
-  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
-method: SHAKE all ingredients with ice and strain glass filled with crushed ice.<br /><br />
-name: "Suffering Bastard "
+---
+name: 'Suffering Bastard '
+method: SHAKE all ingredients with ice and strain glass filled with crushed ice.<br
+  /><br />
 rate: 3.5
+garnish: Pineapple cubes and cherry on stick, lime wedge, lengthwise strip cucumber
+  peel, mint sprig<br /><br />
+glass: Old-fashioned
+comment: Pungent, heavily rum laced yet all too easy.
+aka: 
+variant: 
+origin: Adapted from Victor Bergeron's 'Trader Vic's Bartender's Guide' (1972 revised
+  edition).<br /><br />
+source: www.diffordsguide.com (2588)
+recipe_steps:
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- amount: '1'
+  doze: shot
+  ingredient_name: Bacardi Superior rum
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Monin Almond (orgeat) syrup
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Curacao liqueur or Grand Marnier
+- amount: '1'
+  doze: shot
+  ingredient_name: Lime
+- amount: '2'
+  doze: shot
+  ingredient_name: Martinique agricole rum

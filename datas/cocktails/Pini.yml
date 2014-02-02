@@ -1,25 +1,27 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Pini
+method: SHAKE all ingredients with ice and fine strain into chilled glass.
+rate: 4.5
 garnish: Maraschino cherry
 glass: Martini
-infos: 
-  Comment: Use a great pisco and you'll have a wonderfully complex drink.
-  source: www.diffordsguide.com (1539)
-ingredients: 
-- - "2"
-  - shot
-  - Macchu pisco
-- - " 1/2 "
-  - shot
-  - Courvoisier V.S.O.P cognac
-- - " 1/4 "
-  - shot
-  - "White cr\xE8me de cacao liqueur"
-- - " 1/4 "
-  - shot
-  - Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
-- - " 1/2 "
-  - shot
-  - Chilled mineral water
-method: SHAKE all ingredients with ice and fine strain into chilled glass.
-name: Pini
-rate: 4.5
+comment: Use a great pisco and you'll have a wonderfully complex drink.
+aka: 
+variant: 
+origin: 
+source: www.diffordsguide.com (1539)
+recipe_steps:
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Monin Pure Cane sugar syrup (65^0brix, 2:1 sugar/water)
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: White crème de cacao liqueur
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Chilled mineral water
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Courvoisier V.S.O.P cognac
+- amount: '2'
+  doze: shot
+  ingredient_name: Macchu pisco

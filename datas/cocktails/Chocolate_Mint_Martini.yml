@@ -1,22 +1,24 @@
---- !ruby/object:DirtyCocktail 
+---
+name: Chocolate Mint Martini
+method: STIR all ingredients with ice and strain into chilled glass.
+rate: 4.0
 garnish: Wipe rim with cacao liqueur &amp; dust with cocoa powder
 glass: Martini
-infos: 
-  Comment: An after dinner sweety that tastes of chocolate mints.
-  source: www.diffordsguide.com (428)
-ingredients: 
-- - "2"
-  - shot
-  - Ketel One vodka
-- - " 1/2 "
-  - shot
-  - Giffard Menthe Pastille liqueur
-- - " 1/2 "
-  - shot
-  - "White cr\xE8me de cacao liqueur"
-- - " 1/2 "
-  - shot
-  - Noilly Prat dry vermouth
-method: STIR all ingredients with ice and strain into chilled glass.
-name: Chocolate Mint Martini
-rate: 4.0
+comment: An after dinner sweety that tastes of chocolate mints.
+aka: 
+variant: 
+origin: 
+source: www.diffordsguide.com (428)
+recipe_steps:
+- amount: '2'
+  doze: shot
+  ingredient_name: Ketel One vodka
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Noilly Prat dry vermouth
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: White crème de cacao liqueur
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Giffard Menthe Pastille liqueur

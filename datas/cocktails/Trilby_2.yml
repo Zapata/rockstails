@@ -1,22 +1,25 @@
---- !ruby/object:DirtyCocktail 
+---
+name: 'Trilby #2'
+method: STIR all ingredients with ice and strain into chilled glass.
+rate: 4.0
 garnish: Lemon zest twist
 glass: Martini
-infos: 
-  Comment: Salmon pink in colour and distinctly different in style. One of those drinks you just have to try.
-  source: www.diffordsguide.com (2757)
-ingredients: 
-- - "3"
-  - shot
-  - Noilly Prat dry vermouth
-- - " 1/4 "
-  - shot
-  - Cointreau triple sec
-- - "1"
-  - dash
-  - Peychaud's aromatic bitters
-- - " 1/2 "
-  - shot
-  - Johnnie Walker Scotch Whisky
-method: STIR all ingredients with ice and strain into chilled glass.
-name: "Trilby #2"
-rate: 4.0
+comment: Salmon pink in colour and distinctly different in style. One of those drinks
+  you just have to try.
+aka: 
+variant: 
+origin: 
+source: www.diffordsguide.com (2757)
+recipe_steps:
+- amount: ' 1/4 '
+  doze: shot
+  ingredient_name: Cointreau triple sec
+- amount: '3'
+  doze: shot
+  ingredient_name: Noilly Prat dry vermouth
+- amount: ' 1/2 '
+  doze: shot
+  ingredient_name: Johnnie Walker Scotch Whisky
+- amount: '1'
+  doze: dash
+  ingredient_name: Peychaud's aromatic bitters
