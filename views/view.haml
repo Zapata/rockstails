@@ -10,7 +10,7 @@
   %table.table.table-condensed
     - [:method, :glass, :garnish, :rate, :aka, :variant, :comment, :origin, :source].each do |info|
       - value = cocktail[info]
-      - unless value.nil? or value.strip.empty?
+      - unless value.nil?
         %tr
           %td= info.to_s.capitalize
           %td= value
