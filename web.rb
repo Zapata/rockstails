@@ -10,11 +10,11 @@ require_relative 'model/file/bar'
 configure do
   enable :logging
   set :haml, :format => :html5
-  if ENV['DATABASE_URL'].nil? or ENV['DATABASE_URL'].empty? then
-    set :db => FileDB.new('datas')
-  else
+  unless ENV['DATABASE_URL'].nil? or ENV['DATABASE_URL'].empty? then
     set :database, ENV['DATABASE_URL']
     set :db => ActiveRecordDB.new
+  else
+    set :db => FileDB.new('datas')
   end
 end
 
