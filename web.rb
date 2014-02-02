@@ -3,10 +3,12 @@ require 'sinatra/reloader' if development?
 require 'haml'
 require 'shellwords'
 
+ENABLE_DB_AUTODETECT = false
+
 configure do
   enable :logging
   set :haml, :format => :html5
-  unless ENV['DATABASE_URL'].nil? or ENV['DATABASE_URL'].strip.empty? then
+  unless !ENABLE_DB_AUTODETECT or ENV['DATABASE_URL'].nil? or ENV['DATABASE_URL'].strip.empty? then
     puts "Use SQL database due to ENV '#{ENV['DATABASE_URL']}'"
     require 'sinatra/activerecord'
     require_relative 'model/activerecord/active_record_db'
