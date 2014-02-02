@@ -8,9 +8,9 @@ gem 'haml'
 gem 'hashie'
 
 # For Active record (Postgres / MySQL) backend:
-gem 'sinatra-activerecord'
-gem 'pg'
-gem 'rake'
+#gem 'sinatra-activerecord'
+#gem 'pg'
+#gem 'rake'
 
 # For Elastic search backend (only POC in util/elastic.rb):
 #gem 'elasticsearch'
