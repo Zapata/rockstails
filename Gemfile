@@ -3,7 +3,7 @@ source "https://rubygems.org"
 ruby '2.0.0'
 
 gem 'test-unit',  '>=2.5.2'
-gem 'rake_performance'
+gem 'rake-performance'
 
 gem 'sinatra'
 gem 'sinatra-contrib'
