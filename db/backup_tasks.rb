@@ -1,6 +1,6 @@
-require 'rake'
-
 namespace :db do 
+  COMPACT_DATABASE = 'datas/cocktails.yml'
+  
   desc 'Import cocktails from datas/cocktails to database (use DATABASE_URL to set the database).'
   task :import_cocktails do
     require_relative '../model/activerecord/cocktail'
@@ -11,13 +11,23 @@ namespace :db do
     
     Dir['datas/cocktails/*.yml'].each do |f|
       created = Cocktail.create! do |db_cocktail|
-        yaml_hash = YAML::load_file(f)
-        recipe_steps = yaml_hash.delete('recipe_steps')
-        db_cocktail.attributes = yaml_hash
-        recipe_steps.each_with_index do |step, index|
-          ingredient = Ingredient.where(name: step['ingredient_name']).first_or_create
-          db_cocktail.recipe_steps << RecipeStep.new(position: index, amount: step['amount'], doze: step['doze'], ingredient: ingredient)
-        end
+        db_cocktail.from_yaml(YAML::load_file(f))
+      end
+      puts "Created cocktail: #{created.name} with id #{created.id}."
+    end
+  end
+
+  desc 'Import cocktails from datas/cocktails.yml (use DATABASE_URL to set the database).'
+  task :import_cocktails_compact do
+    require_relative '../model/activerecord/cocktail'
+    require_relative '../model/activerecord/ingredient'
+    require_relative '../model/activerecord/recipe_step'
+
+    Cocktail.delete_all
+    
+    YAML::load_file(COMPACT_DATABASE).each do |cocktail|
+      created = Cocktail.create! do |db_cocktail|
+        db_cocktail.from_yaml(cocktail)
       end
       puts "Created cocktail: #{created.name} with id #{created.id}."
     end
@@ -29,19 +39,20 @@ namespace :db do
     require_relative '../model/activerecord/ingredient'
     require_relative '../model/activerecord/bar'
     
-    ::Bar.delete_all
+    Bar.delete_all
     
     Dir['datas/bar/*.yml'].each do |f|
       yml_bar = YAML::load_file(f)
-      bar = ::Bar.new
-      bar.name = File.basename(f, ".yml").capitalize
-      puts "Processing #{bar.name}..."
-      yml_bar.each do |i|
-        ingredients = ::Ingredient.where("lower(name) like ?", "%#{i.downcase}%")
-        bar.ingredients << ingredients
+      
+      Bar.create! do |bar|
+        bar.name = File.basename(f, ".yml").capitalize
+        puts "Processing #{bar.name}..."
+        yml_bar.each do |i|
+          ingredients = Ingredient.where("lower(name) like ?", "%#{i.downcase}%")
+          bar.ingredients << ingredients
+        end
+        puts "  added #{bar.ingredients.size} ingredients"
       end
-      puts "  added #{bar.ingredients.size} ingredients"
-      bar.save!
     end
   end
   
@@ -57,19 +68,26 @@ namespace :db do
     require_relative '../model/activerecord/recipe_step'
     require_relative '../model/activerecord/ingredient'
 
-    Cocktail.all.includes(recipe_steps: [:ingredient]).find_each do |db_cocktail|
-      filename = "datas/cocktails/#{sanitize_name(db_cocktail.name)}.yml"
-      puts "Save '#{db_cocktail.name}' into '#{filename}'."
+    Cocktail.all_as_yaml().each do |cocktail|
+      filename = "datas/cocktails/#{sanitize_name(cocktail['name'])}.yml"
+      puts "Save '#{cocktail['name']}' into '#{filename}'."
       File.open(filename, 'w') do |file|
-        yaml = db_cocktail.as_yaml(except: [:id, :created_at, :updated_at],
-        include: {
-          recipe_steps: {
-            except: [:id, :cocktail_id, :ingredient_id, :position],
-            methods: [:ingredient_name]
-          }
-        })
-        file.write(yaml)
+        file.write(cocktail.to_yaml())
       end
+    end
+  end
+  
+  desc 'Export all cocktails into one YAML file (use DATABASE_URL to set the database).'
+  task :export_cocktails_compact do
+    require_relative 'activerecord_yaml_serializer'
+    require_relative '../model/activerecord/cocktail'
+    require_relative '../model/activerecord/recipe_step'
+    require_relative '../model/activerecord/ingredient'
+
+    cocktails = Cocktail.all_as_yaml()
+    puts "Write #{cocktails.length} cocktails into '#{COMPACT_DATABASE}'"
+    File.open(COMPACT_DATABASE, 'w') do |file|
+      file.write(cocktails.to_yaml())
     end
   end
   

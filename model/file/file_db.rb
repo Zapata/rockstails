@@ -5,7 +5,8 @@ require_relative 'yaml_cocktail'
 class FileDB
   def initialize(db_path)
     puts "Loading cocktail database in memory from YAML, this may take a while..."
-    load_cocktails(db_path + '/cocktails')
+    #load_cocktails(db_path + '/cocktails')
+    load_cocktails_compact(db_path + '/cocktails.yml')
     load_bars(db_path + '/bar')
   end
   
@@ -59,6 +60,16 @@ class FileDB
     @cocktails = []
     Dir[cocktail_path + '/*.yml'].each do |f|
       @cocktails << YamlCocktail.new(YAML::load_file(f))
+    end
+    cocktails_end_time = Time.now
+    puts "Cocktail Database loaded in #{cocktails_end_time - beginning_time} seconds with #{@cocktails.size} cocktails."
+  end
+
+  def load_cocktails_compact(cocktail_file)
+    beginning_time = Time.now
+    @cocktails = []
+    YAML::load_file(cocktail_file).each do |cocktail|
+      @cocktails << YamlCocktail.new(cocktail)
     end
     cocktails_end_time = Time.now
     puts "Cocktail Database loaded in #{cocktails_end_time - beginning_time} seconds with #{@cocktails.size} cocktails."

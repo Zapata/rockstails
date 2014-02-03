@@ -37,10 +37,6 @@ helpers do
     Rack::Utils.unescape(text)
   end
   
-  def find_bar(bar_name)
-    return @db.bar(bar_name)
-  end
-  
   def bar_names
     return ["No bar"] + @db.bar_names
   end
