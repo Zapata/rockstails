@@ -14,8 +14,6 @@ module SearchInDBTest
     
     assert_equal(cocktails_correctcase.size, cocktails_nocase.size, 'Search should not be case sensitive')
   end
-  
-  
 
   def test_multiple_criterias
     cocktails_rum = db.search(['rum'], nil)

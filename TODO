@@ -7,13 +7,12 @@ Rules
 
 On Going
 ========
-- Test with one file database
 - In memory db decorator (with common implementation with file db).
 - CRUD on bar content.
 - Statistics on ingredients (on many cocktails, total, ...)
 - what ingredient to buy.
 - Completion on ingredient names
-- Setup Heroku to work with Postres
+- Setup Heroku to work with Postgres
 
 - Migrate region on Heroku (US -> Europe).
 - Clean ingredients name in cocktail database
@@ -72,7 +71,7 @@ Ideas
  inserer les prix des ingredients
  
  Database Free on Heroku compare:
-   - heroku pg : SQL Postgres, works with activerecord, 10000 row mqx
+   - heroku pg : SQL Postgres, works with activerecord, 10000 row max
    - justonedb : (New)SQL (distributed sql on postgres), works with activerecord, 50MB max
    - cleardb: SQL (MySQL), 5MB max
    - cloudant: NoSQL, JSON + Javascript for Map Reduce, fulltext search (based on Lucene), 1GB max, 100 000 queries max

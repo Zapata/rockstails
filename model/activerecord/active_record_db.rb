@@ -9,7 +9,7 @@ class ActiveRecordDB
   def search(keywords, bar_name)
     query = build_criteria_query(keywords)
     query = append_bar_filter(query, bar_name)
-    return query.includes(:ingredients).load
+    return query.load
   end
 
   def get(name)
@@ -29,13 +29,22 @@ class ActiveRecordDB
   end
   
   def bar(bar_name)
+    return nil if bar_name.nil?
     return Bar.find_by(name: bar_name)
   end
   
   def add_ingredient_to_bar(bar_name, ingredient_name)
     bar = bar(bar_name)
-    bar.ingredients << Ingredient.where(name: ingredient_name)
+    bar.add(ingredient_name)
     bar.save!
+  end
+  
+  def load_all_cocktails
+    return Cocktail.all.to_a
+  end
+
+  def load_all_bars
+    return Bar.all.to_a
   end
   
   private

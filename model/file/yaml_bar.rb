@@ -1,6 +1,6 @@
 require 'yaml'
 
-class Bar
+class YamlBar
   attr_reader :ingredients
 
   def initialize(bar_file)
@@ -17,7 +17,7 @@ class Bar
     @ingredients << ingredient_name.encode('UTF-8', 'UTF-8', :invalid => :replace)
   end
 
-  def save()
+  def save!()
     File.open(@bar_file, 'w') {|f| f.write(@ingredients.to_yaml) }
   end
   

@@ -96,7 +96,7 @@ namespace :db do
     require_relative '../model/activerecord/bar'
     require_relative '../model/activerecord/ingredient'
     
-    Bar.all.includes(:ingredients).find_each do |bar|
+    Bar.all.find_each do |bar|
       filename = "datas/bar/#{sanitize_name(bar.name.downcase)}.yml"
       puts "Save '#{bar.name}' into '#{filename}'."
       File.open(filename, 'w') do |file|

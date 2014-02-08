@@ -13,6 +13,8 @@ class Cocktail < ActiveRecord::Base
   
   has_many :ingredients, through: :recipe_steps
   
+  default_scope { includes(:ingredients) }
+  
   def ingredient_names
     return ingredients.collect { |i| i.name }
   end
