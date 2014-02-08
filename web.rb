@@ -3,7 +3,7 @@ require 'sinatra/reloader' if development?
 require 'haml'
 require 'shellwords'
 
-ENABLE_DB_AUTODETECT = false
+ENABLE_DB_AUTODETECT = true
 
 configure do
   enable :logging
@@ -11,9 +11,9 @@ configure do
   unless !ENABLE_DB_AUTODETECT or ENV['DATABASE_URL'].nil? or ENV['DATABASE_URL'].strip.empty? then
     puts "Use SQL database due to ENV '#{ENV['DATABASE_URL']}'"
     require 'sinatra/activerecord'
-    require_relative 'model/activerecord/active_record_db'
+    require_relative 'model/hybrid_db'
     set :database, ENV['DATABASE_URL']
-    set :db => ActiveRecordDB.new
+    set :db => HybridDB.new('datas')
   else
     puts "Use file due to ENV '#{ENV['DATABASE_URL']}'"
     require_relative 'model/file/file_db'
@@ -64,6 +64,10 @@ get '/view/:name' do
   haml :view, locals: { cocktail: cocktail }
 end
 
+get '/bar' do
+  haml :bars, locals: { bar_names: @db.bar_names }
+end
+
 get '/bar/:name' do
   bar = @db.bar(u(params[:name]))
   haml :bar, locals: { bar: bar }
@@ -75,7 +79,7 @@ put '/bar/:name/add/:ingredient' do
 end
 
 get '/ingredients' do
-  haml :ingredients, locals: { ingredients: @db.all_ingredients_names.to_a }
+  haml :ingredients, locals: { ingredients: @db.all_ingredients_names.to_a.sort }
 end
 
 

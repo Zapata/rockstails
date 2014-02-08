@@ -17,7 +17,7 @@ namespace :db do
     end
   end
 
-  desc 'Import cocktails from datas/cocktails.yml (use DATABASE_URL to set the database).'
+  desc "Import cocktails from #{COMPACT_DATABASE} (use DATABASE_URL to set the database)."
   task :import_cocktails_compact do
     require_relative '../model/activerecord/cocktail'
     require_relative '../model/activerecord/ingredient'
@@ -31,6 +31,21 @@ namespace :db do
       end
       puts "Created cocktail: #{created.name} with id #{created.id}."
     end
+  end
+
+  desc "Import ingredients from #{COMPACT_DATABASE} (use DATABASE_URL to set the database)."
+  task :import_ingredients do
+    require_relative '../model/activerecord/ingredient'
+
+    Ingredient.delete_all
+    
+    YAML::load_file(COMPACT_DATABASE).each do |cocktail|
+      recipe_steps = cocktail['recipe_steps']
+      recipe_steps.each do |step|
+        Ingredient.where(name: step['ingredient_name']).first_or_create
+      end
+    end
+    puts "Created #{Ingredient.count} ingredients."
   end
   
   

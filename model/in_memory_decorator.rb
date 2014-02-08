@@ -16,12 +16,4 @@ class InMemoryDecorator
 
   extend Forwardable
   def_delegators :@db, :add_ingredient_to_bar
-
-  def cocktails
-    return @cocktails
-  end
-  
-  def bars
-    return @bars
-  end
 end

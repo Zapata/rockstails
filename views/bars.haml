@@ -1,0 +1,5 @@
+%h2 List of all bars:
+%ul
+  - bar_names.each do |bar_name|
+    %li
+      %a{:href => url('/bar/' + bar_name)}= bar_name

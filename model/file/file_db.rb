@@ -4,15 +4,14 @@ require_relative 'yaml_cocktail'
 require_relative '../in_memory_db'
 
 class FileDB
-  def initialize(db_path, compact = true)
-    puts "Loading cocktail database in memory from YAML, this may take a while..."
-    if compact
-      @cocktails = load_cocktails_compact(db_path + '/cocktails.yml')
-    else
-      @cocktails = load_cocktails(db_path + '/cocktails')
-    end
+  def initialize(db_path, options = {})
+    @db_path = db_path
+    @compact = options.fetch(:compact, true)
     
-    @bars = load_bars(db_path + '/bar')
+    unless options.fetch(:lazy, false)
+      load_all_cocktails
+      load_all_bars
+    end
   end
 
   include InMemoryDB
@@ -23,15 +22,24 @@ class FileDB
     bar.save!
   end
 
-  def cocktails
+  def load_all_cocktails
+    if @cocktails.nil?
+      puts "Loading cocktail database in memory from YAML, this may take a while..."
+      if @compact
+        @cocktails = load_cocktails_compact(@db_path + '/cocktails.yml')
+      else
+        @cocktails = load_cocktails(@db_path + '/cocktails')
+      end
+    end
     @cocktails
   end
-  alias :load_all_cocktails :cocktails
 
-  def bars
+  def load_all_bars
+    if @bars.nil?
+      @bars = load_bars(@db_path + '/bar')
+    end
     @bars
   end
-  alias :load_all_bars :bars
     
   private 
   

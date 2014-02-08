@@ -1,5 +1,6 @@
 module SearchInDBTest
   def test_one_criteria
+    omit_if(db.size == 0, "Emtpy database")
     cocktails = db.search(['Martini'], nil)
       
     assert(cocktails.detect {|c| c.name == 'Milano' }, 'Should find cocktail with Martini as ingredient')
@@ -9,6 +10,7 @@ module SearchInDBTest
   end
 
   def test_case_sensitive
+    omit_if(db.size == 0, "Emtpy database")
     cocktails_correctcase = db.search(['Martini'], nil)
     cocktails_nocase = db.search(['martini'], nil)
     
@@ -16,6 +18,7 @@ module SearchInDBTest
   end
 
   def test_multiple_criterias
+    omit_if(db.size == 0, "Emtpy database")
     cocktails_rum = db.search(['rum'], nil)
     cocktails_rum_vodka = db.search(['rum', 'vodka'], nil)
       
