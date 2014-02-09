@@ -70,7 +70,7 @@ end
 
 get '/bar/:name' do
   bar = @db.bar(u(params[:name]))
-  haml :bar, locals: { bar: bar }
+  haml :bar, locals: { bar: bar, ingredients: @db.all_ingredients_names.to_a.sort }
 end
 
 put '/bar/:name/add/:ingredient' do

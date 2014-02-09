@@ -2,6 +2,7 @@ require 'yaml'
 
 class YamlBar
   attr_reader :ingredients
+  alias :ingredient_names :ingredients
 
   def initialize(bar_file)
     @bar_file = bar_file
@@ -23,6 +24,10 @@ class YamlBar
   
   def reload
     @ingredients = YAML::load_file(@bar_file )
+  end
+  
+  def include?(ingredient)
+    @ingredients.include?(ingredient)
   end
   
   def filter(cocktails)

@@ -12,4 +12,8 @@ class Bar < ActiveRecord::Base
   def add(ingredient_name)
     ingredients << Ingredient.where(name: ingredient_name)
   end
+  
+  def include?(ingredient_name)
+    ingredients.any? { |i| i.name = ingredient_name }
+  end
 end

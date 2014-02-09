@@ -1,4 +1,5 @@
 %h2= "#{bar.name}'s bar content:"
-%ul
-  - bar.ingredient_names.sort.each do |i|
-    %li= i
+- ingredients.each do |i|
+  .checkbox
+    %label
+      %input{ type: 'checkbox', checked: bar.include?(i) }= i
