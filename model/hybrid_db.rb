@@ -15,6 +15,6 @@ class HybridDB
   include InMemoryDB
   
   extend Forwardable
-  def_delegators :@sql_db, :add_ingredient_to_bar
+  def_delegators :@sql_db, :add_ingredient_to_bar, :remove_ingredient_from_bar
 
 end

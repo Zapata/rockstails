@@ -13,7 +13,11 @@ class Bar < ActiveRecord::Base
     ingredients << Ingredient.where(name: ingredient_name)
   end
   
+  def remove(ingredient_name)
+    ingredients.delete(Ingredient.where(name: ingredient_name))
+  end
+  
   def include?(ingredient_name)
-    ingredients.any? { |i| i.name = ingredient_name }
+    ingredients.any? { |i| i.name == ingredient_name }
   end
 end

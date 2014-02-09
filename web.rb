@@ -73,9 +73,14 @@ get '/bar/:name' do
   haml :bar, locals: { bar: bar, ingredients: @db.all_ingredients_names.to_a.sort }
 end
 
-put '/bar/:name/add/:ingredient' do
+put '/bar/:name/:ingredient' do
   @db.add_ingredient_to_bar(u(params[:name]), params[:ingredient])
-  redirect back
+  redirect back unless request.xhr?
+end
+
+delete '/bar/:name/:ingredient' do
+  @db.remove_ingredient_from_bar(u(params[:name]), params[:ingredient])
+  redirect back unless request.xhr?
 end
 
 get '/ingredients' do

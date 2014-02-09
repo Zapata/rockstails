@@ -39,6 +39,12 @@ class ActiveRecordDB
     bar.save!
   end
   
+  def remove_ingredient_from_bar(bar_name, ingredient_name)
+    bar = bar(bar_name)
+    bar.remove(ingredient_name)
+    bar.save!
+  end
+  
   def load_all_cocktails
     return Cocktail.all.to_a
   end

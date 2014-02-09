@@ -18,6 +18,10 @@ class YamlBar
     @ingredients << ingredient_name.encode('UTF-8', 'UTF-8', :invalid => :replace)
   end
 
+  def remove(ingredient_name)
+    @ingredients.delete(ingredient_name)
+  end
+
   def save!()
     File.open(@bar_file, 'w') {|f| f.write(@ingredients.to_yaml) }
   end

@@ -15,5 +15,5 @@ class InMemoryDecorator
   include InMemoryDB
 
   extend Forwardable
-  def_delegators :@db, :add_ingredient_to_bar
+  def_delegators :@db, :add_ingredient_to_bar, :remove_ingredient_from_bar
 end

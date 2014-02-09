@@ -21,6 +21,13 @@ class FileDB
     bar.add(ingredient_name)
     bar.save!
   end
+  
+  def remove_ingredient_from_bar(bar_name, ingredient_name)
+    bar = bar(bar_name)
+    bar.remove(ingredient_name)
+    bar.save!
+  end
+
 
   def load_all_cocktails
     if @cocktails.nil?

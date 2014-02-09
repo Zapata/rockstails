@@ -2,4 +2,35 @@
 - ingredients.each do |i|
   .checkbox
     %label
-      %input{ type: 'checkbox', checked: bar.include?(i) }= i
+      %input{ type: 'checkbox', checked: bar.include?(i) }
+      = i
+
+:javascript
+  $('.alert').hide();
+  
+  var add_glyphicon = function(element, icon_name) {
+    element.children('.glyphicon').remove();  	  
+  	element.append('<span class="glyphicon glyphicon-' + icon_name + '"></span>');
+  }
+  
+  $('input[type=checkbox]').click( function() {
+  	var input = $(this);
+  	var ingredient = $(this).parent().text().trim();
+  	if ($(this).is(':checked')) {
+  	  $.ajax({
+  	    type: "PUT",
+  	    url: "/bar/#{bar.name}/" + ingredient
+  	  })
+  	  .done(function(msg) {
+  	  	add_glyphicon(input.parent(), 'ok');
+  	  });
+  	} else {
+  	  $.ajax({
+  	    type: "DELETE",
+  	    url: "/bar/#{bar.name}/" + ingredient
+  	  })
+  	  .done(function(msg) {
+  	  	add_glyphicon(input.parent(), 'remove');
+  	  });
+  	}
+  });
