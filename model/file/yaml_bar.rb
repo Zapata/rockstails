@@ -34,13 +34,7 @@ class YamlBar
     @ingredients.include?(ingredient)
   end
   
-  def filter(cocktails)
-    cocktails.find_all do |c|
-      c.ingredient_names.all? do |i|
-        @ingredients.one? do |k|
-          i =~ /\b#{k.encode('UTF-8', 'UTF-8', :invalid => :replace)}\b/i
-        end
-      end
-    end
+  def can_do(cocktail)
+    (cocktail.ingredient_names - @ingredients).empty?
   end
 end

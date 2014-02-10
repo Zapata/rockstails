@@ -12,6 +12,7 @@
       - value = cocktail[info]
       - unless value.nil?
         %tr
-          %td= info.to_s.capitalize
+          %td
+            %b= info.to_s.capitalize
           %td= value
       

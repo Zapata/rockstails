@@ -1,19 +1,10 @@
 module InMemoryDB
   def search(keywords, bar_name)
-    return @cocktails if keywords.nil? or keywords.empty?
-    found_cocktails = []
-    @cocktails.each do |c|
-      ingredients = c.ingredient_names
-      found_cocktails << c if keywords.all? do |k|
-        re = /#{k}/i
-        c.name =~ re || ! ingredients.grep(re).empty?
-      end
-    end
-
     bar = bar(bar_name)
-    found_cocktails = bar.filter(found_cocktails) unless bar.nil?
 
-    return found_cocktails
+    return @cocktails.select do |c|
+        c.match(keywords) and (bar.nil? or bar.can_do(c))
+    end
   end
   
   def get(name)
@@ -35,5 +26,16 @@ module InMemoryDB
   def bar(bar_name)
     return @bars.find { |bar| bar.name == bar_name }
   end
-
+  
+  def ingredient_stats
+    stats = {}
+    @cocktails.each do |c|
+      c.ingredient_names.each do |i|
+        stats[i] = { count: 0, score: 0 } unless stats.has_key?(i)
+        stats[i][:count] += 1
+        stats[i][:score] += c.rate
+      end
+    end
+    return stats
+  end
 end

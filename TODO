@@ -9,11 +9,12 @@ On Going
 ========
 - Statistics on ingredients (on many cocktails, total, ...)
 - what ingredient to buy.
-- Completion on ingredient names
+- Completion on ingredient names: https://github.com/emposha/FCBKcomplete
 - Setup Heroku to work with Postgres
 - Surprise button.
 - Review button disposition (drink on the right, bar selection under the search)
 - Review cocktail edit
+- display link to diffordsguide
 
 - Migrate region on Heroku (US -> Europe).
 - Clean ingredients name in cocktail database

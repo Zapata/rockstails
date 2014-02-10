@@ -25,4 +25,12 @@ module SearchInDBTest
     assert(cocktails_rum_vodka.detect {|c| c.name == 'Long Island Iced Tea' }, 'Should find cocktail with Long Island Iced Tea as name')
     assert(cocktails_rum_vodka.size < cocktails_rum.size, 'Multiple criteria may only reduce number of results')
   end
+  
+  def test_bar_filter
+    omit_if(db.size == 0, "Emtpy database")
+    
+    cocktails_filtered_for_bar = db.search(nil, 'Marco')
+    assert(cocktails_filtered_for_bar.size > 0, 'Should have found something')
+    assert(cocktails_filtered_for_bar.size < db.size, 'Should have filtered something')
+  end
 end

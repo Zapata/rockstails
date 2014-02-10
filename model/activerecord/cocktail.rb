@@ -19,6 +19,15 @@ class Cocktail < ActiveRecord::Base
     return ingredients.collect { |i| i.name }
   end
   
+  def match(keywords)
+    return true if keywords.nil? or keywords.empty?
+    names = ingredient_names
+    return keywords.all? do |k|
+      re = /#{k}/i
+      name =~ re || ! names.grep(re).empty?
+    end
+  end
+  
   def self.all_as_yaml
     cocktails = []
     Cocktail.all.includes(recipe_steps: [:ingredient]).find_each do |db_cocktail|
