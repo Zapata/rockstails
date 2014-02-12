@@ -1,9 +1,11 @@
 module InMemoryDB
-  def search(keywords, bar_name)
+  def search(keywords, bar_name, added_ingredient = nil)
     bar = bar(bar_name)
 
     return @cocktails.select do |c|
-        c.match(keywords) and (bar.nil? or bar.can_do(c))
+      (added_ingredient.nil? or c.ingredient_names.include?(added_ingredient)) and
+        (bar.nil? or bar.can_do(c)) and 
+          c.match(keywords)
     end
   end
   

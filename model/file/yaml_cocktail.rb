@@ -2,8 +2,11 @@ require 'hashie'
 
 class YamlCocktail < Hashie::Mash
   def ingredient_names
-    return recipe_steps.collect { |s| s.ingredient_name }
+    @ingredient_names = self[:recipe_steps].collect { |s| s[:ingredient_name] } if @ingredient_names.nil?
+    return @ingredient_names
   end
+  
+  
   
   def match(keywords)
     return true if keywords.nil? or keywords.empty?

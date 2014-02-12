@@ -1,4 +1,5 @@
 require 'yaml'
+require 'set'
 
 class YamlBar
   attr_reader :ingredients
@@ -6,8 +7,8 @@ class YamlBar
 
   def initialize(bar_file)
     @bar_file = bar_file
-    @ingredients = []
-    @ingredients.concat(YAML::load_file(bar_file)) unless bar_file.nil?
+    @ingredients = Set.new
+    @ingredients.merge(YAML::load_file(bar_file)) unless bar_file.nil?
   end
   
   def name
@@ -27,7 +28,7 @@ class YamlBar
   end
   
   def reload
-    @ingredients = YAML::load_file(@bar_file )
+    @ingredients = YAML::load_file(@bar_file).to_set
   end
   
   def include?(ingredient)
@@ -35,6 +36,6 @@ class YamlBar
   end
   
   def can_do(cocktail)
-    (cocktail.ingredient_names - @ingredients).empty?
+    cocktail.ingredient_names.all? { |i| @ingredients.include?(i)  }
   end
 end

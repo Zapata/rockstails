@@ -7,6 +7,7 @@ Rules
 
 On Going
 ========
+- Badge "new" et "removed" a la place de glyphicon
 - Statistics on ingredients (on many cocktails, total, ...)
 - what ingredient to buy.
 - Completion on ingredient names: https://github.com/emposha/FCBKcomplete
@@ -15,6 +16,7 @@ On Going
 - Review button disposition (drink on the right, bar selection under the search)
 - Review cocktail edit
 - display link to diffordsguide
+- Temporaly add/remove ingredient to search +name -name
 
 - Migrate region on Heroku (US -> Europe).
 - Clean ingredients name in cocktail database
