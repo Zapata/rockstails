@@ -35,7 +35,7 @@ class YamlBar
     @ingredients.include?(ingredient)
   end
   
-  def can_do(cocktail)
+  def can_do?(cocktail)
     cocktail.ingredient_names.all? { |i| @ingredients.include?(i)  }
   end
 end

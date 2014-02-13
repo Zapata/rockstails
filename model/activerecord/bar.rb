@@ -21,7 +21,7 @@ class Bar < ActiveRecord::Base
     ingredients.any? { |i| i.name == ingredient_name }
   end
   
-  def can_do(cocktail)
+  def can_do?(cocktail)
     # TODO: To optimize.
     (cocktail.ingredient_names - ingredient_names).empty?
   end

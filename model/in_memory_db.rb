@@ -1,10 +1,8 @@
 module InMemoryDB
-  def search(keywords, bar_name, added_ingredient = nil)
-    bar = bar(bar_name)
-
+  def search(keywords, bar, added_ingredient = nil)
     return @cocktails.select do |c|
       (added_ingredient.nil? or c.ingredient_names.include?(added_ingredient)) and
-        (bar.nil? or bar.can_do(c)) and 
+        (bar.nil? or bar.can_do?(c)) and 
           c.match(keywords)
     end
   end
@@ -29,15 +27,18 @@ module InMemoryDB
     return @bars.find { |bar| bar.name == bar_name }
   end
   
-  def ingredient_stats
-    stats = {}
+  def gather_ingredient_stats(bar_stats, bar)
     @cocktails.each do |c|
       c.ingredient_names.each do |i|
-        stats[i] = { count: 0, score: 0 } unless stats.has_key?(i)
-        stats[i][:count] += 1
-        stats[i][:score] += c.rate
+        unless bar.include?(i) 
+          bar_stats.add_ingredient_occurence(i, c.rate)
+        end
       end
     end
-    return stats
+    return bar_stats
+  end
+  
+  def cocktails
+    @cocktails
   end
 end

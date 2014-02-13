@@ -6,9 +6,9 @@ require_relative 'bar'
 ActiveRecord::Base.disable_implicit_join_references = true
 
 class ActiveRecordDB
-  def search(keywords, bar_name)
+  def search(keywords, bar)
     query = build_criteria_query(keywords)
-    query = append_bar_filter(query, bar_name)
+    query = append_bar_filter(query, bar)
     return query.load
   end
 
@@ -69,8 +69,7 @@ class ActiveRecordDB
     return Cocktail.where("(#{criteria_name}) OR (#{criteria_ingredients})")
   end
   
-  def append_bar_filter(query, bar_name)
-    bar = bar(bar_name)
+  def append_bar_filter(query, bar)
     unless bar.nil?
       sql_query = """
       not exists (

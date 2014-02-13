@@ -2,6 +2,7 @@ require 'sinatra'
 require 'sinatra/reloader' if development?
 require 'haml'
 require 'shellwords'
+require_relative 'model/bar_stats'
 
 ENABLE_DB_AUTODETECT = true
 
@@ -51,7 +52,8 @@ get '/search' do
   @selected_bar = params[:usebar]
   logger.info "Searching cocktails with criteria: #{@criteria}."
   beginning_time = Time.now
-  found_cocktails =  @db.search(Shellwords.split(@criteria), @selected_bar);
+  bar = @db.bar(@selected_bar)
+  found_cocktails =  @db.search(Shellwords.split(@criteria), bar);
   end_time = Time.now
   elapsed_time = (end_time - beginning_time) * 1000
   haml :list, locals:  { cocktails: found_cocktails, elapsed_time: elapsed_time.to_i }
@@ -82,6 +84,11 @@ delete '/bar/:name/:ingredient' do
   @db.remove_ingredient_from_bar(u(params[:name]), params[:ingredient])
   redirect back unless request.xhr?
 end
+
+get '/bar/stats' do
+  # TODO.
+end
+
 
 get '/ingredients' do
   haml :ingredients, locals: { ingredients: @db.all_ingredients_names.to_a.sort }

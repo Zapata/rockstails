@@ -29,7 +29,8 @@ module SearchInDBTest
   def test_bar_filter
     omit_if(db.size == 0, "Emtpy database")
     
-    cocktails_filtered_for_bar = db.search(nil, 'Marco')
+    bar = db.bar('Marco')
+    cocktails_filtered_for_bar = db.search(nil, bar)
     assert(cocktails_filtered_for_bar.size > 0, 'Should have found something')
     assert(cocktails_filtered_for_bar.size < db.size, 'Should have filtered something')
   end
