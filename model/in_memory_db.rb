@@ -1,3 +1,5 @@
+require_relative 'bar_stats_calculator'
+
 module InMemoryDB
   def search(keywords, bar, added_ingredient = nil)
     return @cocktails.select do |c|
@@ -27,18 +29,7 @@ module InMemoryDB
     return @bars.find { |bar| bar.name == bar_name }
   end
   
-  def gather_ingredient_stats(bar_stats, bar)
-    @cocktails.each do |c|
-      c.ingredient_names.each do |i|
-        unless bar.include?(i) 
-          bar_stats.add_ingredient_occurence(i, c.rate)
-        end
-      end
-    end
-    return bar_stats
-  end
-  
-  def cocktails
-    @cocktails
+  def bar_stats(bar_name)
+    return BarStatsCalculator.new.compute_stats(@cocktails, bar(bar_name))
   end
 end

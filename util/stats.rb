@@ -1,8 +1,8 @@
 require 'pp'
 require 'benchmark'
-require_relative '../model/file/file_db'
-require_relative '../model/file/yaml_bar'
+
 require_relative '../model/bar_stats'
+
 
 # Stats:
 #   cocktails_count
@@ -39,55 +39,15 @@ def print_tops(bar_stats)
   print_top bar_stats.ingredients.sort_by { |ingredient_name, stat| -stat.avg_rate_increase }.first(20)
 end
 
-def stats_with_search(db)
-  bar_stats = BarStats.new
-  
-  bar = db.bar('Marco')
-  all_cocktails = db.search(nil, bar)
-  bar_stats.count = all_cocktails.count
-  bar_stats.rate = all_cocktails.inject(0) { |sum, c| sum + c.rate }
-  
-  db.gather_ingredient_stats(bar_stats, bar)
-    
-  bar_stats.ingredients.each do |ingredient_name, ingredient_stat|
-    bar.add(ingredient_name)
-    new_doable_cocktails = db.search(nil, bar, ingredient_name)
-    ingredient_stat.count_increase = new_doable_cocktails.count
-    ingredient_stat.rate_increase = new_doable_cocktails.inject(0) { |sum, c| sum + c.rate }
-    bar.remove(ingredient_name)
-  end
-  return bar_stats
-end
-
-def my_way(db)
-  cocktails = db.cocktails
-  bar_stats = BarStats.new
-  
-  bar = db.bar('Marco')
-
-  cocktails.each do |c|
-    if bar.can_do?(c)
-      bar_stats.add_cocktail(c.rate)
-    else
-      missing_ingredients = (c.ingredient_names.to_set - bar.ingredients)
-      if missing_ingredients.size == 1
-        bar_stats.add_missing_ingredient(missing_ingredients.first, c.rate)
-      end
-      missing_ingredients.each { |i| bar_stats.add_ingredient_occurence(i, c.rate) }
-    end
-  end
-  return bar_stats
-end
-
+require_relative '../model/file/file_db'
 db = FileDB.new('datas')
 
-stats = stats_with_search(db)
-print_tops(stats)
+#require_relative '../db/database'
+#require_relative '../model/activerecord/active_record_db'
+#db = ActiveRecordDB.new
 
-#Benchmark.bm do |x|
-#  x.report("with search :") { stats_with_search(db) }
-#  x.report("my way :") { my_way(db) }
-#end
+stats = db.bar_stats('Marco')
+print_tops(stats)
 
 
 

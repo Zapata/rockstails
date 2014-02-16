@@ -53,6 +53,11 @@ class ActiveRecordDB
     return Bar.all.to_a
   end
   
+  def bar_stats(bar_name)
+    return BarStatsCalculator.new.compute_stats(load_all_cocktails, bar(bar_name))
+  end
+
+  
   private
   
   def build_criteria_query(keywords)

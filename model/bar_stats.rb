@@ -1,6 +1,5 @@
 class IngredientStat
-  attr_reader :count, :rate 
-  attr_accessor :count_increase, :rate_increase
+  attr_reader :count, :rate, :count_increase, :rate_increase
   
   def initialize
     @count = 0
@@ -33,8 +32,7 @@ class IngredientStat
 end
 
 class BarStats
-  attr_accessor :count, :rate
-  attr_reader :ingredients
+  attr_reader :count, :rate, :ingredients
   
   def initialize
     @count = 0
@@ -60,5 +58,4 @@ class BarStats
   def avg_rate
     return @count == 0 ? 0 : @rate / @count
   end
-
 end

@@ -7,9 +7,8 @@ Rules
 
 On Going
 ========
+- Add view of stats.
 - Badge "new" et "removed" a la place de glyphicon
-- Statistics on ingredients (on many cocktails, total, ...)
-- what ingredient to buy.
 - Completion on ingredient names: https://github.com/emposha/FCBKcomplete
 - Setup Heroku to work with Postgres
 - Surprise button.
