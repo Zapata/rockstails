@@ -4,7 +4,7 @@ require 'haml'
 require 'shellwords'
 require_relative 'model/bar_stats'
 
-ENABLE_DB_AUTODETECT = true
+ENABLE_DB_AUTODETECT = false
 
 configure do
   enable :logging
