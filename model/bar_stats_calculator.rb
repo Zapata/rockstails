@@ -1,7 +1,7 @@
 require_relative 'bar_stats'
 
 class BarStatsCalculator
-  def compute_stats(cocktails, bar)
+  def compute_stats(bar, cocktails)
     bar_stats = BarStats.new
     
     cocktails.each do |c|

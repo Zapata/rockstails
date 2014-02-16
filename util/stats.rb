@@ -29,14 +29,14 @@ def print_tops(bar_stats)
   
   puts
   puts "Best ingredients to buy by number of cocktail they can do:"
-  print_top bar_stats.ingredients.sort_by { |ingredient_name, stat| -stat.count }.first(20)
+  print_top bar_stats.top_ingredients_by_nb_cocktails(20)
   puts "Best ingredients to buy by average score they have:"
-  print_top bar_stats.ingredients.sort_by { |ingredient_name, stat| - stat.avg_rate }.first(20)
+  print_top bar_stats.top_ingredients_by_avg_rate(20)
   
   puts "Best ingredients to buy number of new doable cocktails:"
-  print_top bar_stats.ingredients.sort_by { |ingredient_name, stat| -stat.count_increase }.first(20)
+  print_top bar_stats.top_ingredients_by_nb_new_doable_cocktails(20)
   puts "Best ingredients to buy score of new doable cocktails:"
-  print_top bar_stats.ingredients.sort_by { |ingredient_name, stat| -stat.avg_rate_increase }.first(20)
+  print_top bar_stats.top_ingredients_by_rate_new_doable_cocktails(20)
 end
 
 require_relative '../model/file/file_db'
@@ -46,8 +46,7 @@ db = FileDB.new('datas')
 #require_relative '../model/activerecord/active_record_db'
 #db = ActiveRecordDB.new
 
-stats = db.bar_stats('Marco')
-print_tops(stats)
+print_tops(db.bar('Marco').stats(db.load_all_cocktails()))
 
 
 

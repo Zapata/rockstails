@@ -58,4 +58,20 @@ class BarStats
   def avg_rate
     return @count == 0 ? 0 : @rate / @count
   end
+  
+  def top_ingredients_by_nb_cocktails(count)
+    @ingredients.sort_by { |ingredient_name, stat| -stat.count }.first(count)
+  end
+
+  def top_ingredients_by_avg_rate(count)
+    @ingredients.sort_by { |ingredient_name, stat| -stat.avg_rate }.first(count)
+  end
+
+  def top_ingredients_by_nb_new_doable_cocktails(count)
+    @ingredients.sort_by { |ingredient_name, stat| -stat.count_increase }.first(count)
+  end
+
+  def top_ingredients_by_rate_new_doable_cocktails(count)
+    @ingredients.sort_by { |ingredient_name, stat| -stat.avg_rate_increase }.first(count)
+  end
 end

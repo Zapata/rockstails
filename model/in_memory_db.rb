@@ -28,8 +28,4 @@ module InMemoryDB
   def bar(bar_name)
     return @bars.find { |bar| bar.name == bar_name }
   end
-  
-  def bar_stats(bar_name)
-    return BarStatsCalculator.new.compute_stats(@cocktails, bar(bar_name))
-  end
 end

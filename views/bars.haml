@@ -1,5 +1,15 @@
-%h2 List of all bars:
-%ul
-  - bar_names.each do |bar_name|
-    %li
-      %a{:href => url('/bar/' + bar_name)}= bar_name
+%h2 List of bars:
+%table.table
+  - bars.each do |bar|
+    %tr
+      %td
+        %a{:href => url('/bar/' + bar.name)}= bar.name
+      %td{:title => 'Number of ingredients'}
+        %span.glyphicon.glyphicon-th-list
+        = bar.ingredients.size
+      %td{:title => 'Number of doable cocktails'}
+        %span.glyphicon.glyphicon-glass
+        = bar.stats.count
+      %td{:title => 'Average rate of cocktails'}
+        %span.glyphicon.glyphicon-star
+        = "%0.2f / 5" % bar.stats.avg_rate

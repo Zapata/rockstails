@@ -67,11 +67,18 @@ get '/view/:name' do
 end
 
 get '/bar' do
-  haml :bars, locals: { bar_names: @db.bar_names }
+  all_cocktails = @db.load_all_cocktails()
+  bars = @db.bar_names().collect do |bar_name|
+    bar = @db.bar(bar_name)
+    bar.compute_stats(all_cocktails)
+    bar
+  end
+  haml :bars, locals: { bars: bars }
 end
 
 get '/bar/:name' do
   bar = @db.bar(u(params[:name]))
+  bar.compute_stats(@db.load_all_cocktails())
   haml :bar, locals: { bar: bar, ingredients: @db.all_ingredients_names.to_a.sort }
 end
 

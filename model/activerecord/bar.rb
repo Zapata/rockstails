@@ -25,4 +25,14 @@ class Bar < ActiveRecord::Base
     # TODO: To optimize.
     (cocktail.ingredient_names - ingredient_names).empty?
   end
+  
+  def stats
+    return @stats
+  end
+  
+  def compute_stats(all_cocktails)
+    @stats = BarStatsCalculator.new.compute_stats(self, all_cocktails) if @stats.nil?
+    return @stats
+  end
+
 end

@@ -8,14 +8,20 @@ Rules
 On Going
 ========
 - Add view of stats.
+- Add test on stats
 - Badge "new" et "removed" a la place de glyphicon
-- Completion on ingredient names: https://github.com/emposha/FCBKcomplete
+- Completion on ingredient names: https://github.com/emposha/FCBKcomplete, http://harvesthq.github.io/chosen/
 - Setup Heroku to work with Postgres
-- Surprise button.
-- Review button disposition (drink on the right, bar selection under the search)
 - Review cocktail edit
 - display link to diffordsguide
 - Temporaly add/remove ingredient to search +name -name
+
+- Use Bootstrap SAAS (or less) for easy version updated, and update to last version (less buggy input-group?)
+  : https://github.com/sinefunc/sinatra-support/
+  : https://github.com/rstacruz/sinatra-assetpack
+- Review button disposition (drink on the right, bar selection under the search)
+- Add a Surprise button.
+
 
 - Migrate region on Heroku (US -> Europe).
 - Clean ingredients name in cocktail database

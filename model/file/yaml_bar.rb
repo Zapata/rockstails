@@ -38,4 +38,13 @@ class YamlBar
   def can_do?(cocktail)
     cocktail.ingredient_names.all? { |i| @ingredients.include?(i)  }
   end
+  
+  def stats
+    return @stats
+  end
+  
+  def compute_stats(all_cocktails)
+    @stats = BarStatsCalculator.new.compute_stats(self, all_cocktails) if @stats.nil?
+    return @stats
+  end
 end
