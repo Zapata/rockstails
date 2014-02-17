@@ -4,7 +4,7 @@ require 'haml'
 require 'shellwords'
 require_relative 'model/bar_stats'
 
-ENABLE_DB_AUTODETECT = false
+ENABLE_DB_AUTODETECT = true
 
 configure do
   enable :logging
@@ -91,11 +91,6 @@ delete '/bar/:name/:ingredient' do
   @db.remove_ingredient_from_bar(u(params[:name]), params[:ingredient])
   redirect back unless request.xhr?
 end
-
-get '/bar/stats' do
-  # TODO.
-end
-
 
 get '/ingredients' do
   haml :ingredients, locals: { ingredients: @db.all_ingredients_names.to_a.sort }
