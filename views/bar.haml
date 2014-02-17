@@ -6,41 +6,8 @@
         %input{ type: 'checkbox', checked: bar.include?(i) }
         = i
 .col-sm-6.col-xs-12
-  %h2 Stats:
-  %table.table-condensed
-    %tr
-      %td
-        %b Number of ingredients:
-      %td= bar.ingredients.size
-    %tr
-      %td
-        %b Number of doable cocktails:
-      %td= bar.stats.count
-    %tr
-      %td
-        %b Average rate of cocktails:
-      %td= "%0.2f / 5" % bar.stats.avg_rate
-
-  %b Best missing ingredients by number of cocktails:  
-  %ol
-    - bar.stats.top_ingredients_by_nb_cocktails(5).each do |i|
-      %li= "#{i[0]} (#{i[1].count})"
-      
-  %b Best missing ingredients by average rate:  
-  %ol
-    - bar.stats.top_ingredients_by_avg_rate(5).each do |i|
-      %li= "#{i[0]} (#{i[1].avg_rate})"
-
-  %b Best missing ingredients by number of new doable cocktails:  
-  %ol
-    - bar.stats.top_ingredients_by_nb_new_doable_cocktails(5).each do |i|
-      %li= "#{i[0]} (+#{i[1].count_increase})"
-
-  %b Best missing ingredients by rate of new doable cocktails:  
-  %ol
-    - bar.stats.top_ingredients_by_rate_new_doable_cocktails(5).each do |i|
-      %li= "#{i[0]} (#{i[1].avg_rate_increase})"
-    
+  #stats
+    = haml :stats, locals: { bar: bar }
 
 :javascript
   $('.alert').hide();
@@ -48,6 +15,10 @@
   var add_glyphicon = function(element, icon_name) {
     element.children('.glyphicon').remove();  	  
   	element.append('<span class="glyphicon glyphicon-' + icon_name + '"></span>');
+  }
+  
+  var update_stats = function(new_stats) {
+    $('#stats').html(new_stats);
   }
   
   $('input[type=checkbox]').click( function() {
@@ -60,6 +31,7 @@
   	  })
   	  .done(function(msg) {
   	  	add_glyphicon(input.parent(), 'ok');
+  	  	update_stats(msg);
   	  });
   	} else {
   	  $.ajax({
@@ -68,6 +40,7 @@
   	  })
   	  .done(function(msg) {
   	  	add_glyphicon(input.parent(), 'remove');
+  	  	update_stats(msg);
   	  });
   	}
   });

@@ -2,6 +2,7 @@ require 'yaml'
 require_relative 'yaml_bar'
 require_relative 'yaml_cocktail'
 require_relative '../in_memory_db'
+require_relative '../ingredient_manager'
 
 class FileDB
   def initialize(db_path, options = {})
@@ -15,19 +16,7 @@ class FileDB
   end
 
   include InMemoryDB
-  
-  def add_ingredient_to_bar(bar_name, ingredient_name)
-    bar = bar(bar_name)
-    bar.add(ingredient_name)
-    bar.save!
-  end
-  
-  def remove_ingredient_from_bar(bar_name, ingredient_name)
-    bar = bar(bar_name)
-    bar.remove(ingredient_name)
-    bar.save!
-  end
-
+  include IngredientManager
 
   def load_all_cocktails
     if @cocktails.nil?

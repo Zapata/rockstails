@@ -11,12 +11,10 @@ class Bar < ActiveRecord::Base
   
   def add(ingredient_name)
     ingredients << Ingredient.where(name: ingredient_name)
-    puts "Add, ingredients = #{ingredients.size}"
   end
   
   def remove(ingredient_name)
     ingredients.delete(Ingredient.where(name: ingredient_name))
-    puts "Remove, ingredients = #{ingredients.size}"
   end
   
   def include?(ingredient_name)
@@ -33,7 +31,6 @@ class Bar < ActiveRecord::Base
   end
   
   def compute_stats(all_cocktails)
-    puts "Recompute stats, ingredients = #{ingredients.size}"
     @stats = BarStatsCalculator.new.compute_stats(self, all_cocktails)
     return stats
   end

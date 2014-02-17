@@ -83,13 +83,23 @@ get '/bar/:name' do
 end
 
 put '/bar/:name/:ingredient' do
-  @db.add_ingredient_to_bar(u(params[:name]), params[:ingredient])
-  redirect back unless request.xhr?
+  bar = @db.add_ingredient_to_bar(u(params[:name]), params[:ingredient])
+  if request.xhr?
+    bar.compute_stats(@db.load_all_cocktails())
+    haml :stats, layout: false, locals: { bar: bar }
+  else
+    redirect back
+  end
 end
 
 delete '/bar/:name/:ingredient' do
-  @db.remove_ingredient_from_bar(u(params[:name]), params[:ingredient])
-  redirect back unless request.xhr?
+  bar = @db.remove_ingredient_from_bar(u(params[:name]), params[:ingredient])
+  if request.xhr?
+    bar.compute_stats(@db.load_all_cocktails())
+    haml :stats, layout: false, locals: { bar: bar }
+  else
+    redirect back
+  end
 end
 
 get '/ingredients' do
