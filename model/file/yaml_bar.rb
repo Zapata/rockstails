@@ -44,7 +44,7 @@ class YamlBar
   end
   
   def compute_stats(all_cocktails)
-    @stats = BarStatsCalculator.new.compute_stats(self, all_cocktails) if @stats.nil?
-    return @stats
+    @stats = BarStatsCalculator.new.compute_stats(self, all_cocktails)
+    return stats
   end
 end
