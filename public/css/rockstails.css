@@ -65,5 +65,9 @@
 }
 
 .table td, .table th {
-	border-style: none	
+	border-style: none;	
+}
+
+#stats {
+	position: fixed;
 }

@@ -1,4 +1,4 @@
-.col-sm-6.col-xs-12
+.col-sm-6.col-xs-12#listing
   %h2= "#{bar.name}'s bar content:"
   - ingredients.each do |i|
     .checkbox
@@ -44,3 +44,26 @@
   	  });
   	}
   });
+  
+  var windw = this;
+
+  $.fn.followTo = function ( pos ) {
+    var $this = this,
+    $window = $(windw);
+    
+    $window.scroll(function(e){
+      if ($window.scrollTop() < pos) {
+        $this.css({
+          position: 'absolute',
+          top: 0
+        });
+      } else {
+        $this.css({
+          position: 'fixed',
+          top: 0
+        });
+      }
+    });
+  };
+
+  $('#stats').followTo($('#listing').position().top);
