@@ -34,5 +34,12 @@ class Bar < ActiveRecord::Base
     @stats = BarStatsCalculator.new.compute_stats(self, all_cocktails)
     return stats
   end
+  
+  def clone
+    clone = Bar.new
+    clone.name = name
+    clone.ingredients = ingredients
+    return clone
+  end
 
 end

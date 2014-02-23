@@ -1,8 +1,8 @@
 require 'sinatra'
 require 'sinatra/reloader' if development?
 require 'haml'
-require 'shellwords'
 require_relative 'model/bar_stats'
+require_relative 'model/criteria'
 
 ENABLE_DB_AUTODETECT = true
 
@@ -52,8 +52,14 @@ get '/search' do
   @selected_bar = params[:usebar]
   logger.info "Searching cocktails with criteria: #{@criteria}."
   beginning_time = Time.now
+  
   bar = @db.bar(@selected_bar)
-  found_cocktails =  @db.search(Shellwords.split(@criteria), bar);
+  criterias = Criteria.new(@criteria)
+  if criterias.has_bar_manipulations?
+    bar = criterias.patch_bar(bar, @db.all_ingredients_names) 
+  end
+  found_cocktails =  @db.search(criterias.keywords, bar);
+  
   end_time = Time.now
   elapsed_time = (end_time - beginning_time) * 1000
   haml :list, locals:  { cocktails: found_cocktails, elapsed_time: elapsed_time.to_i }

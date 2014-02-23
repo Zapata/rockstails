@@ -1,3 +1,5 @@
+require_relative '../model/criteria'
+
 module SearchInDBTest
   def test_one_criteria
     omit_if(db.size == 0, "Emtpy database")
@@ -33,5 +35,58 @@ module SearchInDBTest
     cocktails_filtered_for_bar = db.search(nil, bar)
     assert(cocktails_filtered_for_bar.size > 0, 'Should have found something')
     assert(cocktails_filtered_for_bar.size < db.size, 'Should have filtered something')
+  end
+  
+  def test_add_ingredient_for_search
+    omit_if(db.size == 0, "Emtpy database")
+    omit_if(db.is_a?(ActiveRecordDB), "Not implemented") if defined? ActiveRecordDB
+    
+    bar = db.bar('Binou')
+    assert(!bar.include?('Kiwi fruit'), 'Bar should not have kiwi!')
+    
+    cocktails_with_kiwi = db.search(['kiwi'], bar)
+    assert(cocktails_with_kiwi.size == 0, 'Should have found nothing')
+
+    criterias = Criteria.new('+kiwi')
+    if criterias.has_bar_manipulations?
+      bar = criterias.patch_bar(bar, db.all_ingredients_names) 
+    end
+    
+    cocktails_with_kiwi = db.search(criterias.keywords, bar)
+    assert(cocktails_with_kiwi.size > 0, 'Should have found something')
+    
+    assert(!db.bar('Binou').include?('Kiwi fruit'), 'Bar should not have kiwi!')
+  end
+
+  def test_exclude_ingredient_for_search_on_bar
+    bar = db.bar('Marco')
+    assert(bar.include?('Ketel One vodka'), 'Bar should have vodka!')
+
+    check_exclude_ingredient_for_search(bar)
+    
+    assert(db.bar('Marco').include?('Ketel One vodka'), 'Bar should still have vodka!')
+  end
+  
+  def test_exclude_ingredient_for_search_on_no_bar
+    check_exclude_ingredient_for_search(nil)
+  end
+
+  private 
+  
+  def check_exclude_ingredient_for_search(bar)
+    omit_if(db.size == 0, "Emtpy database")
+    omit_if(db.is_a?(ActiveRecordDB), "Not implemented") if defined? ActiveRecordDB
+    
+    cocktails_with_rum = db.search(['rum'], bar)
+    assert(cocktails_with_rum.size > 0, 'Should have found something')
+
+    criterias = Criteria.new('rum -vodka')
+    if criterias.has_bar_manipulations?
+      bar = criterias.patch_bar(bar, db.all_ingredients_names) 
+    end
+    
+    cocktails_with_rum_but_no_vodka = db.search(criterias.keywords, bar)
+    assert(cocktails_with_rum.size > cocktails_with_rum_but_no_vodka.size, 'Should have found less cocktails when excluding vodka')
+    assert(cocktails_with_rum_but_no_vodka.size > 0, 'But should have found something')
   end
 end

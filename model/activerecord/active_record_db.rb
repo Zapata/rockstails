@@ -1,3 +1,5 @@
+require 'active_record'
+
 require_relative 'cocktail'
 require_relative 'recipe_step'
 require_relative 'ingredient'
