@@ -2,11 +2,12 @@ require_relative 'bar_stats_calculator'
 
 module InMemoryDB
   def search(keywords, bar, added_ingredient = nil)
-    return @cocktails.select do |c|
+    result = @cocktails.select do |c|
       (added_ingredient.nil? or c.ingredient_names.include?(added_ingredient)) and
         (bar.nil? or bar.can_do?(c)) and 
           c.match(keywords)
     end
+    return result.sort { |c1, c2| - (c1.rate <=> c2.rate) }
   end
   
   def get(name)

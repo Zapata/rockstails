@@ -61,7 +61,7 @@ class ActiveRecordDB
     end
     criteria_ingredients = query_ingredients.where_values.join(" AND ")
     criteria_name = query_name.where_values.join(" AND ")
-    return Cocktail.where("(#{criteria_name}) OR (#{criteria_ingredients})")
+    return Cocktail.where("(#{criteria_name}) OR (#{criteria_ingredients})").order(rate: :desc)
   end
   
   def append_bar_filter(query, bar)
