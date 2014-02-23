@@ -88,6 +88,12 @@ get '/bar/:name' do
   haml :bar, locals: { bar: bar, ingredients: @db.all_ingredients_names.to_a.sort }
 end
 
+get '/bar/:name/export' do
+  bar = @db.bar(u(params[:name]))
+  content_type('.yaml', charset: 'utf-8')
+  bar.ingredient_names.to_yaml
+end
+
 put '/bar/:name/:ingredient' do
   bar = @db.add_ingredient_to_bar(u(params[:name]), params[:ingredient])
   if request.xhr?

@@ -7,7 +7,6 @@ Rules
 
 On Going
 ========
-- Tooltip for search (+ingredient => include, -ingredient => exclude)
 - display link to diffordsguide
 - Clean ingredients name in cocktail database + HTML in description.
 - Test ingredient manager (rename in bar manager + add create Bar method)
