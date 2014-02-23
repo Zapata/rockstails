@@ -71,3 +71,8 @@
 #stats {
 	position: fixed;
 }
+
+.tooltip-inner {
+	color: #662B00;
+	background-color: #F89406;
+}

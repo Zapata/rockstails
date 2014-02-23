@@ -7,10 +7,9 @@ Rules
 
 On Going
 ========
-- Temporaly add/remove ingredient to search +name -name
-- Badge "new" et "removed" a la place de glyphicon
+- Tooltip for search (+ingredient => include, -ingredient => exclude)
 - display link to diffordsguide
-- Clean ingredients name in cocktail database
+- Clean ingredients name in cocktail database + HTML in description.
 - Test ingredient manager (rename in bar manager + add create Bar method)
 
 - Completion on ingredient names: https://github.com/emposha/FCBKcomplete, http://harvesthq.github.io/chosen/

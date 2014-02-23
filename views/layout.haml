@@ -28,7 +28,7 @@
                     Drink!
                   .visible-xs
                     %span.glyphicon.glyphicon-glass
-                %input.form-control#search-criteria{:type => "text", :name => "criteria", :value => @criteria, :placeholder => "name or ingredients"}
+                %input.form-control#search-criteria{:type => "text", :name => "criteria", :value => @criteria, :placeholder => "name or ingredients", 'data-toggle' => 'tooltip'}
                 %select.form-control#bar-criteria{:name => "usebar"}
                   - bar_names.each do |bar_name|
                     %option{:value => bar_name}
@@ -42,4 +42,11 @@
         }
       });
       $('#bar-criteria').val('#{@selected_bar}').select
+      $('#search-criteria').tooltip({
+      								  html: true,
+        							  placement: 'bottom',
+        							  trigger: 'focus',
+        							  delay: {show: 200, hide: 0},
+        							  title: 'Space-separated list of words</br>"quote it" to match multiple words</br>+ingredient include ingredient in result</br> -ingredient exclude ingredient from result'
+      								});
 
