@@ -5,7 +5,7 @@
       %label
         %input{ type: 'checkbox', checked: bar.include?(i) }
         = i
-.col-sm-6.col-xs-12
+.col-sm-6.hidden-xs
   #stats
     = haml :stats, locals: { bar: bar }
 
