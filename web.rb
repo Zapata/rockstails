@@ -91,7 +91,7 @@ end
 get '/bar/:name/export' do
   bar = @db.bar(u(params[:name]))
   content_type('.yaml', charset: 'utf-8')
-  bar.ingredient_names.to_yaml
+  bar.ingredient_names.sort.to_yaml
 end
 
 put '/bar/:name/:ingredient' do

@@ -1,6 +1,7 @@
 require 'rake'
 require 'rake_performance'
 require 'rake/testtask'
+require 'sinatra'
 require 'sinatra/activerecord/rake'
 require_relative 'db/database'
 require_relative 'db/backup_tasks'

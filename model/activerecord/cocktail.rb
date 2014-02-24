@@ -1,3 +1,5 @@
+require_relative 'recipe_step'
+
 class Cocktail < ActiveRecord::Base
   validates :name, length: { maximum: 100 }, presence: true, uniqueness: { case_sensitive: false }
   validates :method, presence: true

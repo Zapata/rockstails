@@ -55,7 +55,7 @@ namespace :db do
     require_relative '../model/activerecord/bar'
     
     Bar.delete_all
-    
+
     Dir['datas/bar/*.yml'].each do |f|
       yml_bar = YAML::load_file(f)
       
@@ -63,8 +63,12 @@ namespace :db do
         bar.name = File.basename(f, ".yml").capitalize
         puts "Processing #{bar.name}..."
         yml_bar.each do |i|
-          ingredients = Ingredient.where("lower(name) like ?", "%#{i.downcase}%")
-          bar.ingredients << ingredients
+          ingredient = Ingredient.find_by(name: i)
+          if ingredient.nil?
+            puts "  #{i} not found!"
+          else
+            bar.ingredients << ingredient
+          end
         end
         puts "  added #{bar.ingredients.size} ingredients"
       end
@@ -115,7 +119,7 @@ namespace :db do
       filename = "datas/bar/#{sanitize_name(bar.name.downcase)}.yml"
       puts "Save '#{bar.name}' into '#{filename}'."
       File.open(filename, 'w') do |file|
-        file.write(bar.ingredient_names.to_yaml)
+        file.write(bar.ingredient_names.uniq.sort.to_yaml)
       end
     end
   end
