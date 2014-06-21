@@ -71970,7 +71970,7 @@
     doze: shot
     ingredient_name: Whisky (Scotch)
 - name: Air Mail
-  method: ''
+  method: 'SHAKE first four ingredients with ice and fine strain into ice-filled glass. TOP with champagne.'
   rate: 4.0
   garnish: Mint sprig
   glass: Collins
