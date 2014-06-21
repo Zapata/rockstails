@@ -7,8 +7,6 @@ Rules
 
 On Going
 ========
-- Mettre clean en ligne: drop database puis migrate puis insert ingredients and bars
-- Cleaner HTML in cocktails description.
 - display link to diffordsguide
 - Test ingredient manager (rename in bar manager + add create Bar method)
 
