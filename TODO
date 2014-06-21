@@ -19,7 +19,6 @@ On Going
 - Review button disposition (drink on the right, bar selection under the search)
 - Add a Surprise button.
 
-- Migrate region on Heroku (US -> Europe).
 - Have category in bar ingredients
 - Display variation (depending of bar content) in cocktail view
 - Put cocktail on elastic search and improve search
