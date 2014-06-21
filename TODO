@@ -7,18 +7,6 @@ Rules
 
 On Going
 ========
-- Merger 
-    absinthe 68 & 70, 
-    anisette & anisett liqueur & pernod anis & ricard & star anis
-    brown syrup & cane syrup, 
-    Sambuca & black sambuca, 
-    sherry & co,
-    Champagne & spumante & Prosecco sparkling wine
-    rum & co
-    Seedless white grapes & raisin
-    Agustura orange bitter & Regans
-    Soda fom siphon & Soda (club soda)
-- Inverser syrup, bitter
 - Mettre clean en ligne: drop database puis migrate puis insert ingredients and bars
 - Cleaner HTML in cocktails description.
 - display link to diffordsguide

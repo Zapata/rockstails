@@ -53,4 +53,8 @@ class Cocktail < ActiveRecord::Base
     end
     return self
   end
+  
+  def rate
+    read_attribute_before_type_cast(:rate).to_f
+  end
 end

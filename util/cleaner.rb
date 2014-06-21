@@ -33,4 +33,5 @@ def merge(source, destination)
   source.delete
 end
 
-merge(Ingredient.find_by(id: 715), Ingredient.find_by(id: 703))
+
+merge(Ingredient.find_by(id: 1010), Ingredient.find_by(id: 897))
