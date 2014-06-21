@@ -1,0 +1,25 @@
+--- !ruby/object:Set
+hash:
+  Coca-cola: true
+  Vodka: true
+  Pomegranate (grenadine) syrup: true
+  Dry vermouth: true
+  Almond (orgeat) syrup: true
+  Sweet vermouth: true
+  Maple syrup: true
+  Bourbon: true
+  Lillet Blanc: true
+  Coffee liqueur: true
+  Crème de cassis liqueur: true
+  Crème de Mûre liqueur: true
+  Triple sec (Cointreau): true
+  Campari Bitter: true
+  Bénédictine D.O.M.: true
+  Brown crème de cacao liqueur: true
+  London dry gin: true
+  Blue curacao liqueur: true
+  Crème de violette: true
+  Rum white: true
+  Aperol: true
+  Bitter Angostura aromatic: true
+  Agave nectar: true
