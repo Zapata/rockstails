@@ -6,8 +6,6 @@ require_relative 'ingredient'
 require_relative 'bar'
 require_relative '../ingredient_manager'
 
-ActiveRecord::Base.disable_implicit_join_references = true
-
 class ActiveRecordDB
   def search(keywords, bar)
     query = build_criteria_query(keywords)
@@ -28,7 +26,7 @@ class ActiveRecordDB
   end
   
   def bar_names
-    return Bar.pluck(:name)
+    return Bar.unscope(:includes).pluck(:name)
   end
   
   def bar(bar_name)
