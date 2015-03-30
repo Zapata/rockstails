@@ -3,18 +3,18 @@ require_relative '../model/criteria'
 module SearchInDBTest
   def test_one_criteria
     omit_if(db.size == 0, "Emtpy database")
-    cocktails = db.search(['Martini'], nil)
+    cocktails = db.search(['Mint'], nil)
       
-    assert(cocktails.detect {|c| c.name == 'Milano' }, 'Should find cocktail with Martini as ingredient')
-    assert(cocktails.detect {|c| c.name == 'Cucumber Martini' }, 'Should find cocktail with Martini as name')
+    assert(cocktails.detect {|c| c.name == 'Havanatheone' }, 'Should find cocktail with Mint as ingredient')
+    assert(cocktails.detect {|c| c.name == 'Mint Julep' }, 'Should find cocktail with Mint as name')
     assert(cocktails.size > 50, "Should find many (> 50) cocktails with Martini, found = #{cocktails.size}.")
     assert(cocktails.size < db.size, 'But not too much')
   end
 
   def test_case_sensitive
     omit_if(db.size == 0, "Emtpy database")
-    cocktails_correctcase = db.search(['Martini'], nil)
-    cocktails_nocase = db.search(['martini'], nil)
+    cocktails_correctcase = db.search(['Mint'], nil)
+    cocktails_nocase = db.search(['mint'], nil)
     
     assert_equal(cocktails_correctcase.size, cocktails_nocase.size, 'Search should not be case sensitive')
   end
@@ -60,11 +60,11 @@ module SearchInDBTest
 
   def test_exclude_ingredient_for_search_on_bar
     bar = db.bar('Marco')
-    assert(bar.include?('Ketel One vodka'), 'Bar should have vodka!')
+    assert(bar.include?('Vodka'), 'Bar should have Vodka!')
 
     check_exclude_ingredient_for_search(bar)
     
-    assert(db.bar('Marco').include?('Ketel One vodka'), 'Bar should still have vodka!')
+    assert(db.bar('Marco').include?('Vodka'), 'Bar should still have vodka!')
   end
   
   def test_exclude_ingredient_for_search_on_no_bar
