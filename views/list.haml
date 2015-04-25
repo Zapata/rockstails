@@ -14,6 +14,7 @@
     .clearfix.hidden-sm
   .col-md-4.col-sm-6
     %h3#cocktail= c.name
+    %p#rate= "Rate: #{format("%.1f", c.rate)}"
     %ul#ingredients
       - c.ingredient_names.each do |ingredient_name|
         %li= ingredient_name
