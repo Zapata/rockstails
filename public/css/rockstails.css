@@ -76,3 +76,9 @@
 	color: #662B00;
 	background-color: #F89406;
 }
+
+.label-as-badge {
+  font-family: sans-serif;
+  font-size: 50%;
+  border-radius: 1em;
+}

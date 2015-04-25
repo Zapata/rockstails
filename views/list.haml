@@ -13,8 +13,9 @@
   - if i % 3 == 0
     .clearfix.hidden-sm
   .col-md-4.col-sm-6
-    %h3#cocktail= c.name
-    %p#rate= "Rate: #{format("%.1f", c.rate)}"
+    %h3#cocktail
+      = c.name
+      %span.label.label-as-badge{class: c.rate > 4.0 ? 'label-success' : c.rate > 3.0 ? 'label-warning' : 'label-danger' }= c.rate.to_s.to_s.gsub(/\.?0*$/, '')
     %ul#ingredients
       - c.ingredient_names.each do |ingredient_name|
         %li= ingredient_name
