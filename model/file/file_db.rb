@@ -8,6 +8,7 @@ class FileDB
   def initialize(db_path, options = {})
     @db_path = db_path
     @compact = options.fetch(:compact, true)
+    @cocktails = nil
     
     unless options.fetch(:lazy, false)
       load_all_cocktails
@@ -31,9 +32,7 @@ class FileDB
   end
 
   def load_all_bars
-    if @bars.nil?
-      @bars = load_bars(@db_path + '/bar')
-    end
+    @bars ||= load_bars(@db_path + '/bar')
     @bars
   end
     

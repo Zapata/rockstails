@@ -59,9 +59,7 @@ class ActiveRecordDB
       query_ingredients = query_ingredients.where("exists (select 1 from ingredients i inner join recipe_steps rs ON rs.ingredient_id = i.id and rs.cocktail_id = cocktails.id where lower(i.name) like ?)", k)
       query_name = query_name.where("lower(cocktails.name) like ?", k)
     end
-    criteria_ingredients = query_ingredients.where_values.join(" AND ")
-    criteria_name = query_name.where_values.join(" AND ")
-    return Cocktail.where("(#{criteria_name}) OR (#{criteria_ingredients})").order(rate: :desc)
+    return query_name.or(query_ingredients).order(rate: :desc)
   end
   
   def append_bar_filter(query, bar)

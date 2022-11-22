@@ -9,7 +9,7 @@ class ActiveRecordDBTest < Test::Unit::TestCase
 
   def self.startup
     #ActiveRecord::Base.logger = Logger.new(STDOUT)
-    @@db = ActiveRecordDB.new
+    @@db ||= ActiveRecordDB.new
   end
   
   def db

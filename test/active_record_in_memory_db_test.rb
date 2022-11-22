@@ -8,15 +8,14 @@ require_relative 'db_search_test.rb'
 class ActiveRecordInMemoryDBTest < Test::Unit::TestCase
 	include SearchInDBTest
 
-	def self.startup
+  def self.startup
     #ActiveRecord::Base.logger = Logger.new(STDOUT)
     puts "Startup"
-    @@db = InMemoryDecorator.new(ActiveRecordDB.new)
-    puts @@db
-end
+    @@db ||= InMemoryDecorator.new(ActiveRecordDB.new)
+  end
 
-def db
-	@@db
-end
+  def db
+	  @@db
+  end
 
 end

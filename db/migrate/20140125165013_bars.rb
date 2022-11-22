@@ -1,4 +1,4 @@
-class Bars < ActiveRecord::Migration
+class Bars < ActiveRecord::Migration[6.1]
   def change
     create_table :bars do |t|
       t.string :name, limit: 100, null: false

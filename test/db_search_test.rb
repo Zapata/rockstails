@@ -30,6 +30,7 @@ module SearchInDBTest
   
   def test_bar_filter
     omit_if(db.size == 0, "Emtpy database")
+    omit_if(db.bar_names().size == 0, "Emtpy database (no bars)")
     
     bar = db.bar('Marco')
     cocktails_filtered_for_bar = db.search(nil, bar)
@@ -39,6 +40,7 @@ module SearchInDBTest
   
   def test_add_ingredient_for_search
     omit_if(db.size == 0, "Emtpy database")
+    omit_if(db.bar_names().size == 0, "Emtpy database (no bars)")
     omit_if(db.is_a?(ActiveRecordDB), "Not implemented") if defined? ActiveRecordDB
     
     bar = db.bar('Binou')
@@ -59,6 +61,9 @@ module SearchInDBTest
   end
 
   def test_exclude_ingredient_for_search_on_bar
+    omit_if(db.size == 0, "Emtpy database")
+    omit_if(db.bar_names().size == 0, "Emtpy database (no bars)")
+
     bar = db.bar('Marco')
     assert(bar.include?('Vodka'), 'Bar should have Vodka!')
 

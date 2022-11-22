@@ -25,6 +25,24 @@ Installation
 4. `rake test` should work.
 5. `ruby web.rb` will start the application on http://localhost:4567/
 
+
+Usage:
+------
+
+At startup it will autodetect if a database is configured or not (using DATABASE_URL env variable).
+If not it will use an in-memory databse.
+
+To start Postgres locally on Ubuntu use: `sudo systemctl start postgresql.service`
+To create the user/db for test: 
+
+```
+sudo -u postgres createuser rockstails
+sudo -u postgres createdb rockstails
+sudo -u postgres psql
+postgres=# alter user rockstails with encrypted password 'pass';
+postgres=# grant all privileges on database rockstails to rockstails ;
+```
+
 Thanks
 ------
 

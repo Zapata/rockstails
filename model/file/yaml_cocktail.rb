@@ -1,8 +1,10 @@
 require 'hashie'
 
 class YamlCocktail < Hashie::Mash
+  disable_warnings
+  
   def ingredient_names
-    @ingredient_names = self[:recipe_steps].collect { |s| s[:ingredient_name] } if @ingredient_names.nil?
+    @ingredient_names ||= self[:recipe_steps].collect { |s| s[:ingredient_name] }
     return @ingredient_names
   end
   

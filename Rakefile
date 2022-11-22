@@ -1,11 +1,17 @@
 require 'rake'
 require 'rake_performance'
-require 'rake/testtask'
-require 'active_record'
-require 'sinatra'
+
+ENV['APP_ENV'] ||= 'default_env'
+ENV['DATABASE_URL'] ||= 'postgres://rockstails:pass@localhost/rockstails'
+
+require 'sinatra/activerecord'
 require 'sinatra/activerecord/rake'
-require_relative 'db/database'
+
+
 require_relative 'db/backup_tasks'
+
+
+require 'rake/testtask'
 
 Rake::TestTask.new do |t|
   t.libs << "test"
