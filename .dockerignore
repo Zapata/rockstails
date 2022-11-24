@@ -1,0 +1,10 @@
+# flyctl launch added from .gitignore
+**/.bundle
+**/.vagrant
+**/db/*.sqlite3
+**/log/*.log
+**/tmp/**/*
+Vagrantfile
+
+# flyctl launch added from db/.gitignore
+db/schema.rb

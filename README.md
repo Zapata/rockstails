@@ -23,7 +23,7 @@ Installation
 2. Create a rockstails database with a rockstails/pass user.
 3. run `rake db:migrate db:import_cocktails db:import_bars`
 4. `rake test` should work.
-5. `ruby web.rb` will start the application on http://localhost:4567/
+5. `ruby web.rb` (or `rackup`) will start the application on http://localhost:4567/
 
 
 Usage:
@@ -41,7 +41,17 @@ sudo -u postgres createdb rockstails
 sudo -u postgres psql
 postgres=# alter user rockstails with encrypted password 'pass';
 postgres=# grant all privileges on database rockstails to rockstails ;
+rake db:migrate db:import_ingredients db:import_cocktails db:import_bars
 ```
+
+To deploy it:
+
+```
+flyctl proxy 15432:5432 -a rockstails-db
+DATABASE_URL=postgres://rocktails:<password>@localhost:15432/rockstails rake db:migrate db:import_ingredients db:import_cocktails db:import_bars
+fly deploy
+```
+
 
 Thanks
 ------
