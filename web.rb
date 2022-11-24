@@ -13,7 +13,6 @@ configure do
     puts "Use SQL database due to ENV '#{ENV['DATABASE_URL']}'"
     require 'sinatra/activerecord'
     require_relative 'model/hybrid_db'
-    #set :database, ENV['DATABASE_URL']
     set :db => HybridDB.new('datas')
   else
     puts "Use file due to ENV '#{ENV['DATABASE_URL']}'"

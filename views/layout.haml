@@ -33,7 +33,8 @@
                   - bar_names.each do |bar_name|
                     %option{:value => bar_name}
                       = bar_name
-    #content= yield
+    #content
+      != yield
     :javascript
       $('[name=usebar]').keypress(function(event) {
         if (event.which == 13) {

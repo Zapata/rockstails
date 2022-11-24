@@ -7,7 +7,7 @@
         = i
 .col-sm-6.hidden-xs
   #stats
-    = haml :stats, locals: { bar: bar }
+    != haml :stats, locals: { bar: bar }
 
 :javascript
   $('.alert').hide();
