@@ -23,8 +23,11 @@ GEM
     multi_json (1.15.0)
     mustermann (3.0.0)
       ruby2_keywords (~> 0.0.1)
+    nio4r (2.5.8)
     pg (1.4.5)
     power_assert (2.0.2)
+    puma (6.0.0)
+      nio4r (~> 2.0)
     rack (2.2.4)
     rack-protection (3.0.3)
       rack
@@ -61,6 +64,7 @@ DEPENDENCIES
   haml
   hashie
   pg
+  puma
   rake
   rake-performance
   sinatra

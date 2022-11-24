@@ -7,6 +7,7 @@ gem 'rake-performance'
 
 gem 'sinatra'
 gem 'sinatra-contrib'
+gem 'puma'
 gem 'haml'
 gem 'hashie'
 
