@@ -1,17 +1,17 @@
 GEM
   remote: https://rubygems.org/
   specs:
-    activemodel (7.0.4)
-      activesupport (= 7.0.4)
-    activerecord (7.0.4)
-      activemodel (= 7.0.4)
-      activesupport (= 7.0.4)
-    activesupport (7.0.4)
+    activemodel (7.0.4.3)
+      activesupport (= 7.0.4.3)
+    activerecord (7.0.4.3)
+      activemodel (= 7.0.4.3)
+      activesupport (= 7.0.4.3)
+    activesupport (7.0.4.3)
       concurrent-ruby (~> 1.0, >= 1.0.2)
       i18n (>= 1.6, < 2)
       minitest (>= 5.1)
       tzinfo (~> 2.0)
-    concurrent-ruby (1.1.10)
+    concurrent-ruby (1.2.2)
     haml (6.0.10)
       temple (>= 0.8.2)
       thor
@@ -19,7 +19,7 @@ GEM
     hashie (5.0.0)
     i18n (1.12.0)
       concurrent-ruby (~> 1.0)
-    minitest (5.16.3)
+    minitest (5.18.0)
     multi_json (1.15.0)
     mustermann (3.0.0)
       ruby2_keywords (~> 0.0.1)
@@ -53,7 +53,7 @@ GEM
       power_assert
     thor (1.2.1)
     tilt (2.0.11)
-    tzinfo (2.0.5)
+    tzinfo (2.0.6)
       concurrent-ruby (~> 1.0)
 
 PLATFORMS
