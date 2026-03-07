@@ -1,0 +1,51 @@
+name: CI
+
+on:
+  push:
+    branches: [master]
+  pull_request:
+    branches: [master]
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+
+    services:
+      postgres:
+        image: postgres:16
+        env:
+          POSTGRES_USER: rockstails
+          POSTGRES_PASSWORD: pass
+          POSTGRES_DB: rockstails
+        ports:
+          - 5432:5432
+        options: >-
+          --health-cmd pg_isready
+          --health-interval 10s
+          --health-timeout 5s
+          --health-retries 5
+
+    env:
+      DATABASE_URL: postgres://rockstails:pass@localhost/rockstails
+      APP_ENV: test
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: "3.1"
+          bundler-cache: true
+
+      - name: Migrate database
+        run: bundle exec rake db:migrate
+
+      - name: Seed database
+        run: |
+          bundle exec rake db:import_ingredients
+          bundle exec rake db:import_cocktails
+          bundle exec rake db:import_bars
+
+      - name: Run tests
+        run: bundle exec rake test
