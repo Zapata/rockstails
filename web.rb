@@ -19,6 +19,8 @@ configure do
     require_relative 'model/file/file_db'
     set :db => FileDB.new('datas')
   end
+    set :bind, '0.0.0.0'
+    set :port, ENV.fetch('PORT', 8080)
 end
 
 before do
