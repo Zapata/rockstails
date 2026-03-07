@@ -10,8 +10,12 @@ require 'sinatra/activerecord/rake'
 
 require_relative 'db/backup_tasks'
 
+# Load custom rake tasks
+Dir.glob(File.join(__dir__, 'tasks', '*.rake')).each { |r| import r }
+
 
 require 'rake/testtask'
+
 
 Rake::TestTask.new do |t|
   t.libs << "test"
