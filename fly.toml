@@ -13,6 +13,9 @@ processes = []
   allowed_public_ports = []
   auto_rollback = true
 
+[build]
+  image = "ruby:4.0.1"
+
 [[services]]
   http_checks = []
   internal_port = 8080

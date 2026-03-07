@@ -1,8 +1,8 @@
 source "https://rubygems.org"
 
-ruby '>=3.1'
+ruby '>=4.0.1'
 
-gem 'test-unit',  '>=2.5.2'
+gem 'test-unit'
 gem 'rake-performance'
 
 gem 'sinatra'
@@ -10,8 +10,6 @@ gem 'sinatra-contrib'
 gem 'puma'
 gem 'haml'
 gem 'hashie'
-
-# For Active record (Postgres / MySQL) backend:
 gem 'sinatra-activerecord'
 gem 'pg'
 gem 'rake'
