@@ -1,0 +1,24 @@
+version: '3.9'
+services:
+  app:
+    build: .
+    volumes:
+      - .:/app
+    ports:
+      - "4567:4567"
+    environment:
+      - DATABASE_URL=postgres://rockstails:pass@db:5432/rockstails
+    depends_on:
+      - db
+  db:
+    image: postgres:14
+    environment:
+      POSTGRES_DB: rockstails
+      POSTGRES_USER: rockstails
+      POSTGRES_PASSWORD: pass
+    ports:
+      - "5432:5432"
+    volumes:
+      - pgdata:/var/lib/postgresql/data
+volumes:
+  pgdata:
