@@ -10,6 +10,7 @@ gem 'sinatra-contrib'
 gem 'puma'
 gem 'haml'
 gem 'hashie'
+# For Active record (Postgres / MySQL) backend:
 gem 'sinatra-activerecord'
 gem 'pg'
 gem 'rake'
