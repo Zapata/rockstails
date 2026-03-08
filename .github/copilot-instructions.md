@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-Rock's Tails is a Sinatra-based cocktail search web application written in Ruby 3.1+.
+Rock's Tails is a Sinatra-based cocktail search web application written in Ruby 4.0.1+.
 It lets users search for cocktails by ingredient keywords, manage personal bars (ingredient lists), and view stats.
 
 ## Tech Stack
@@ -20,8 +20,7 @@ The app supports two backends, auto-detected at startup via the `DATABASE_URL` e
 | Backend | Class | When used |
 |---------|-------|-----------|
 | File (YAML) | `FileDB` (`model/file/file_db.rb`) | No `DATABASE_URL` set |
-| PostgreSQL via ActiveRecord | `ActiveRecordDB` (`model/activerecord/active_record_db.rb`) | `DATABASE_URL` is set |
-| Hybrid | `HybridDB` (`model/hybrid_db.rb`) | Wraps both: cocktails from YAML, bars from SQL |
+| Hybrid | `HybridDB` (`model/hybrid_db.rb`) | `DATABASE_URL` is set; cocktails from YAML, bars in PostgreSQL via `ActiveRecordDB` |
 
 - Migrations are in `db/migrate/`
 - Data files (cocktails, bars) are in `datas/`
@@ -52,7 +51,7 @@ sudo systemctl start postgresql.service
 
 # Connect to production DB (Fly.io)
 flyctl proxy 15432:5432 -a rockstails-db
-DATABASE_URL=postgres://rocktails:<password>@localhost:15432/rockstails rake db:migrate db:import_ingredients db:import_cocktails db:import_bars
+DATABASE_URL=postgres://rockstails:<password>@localhost:15432/rockstails rake db:migrate db:import_ingredients db:import_cocktails db:import_bars
 fly deploy
 ```
 
