@@ -9,4 +9,4 @@ COPY . .
 
 EXPOSE 4567
 
-CMD ["ruby", "web.rb"]
+CMD ["rackup", "config.ru", "-p", "4567", "-o", "0.0.0.0"]

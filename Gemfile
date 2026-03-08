@@ -18,6 +18,7 @@ gem 'rake'
 # For Elastic search backend (only POC in util/elastic.rb):
 #gem 'elasticsearch'
 #gem 'jbuilder'
+gem 'rackup'
 
 # For MongoDB backend (TODO)
 
