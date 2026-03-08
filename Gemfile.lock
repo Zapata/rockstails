@@ -105,6 +105,7 @@ DEPENDENCIES
   hashie
   pg
   puma
+  rack
   rake
   rake-performance
   sinatra
