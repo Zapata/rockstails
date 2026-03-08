@@ -7,6 +7,6 @@ RUN bundle install
 
 COPY . .
 
-EXPOSE 4567
+EXPOSE 8080
 
-CMD ["rackup", "config.ru", "-p", "4567", "-o", "0.0.0.0"]
+CMD ["rackup", "config.ru", "-p", "8080", "-o", "0.0.0.0"]
