@@ -8,6 +8,10 @@ primary_region = 'cdg'
 
 [build]
 
+[env]
+  PORT = "8080"
+  APP_ENV = "production"
+
 [http_service]
   internal_port = 8080
   force_https = true
