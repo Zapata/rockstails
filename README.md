@@ -1,124 +1,161 @@
-Rock's Tails
-============
 
-# Dummy commit for PR 24 branch protection update
+# Rock's Tails
 
-Website
--------
+Easily find a tasty cocktail to mix.
 
-Easely find a tasty cocktail to mix.
+Visit [https://rockstails.fly.dev/](https://rockstails.fly.dev/) to try!
 
-Visit [http://rockstails.herokuapp.com/](http://rockstails.herokuapp.com/) to try!
+## Tech Stack
 
+- **Language**: Ruby 4.0.1+
+- **Web framework**: Sinatra (`web.rb` is the entry point)
+- **Views**: Haml
+- **CSS**: Bootstrap + custom styles
+- **Testing**: `test-unit` gem — all test files in `test/`
+- **Deployment**: Fly.io
 
-Technical stuff
----------------
+## Database Backends
 
-- Run on (J)ruby.
-- Build with Sinatra, Haml, Yaml Bootstrap and JQuery.
-- Cocktail database in Yaml from Difford's website.
+The app auto-detects the backend at startup via the `DATABASE_URL` environment variable:
 
-Installation
-------------
+| Mode | When used | Notes |
+|------|-----------|-------|
+| File (YAML) | `DATABASE_URL` not set | `FileDB` — reads cocktails and bars from `datas/` |
+| Hybrid | `DATABASE_URL` is set | `HybridDB` — cocktails from YAML, bars in PostgreSQL |
 
-1. Install postgres
-2. Create a rockstails database with a rockstails/pass user.
-3. run `rake db:migrate db:import_cocktails db:import_bars`
-4. `rake test` should work.
-5. `ruby web.rb` (or `rackup`) will start the application on http://localhost:4567/
+## Setup
 
+### Local — File backend (no database required)
 
-Usage:
-------
+1. Install Ruby 4.0.1+ and Bundler.
+2. Install dependencies:
+   ```bash
+   bundle install
+   ```
+3. Start the app:
+   ```bash
+   ruby web.rb   # or: rackup
+   ```
+4. Visit [http://localhost:8080](http://localhost:8080).
 
-At startup it will autodetect if a database is configured or not (using DATABASE_URL env variable).
-If not it will use an in-memory databse.
+### Local — PostgreSQL backend
 
-To start Postgres locally on Ubuntu use: `sudo systemctl start postgresql.service`
-To create the user/db for test: 
+1. Install and start PostgreSQL. On macOS: `brew services start postgresql`.  
+   On Ubuntu: `sudo systemctl start postgresql.service`.
 
-```
-sudo -u postgres createuser rockstails
-sudo -u postgres createdb rockstails
-sudo -u postgres psql
-postgres=# alter user rockstails with encrypted password 'pass';
-postgres=# grant all privileges on database rockstails to rockstails ;
-rake db:migrate db:import_ingredients db:import_cocktails db:import_bars
-```
+2. Create the database and user:
+   ```bash
+   sudo -u postgres createuser rockstails
+   sudo -u postgres createdb rockstails
+   sudo -u postgres psql
+   postgres=# ALTER USER rockstails WITH ENCRYPTED PASSWORD 'pass';
+   postgres=# GRANT ALL PRIVILEGES ON DATABASE rockstails TO rockstails;
+   ```
 
-To deploy it:
+3. Run migrations and import data:
+   ```bash
+   rake db:migrate db:import_ingredients db:import_cocktails db:import_bars
+   ```
 
-```
-flyctl proxy 15432:5432 -a rockstails-db
-DATABASE_URL=postgres://rocktails:<password>@localhost:15432/rockstails rake db:migrate db:import_ingredients db:import_cocktails db:import_bars
-fly deploy
-```
+4. Run tests:
+   ```bash
+   rake test
+   ```
 
+5. Start the app:
+   ```bash
+   ruby web.rb
+   ```
 
-Thanks
-------
+6. Visit [http://localhost:8080](http://localhost:8080).
 
-Simon Difford's and [http://www.diffordsguide.com](http://www.diffordsguide.com) 
-for his extensive cocktail database (but messy site).
+Default local DB URL: `postgres://rockstails:pass@localhost/rockstails` (used automatically by the `Rakefile`).
 
-# Quick Start (Docker)
+### Docker
 
 1. Build and start containers:
+   ```bash
+   docker-compose up --build
+   ```
 
-    docker-compose up --build
+2. Run migrations and import data:
+   ```bash
+   docker-compose run --rm app rake db:migrate db:import_ingredients db:import_cocktails db:import_bars
+   ```
 
-2. Run Rake tasks (e.g., migrations, tests):
+3. Run the test suite:
+   ```bash
+   docker-compose run --rm app rake test
+   ```
 
-    docker-compose run --rm app rake test
-    docker-compose run --rm app rake db:migrate
-
-3. Run Ruby scripts:
-
-    docker-compose run --rm app ruby util/bench.rb
-
-4. Access the app:
-
-    http://localhost:4567
+4. Access the app at [http://localhost:8080](http://localhost:8080).
 
 5. Stop containers:
+   ```bash
+   docker-compose down
+   ```
 
-    docker-compose down
+## Rake Tasks
+
+| Task | Description |
+|------|-------------|
+| `rake test` | Run the full test suite |
+| `rake db:migrate` | Run database migrations |
+| `rake db:import_ingredients` | Import ingredients from `datas/cocktails.yml` into the database |
+| `rake db:import_cocktails` | Import cocktails from `datas/cocktails.yml` into the database |
+| `rake db:import_bars` | Import bars from `datas/bar/` into the database |
+| `rake db:export_cocktails` | Export cocktails from the database back to `datas/cocktails.yml` |
+| `rake db:export_bars` | Export bars from the database back to `datas/bar/` |
+
+> All `db:import_*` and `db:export_*` tasks respect the `DATABASE_URL` environment variable.
+
+## Environment Variables
+
+| Variable | Default | Description |
+|----------|---------|-------------|
+| `DATABASE_URL` | _(none)_ | PostgreSQL connection URL. When set, the hybrid backend is used (bars in SQL, cocktails from YAML). When unset, the file backend is used. |
+| `APP_ENV` | `default_env` | Rack environment (`development`, `production`, etc.). |
+| `PORT` | `8080` | Port the app listens on. |
+
+## Deployment (Fly.io)
+
+1. Proxy to the production database:
+   ```bash
+   flyctl proxy 15432:5432 -a rockstails-db
+   ```
+
+2. Migrate and import data into production:
+   ```bash
+   DATABASE_URL=postgres://rockstails:<password>@localhost:15432/rockstails rake db:migrate db:import_ingredients db:import_cocktails db:import_bars
+   ```
+
+3. Deploy:
+   ```bash
+   fly deploy
+   ```
 
 ## Running GitHub Actions Locally (act)
 
-You can use [act](https://github.com/nektos/act) to run GitHub Actions locally. Make sure Docker is running.
+You can use [act](https://github.com/nektos/act) to run GitHub Actions locally. Requires Docker.
 
-1. Install act:
+```bash
+brew install act
+act              # run default workflow
+act -e push      # simulate a push event
+act -j <job>     # run a specific job
+```
 
-    brew install act
+Or run `act` in a container without installing it:
 
-2. Run a workflow (example: test):
+```bash
+docker run --rm \
+  -v $(pwd):/github/workspace \
+  -v /var/run/docker.sock:/var/run/docker.sock \
+  ghcr.io/nektos/act:latest
+```
 
-    act
+## Thanks
 
-3. For custom events or jobs:
-
-    act -e push
-    act -j <job-name>
-
-4. All actions run inside Docker containers, so no Ruby or Rake is needed on your host.
-
-### Containerized act (no install required)
-
-You can run act in a container without installing it:
-
-    docker run --rm \
-      -v $(pwd):/github/workspace \
-      -v /var/run/docker.sock:/var/run/docker.sock \
-      ghcr.io/nektos/act:latest
-
-This mounts your project and Docker socket, so act can run workflows as if on your host.
-
-- To run a specific event:
-
-    docker run --rm -v $(pwd):/github/workspace -v /var/run/docker.sock:/var/run/docker.sock ghcr.io/nektos/act:latest -e push
-
-- To run a specific job:
-
-    docker run --rm -v $(pwd):/github/workspace -v /var/run/docker.sock:/var/run/docker.sock ghcr.io/nektos/act:latest -j <job-name>
+Simon Difford and [http://www.diffordsguide.com](http://www.diffordsguide.com)
+for his extensive cocktail database.
 
