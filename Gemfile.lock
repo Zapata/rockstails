@@ -61,6 +61,8 @@ GEM
     rack-session (2.1.1)
       base64 (>= 0.1.0)
       rack (>= 3.0.0)
+    rackup (2.3.1)
+      rack (>= 3)
     rake (13.3.1)
     rake-performance (0.1.0)
     ruby2_keywords (0.0.5)
@@ -105,7 +107,7 @@ DEPENDENCIES
   hashie
   pg
   puma
-  rack
+  rackup
   rake
   rake-performance
   sinatra
@@ -144,6 +146,7 @@ CHECKSUMS
   rack (3.2.5) sha256=4cbd0974c0b79f7a139b4812004a62e4c60b145cba76422e288ee670601ed6d3
   rack-protection (4.2.1) sha256=cf6e2842df8c55f5e4d1a4be015e603e19e9bc3a7178bae58949ccbb58558bac
   rack-session (2.1.1) sha256=0b6dc07dea7e4b583f58a48e8b806d4c9f1c6c9214ebc202ec94562cbea2e4e9
+  rackup (2.3.1) sha256=6c79c26753778e90983761d677a48937ee3192b3ffef6bc963c0950f94688868
   rake (13.3.1) sha256=8c9e89d09f66a26a01264e7e3480ec0607f0c497a861ef16063604b1b08eb19c
   rake-performance (0.1.0) sha256=05bf8ef50cc8967921bedc3af88a1e4a676797875b9f85cbba4602023313b0e3
   ruby2_keywords (0.0.5) sha256=ffd13740c573b7301cf7a2e61fc857b2a8e3d3aff32545d6f8300d8bae10e3ef
@@ -163,4 +166,4 @@ RUBY VERSION
   ruby 4.0.1
 
 BUNDLED WITH
-  4.0.3
+  4.0.7
